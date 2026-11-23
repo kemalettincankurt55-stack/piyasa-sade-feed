@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-23T17:11:38.707905+00:00",
+  "generated_at": "2026-11-23T17:14:53.100936+00:00",
   "disclaimer": "Haber başlıkları orijinal kaynaklara aittir; yatırım tavsiyesi değildir (YTD).",
   "trending_clusters": [
     {
       "id": "cluster-d6a087fecc92",
-      "headline": "Gram altın yeniden 6 bin lira sınırında: Fiyatlar 14 ayın dibinden sert döndü",
+      "headline": "Altın Fiyatlarında Toparlanma Eğilimi Gözlendi",
       "category": "Altın & Döviz",
       "is_breaking": true,
       "source_count": 8,
@@ -28,14 +28,14 @@
       ],
       "published_at": "2026-11-23T16:47:11+00:00",
       "bullets": [
-        "8 farklı ekonomi kaynağında öne çıkan başlık.",
-        "Detaylar için aşağıdaki orijinal kaynak bağlantılarına gidebilirsiniz."
+        "Gram altın ve küresel altın fiyatları, önceki dönemdeki sert düşüşlerin ardından yükselişle toparlanma göstererek gram altın 6 bin lira seviyesine yaklaştı.",
+        "Bu hareketlilik, yatırımcıların küresel ekonomik göstergeler ve merkez bankası politikalarının altın piyasası üzerindeki potansiyel etkilerini daha dikkatli değerlendirmelerine yol açabilir."
       ],
-      "ai_synthesized": false
+      "ai_synthesized": true
     },
     {
       "id": "cluster-27af9db8bb01",
-      "headline": "Borsa Düşüşle Kapanırken Altın Yükselişe Geçti",
+      "headline": "Piyasalarda BIST 100 Düşüşle Kapanırken Altın Yükselişe Geçti",
       "category": "Borsa & KAP",
       "is_breaking": true,
       "source_count": 2,
@@ -51,17 +51,17 @@
       ],
       "published_at": "2026-11-23T15:41:32+00:00",
       "bullets": [
-        "BIST 100 endeksi günü yüzde 0,24 düşüşle 11.104,38 puandan tamamlarken, altının ons fiyatı yüzde 2,4 artışla 3.609,20 dolara ulaşarak önceki düşüş serisini sonlandırdı.",
-        "Bu gelişmeler, piyasalarda farklı varlık sınıflarına yönelik yatırımcı ilgisinin ve risk algısının değiştiğini gösterebilir."
+        "BIST 100 endeksi günü %0,24 düşüşle 11.104,38 puandan tamamlarken, 23 Kasım 2026 Pazartesi günü altının ons fiyatı dokuz günlük düşüşün ardından %2,4 artışla 3.609,20 dolara ulaştı.",
+        "Bu durum, hisse senedi piyasasında hafif bir geri çekilmeyi ve altın fiyatlarındaki toparlanmanın yatırımcıların güvenli liman arayışını veya küresel ekonomik beklentilerdeki değişimleri yansıtabileceğini göstermektedir."
       ],
       "ai_synthesized": true
     },
     {
       "id": "cluster-3c914d32f92d",
-      "headline": "Borsa İstanbul'da Volatilite ve Düzenleyici Gelişmeler",
+      "headline": "Borsa İstanbul'da Volatilite ve Tedbirler Öne Çıktı",
       "category": "Borsa & KAP",
       "is_breaking": true,
-      "source_count": 6,
+      "source_count": 4,
       "sources": [
         {
           "name": "Borsanın Gündemi",
@@ -82,14 +82,14 @@
       ],
       "published_at": "2026-11-23T15:14:27+00:00",
       "bullets": [
-        "Borsa İstanbul'da haftaya düşüşle başlanırken, bazı hisselerde devre kesici uygulamaları ve işlem durdurmaları yaşandı; ayrıca iki hisse endekslerden çıkarılırken, bir gün yükselişle açılış da gerçekleşti.",
-        "Bu durum, piyasada genel bir oynaklık ve belirli hisselere yönelik düzenleyici adımların yatırımcıların piyasa algısını etkileyebileceğine işaret etmektedir."
+        "Borsa İstanbul'da devam eden düşüş eğilimiyle birlikte, ISVEA, VEYAS ve KUYAS hisselerinde devre kesici uygulamaları devreye girerken, Tera Holding hisselerinde işlemler durduruldu.",
+        "Bu durum, piyasada artan oynaklığa ve yatırımcıları korumaya yönelik alınan önlemlere dikkat çekerek genel piyasa dinamiklerini etkileyebilir."
       ],
       "ai_synthesized": true
     },
     {
       "id": "cluster-5f4ea5d4d787",
-      "headline": "TCMB Verileri ve Altın Piyasası Gelişmeleri",
+      "headline": "Piyasa Verileri ve TCMB Güncellemeleri",
       "category": "Makro & TCMB",
       "is_breaking": true,
       "source_count": 4,
@@ -113,14 +113,14 @@
       ],
       "published_at": "2026-11-23T12:34:37+00:00",
       "bullets": [
-        "Türkiye Cumhuriyet Merkez Bankası (TCMB), 23 Kasım 2026 tarihli gösterge döviz kurlarını ve Kasım ayı enflasyon beklentilerini yayımlarken, altın fiyatları haftaya yükselişle başladı.",
-        "Açıklanan TCMB verileri ve altın piyasasındaki hareketlilik, genel ekonomik beklentiler ve yatırımcı davranışları üzerinde etkili olabilecek göstergeler sunmaktadır."
+        "23 Kasım 2026 tarihinde Türkiye Cumhuriyet Merkez Bankası (TCMB) gösterge döviz kurlarını ve Kasım ayı enflasyon beklentilerini kamuoyuyla paylaştı; aynı gün altın fiyatları haftaya artışla başladı.",
+        "Açıklanan bu veriler ve altın piyasasındaki hareketlilik, piyasa katılımcılarının ekonomik görünümü değerlendirmelerine ve geleceğe yönelik beklentilerini gözden geçirmelerine katkı sağlayabilir."
       ],
       "ai_synthesized": true
     },
     {
       "id": "cluster-a42c94733811",
-      "headline": "Fon Soruşturmasında Yeni Gelişme",
+      "headline": "Fon Soruşturmasında Güncel Gelişme",
       "category": "Gündem & X",
       "is_breaking": true,
       "source_count": 1,
@@ -132,8 +132,8 @@
       ],
       "published_at": "2026-11-23T12:13:31+00:00",
       "bullets": [
-        "Bir fon soruşturması kapsamında yeni bir gelişme yaşandığı duyuruldu, ancak bu gelişmenin içeriği hakkında detay verilmedi.",
-        "Gelişmenin niteliği piyasalar için belirsizlik yaratırken, detayların açıklanması ilgili fon veya sektör üzerinde potansiyel etkileri netleştirebilir."
+        "Fon soruşturmasıyla ilgili yeni bir gelişme yaşandığı belirtildi.",
+        "Bu tür haberlerin piyasalarda belirsizliğe neden olabileceği ve yatırımcıların risk algısını etkileyebileceği düşünülmektedir."
       ],
       "ai_synthesized": true
     }
@@ -156,7 +156,8 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMDRaX2FwRjZzTF83YWhha3JOVG5Xb1pxVWlhc1JzZzlKemd0Vk02LVpUR1NBRTBMN0JjRUs2YUhCLTVrSWhjMlpUaXNEU1Z6REcwOUxKZExUT1dtN25jMV9EZVdDWV9xMllBbDA3UGZldS1pLVNUcEhLRXpPYTJZTzBVTzJWa05JbEpVZm5VcVRDNEZQdzF5ZXM2VUx2S3FtbFlsUlByOXpDX0lK?oc=5",
       "category": "Küresel",
       "published_at": "2026-11-23T16:19:42+00:00",
-      "is_breaking": true
+      "is_breaking": true,
+      "ai_summary": "Küresel altın fiyatları, ABD Merkez Bankası'nın (Fed) politikalarına ilişkin beklentilerin etkisiyle sekiz ayın en büyük düşüşünü yaşadıktan sonra toparlanma eğilimi gösterdi. Bu durum, yatırımcıların Fed'in gelecekteki faiz adımlarına yönelik algılarının piyasa dinamiklerini nasıl etkilediğini ortaya koymaktadır. Altın fiyatlarındaki bu dalgalanma, yatırımcıların risk iştahını ve güvenli liman arayışlarını etkileyebilir. Özellikle Fed'in para politikası kararları, altın piyasasında kısa ve orta vadeli hareketlilik yaratma potansiyeli taşır."
     },
     {
       "id": "27af9db8bb01",
@@ -349,6 +350,16 @@
       "ai_summary": "Yatırımcılar, Federal Rezerv'in (Fed) faiz politikası rotasında olası değişikliklerin sinyallerini vereceği kritik bir tarihi bekliyor. Fed'in para politikası duruşundaki herhangi bir değişim, küresel piyasalarda geniş çaplı etkilere yol açabilir."
     },
     {
+      "id": "f0804b8269d2",
+      "title": "FON VURGUNU | SPK’nın hesabına göre ‘ana para’ 345 milyar TL",
+      "source": "TR724",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaGtwUHNoaHppcGdMMzZnYWQ1emxfZjNrZU9nd1J3ckYxTDFRLTZBUEN0Y1ktb255MUE1cUpKcFNZZi15X3lyTFJNcXZ0MVRxMTd5eXlhX1ZUbGN0RFVBUV9kMjFnb3lWSU91Zm1zVVhNWGc4RFZ1bG1JQTNlZXd3V3J5RWg?oc=5",
+      "category": "Gündem & X",
+      "published_at": "2026-11-23T10:42:49+00:00",
+      "is_breaking": true,
+      "ai_summary": "Sermaye Piyasası Kurulu (SPK) tarafından yapılan hesaplamalara göre, bir fon vurgunu olayında ana paranın 345 milyar TL olduğu belirtildi. Bu durum, finansal piyasalarda güvenliğin ve denetimin önemini bir kez daha gündeme getirmektedir. Bu tür büyük ölçekli olaylar, yatırımcı güvenini olumsuz etkileyebilir ve piyasada genel bir temkinlilik yaratabilir. Ayrıca, denetleyici kurumların düzenlemeleri ve yaptırımları üzerinde de tartışmaları tetikleyebilir."
+    },
+    {
       "id": "f469d50c912a",
       "title": "KAP'ta dikkat çeken açıklamalar: Mal varlığı tedbiri, işlem durdurma ve geri alımlar",
       "source": "CNBC-e",
@@ -367,6 +378,16 @@
       "published_at": "2026-11-23T10:31:33+00:00",
       "is_breaking": false,
       "ai_summary": "Yetkili bir isimden rezerv yönetimi ve enflasyon konularında önemli açıklamalar geldi. Bu açıklamalar, Türkiye ekonomisinin geleceğine yönelik beklentileri ve para politikası duruşunu etkileyebilir."
+    },
+    {
+      "id": "13b8212c527d",
+      "title": "KAP *** BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI *** VEYAS *** Pay Bazında Devre Kesici Bildirimi",
+      "source": "Yeni Şafak",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPS1ZyVWExZDlNdms2eXpzNDRSbEtueTlIQXdjQXpxYWlMR01OTlJkVTVtbHFKZm9SdHQ1ZEdza3BTRDZrcmhxTWIyM0RwZTlmNUJlTUg2dGtuaV93c2Y0TWpCMmhualA1ZF82SU1wclFqbHBrR2g1STNxcEVNZ051eFNfdW11OWM5QzhJTXpQVlpVcS14cTFSZEk5b0Q3V1czdEdxcGxseUNyQnhOWUtnMmM3YjZfLWpTMzQ1VEhzZm1uZmJoM0ozZk5JWTBIcEQzUC1oNUF6cUlFM25qcTlSXw?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-23T10:25:00+00:00",
+      "is_breaking": true,
+      "ai_summary": "Borsa İstanbul'da VEYAS hissesinde pay bazında devre kesici uygulaması devreye girdi. Bu uygulama, ilgili hissede aşırı fiyat hareketliliğini kontrol altına almak amacıyla otomatik olarak tetiklenmektedir. Devre kesici uygulaması, ilgili hissenin işlem hacmini ve fiyat hareketini geçici olarak durdurarak piyasa oynaklığını azaltmayı hedefler. Bu durum, yatırımcıların o hisseye yönelik algısını ve işlem stratejilerini etkileyebilir."
     },
     {
       "id": "156371f70a9e",
@@ -395,7 +416,8 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORHJJZFVyNjJ6a0V3Z3QtcWtBSkxiaXJmY2JBTGFBWWZ4RDRiSV9zaVhVMkZrYUR5TUFNNEV2bkZPQ2FGU0pWajE5dkpDRjRmeXJvRzVuOEJBNXNibTh5V2tJZkRBdFRBV21GNFpZYkJZZ2xpNjhJc1I0V1pCU2dHcFllMnIxVUIxU0t1QTBTekxpRlFRaXJkWA?oc=5",
       "category": "Gündem & X",
       "published_at": "2026-11-23T09:55:00+00:00",
-      "is_breaking": true
+      "is_breaking": true,
+      "ai_summary": "Bir fon soruşturması kapsamında altı şüphelinin adliyeye sevk edildiği bildirildi. Bu gelişme, finansal piyasalardaki usulsüzlük iddialarına yönelik hukuki sürecin devam ettiğini göstermektedir. Bu tür hukuki süreçler, ilgili fon veya kurum üzerindeki güveni etkileyebilir ve piyasada genel bir temkinlilik yaratabilir. Yatırımcılar, benzer olayların tekrarlanmaması için denetim mekanizmalarının güçlendirilmesini bekleyebilir."
     },
     {
       "id": "f2da90f66e04",
@@ -404,16 +426,18 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRzFjY20xSm1jQjEtdGZ5c1lBT01xM2NpT2I1eWJCOXh4U2ZXUXdzTWY0VDNsQy1KTEFfMU9aQV91TjNIMmVWOEt4am9SWHdoVzRVSm1xQzBTT0JpNWJwQzJUeWV1azlnUzZmYmNJaXpycVRYamZNUWtUOVlkYWR0elVYZWh4NTZWSzVYWEM0ck5KOHpHNDdHRWN6XzNQdmE3Ukl0UnlxVnZKYXpOdF9xZlYzcWstZEVLTFE?oc=5",
       "category": "Borsa & KAP",
       "published_at": "2026-11-23T09:51:00+00:00",
-      "is_breaking": false
+      "is_breaking": false,
+      "ai_summary": "Borsa İstanbul, Tera Holding hisselerindeki işlemleri durdurma kararı aldı. Bu müdahale, piyasa bütünlüğünü korumak ve yatırımcıları olası manipülasyonlardan korumak amacıyla gerçekleştirilmiştir. Hissedeki işlemlerin durdurulması, ilgili şirketin hisse senedi üzerinde belirsizlik yaratabilir ve yatırımcıların bu tür durumlara karşı dikkatli olmaları gerektiğini hatırlatır. Piyasa genelinde ise benzer durumların yaşanabileceği endişesiyle temkinli bir hava oluşabilir."
     },
     {
-      "id": "543138b03f8e",
-      "title": "BIST 100’de sert yön değişimi: Yükselişle açıldı sonra düştü ve toparlandı",
-      "source": "Paratic Haber",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS2ROcldISzM0REVralNTNUt0VlE2eXI2ZWxfMTZiWXh0YzgxMVhuVHpoM0ZIY0hfb2MxZERYdFhDSGp5eHhabmdQMXFHdTFTc2o2RldLRlRDYWxhNzExa1BfbTlydnJoTERCQWZiNFBTMm1YQ3NaUDZPYUdtbGV6bW8wMXB0cGI4MEJfaTVyaUJTZzgtelg0SA?oc=5",
-      "category": "Borsa & KAP",
-      "published_at": "2026-11-23T09:14:58+00:00",
-      "is_breaking": false
+      "id": "1ec21e767085",
+      "title": "Akay: Enerji tarifeleri faturaları yüzde 50-70 artıracak",
+      "source": "Habererk.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ09Kd2dlZFA0ZS1EVjdLRUEtbU45RDU3Q1hITjJwNVhpTGdWb2FobjAxaVVBYVJYZlVxWFpGLUlvVXYwd1Q5RUYyWDdlbVBsNDhqVUJFbXotRndMWTB4U1VlTnNzZ0Y1YkM1ZVpYMDlRUFNnZVIzVUl6LTlVUGdiWUJucENxcEduazVhcUtDUDlZSnpaUUVFbW5B?oc=5",
+      "category": "Gündem & X",
+      "published_at": "2026-11-23T09:22:00+00:00",
+      "is_breaking": false,
+      "ai_summary": "Yapılan bir açıklamaya göre, enerji tarifelerinde beklenen artışların faturalara yüzde 50 ila 70 oranında yansıması öngörülüyor. Bu durum, hane halkı ve işletmelerin enerji maliyetlerinde önemli bir yükselişe işaret etmektedir. Enerji maliyetlerindeki bu artış, enflasyon üzerinde yukarı yönlü bir baskı oluşturabilir ve tüketici harcamalarını etkileyebilir. İşletmelerin üretim maliyetleri artarken, bu durum genel ekonomik aktivite üzerinde de etkili olabilir."
     },
     {
       "id": "d8254682ed37",
@@ -422,7 +446,8 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbXBDdEJJQVZKeV9QMEoxVWVBLWswRFUwakxUb2hQOEhPeEstTUtaaERSUGlaenhkZkFhN0V4VHlKb0VEem1uVHhkM0RmWHlRV05LbjZFa3cxRFhUa2JEcVJzRkxYak0xN0psRjF0ajdTTXVGeVVKQkVFcWlxU1hTa29EYllGcXRRMXItWlZSQTZ3V2xVMlRHLVU4SEwwNmRDYjVadU9XaWxTT3lp?oc=5",
       "category": "Küresel",
       "published_at": "2026-11-23T08:58:32+00:00",
-      "is_breaking": true
+      "is_breaking": true,
+      "ai_summary": "Yatırımcılar, ABD Merkez Bankası'nın (Fed) Aralık ayında 50 baz puanlık faiz artırımı yapacağına dair beklentilerini azaltma eğilimine girdi. Bu durum, küresel piyasalarda Fed'in para politikasına ilişkin algıların değiştiğini göstermektedir. Fed'in faiz artırımı beklentilerindeki bu değişim, başta Bitcoin olmak üzere riskli varlıklar üzerinde olumlu bir etki yaratabilir. Daha düşük faiz artırımı beklentisi, piyasalarda genel bir rahatlama ve risk iştahında artışa yol açabilir."
     },
     {
       "id": "25447dffebfe",
@@ -431,7 +456,8 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb0FyckNRNW1fTVdZS0ZObmNjdjBjNlhFN3Y2bXpuTVgtODVmYWVVaGR0MDlvNXJKY2tGYVVvVFRFbmREVFV4U04xQ2FrOWcwVVVucWhlVmtBOTdLalNucy1VcjVlZ0phelFobTZLUEhqd05SVUswY1RXdDE5N3RJNmh4VQ?oc=5",
       "category": "Küresel",
       "published_at": "2026-11-23T08:18:33+00:00",
-      "is_breaking": false
+      "is_breaking": false,
+      "ai_summary": "Küresel piyasalar, önceki dönemdeki düşüşlerin ardından haftaya tepki alımlarıyla pozitif bir başlangıç yaptı. Bu durum, yatırımcıların belirli seviyelerden alım fırsatları değerlendirdiğini göstermektedir. Tepki alımları, piyasalarda kısa vadeli bir toparlanma sinyali verebilir ve genel risk iştahını artırabilir. Ancak bu hareketin sürdürülebilirliği, makroekonomik veriler ve küresel gelişmelerle yakından ilişkili olacaktır."
     },
     {
       "id": "65df1a38203a",
@@ -440,16 +466,18 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa0tnX3hjX2dlX21SNnJqT3lzdjBFMVBBd2otWUd5YVAybHptMmpROGVES1NteTRjWmVIbUdYNGdyZEI0dmQ1ZmVRdlZFQmN1c0gwak01VHZtYUVvX0FBeGdHS0xNc25JcWc1amVBam1wT2pSZ1U2RU1fNGpLLVM0SHRWU05ZekczTVFIRU1EVFhCcnNtRXk4VWV4b2s?oc=5",
       "category": "Makro & TCMB",
       "published_at": "2026-11-23T08:11:49+00:00",
-      "is_breaking": true
+      "is_breaking": true,
+      "ai_summary": "Türkiye Cumhuriyet Merkez Bankası'nın (TCMB) enflasyon anketinde farklı kesimlerden çeşitli beklentiler ortaya çıktı; reel sektörün beklentisi ise yüzde 31,70 olarak kaydedildi. Bu durum, enflasyonun geleceğine dair piyasada farklı görüşlerin bulunduğunu göstermektedir. Enflasyon beklentilerindeki farklılıklar, piyasa katılımcılarının gelecekteki para politikası kararlarına yönelik stratejilerini etkileyebilir. Reel sektörün beklentisi, üretim ve yatırım kararları üzerinde belirleyici olabilir."
     },
     {
-      "id": "a412a664618e",
-      "title": "Hanehalkının 12 ay sonrası enflasyon beklentisi yüzde 43,24’e indi",
-      "source": "Paratic Haber",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa3FYbXdfbUs3SWxEVGV1OE01eGR3STVLNmpOTWRBcTNqRDFVclJXS1BqbU5GX2d1VllYN3o3RXRVcjdkNFJJNVlIaXZKX0lwWHprWVVVd3lRRjdBZ1dvd3JZbjdJWXRmeVlzQTFiTFQtQ21pZXR1LWoxTGx1R18xNVNfU3JHdjdwMjd4VHZtWQ?oc=5",
-      "category": "Makro & TCMB",
-      "published_at": "2026-11-23T07:58:33+00:00",
-      "is_breaking": false
+      "id": "7a0fbb16dd6e",
+      "title": "KAP *** BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI *** KUYAS *** Pay Bazında Devre Kesici Bildirimi",
+      "source": "Yeni Şafak",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOa0c3eDNJdHhmUXg0cWsyaVp4d0NFalpsWktJU0VTVWtWZW83Mm0xMWZaNkJWWWllaFF1VTlhX0lkSEx0QVhZVTVVanNxejJpMUF5RjFOaVM5VV9Xb3Y5bnMtZTdTNFcxcEhvaFdXckF1YVlYTkpRS2Z3bVU0RFlVZmxQaHB6alNZdUxBajFVcTVaSEdQTmxabVo4LXUwa0cwRjRHMk90cEhNeTZBeUZ3Y2M5MUZoNk5LU3h3ZXZ6Q1VTWV9zU19fMk5NOV9BZEJZaVFlTWExZzd6NVR0blpENw?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-23T08:02:00+00:00",
+      "is_breaking": true,
+      "ai_summary": "Borsa İstanbul'da KUYAS hissesinde pay bazında devre kesici uygulaması devreye girdi. Bu uygulama, ilgili hissede görülen aşırı fiyat dalgalanmalarını kontrol altına almak amacıyla otomatik olarak tetiklenmektedir. Devre kesici uygulaması, ilgili hissenin işlem hacmini ve fiyat hareketini geçici olarak durdurarak piyasa oynaklığını azaltmayı hedefler. Bu durum, yatırımcıların o hisseye yönelik algısını ve işlem stratejilerini etkileyebilir."
     },
     {
       "id": "108a0b919801",
@@ -458,7 +486,8 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa1hyZTB1cTNHanF5Z3pydHM5THJIN1QyaTUyRXdrMmxBUFNPZThKWEtCTVNIal9rYy1Wcm1aNk9CU28zQ0tna2JBMlVlSDcwLUg1NjB2OGFVdU40NW1GRjhLZVFjVXJFUERxNDFMQWRuVndFYmtXZlNrVDd2N25IUExyanZVQnFEZ0tKYmMwMndSR0FkN20tdWx0RkNXcGZFLWFTU2FVX0c1b0dmNkJVa0k3UWZfdw?oc=5",
       "category": "Altın & Döviz",
       "published_at": "2026-11-23T07:45:00+00:00",
-      "is_breaking": false
+      "is_breaking": false,
+      "ai_summary": "Altın fiyatları haftaya yükselişle başlayarak yatırımcıların dikkatini çekti. Bu hareketlilik, küresel ekonomik belirsizlikler ve enflasyon endişeleri gibi faktörlerden etkilenebilir. Altın fiyatlarındaki yükseliş, güvenli liman arayışındaki yatırımcılar için cazip bir seçenek sunabilir. Bu durum, diğer yatırım araçlarından altına doğru bir yönelimi tetikleyebilir."
     },
     {
       "id": "257cb1c22635",
@@ -467,7 +496,8 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWjNabDZrVWRTTWJzZk1SYXFQTHVOX1JEZFBET09GM19Kc2RERURIcEpmWjNmMmlFZ3JONkRrNUhOTHU3SW1DeWdBQUhxOWxlODBrdnJ2R2ItQnkxSGpGMU9RSlBmMnJyTjg3VUczaUgwR2x2ckZ5UzMtRDl2LXMydlRHc3I5SnNVempCRy1OMTJDcWRpaGc?oc=5",
       "category": "Makro & TCMB",
       "published_at": "2026-11-23T07:43:20+00:00",
-      "is_breaking": true
+      "is_breaking": true,
+      "ai_summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Kasım ayına ilişkin enflasyon beklentilerini kamuoyuyla paylaştı. Bu veriler, piyasa katılımcılarının gelecekteki enflasyon görünümüne dair tahminlerini yansıtmaktadır. TCMB'nin yayımladığı enflasyon beklentileri, para politikası kararları ve piyasa faiz oranları üzerinde etkili olabilir. Yatırımcılar ve işletmeler, bu beklentileri gelecekteki ekonomik planlamalarında dikkate alabilirler."
     },
     {
       "id": "1e812797ce80",
@@ -476,7 +506,8 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQempXcDlsUDE2LWt2TE54VEUxZjBqNktHQXN4MHZuSHBocXBEOFcyYnNrNzZnQ0dRTmxaRXp1enhqbVhXbWJ0NlNJNXJDZ0lvLUZodkgxV1JzQm5vcGl0bF80N3djSUxrVEhNaUsyYUEwYzB4NzN0SXdQMlcwUVVRU3MxQkR6cmYxa3c?oc=5",
       "category": "Altın & Döviz",
       "published_at": "2026-11-23T07:34:18+00:00",
-      "is_breaking": false
+      "is_breaking": false,
+      "ai_summary": "Altın fiyatları, son dönemdeki düşüşlerin ardından toparlanma göstererek gram altının 5 bin 900 TL seviyelerine yaklaştığı belirtildi. Bu durum, altın piyasasında bir dip oluşumu ve yükseliş eğilimi beklentilerini güçlendirebilir. Altın fiyatlarındaki bu toparlanma, yatırımcıların güvenli liman varlıklarına olan ilgisini artırabilir. Özellikle enflasyonist ortamda, altının değer koruma aracı olarak algısı güçlenebilir."
     },
     {
       "id": "1251dea6e539",
@@ -485,7 +516,18 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdm51XzZlNVNHODFQOWRVZlZLNmUzVGhkM1pkQmxkUWNCQVBVOUlmdTlqcnpIUFVBVXJCb0JUTHN6Z29QUkdyNExmUG5Dc045Qkczd0NDUl9LSHU1VEczNlM2NHowTERsZi0tTC1hTVFoc0ZXMHJjYVlMTE5SRlVRcDFwd1ZScHJEOHF1QlVRMi1HYTZiYmRKS0VfVHNuVGZvb2xzWkpxeHBXMC1nemo5QkswLTJvZw?oc=5",
       "category": "Borsa & KAP",
       "published_at": "2026-11-23T07:15:00+00:00",
-      "is_breaking": true
+      "is_breaking": true,
+      "ai_summary": "Borsa İstanbul, Kamuyu Aydınlatma Platformu (KAP) üzerinden yaptığı açıklamayla iki hisse senedini tüm endekslerden çıkarma kararı aldığını duyurdu. Bu karar, ilgili şirketlerin piyasa performansları veya düzenleyici gerekliliklerle ilgili olabilir. Endekslerden çıkarılan hisseler, kurumsal yatırımcılar için cazibesini yitirebilir ve bu durum hisse fiyatları üzerinde olumsuz bir baskı yaratabilir. Piyasa genelinde ise endekslerin yapısına ilişkin güveni etkileyebilir."
+    },
+    {
+      "id": "971253653c2e",
+      "title": "TCMB Sektörel Enflasyon Beklentilerini yayımladı",
+      "source": "Canlı Gaste",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYU1xeGFiTUw1Zm1YVHFwaUVDc1BtSXk2OVI1STEyUkR2QWR5VkhyZlFlZHZqSkVncmNacjV4U0ZURkEtUDRhbmJaMXhONmU0eXBsTzBfOXpCS0tKMWYwcHFBVjJCTGVHR0VNSk80MDFYVlRwZlZZMkVabG1tVWtvbTZsbFBZdkt4QTBz?oc=5",
+      "category": "Makro & TCMB",
+      "published_at": "2026-11-23T07:11:17+00:00",
+      "is_breaking": true,
+      "ai_summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), sektörel bazda enflasyon beklentilerini kamuoyuyla paylaştı. Bu veriler, farklı sektörlerin gelecekteki fiyat artışlarına dair öngörülerini ortaya koymaktadır. Sektörel enflasyon beklentileri, işletmelerin yatırım ve üretim kararlarını etkileyebilirken, para politikası yapıcıları için de önemli bir gösterge niteliğindedir. Bu durum, sektör bazında farklı ekonomik tepkilere yol açabilir."
     },
     {
       "id": "a8ecda2ca066",
@@ -494,34 +536,8 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWZTbkxrV1MyZW5DU0hoWXdyM2V3ODVXOE1tYzI1azZrUnFzUUJFQU9UQjJMRjdPS0RXSzI0V1hGRW5MbHpmbkdOQmw2OGJwUVBFbktkLVBoWEdRYUxrTlhXMEdsN2xBWkFQMGNmRjVfVGQ4WTgydTl0cmdubFF4VUwyNVRtVmF2YTVpdEFmYXp6ZFRPNXJWRVpmTkhiQQ?oc=5",
       "category": "Makro & TCMB",
       "published_at": "2026-11-23T07:11:17+00:00",
-      "is_breaking": true
-    },
-    {
-      "id": "3f552c77b464",
-      "title": "Borsa İstanbul güne yükselişle başladı",
-      "source": "Kibris Gerçek",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JM3RmMG1hZk4yUGY0cEFlenAwZFVKazByczlQcXVNdlkzYWJuREFObXVSWW9jUGpVcFgtd2J3cXU4NXZESzlzWGRwMndIcnBFZlJ4V2hMcHFxUjZMbTRUUVptZ1lTX3FCY05fazJ2cG1DWHV2VXRNRlR3?oc=5",
-      "category": "Borsa & KAP",
-      "published_at": "2026-11-23T07:10:00+00:00",
-      "is_breaking": false
-    },
-    {
-      "id": "15f62aa0b7f0",
-      "title": "Borsa İstanbul Tera'yı işleme kapattı",
-      "source": "Ekonomim",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTWxEem5sUDVJZ0luVUpuSDZFY2Z6VEJ0cGlmdUUwOVNTeXZESWNXN2o1YUJkOXNVeFhCZVE0YXlRb29xdERYcGlSNzczc2VjWDVUVDctaXZ5RWpLdnRiMmlVU1F4eU82N3hNZ3ZMYTRuVEhLcnNiTE5RUUxMZ3ZKdVBrS0lESDJuNU90bVhn?oc=5",
-      "category": "Borsa & KAP",
-      "published_at": "2026-11-23T07:10:00+00:00",
-      "is_breaking": true
-    },
-    {
-      "id": "a3f60c89f588",
-      "title": "Borsa güne yükselişle başladı",
-      "source": "Ekonomim",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRUpOTHlBX09QYlJTSHpFSWd6enRzejZzZnN1Ui1QUV94MFdPM3FiNjJ2TmdvazFHZGVwcVhuS2ZXZ0N1WENDSWhNZXBLVEp0RGJGSzhDVDU4c1dKeTIzbzY2Uk1xTHFDWVhGc0drV21MTkJ5MWxZdVVMTEFpb2NMQWhCemt6V3JOWnA3bTlJOHoxN1pG?oc=5",
-      "category": "Borsa & KAP",
-      "published_at": "2026-11-23T07:08:00+00:00",
-      "is_breaking": false
+      "is_breaking": true,
+      "ai_summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) tarafından açıklanan enflasyon beklentilerinde, farklı ekonomik kesimler arasında belirgin farklılıklar gözlemlendi. Bu durum, piyasa katılımcılarının enflasyonun geleceğine dair görüş ayrılıklarını yansıtmaktadır. Enflasyon beklentilerindeki bu çeşitlilik, piyasa dinamiklerini ve yatırımcı davranışlarını etkileyebilir. Para politikası kararlarının alınmasında da bu farklı beklentilerin dikkate alınması gerekebilir."
     }
   ],
   "notification_candidates": [
