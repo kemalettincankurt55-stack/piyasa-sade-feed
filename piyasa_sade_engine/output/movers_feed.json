@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-23T21:36:28.303950+00:00",
+  "generated_at": "2026-11-23T21:56:57.211670+00:00",
   "source": "Yahoo Finance",
-  "universe": "BIST Ana Pazar (90 hisse)",
-  "scanned_count": 90,
+  "universe": "BIST Ana Pazar (95 hisse)",
+  "scanned_count": 95,
   "periods": {
     "1": {
       "days": 1,
       "start_date": "20.11.2026",
       "end_date": "23.11.2026",
-      "scanned_count": 90,
+      "scanned_count": 95,
       "gainers": [
         {
           "symbol": "CWENE",
@@ -198,7 +198,7 @@
       "days": 10,
       "start_date": "09.11.2026",
       "end_date": "23.11.2026",
-      "scanned_count": 90,
+      "scanned_count": 95,
       "gainers": [
         {
           "symbol": "SELEC",
@@ -370,7 +370,7 @@
       "days": 20,
       "start_date": "23.10.2026",
       "end_date": "23.11.2026",
-      "scanned_count": 90,
+      "scanned_count": 95,
       "gainers": [
         {
           "symbol": "KONTR",
@@ -560,7 +560,7 @@
       "days": 30,
       "start_date": "09.10.2026",
       "end_date": "23.11.2026",
-      "scanned_count": 90,
+      "scanned_count": 95,
       "gainers": [
         {
           "symbol": "DOCO",
@@ -673,6 +673,15 @@
           "updated_at": "2026-11-23T15:09:40+00:00"
         },
         {
+          "symbol": "SKBNK",
+          "name": "Şekerbank",
+          "price": 3.39,
+          "previous_close": 5.14,
+          "change_percent": -34.05,
+          "currency": "TRY",
+          "updated_at": "2026-11-23T15:08:01+00:00"
+        },
+        {
           "symbol": "GUBRF",
           "name": "Gübre Fabrikaları",
           "price": 277.0,
@@ -725,15 +734,6 @@
           "change_percent": -29.02,
           "currency": "TRY",
           "updated_at": "2026-11-23T15:09:59+00:00"
-        },
-        {
-          "symbol": "ASTOR",
-          "name": "Astor Enerji",
-          "price": 145.9,
-          "previous_close": 204.4,
-          "change_percent": -28.62,
-          "currency": "TRY",
-          "updated_at": "2026-11-23T15:09:49+00:00"
         }
       ]
     }
