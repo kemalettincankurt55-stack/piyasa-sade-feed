@@ -1,0 +1,6 @@
+*.apk
+__pycache__/
+*.pyc
+.env
+*.png
+!piyasa_sade_engine/output/economy_feed.json
