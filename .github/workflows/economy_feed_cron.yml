@@ -1,4 +1,4 @@
-name: Piyasa Sade — 30dk AI Ekonomi Haber Akışı (CDN JSON)
+name: Piyasa Sade — 30dk AI Ekonomi Haberleri & BIST Yükselen/Düşenler (CDN JSON)
 
 on:
   schedule:
@@ -29,9 +29,12 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python piyasa_sade_engine/news_aggregator.py
 
-      - name: Güncel economy_feed.json dosyasını yayınla
+      - name: BIST 100 Yükselen & Düşenler (1G/10G/20G/30G) Üret
+        run: python piyasa_sade_engine/movers_aggregator.py
+
+      - name: Güncel JSON akışlarını yayınla
         run: |
           git config user.name "Piyasa Sade Bot"
           git config user.email "bot@piyasasade.app"
-          git add piyasa_sade_engine/output/economy_feed.json
-          git diff --staged --quiet || (git commit -m "chore(feed): update AI economy news feed" && git push)
+          git add piyasa_sade_engine/output/economy_feed.json piyasa_sade_engine/output/movers_feed.json
+          git diff --staged --quiet || (git commit -m "chore(feed): update AI news and BIST movers feed" && git push)

@@ -4,3 +4,4 @@ __pycache__/
 .env
 *.png
 !piyasa_sade_engine/output/economy_feed.json
+!piyasa_sade_engine/output/movers_feed.json
