@@ -1,140 +1,259 @@
 {
-  "generated_at": "2026-11-24T14:05:02.120863+00:00",
+  "generated_at": "2026-11-24T23:35:56.162258+00:00",
   "disclaimer": "Haber başlıkları orijinal kaynaklara aittir; yatırım tavsiyesi değildir (YTD).",
   "trending_clusters": [
     {
-      "id": "cluster-8e47fca5d953",
-      "headline": "24 Kasım 2026 altın fiyatları: Gram ve çeyrek altın kaç TL?",
-      "category": "Altın & Döviz",
-      "is_breaking": true,
-      "source_count": 14,
-      "sources": [
-        {
-          "name": "Haberci TV",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNazZIbElQUWlEaTExelFsQW9CUWVUeWpCY1dFYnRVd0ZKWHBzNFg4QVNsYUQtRkpNcG9NdHBIaUNsWlU3TDFBUE5HX01Lb0lQSG8yaE1JMC0zWmJLcEROUWo2V0o0VEFOVkk4Q3lWZWNZWDVOblRGam5SV2p5aDdYQ19Hcm1WNHF0OTFGVGRHZTNmUQ?oc=5"
-        },
-        {
-          "name": "Canlı Gaste",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdXBzQjdCbnlhNm01eU1oTjNRMmNCZHBCeWE4V0p6TWVwNlQ4eGdkODB3Smh6ZEVxM3ozT3FKdXRYT2J3dzFFblNkTkdmdExJdVA0WW1YWUtiWlFMTGVyc3BTQndudGZQZjZHYWY1RGdGazJpUzgydS10NS1IYW96TkhaNmJhUGc3SVFuRkJoUUh5Q1JkNmc?oc=5"
-        },
-        {
-          "name": "Uzmanpara",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQTY3Z2N2RkFxek0zcENBenB0cXNOYnVnQzJpdnhZd1RlXzhnYm5odmFzdDUzUDVWbkNyRlRMQ3JteWlBLVZtbTUyTHNIX2dDbnF6TGNkTDFWbFpwcThHY1dNQWVjbENlVWEwcDFqWVZiWUFiTlVMRGtKQTNsSWxCU1ViQjktRzFiN2cyNDFwUlpQQjU4Z1JQam5BcnFmUVlUeVdJMFZ6bmRHQk5VT0xJd1hQVndMR19FeFdkTFA2VVVvNXlpZXUzTy1rUUI1R1h3UFVSaElmZ2VVOThadFRnM1AyYVBGZUk5Tm12UWMxRUZRR0RBZEtkV0ViRkZvNUVJeFE?oc=5"
-        },
-        {
-          "name": "Yeni Asır",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUlRVcDdEQS1uMnR6UnVNcE9kaU5sLVhUNzMwQ3A4WDVISEEtOFg5bFRCSS1GcVhGWE1wTWVza0h3Sk0yYzB3VU94VnRyNU1rR2Vua2hYMUNPcktESTY2eGxvTV9HekttOGZKZ3hpSWI2X1dlWU5IUUZvTVp5MWVyMnVPX2Y2MjM3bTcxbFFROVItTHFTT3ZpdmQzcDRLYzl4QUp3M00xWnNXTEdMSFZ4ZWNabkE1ZUdsZm02Szc1bVZOXzhlSXBtV0tiZ1NTbXBOV1ktU1d3?oc=5"
-        }
-      ],
-      "published_at": "2026-11-24T13:19:00+00:00",
-      "bullets": [
-        "14 farklı ekonomi kaynağında öne çıkan başlık.",
-        "Detaylar için aşağıdaki orijinal kaynak bağlantılarına gidebilirsiniz."
-      ],
-      "ai_synthesized": false
-    },
-    {
-      "id": "cluster-b5901357d181",
-      "headline": "Fon krizi: Cezaevinden tahliye edilen Fatma Betül Sayan Kaya kimdir?",
+      "id": "cluster-7b7ed9ef9f7d",
+      "headline": "Fon Mağdurları İçin Ödeme Takvimi Açıklandı",
       "category": "Gündem & X",
       "is_breaking": true,
       "source_count": 1,
       "sources": [
         {
-          "name": "DW.com",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOblVJMzlhTUJtTDV4VWZVczltTDdKYjJzRDlZN0ZfUG0tVG1VTmFZOFRvdkIteE55X09kZDhZMjRjalg0RUJYbUdqZ2k2MmZudTRnMUZhaVhzclY1NjU4MkRJSnhIUkVRV2F2U2RMNnRtZ2trRDd2Tmc4THdZWEQ2MnpHONIBgwFBVV95cUxOblVJMzlhTUJtTDV4VWZVczltTDdKYjJzRDlZN0ZfUG0tVG1VTmFZOFRvdkIteE55X09kZDhZMjRjalg0RUJYbUdqZ2k2MmZudTRnMUZhaVhzclY1NjU4MkRJSnhIUkVRV2F2U2RMNnRtZ2trRDd2Tmc4THdZWEQ2MnpHOA?oc=5"
+          "name": "Ege Telgraf",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOckttTWhUdUZVb2ZmWDhOMUpZOFV3Z29GYnlScHNYZWl2R3hQT1RIYl92dXA0M2xZLVRsTUcyTFVHSEZ6cDJXU0lpTm9oN3NUQy1zNGZaRFhEYUg1NkQwU1FBZ05jNFlNMGVlaGVkSHFlWjJYUlpyMGNlT2xWbGNSazctVUxyZzAxQUhJ?oc=5"
         }
       ],
-      "published_at": "2026-11-24T11:34:59+00:00",
+      "published_at": "2026-11-24T20:21:00+00:00",
       "bullets": [
-        "1 farklı ekonomi kaynağında öne çıkan başlık.",
-        "Detaylar için aşağıdaki orijinal kaynak bağlantılarına gidebilirsiniz."
-      ],
-      "ai_synthesized": false
-    },
-    {
-      "id": "cluster-ebf3475c1e19",
-      "headline": "Kredi Kartı Faiz Oranlarında İndirim ve Yapılandırma Düzenlemesi",
-      "category": "Makro & TCMB",
-      "is_breaking": true,
-      "source_count": 7,
-      "sources": [
-        {
-          "name": "https://www.edirneahval.com/",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUkdoMF9XeDhBM3lSUGV0NXpuSWFOaHJTUkctWXNLUkhiZ1pWQXF5VFZYSW9peVpuZGgzdVY2NzNseDl5YkVNY0NRUzE0WTZfRjRMaVMtazVjQ1JSZkRBX21jVGV3d29NaUpxM3lJcWptZElXQ05weG9CT29kZHFod1lqZHNrYlZzTUE0aldQUDByU0wxc2FLa0NVMzVlZzJrTzVuTGZZb3E3aEcyc1hzWFdHYndIcVJj?oc=5"
-        },
-        {
-          "name": "Bigpara",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc2JNUE5GaVUzV0RDWHZRNXkwMGRDY18wdURPYVBQV1kwZll0Q09EWkJMeWVDMF9FdVN6WU9uVVVhNlJoeFh4Y1BBcGF6OXJ4Zlh3UTdDNWg0b052NVZUcDZPcGdxY18tekVIUy10Mi0zZ082UVhlXzdabHdaMlFuWTFOUHJXQTVpVXZmOEJXUUwwTzkyNnFKMDRjV21Jby1SWGcwQXdMSVlubEFwR2VJ?oc=5"
-        },
-        {
-          "name": "TRT Haber",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObkNRcjBIdnh3ZjhVUDZHckxrenFMNTkyNjhuRVI5b0ZPVmNxNUIzX0xzektQMkgtRGhNdVBpbVlkQ0hfd19ldlJwUnlPV1lUWFhXcExsOFVRdURkTnc3OXhER3dYLXpqSE13SWJMMHVpWEwwNkpfSUswNG52cVgtOWM0emlmamZvOEdhNXFiOEUzVDFIOGk5RTZKdEVncDRT?oc=5"
-        },
-        {
-          "name": "NirvanaHaber",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUl9tSWN2aFB2RW4yQU1FcU5GVzR1b3ZJelE1bFdWNmxoLTlmcllmNlhuS2dRbi11QWxhZ283aFljLUROOFo4T04tMUxqN2VvcmhTYmVNUHdiZjJfdm5VcUo5c24zMGc2aE5rSXJ0eEx3cmpHNW1lbExUZVdBcXBrczQxcGduS1BNYThZMnRFM1U1b1Vn?oc=5"
-        }
-      ],
-      "published_at": "2026-11-24T10:56:56+00:00",
-      "bullets": [
-        "Türkiye Cumhuriyet Merkez Bankası (TCMB), üç yıl aradan sonra kredi kartı ve nakit avans (KMH) azami faiz oranlarını düşürdü ve borç yapılandırmada üst sınırı belirledi.",
-        "Bu düzenleme, tüketicilerin kredi kartı ve nakit avans kullanımlarındaki finansman maliyetlerini potansiyel olarak azaltabilir ve borç yapılandırma süreçlerini etkileyebilir."
+        "Belirli bir fonun mağdurlarına yönelik ödeme takvimi kamuoyuyla paylaşıldı ve 27 Kasım tarihi önemli bir gün olarak belirtildi.",
+        "Bu gelişmenin genel piyasalar üzerindeki doğrudan ve geniş çaplı etkisinin sınırlı olması beklenirken, ilgili mağdurlar için finansal bir çözüm sunmaktadır."
       ],
       "ai_synthesized": true
     },
     {
-      "id": "cluster-33812509a854",
-      "headline": "Simkus’tan Avrupa’da enflasyon uyarısı: Faiz artışları sürebilir",
-      "category": "Makro & TCMB",
+      "id": "cluster-337425436398",
+      "headline": "Fon Mağdurlarına Yönelik Ödemelerde Son Tarih Belirlendi",
+      "category": "Gündem & X",
       "is_breaking": true,
       "source_count": 2,
       "sources": [
         {
-          "name": "Paratic Haber",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1JlTGlVblhIN19jdWlhVXpCNWxJQVhfNkNiQVRNUDJoU1QwbmxnUktFbVNJSHBnclJmNzk0ZUZkTldRekVqdzFfNVBCX0ZmTExWWmh1eDVMT09SZkM0b2dRY2phZWZ2OVRnY0dqdHcxMmM1S3FLSks5Wks3YmY3Z2dZN3QyZHVEY1E?oc=5"
+          "name": "ParaMedya",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ3RTQzhYT3NwM19ZVHA1dGJXMHFKRW1aMFNvMkhxSUMtZnBBN1dYMmdtZ3JHU1o1SDFXYWJjWDJUZUZKbThIU25SZ1M1amxNXzdJWVVaRkd3Y1daakxwcVpkeXFESm1XdC1qaEVMMGJOdTBET1dza01QVmMyMUFkM3E3YUNERFBEOGtIQ1l1YzVMZ0Z4Y01PVkM0Zk5BVVctZnBMNUFqS3E4ZTB0RGJUVlhteTJHUmJkcGxHQmxELWJHTEJmeDVNbWx4RXF5YldYZFHSAdgBQVVfeXFMTjFmYmJzT2hvNkpTVThxcDdiajlNX0RJa0VaSlV2Y191T05WZVl1VGk2ODFCNERCanZwczJGY1hKWWFKeFBBTkpjR2pxNWhEckhWUHotSUZiV1ZmWTNnb2N4UnZIVTh1N1Bwa1VhQ3Ftc19ZTUlBNFkxbm4yZFVPWEt3VDV3WEY3RUQ5SlhoQ0xveE96X1JWZjJUd1Vha0RZNGpzcjJIVHBQSkNGVDdBVXhWTDRTRWZGVVoyd25lYlNib2hPVHV3VGJXT2tUZy1Ub1ZLZlRlZjRT?oc=5"
         },
         {
-          "name": "Foreks.com",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOU2VMUy1tbnl2TDhWNlJLblBJX1cyV1NZMElVSGpZUTdCSnFMUWZyVTU0Z0x2alprSmZmX0lvcVJlRWZPUjRzMXBEMHVjZV83RzhqTnBGbFgwaFVZUWVvUDh3dnhUT1I0R1c2UHkwSGY5bWhIaE9tSFhaVU9QT3ItRll6QlBqNmNkVDB2QlFOUlNYLWl2T09COTgyMnV5QzdTbFFoNWlXcHNpTkpZeG9LdTd1b0ZnaDBQOE5YVnZBRF9NYlVOSGlrcV9LZEdPOFh2TzU4SVJBc25xSUhaMFJWYkY2WXVMV3RiTFJyT1RZUmVFOUhFZEpJX1RpdVFudzJy?oc=5"
+          "name": "Anka Haber",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZV9Za2lVMEtGYmRncFpuVFI0QmZiQTVUT1hqelVKanJoVjZxYVpZT2FQSHBmaEpTRjBUd1pKMTV0WGFBSEFZbFVEcFZpd2VjTm81dGY4RmMxelBvcXBNcFJGNDd6THAwM1JzS3VKd0xLN2s1RGRJcXZSVnRZd2QtNmR3VTdOU3QtM0pSR243bFlLYlNEaHJVMEFzd2tpVXlVejAtV3U0SjdqekF6aEVkLS1lN1diN2VReUVPSWlEXzJRb1hZNm1Da2xZRjBwMXQxWVNaTzZFSTlIYzMyQUE2Nm1HZHcyX0djbWl2blpJNkFmMkJyN3huOW5iTThsMHlfNXBUem9xRU8xdG1x?oc=5"
         }
       ],
-      "published_at": "2026-11-24T09:56:15+00:00",
+      "published_at": "2026-11-24T19:52:51+00:00",
       "bullets": [
-        "2 farklı ekonomi kaynağında öne çıkan başlık.",
-        "Detaylar için aşağıdaki orijinal kaynak bağlantılarına gidebilirsiniz."
+        "Fon krizinden etkilenen yatırımcılara yönelik 1 milyon TL'ye kadar ara ödemelerin ve ilgili SPK düzenlemelerinin 27 Kasım'a kadar tamamlanması planlanmaktadır.",
+        "Bu gelişmeler, fon krizinden etkilenen yatırımcılar için belirsizliğin azalmasına ve piyasada ilgili düzenleyici adımların tamamlanmasına işaret edebilir."
       ],
-      "ai_synthesized": false
+      "ai_synthesized": true
     },
     {
-      "id": "cluster-65bba16635cb",
-      "headline": "Fed'de Faiz Artırımı Beklentileri Güçleniyor",
-      "category": "Makro & TCMB",
+      "id": "cluster-0c4a2fc0ff4b",
+      "headline": "Fon Ara Ödemelerinde Yeni Tarih Belirlendi",
+      "category": "Gündem & X",
       "is_breaking": true,
       "source_count": 1,
       "sources": [
         {
-          "name": "Bloomberght",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQam8xNFJaNXNaNEhDTlE2R2U5YjVPT0ozbGZyaHRiUHNtLVdmU1JLSTJZYW9jRDZDdXYteWtJSF94UGlBNk1xclRXLThDNzRnelRQVUpGSkMyR1lHV09IYnoxWkowSUNtcHcyRXpKd3B4UXBqaWl0UEtMY2Z2aXh4WmZCUEVVT1I3Mmc?oc=5"
+          "name": "Ekonomim",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWU5CMS1kd2padkpsenIxUTQzbFpCT21zZXFVNm5FX09wYkdXYUdlLWEzWUxyZmx3b1BJQ01rMEdxWXh2Y25pcVBEY0pNbThUZGZBRkhKUjRGRm9Ha1cxTHJOR01SU2U3Z1ozLVRmc3NCa3BxTXJoM3IxX2FDdEhKc21wRDA0bWM3SHJSMEZBR3FmTzFTLWo1akJmMFI2NDctTkl1aDU4bC1hS1FGV1U4Wnlsc2pmQ1hEY3lRaXBwdjJycFVFR2ZPbVEteUJrc3d1aFRXaThHdTJqUGljbnVKeg?oc=5"
         }
       ],
-      "published_at": "2026-11-24T05:14:30+00:00",
+      "published_at": "2026-11-24T19:29:00+00:00",
       "bullets": [
-        "ABD Merkez Bankası (Fed) yetkilileri arasında faiz artırımlarına yönelik desteğin arttığı gözlemlenmektedir.",
-        "Bu durum, küresel piyasalarda faiz artırımı beklentilerini yükselterek risk iştahını azaltma ve doların değerini artırma potansiyeli taşımaktadır."
+        "1 milyon TL'ye kadar olan fon ara ödemelerinin son kısmı için 27 Kasım tarihi açıklandı.",
+        "Bu düzenleme, ilgili fon sahiplerinin ödeme takvimlerinde netlik sağlayarak nakit akışlarını etkileyebilir."
+      ],
+      "ai_synthesized": true
+    },
+    {
+      "id": "cluster-c81b967be733",
+      "headline": "Yapay Zeka Odaklı Piyasalar Kripto ve Altın Üzerinde Etki Yaratıyor",
+      "category": "Küresel",
+      "is_breaking": false,
+      "source_count": 2,
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb3p5dmx1VnNfYWFLRkcyWlY4WFMzOVRiWmMzcTl0T3o2MGNYVWtRN3VSMDNtWndzQlR6eVZlWjZlQVNGZUtIU2V1UktscEpRbnBzcThoazEtY1RPOVc5X0FPSHFCNzJraDVHOHFYTnN1RzNib21HM0JuSGY3ZVhMNWxPcTFLVE1Ia2FXdzdFUWlBamE0LXJGbzhDbFlkczVwYzFzNGZVc2lrcTh5UEpSWkZ0RjhVcnFnUG9xM0FXZkg0SlN6N3J4clJR?oc=5"
+        },
+        {
+          "name": "FXStreet",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZTZmT1dUeUxzbHdOX1JJblRnQm1pYjNqVVBORDhScm8zZ3lDZTQwYlc3ZnlzcGNwWEk2S0NfWVZqdkxXZUkzRHNseTZjbG1SZ0RMcFRKRDFubEpOMC1ZRXpoVVhfXzFMV1RzS0xJb1dNODBCdzhFQ0tPdFJaRVpMUGhQVjd2SFpJb1ZsNEFiWDE4OXBSNTI1bGlnWVhYVXpnSTloaVN4SFZyVFBMMFVyOW1oY212cFdzZDBqSUJWV0N5MmpGc1dwZE96WDFvb2RCbVhuS3ZsRlBVbUFiQkFrTi1VeTlGa05rSmVHTXdLc3hVUXFCVnBub2NlYmtMczZjMTc0?oc=5"
+        }
+      ],
+      "published_at": "2026-11-24T16:47:22+00:00",
+      "bullets": [
+        "Yapay zeka sektöründeki canlanma beklentileri, Bitcoin'in performansının geride kalabileceği ve altının piyasa yönünü değiştirebileceği yönünde değerlendirmelere neden olmuştur.",
+        "Yatırımcı ilgisinin yapay zeka temalı varlıklara kayması, geleneksel kripto para birimleri ve güvenli liman varlıkları üzerinde göreceli bir baskı oluşturarak piyasa dinamiklerinde potansiyel bir yeniden dengelemeye yol açabilir."
+      ],
+      "ai_synthesized": true
+    },
+    {
+      "id": "cluster-7ba42c68f46d",
+      "headline": "Borsa İstanbul'da Dalgalı Seyir: Güne Yükselişle Başlayıp Düşüşle Kapattı",
+      "category": "Borsa & KAP",
+      "is_breaking": false,
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbm5ZSUFydGZxNzZXRWFIdm4yT1ZQNmlBS2tpc3N1OEY3VzAwTjBHckdZaUJYZ1lxZE5pVTN5UllCTUlLRllIbWdjT1lXVlhkVXVOWDFybTc0WjBuYUZnWFRYMTRRSmdSTHlMTnhDaGlSOHZGN0tpYlV1aFpQTUhvRHVwTUUzZEFpMUx4UndRU1RfNmV4UEdR?oc=5"
+        },
+        {
+          "name": "CNN Türk Finans",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRHdrNWxpdmVLcHdVU0RxYklCR3JwakdpcVBrOUhlUWVzRHlDTFpEQVBQeHcwT21uLVhpOHlRY0xTQ2VMeTVmTlJHSzltam84UVBNUFdjaDQ1MmJFZV9zclplWXpvRmlBd29CRXJBaXU1Zi13T0V6R25OWTBsa2V6ZkpNWWRLZFRPNnJQMEZLa252S3VOVlRQTlE5bFRWZVpheHlDd2lhY2VpZ2NFMGhscDVzWlhYdGhDT2puTFJGVnFINy1DbzVaRU81dFQ?oc=5"
+        },
+        {
+          "name": "Borsanın Gündemi",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaDV2em5MNWhrQnA1LV9wc0F0T084ZzZrVm51QXQwd0czMjdwNC1ZYld6cm1IUlQwTzdmZXgwa2V2Vzl3OWdteF9JakJpektlVXJxeDdCbFk4SExTNkV3WXgtU3ltbm9sNXZhQjU3OWVueHl2OUdxWmQxejBYODZoUW8zRFNzYm9XSkNXSnQxU1Rnd1FPTzlld2dDREEwaTRrUUhQVEhDWUY?oc=5"
+        }
+      ],
+      "published_at": "2026-11-24T15:27:04+00:00",
+      "bullets": [
+        "Borsa İstanbul, güne yükselişle başlayarak BIST 100 endeksinde belirli seviyeleri görmüş, ancak gün sonunda düşüşle kapanmıştır.",
+        "Bu dalgalı seyir, yatırımcıların gün içi fiyat hareketlerini dikkatle takip etmelerinin önemini vurgulamaktadır."
       ],
       "ai_synthesized": true
     }
   ],
   "articles": [
     {
-      "id": "7e318e00c796",
-      "title": "Gümüşte kayıp yüzde 3'e dayandı",
-      "source": "A Para",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGenc0WTFOeUZUS0hueGRZUUJvZ3JvR3ZrYmdOMXBOa2U5b0laWVVvaW1FcklMaUlGcmY0UnRwYk9yXzJUS3FhM1dlNVdIdXU3cnJtU3Y4elplZ1VrcVRpZ2xWbUxuZXczbDVaSzU5SVpBXzFMU1FvdWpaZmViSDg?oc=5",
+      "id": "7b7ed9ef9f7d",
+      "title": "Fon mağdurları için ödeme takvimi açıklandı! 27 Kasım'a dikkat",
+      "source": "Ege Telgraf",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOckttTWhUdUZVb2ZmWDhOMUpZOFV3Z29GYnlScHNYZWl2R3hQT1RIYl92dXA0M2xZLVRsTUcyTFVHSEZ6cDJXU0lpTm9oN3NUQy1zNGZaRFhEYUg1NkQwU1FBZ05jNFlNMGVlaGVkSHFlWjJYUlpyMGNlT2xWbGNSazctVUxyZzAxQUhJ?oc=5",
+      "category": "Gündem & X",
+      "published_at": "2026-11-24T20:21:00+00:00",
+      "is_breaking": true,
+      "ai_summary": "Fon mağdurlarına yönelik ödeme takviminin açıklandığı ve 27 Kasım tarihinin kritik olduğu belirtildi. Bu gelişme, mağdurların finansal beklentilerini etkileyebilir ve ilgili kurumların çözüm sürecine yönelik algıyı şekillendirebilir."
+    },
+    {
+      "id": "337425436398",
+      "title": "Fon krizinde kritik gelişme: Son ödemeler için 27 Kasım tarihi verildi, SPK düzenlemesi tamamlandı",
+      "source": "ParaMedya",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ3RTQzhYT3NwM19ZVHA1dGJXMHFKRW1aMFNvMkhxSUMtZnBBN1dYMmdtZ3JHU1o1SDFXYWJjWDJUZUZKbThIU25SZ1M1amxNXzdJWVVaRkd3Y1daakxwcVpkeXFESm1XdC1qaEVMMGJOdTBET1dza01QVmMyMUFkM3E3YUNERFBEOGtIQ1l1YzVMZ0Z4Y01PVkM0Zk5BVVctZnBMNUFqS3E4ZTB0RGJUVlhteTJHUmJkcGxHQmxELWJHTEJmeDVNbWx4RXF5YldYZFHSAdgBQVVfeXFMTjFmYmJzT2hvNkpTVThxcDdiajlNX0RJa0VaSlV2Y191T05WZVl1VGk2ODFCNERCanZwczJGY1hKWWFKeFBBTkpjR2pxNWhEckhWUHotSUZiV1ZmWTNnb2N4UnZIVTh1N1Bwa1VhQ3Ftc19ZTUlBNFkxbm4yZFVPWEt3VDV3WEY3RUQ5SlhoQ0xveE96X1JWZjJUd1Vha0RZNGpzcjJIVHBQSkNGVDdBVXhWTDRTRWZGVVoyd25lYlNib2hPVHV3VGJXT2tUZy1Ub1ZLZlRlZjRT?oc=5",
+      "category": "Gündem & X",
+      "published_at": "2026-11-24T19:52:51+00:00",
+      "is_breaking": true,
+      "ai_summary": "Fon krizinde mağdurlara yapılacak son ödemeler için 27 Kasım tarihinin belirlendiği ve SPK düzenlemesinin tamamlandığı duyuruldu. Bu durum, mağduriyetlerin giderilmesi sürecinde önemli bir adım olup, finansal piyasalarda güven algısını olumlu yönde etkileyebilir."
+    },
+    {
+      "id": "f6c8d2e7cd09",
+      "title": "On Birinci Fon Koordinasyon Kurulu Toplantısı'nın ardından açıklama: Fon mağdurlarına 1 milyon TL'ye kadar ara ödemeler 27 Kasım'da tamamlanacak",
+      "source": "Anka Haber",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZV9Za2lVMEtGYmRncFpuVFI0QmZiQTVUT1hqelVKanJoVjZxYVpZT2FQSHBmaEpTRjBUd1pKMTV0WGFBSEFZbFVEcFZpd2VjTm81dGY4RmMxelBvcXBNcFJGNDd6THAwM1JzS3VKd0xLN2s1RGRJcXZSVnRZd2QtNmR3VTdOU3QtM0pSR243bFlLYlNEaHJVMEFzd2tpVXlVejAtV3U0SjdqekF6aEVkLS1lN1diN2VReUVPSWlEXzJRb1hZNm1Da2xZRjBwMXQxWVNaTzZFSTlIYzMyQUE2Nm1HZHcyX0djbWl2blpJNkFmMkJyN3huOW5iTThsMHlfNXBUem9xRU8xdG1x?oc=5",
+      "category": "Gündem & X",
+      "published_at": "2026-11-24T19:45:11+00:00",
+      "is_breaking": true,
+      "ai_summary": "On Birinci Fon Koordinasyon Kurulu toplantısı sonrası, fon mağdurlarına 1 milyon TL'ye kadar ara ödemelerin 27 Kasım'da tamamlanacağı açıklandı. Bu ödemelerin tamamlanması, mağdurların finansal rahatlamasına katkı sağlayabilir ve ilgili kurumların sorumluluklarını yerine getirme sürecini gösterebilir."
+    },
+    {
+      "id": "0c4a2fc0ff4b",
+      "title": "Fon ödemelerinde yeni açıklama: 1 milyon TL'ye kadar olan ara ödemelerde son kısım için tarih 27 Kasım",
+      "source": "Ekonomim",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWU5CMS1kd2padkpsenIxUTQzbFpCT21zZXFVNm5FX09wYkdXYUdlLWEzWUxyZmx3b1BJQ01rMEdxWXh2Y25pcVBEY0pNbThUZGZBRkhKUjRGRm9Ha1cxTHJOR01SU2U3Z1ozLVRmc3NCa3BxTXJoM3IxX2FDdEhKc21wRDA0bWM3SHJSMEZBR3FmTzFTLWo1akJmMFI2NDctTkl1aDU4bC1hS1FGV1U4Wnlsc2pmQ1hEY3lRaXBwdjJycFVFR2ZPbVEteUJrc3d1aFRXaThHdTJqUGljbnVKeg?oc=5",
+      "category": "Gündem & X",
+      "published_at": "2026-11-24T19:29:00+00:00",
+      "is_breaking": true,
+      "ai_summary": "Fon ödemeleri kapsamında, 1 milyon TL'ye kadar olan ara ödemelerin son kısmının 27 Kasım'da yapılacağı belirtildi. Bu gelişme, mağdurların beklediği ödemelerin tamamlanma sürecini hızlandırarak finansal belirsizliklerini azaltabilir."
+    },
+    {
+      "id": "c900faf63f54",
+      "title": "Gelişen piyasalar için 2027 uyarısı: Sermaye akımları zayıf kalacak haberi",
+      "source": "Borsanın Gündemi",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTTh1c1g5WGt3ZUlPUWNQUU80RW1BQzVUeENNLTc0TE8xcDQyZGxRWVNpTFUxUzZ6T2RIcTV2b2J1NzdzenZ5LTBDdk9RM1ViWDRkUE55Tng3X2h0QTBsbU9TU3Vzb0xYS2pRYy1xR0lPN3lEN0QtaGd4ZFU1RGhXYkZ6RVBPZWhGV19Lb29qc0wwREdpR01nbWFIb3lmUEp0cnZMdHdXaEpfdU5MWGR3dkl3?oc=5",
+      "category": "Küresel",
+      "published_at": "2026-11-24T17:48:03+00:00",
+      "is_breaking": false,
+      "ai_summary": "Gelişen piyasalar için 2027 yılına yönelik bir uyarıda bulunularak, sermaye akımlarının zayıf kalacağı öngörülüyor. Bu beklenti, gelişmekte olan ülkelerin büyüme potansiyelleri ve finansman imkanları üzerinde olumsuz bir algı yaratabilir."
+    },
+    {
+      "id": "c81b967be733",
+      "title": "Bitcoin fiyat analizi: BTC, Yapay Zeka'nın yeni bir boğa koşusuna hazırlanmasıyla geride kalabilir",
+      "source": "CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb3p5dmx1VnNfYWFLRkcyWlY4WFMzOVRiWmMzcTl0T3o2MGNYVWtRN3VSMDNtWndzQlR6eVZlWjZlQVNGZUtIU2V1UktscEpRbnBzcThoazEtY1RPOVc5X0FPSHFCNzJraDVHOHFYTnN1RzNib21HM0JuSGY3ZVhMNWxPcTFLVE1Ia2FXdzdFUWlBamE0LXJGbzhDbFlkczVwYzFzNGZVc2lrcTh5UEpSWkZ0RjhVcnFnUG9xM0FXZkg0SlN6N3J4clJR?oc=5",
+      "category": "Küresel",
+      "published_at": "2026-11-24T16:47:22+00:00",
+      "is_breaking": false,
+      "ai_summary": "Bitcoin fiyat analizine göre, yapay zeka sektöründeki gelişmelerin yeni bir boğa koşusuna hazırlanmasıyla BTC'nin geride kalabileceği ifade ediliyor. Bu durum, yatırımcıların dikkatini yapay zeka ile ilgili varlıklara kaydırarak kripto para piyasasında göreceli bir durgunluğa yol açabilir."
+    },
+    {
+      "id": "9a7a07b5c6ab",
+      "title": "Altın ve gümüşte satışlar hızlandı",
+      "source": "Foreks.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObGRHbHdNVUJVblJRVE1UZ3dWZUtSaVFlcmpoMUVrT0Z4WjNFeDZRNUZpVkt4UDBIa2lmMDZaTWtoeEVWN1VjTkdCb3pMN01ZVDVreEg3NGd4b0pQTFhaZy1YWGpjT2RXdUlDbGgyUUI2a1pjRGJkTF9RZ0NDSmRFRkw4RmNPN0x0Qll6eXpIMU51bUVHZUtCVDhSTFdwOWpUS1dmbFFVckJPUjJObmE5dVhUcXJ6dw?oc=5",
       "category": "Altın & Döviz",
-      "published_at": "2026-11-24T13:35:02+00:00",
-      "is_breaking": false
+      "published_at": "2026-11-24T16:29:51+00:00",
+      "is_breaking": false,
+      "ai_summary": "Altın ve gümüş piyasalarında satış baskısının arttığı ve fiyatlarda düşüş yaşandığı belirtiliyor. Bu durum, küresel ekonomik veriler, faiz beklentileri veya doların güçlenmesi gibi faktörlerden etkilenerek yatırımcıların güvenli liman varlıklarından çıkışını yansıtabilir."
+    },
+    {
+      "id": "7ba42c68f46d",
+      "title": "SON DAKİKA HABERİ: Borsa günü düşüşle tamamladı",
+      "source": "CNN Türk",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbm5ZSUFydGZxNzZXRWFIdm4yT1ZQNmlBS2tpc3N1OEY3VzAwTjBHckdZaUJYZ1lxZE5pVTN5UllCTUlLRllIbWdjT1lXVlhkVXVOWDFybTc0WjBuYUZnWFRYMTRRSmdSTHlMTnhDaGlSOHZGN0tpYlV1aFpQTUhvRHVwTUUzZEFpMUx4UndRU1RfNmV4UEdR?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-24T15:27:04+00:00",
+      "is_breaking": false,
+      "ai_summary": "Borsa İstanbul'un günü düşüşle tamamladığı son dakika olarak duyuruldu. Bu durum, yatırımcıların risk iştahında azalma veya makroekonomik endişeler gibi faktörlerin etkisiyle genel piyasa sentimentinin olumsuz yönde seyrettiğini gösterebilir."
+    },
+    {
+      "id": "3bfb8ca49b19",
+      "title": "Borsa İstanbul'da satış baskısı arttı",
+      "source": "Manşet Haber",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZLWM4bm9qQ2JhRHFMVHJrUHBxS3dNRjk2Wk1ZMzAwcVdxOUZFXzFvSFN0SDRBbnBHS3A5Y0ZDVHh1LWxldXo2YXdtYXJmTWxadFYyYV9URzdLcUVWWGxWUFFGdjVZV1FTZ3FrQ3Y5amxQTVc2RjI0?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-24T15:25:00+00:00",
+      "is_breaking": false,
+      "ai_summary": "Borsa İstanbul'da satış baskısının arttığı ve piyasada genel bir düşüş eğiliminin gözlendiği belirtiliyor. Bu durum, yatırımcıların kar realizasyonu yapması veya olumsuz haber akışına tepki vermesiyle piyasada volatiliteyi artırabilir."
+    },
+    {
+      "id": "4359410b83f5",
+      "title": "Fon soruşturmasının görünmeyen mağdurları",
+      "source": "Gazete Pencere",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVEQ2T29Tc2RaUXJ3UDFxX21mWDdRcUFjUUNSQ0k2cUVCY3N5VURvUkR6SW05cEZ4RXhtZUJuaEJBS2V3SkowVEo1QVZXXzloanpjMTdhb1VnUHhESWotQkZiaDd3TXBvLVpPUUgyN0tDOGMwV0RlbWJNdjdEeUp5VWVNd0hKNjVac3RBYUVHdm0?oc=5",
+      "category": "Gündem & X",
+      "published_at": "2026-11-24T15:11:00+00:00",
+      "is_breaking": true,
+      "ai_summary": "Fon soruşturması kapsamında, kamuoyunun dikkatinden kaçan veya yeterince görünür olmayan mağdurların varlığına işaret ediliyor. Bu durum, fon krizinin boyutunun daha geniş olabileceği ve çözüm sürecinin tüm paydaşları kapsayacak şekilde ele alınması gerektiği yönünde farkındalık yaratabilir."
+    },
+    {
+      "id": "2e721fe76cf4",
+      "title": "KAP *** BORSA İSTANBUL A.Ş. *** İşlem İptali",
+      "source": "Yeni Şafak",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU0s1cDZDZUhZVURKZlVfOWRieXpodEsxTXk1X3RhSEdmQy1QRzZEOUkzdW9wWk9VYW12MVFfVEtUbW5tZldISnJUSFhsUlJHb0F3YW5yU1RrT3dlVDRTZ1JtX0R2RXRWSmp2RVYtSDgxNXZfVDd1cUVtaUJBX1A4a2kyS2lPdGJEQjFrVDlYT2N5b3NG?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-24T14:38:00+00:00",
+      "is_breaking": true,
+      "ai_summary": "Kamuyu Aydınlatma Platformu (KAP) üzerinden Borsa İstanbul A.Ş. tarafından işlem iptali duyurusu yapıldı. Bu tür bir iptal, piyasa bütünlüğünü korumak veya teknik bir hatayı düzeltmek amacıyla gerçekleştirilir ve ilgili hisse senedi veya piyasa üzerinde kısa vadeli belirsizlik yaratabilir."
+    },
+    {
+      "id": "8f597cead8a0",
+      "title": "Fitch'ten Türkiye ekonomisi için üç kritik mesaj: Fon krizi, faiz ve enflasyon",
+      "source": "Herbir Emlak",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYnVlcmphdGVPX0dWOVdjV1k4anJaUXVZb2VHdlBTWXRrcUhvazNsbzVGc2xLald2RTl6M3RrU0NRdjR6VktfZXlhT3B4Rk5DSUR5XzV0UFB2a1F6ZFZDdkkxTkY3M3p5a05tNVlJcmE1TUlOS3JjaTJvS1MtenY1MnNuaUVybmpRRGhIT2Z0RDB5TWJHbHdTRS1aTzBPMzBCLWg3SUJ1a0VleGp5Mzd5Wg?oc=5",
+      "category": "Makro & TCMB",
+      "published_at": "2026-11-24T14:37:34+00:00",
+      "is_breaking": true,
+      "ai_summary": "Fitch Ratings, Türkiye ekonomisi için fon krizi, faiz oranları ve enflasyon olmak üzere üç kritik konuda değerlendirmelerde bulundu. Bu mesajlar, uluslararası kredi derecelendirme kuruluşlarının Türkiye ekonomisine bakış açısını yansıtarak yatırımcı kararlarını ve ülke risk primini etkileyebilir."
+    },
+    {
+      "id": "d786e3bcf493",
+      "title": "ALTIN NE KADAR OLDU 24 KASIM SALI? Altın tekrar yükselecek mi? Gram, çeyrek, yarım, tam ve ons altın anlık fiyatları",
+      "source": "Uzmanpara",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQTY3Z2N2RkFxek0zcENBenB0cXNOYnVnQzJpdnhZd1RlXzhnYm5odmFzdDUzUDVWbkNyRlRMQ3JteWlBLVZtbTUyTHNIX2dDbnF6TGNkTDFWbFpwcThHY1dNQWVjbENlVWEwcDFqWVZiWUFiTlVMRGtKQTNsSWxCU1ViQjktRzFiN2cyNDFwUlpQQjU4Z1JQam5BcnFmUVlUeVdJMFZ6bmRHQk5VT0xJd1hQVndMR19FeFdkTFA2VVVvNXlpZXUzTy1rUUI1R1h3UFVSaElmZ2VVOThadFRnM1AyYVBGZUk5Tm12UWMxRUZRR0RBZEtkV0ViRkZvNUVJeFE?oc=5",
+      "category": "Altın & Döviz",
+      "published_at": "2026-11-24T14:34:39+00:00",
+      "is_breaking": false,
+      "ai_summary": "24 Kasım Salı günü altın fiyatlarının ne kadar olduğu ve gelecekteki yükseliş potansiyeli sorgulanıyor. Bu tür haberler, altın yatırımcılarının piyasa beklentilerini şekillendirerek alım-satım kararlarını etkileyebilir."
+    },
+    {
+      "id": "94ee11908d17",
+      "title": "Kredi Kartı Faiz Oranları Düşüyor: TCMB Referans Oranını Güncelledi",
+      "source": "Para Analiz",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGJwZlBXWDFjR2RPUHpYWVY4cHkwbTBrcG5vbWp5UkVjUi1WQnBXTk5ub0tvNkNqcHo5TXhYTi1aYVVxVE9rSkJPUWFBeU93VjcyMDhwUmJyc3A3Y29wMVBMZ3FPTDV4ZnR3REtGeDdyU2VZY2RxamRqUGU1NHV1Y0JNUDRLY09ad3hFWTZ2TTJjMVlINS1UOXBRRlBmR2dTWUNoRw?oc=5",
+      "category": "Makro & TCMB",
+      "published_at": "2026-11-24T13:27:21+00:00",
+      "is_breaking": true,
+      "ai_summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), referans oranını güncelleyerek kredi kartı faiz oranlarında düşüşe gitti. Bu indirim, tüketicilerin kredi maliyetlerini azaltarak harcama eğilimlerini ve iç talebi destekleyebilir."
     },
     {
       "id": "8e47fca5d953",
@@ -143,7 +262,8 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNazZIbElQUWlEaTExelFsQW9CUWVUeWpCY1dFYnRVd0ZKWHBzNFg4QVNsYUQtRkpNcG9NdHBIaUNsWlU3TDFBUE5HX01Lb0lQSG8yaE1JMC0zWmJLcEROUWo2V0o0VEFOVkk4Q3lWZWNZWDVOblRGam5SV2p5aDdYQ19Hcm1WNHF0OTFGVGRHZTNmUQ?oc=5",
       "category": "Altın & Döviz",
       "published_at": "2026-11-24T13:19:00+00:00",
-      "is_breaking": false
+      "is_breaking": false,
+      "ai_summary": "24 Kasım 2026 tarihli altın fiyatları hakkında bilgi verilerek gram ve çeyrek altın değerleri sorgulanıyor. Bu başlık, geleceğe yönelik fiyat beklentilerini yansıtan spekülatif bir içeriğe sahip olup, güncel piyasa üzerinde doğrudan etkisi sınırlıdır."
     },
     {
       "id": "677b829481e9",
@@ -152,16 +272,8 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdXBzQjdCbnlhNm01eU1oTjNRMmNCZHBCeWE4V0p6TWVwNlQ4eGdkODB3Smh6ZEVxM3ozT3FKdXRYT2J3dzFFblNkTkdmdExJdVA0WW1YWUtiWlFMTGVyc3BTQndudGZQZjZHYWY1RGdGazJpUzgydS10NS1IYW96TkhaNmJhUGc3SVFuRkJoUUh5Q1JkNmc?oc=5",
       "category": "Makro & TCMB",
       "published_at": "2026-11-24T12:36:53+00:00",
-      "is_breaking": true
-    },
-    {
-      "id": "d786e3bcf493",
-      "title": "ALTIN NE KADAR OLDU 24 KASIM SALI? Altın tekrar yükselecek mi? Gram, çeyrek, yarım, tam ve ons altın anlık fiyatları",
-      "source": "Uzmanpara",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQTY3Z2N2RkFxek0zcENBenB0cXNOYnVnQzJpdnhZd1RlXzhnYm5odmFzdDUzUDVWbkNyRlRMQ3JteWlBLVZtbTUyTHNIX2dDbnF6TGNkTDFWbFpwcThHY1dNQWVjbENlVWEwcDFqWVZiWUFiTlVMRGtKQTNsSWxCU1ViQjktRzFiN2cyNDFwUlpQQjU4Z1JQam5BcnFmUVlUeVdJMFZ6bmRHQk5VT0xJd1hQVndMR19FeFdkTFA2VVVvNXlpZXUzTy1rUUI1R1h3UFVSaElmZ2VVOThadFRnM1AyYVBGZUk5Tm12UWMxRUZRR0RBZEtkV0ViRkZvNUVJeFE?oc=5",
-      "category": "Altın & Döviz",
-      "published_at": "2026-11-24T12:12:00+00:00",
-      "is_breaking": false
+      "is_breaking": true,
+      "ai_summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) tarafından 24 Kasım 2026 tarihli gösterge döviz kurları belirlendi. Bu kurlar, piyasalarda referans alınarak döviz işlemlerine yön verir ve ekonomik aktörlerin kur beklentilerini etkileyebilir."
     },
     {
       "id": "b5901357d181",
@@ -170,7 +282,8 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOblVJMzlhTUJtTDV4VWZVczltTDdKYjJzRDlZN0ZfUG0tVG1VTmFZOFRvdkIteE55X09kZDhZMjRjalg0RUJYbUdqZ2k2MmZudTRnMUZhaVhzclY1NjU4MkRJSnhIUkVRV2F2U2RMNnRtZ2trRDd2Tmc4THdZWEQ2MnpHONIBgwFBVV95cUxOblVJMzlhTUJtTDV4VWZVczltTDdKYjJzRDlZN0ZfUG0tVG1VTmFZOFRvdkIteE55X09kZDhZMjRjalg0RUJYbUdqZ2k2MmZudTRnMUZhaVhzclY1NjU4MkRJSnhIUkVRV2F2U2RMNnRtZ2trRDd2Tmc4THdZWEQ2MnpHOA?oc=5",
       "category": "Gündem & X",
       "published_at": "2026-11-24T11:34:59+00:00",
-      "is_breaking": true
+      "is_breaking": true,
+      "ai_summary": "Fon kriziyle bağlantılı olarak cezaevinden tahliye edilen Fatma Betül Sayan Kaya'nın kimliği ve olaydaki rolü gündeme geldi. Bu gelişme, fon krizinin hukuki boyutunu ve kamuoyundaki tartışmaları derinleştirebilir, ancak doğrudan piyasa etkisi sınırlıdır."
     },
     {
       "id": "ebf3475c1e19",
@@ -179,7 +292,8 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUkdoMF9XeDhBM3lSUGV0NXpuSWFOaHJTUkctWXNLUkhiZ1pWQXF5VFZYSW9peVpuZGgzdVY2NzNseDl5YkVNY0NRUzE0WTZfRjRMaVMtazVjQ1JSZkRBX21jVGV3d29NaUpxM3lJcWptZElXQ05weG9CT29kZHFod1lqZHNrYlZzTUE0aldQUDByU0wxc2FLa0NVMzVlZzJrTzVuTGZZb3E3aEcyc1hzWFdHYndIcVJj?oc=5",
       "category": "Makro & TCMB",
       "published_at": "2026-11-24T10:56:56+00:00",
-      "is_breaking": true
+      "is_breaking": true,
+      "ai_summary": "Merkez Bankası, üç yıl aradan sonra ilk kez kredi kartı faiz oranlarında indirime gittiğini duyurdu. Bu karar, hanehalkının borç yükünü hafifletmeye yardımcı olabilir ve tüketici güvenini artırabilir."
     },
     {
       "id": "33812509a854",
@@ -188,7 +302,8 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1JlTGlVblhIN19jdWlhVXpCNWxJQVhfNkNiQVRNUDJoU1QwbmxnUktFbVNJSHBnclJmNzk0ZUZkTldRekVqdzFfNVBCX0ZmTExWWmh1eDVMT09SZkM0b2dRY2phZWZ2OVRnY0dqdHcxMmM1S3FLSks5Wks3YmY3Z2dZN3QyZHVEY1E?oc=5",
       "category": "Makro & TCMB",
       "published_at": "2026-11-24T09:56:15+00:00",
-      "is_breaking": true
+      "is_breaking": true,
+      "ai_summary": "Avrupa Merkez Bankası (ECB) yetkilisi Simkus, Avrupa'da enflasyon konusunda uyarıda bulunarak faiz artışlarının devam edebileceğine işaret etti. Bu açıklama, Avrupa piyasalarında faiz beklentilerini yükselterek hisse senedi ve tahvil piyasalarında volatiliteye neden olabilir."
     },
     {
       "id": "aabb69004913",
@@ -197,7 +312,8 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUlRVcDdEQS1uMnR6UnVNcE9kaU5sLVhUNzMwQ3A4WDVISEEtOFg5bFRCSS1GcVhGWE1wTWVza0h3Sk0yYzB3VU94VnRyNU1rR2Vua2hYMUNPcktESTY2eGxvTV9HekttOGZKZ3hpSWI2X1dlWU5IUUZvTVp5MWVyMnVPX2Y2MjM3bTcxbFFROVItTHFTT3ZpdmQzcDRLYzl4QUp3M00xWnNXTEdMSFZ4ZWNabkE1ZUdsZm02Szc1bVZOXzhlSXBtV0tiZ1NTbXBOV1ktU1d3?oc=5",
       "category": "Altın & Döviz",
       "published_at": "2026-11-24T09:19:36+00:00",
-      "is_breaking": false
+      "is_breaking": false,
+      "ai_summary": "24 Kasım tarihindeki altın fiyatlarının yükselip yükselmediği ve güncel değerleri hakkında bilgi talep ediliyor. Bu tür haberler, altın yatırımcılarının anlık piyasa hareketlerini takip etmelerine ve yatırım stratejilerini gözden geçirmelerine yardımcı olabilir."
     },
     {
       "id": "90183c8977e4",
@@ -206,7 +322,8 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc2JNUE5GaVUzV0RDWHZRNXkwMGRDY18wdURPYVBQV1kwZll0Q09EWkJMeWVDMF9FdVN6WU9uVVVhNlJoeFh4Y1BBcGF6OXJ4Zlh3UTdDNWg0b052NVZUcDZPcGdxY18tekVIUy10Mi0zZ082UVhlXzdabHdaMlFuWTFOUHJXQTVpVXZmOEJXUUwwTzkyNnFKMDRjV21Jby1SWGcwQXdMSVlubEFwR2VJ?oc=5",
       "category": "Makro & TCMB",
       "published_at": "2026-11-24T09:06:51+00:00",
-      "is_breaking": true
+      "is_breaking": true,
+      "ai_summary": "Kredi kartı faiz oranlarında indirim kararı alınırken, borç yapılandırmada uygulanacak üst sınırlar da belirlendi. Bu düzenleme, tüketicilerin finansal yükünü hafifletmeyi ve borçlarını daha kolay yönetmelerini sağlamayı hedefleyebilir."
     },
     {
       "id": "54c7a2b72d48",
@@ -215,7 +332,18 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeER0MjgtdjN0V3QyRm9wLU5qRXFkNTVSM3YtamRlQlBiTF9XT2k4dnZXXzlya1c0QU83eVdaeXJqVXltVFpJLWpUTWRmMEdhV2ZYVFg0Wl9VamtZSklRTzJHdXZBNWEtZGRFc2R2NVF3blQtYldNTlZZOTNldkVVeWhvb2pnajNPRW1RMzRtOU81YlRhYm0tenZn?oc=5",
       "category": "Altın & Döviz",
       "published_at": "2026-11-24T09:05:47+00:00",
-      "is_breaking": false
+      "is_breaking": false,
+      "ai_summary": "Yeni haftanın başlangıcında, 24 Kasım güncel altın fiyatları piyasaların odağında yer alıyor. Altın fiyatlarındaki değişimler, küresel ekonomik gelişmeler ve merkez bankası politikaları gibi faktörlere bağlı olarak yatırımcıların portföy kararlarını etkileyebilir."
+    },
+    {
+      "id": "39254d161b28",
+      "title": "Merkez Bankası kredi kartı faizlerini indirdi: İşte yeni oranlar",
+      "source": "Paratic Haber",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONG91QUxOZ1N4T0tPRHBjWU5wdmJyWFNDLTctb1RZdTAzMzROejlEYjRIa0ZSTGNSc0t3RS1CRUY0dHM4alYyb21xRk1pRm9ROWJCT016eUVLRHpLek1YeTFVbnVVc2pXaHN3SHRpM0k2bzQ2TFR1QW5TdmJVdEJqVWxKOVhqZ05TUURTMw?oc=5",
+      "category": "Makro & TCMB",
+      "published_at": "2026-11-24T09:02:44+00:00",
+      "is_breaking": true,
+      "ai_summary": "Merkez Bankası, kredi kartı faiz oranlarını düşürerek yeni oranları kamuoyuna açıkladı. Bu adım, tüketicilerin finansal yükünü hafifletme ve iç piyasayı canlandırma potansiyeli taşımaktadır."
     },
     {
       "id": "fadc1fcc6af2",
@@ -224,16 +352,8 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObkNRcjBIdnh3ZjhVUDZHckxrenFMNTkyNjhuRVI5b0ZPVmNxNUIzX0xzektQMkgtRGhNdVBpbVlkQ0hfd19ldlJwUnlPV1lUWFhXcExsOFVRdURkTnc3OXhER3dYLXpqSE13SWJMMHVpWEwwNkpfSUswNG52cVgtOWM0emlmamZvOEdhNXFiOEUzVDFIOGk5RTZKdEVncDRT?oc=5",
       "category": "Makro & TCMB",
       "published_at": "2026-11-24T09:00:00+00:00",
-      "is_breaking": true
-    },
-    {
-      "id": "6aa09a20ebdd",
-      "title": "Kredi kartı faiz oranları düştü! TCMB yeni oranları açıkladı",
-      "source": "NirvanaHaber",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUl9tSWN2aFB2RW4yQU1FcU5GVzR1b3ZJelE1bFdWNmxoLTlmcllmNlhuS2dRbi11QWxhZ283aFljLUROOFo4T04tMUxqN2VvcmhTYmVNUHdiZjJfdm5VcUo5c24zMGc2aE5rSXJ0eEx3cmpHNW1lbExUZVdBcXBrczQxcGduS1BNYThZMnRFM1U1b1Vn?oc=5",
-      "category": "Makro & TCMB",
-      "published_at": "2026-11-24T08:51:00+00:00",
-      "is_breaking": true
+      "is_breaking": true,
+      "ai_summary": "Kredi kartı ve Kredili Mevduat Hesabı (KMH) azami faiz oranlarında indirime gidildiği bildirildi. Bu düzenleme, tüketicilerin finansal maliyetlerini düşürerek harcama kapasitelerini artırabilir ve ekonomik aktiviteye olumlu yansıyabilir."
     },
     {
       "id": "8e46aa04a434",
@@ -242,7 +362,8 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcG54WDVkT1hTT3dVckxzNGYyTkx6WUEweVk3MG9vQWpqaG5uOC1kc0RKeVBUT3d5amp1MU9kOWlCVS1IS3RkcGEwWG5HNU0xZXFTMmJ4SDhyZFlWcE03RUdsSVpGTHo0dVFrck92YjAwOEFsUTNBWjhsM09CODJZMU5OTVRrazQ4cEdZTTNZVUUwV0lyejVkYlpETE5aUFNnVVdScVJKOE8zOTE1b2NYeWxVenp3eXRXX2c?oc=5",
       "category": "Makro & TCMB",
       "published_at": "2026-11-24T08:43:26+00:00",
-      "is_breaking": true
+      "is_breaking": true,
+      "ai_summary": "Kredi kartı, nakit avans ve Kredili Mevduat Hesabı (KMH) faiz oranlarında üç yıl aradan sonra ilk kez indirime gidildi. Bu karar, tüketicilerin finansal yükünü hafifletme ve iç talebi destekleme potansiyeli taşımaktadır."
     },
     {
       "id": "9d8a8990547c",
@@ -272,13 +393,22 @@
       "is_breaking": false
     },
     {
-      "id": "764dbbd04ba3",
-      "title": "CANLI ALTIN FİYATLARI | Altın toparlanma eğiliminde! 24 Kasım 2026 gram, çeyrek ve cumhuriyet altını ne kadar?",
-      "source": "TV5 Haber",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcklSb29xM3VfUXZYU202QUVzSlAyU2pDNno5RUpNU0t2X3ZPZkJHVGZTQVlHWHJKOTZwUHhVaXdvbl8xYUVuTVhTcHk4R1JRTzhlNmFXQ2V2b3l0T1FTWVoyRVV5UzlEelZwOGxyUkV6bnRILUdMNzA3LU9Fcy1WcDB0MUtscnNNY0tHc3ZPbktGajlJYzRQSFQyZVlrSmFlWDFXcllyRXFsTVRVbldmZjFhenRkdkZiRFRHNVBRdFJ5WFdITDBJ?oc=5",
-      "category": "Altın & Döviz",
-      "published_at": "2026-11-24T07:48:00+00:00",
-      "is_breaking": false
+      "id": "fb769c3f393b",
+      "title": "Ar-Ge ve teknopark şirketlerinin zorunlu yatırımında fon engeli: SPK nitelikli yatırımcı şartlarını sıkılaştırdı",
+      "source": "Sanayi Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQWZNVkJZYkhLVlBQVlpETFdSRUNrb291VlhIMDVEQ0xTVnhGZVNhb3NnbGw0czVOV2UtUklqTTVOUVgtN05jZzE3N1Z3ajYxd3I2a3lOYTlVX25jeDlzYWYxNVdTa2NNY0o2eGtJWjZEZV9FeWlGbUdPRFdqMi0wajF2QU1jMXpDeG5RRkhSQnpxUDJldTkyUzV1M1lORVF2Q1VSd1pMS09tSTRfUDlYZHlHRkpaaldqdUJvVDNIN0o3d1VBTjhjOER3MEFiTTJtMjlLWHc5d1g?oc=5",
+      "category": "Gündem & X",
+      "published_at": "2026-11-24T08:04:11+00:00",
+      "is_breaking": true
+    },
+    {
+      "id": "05728b592981",
+      "title": "Günün öne çıkan KAP haberleri: Milyarlık kararlar, temettüler ve yeni işler",
+      "source": "CNBC-e",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeXljc2tiNkFmX1RPaUtxTlQxdUY4aTRwczRORjNmOF9nY05rcGY4SU9mSUsxTmp5UDBScndVcE96UEw3Z1FjRlI5SlZ3ZzNFVXlxamJaTEg3aVhrMFNFYi1sd2htcEpudkdRVDhISU95V1dHM3UtanhyYkI3R0gzemxxMi1SZ2JTWEdCLUdHSlRDUjNvLV96WGJWQ1RkOW9JYVBkSWlhOG4tSTVn?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-24T07:29:00+00:00",
+      "is_breaking": true
     },
     {
       "id": "aabe177912e9",
@@ -290,13 +420,67 @@
       "is_breaking": false
     },
     {
-      "id": "49248a6f9059",
-      "title": "Fed yetkilisi Williams’tan faiz artışı mesajı: Enflasyon hala çok yüksek",
-      "source": "Paratic Haber",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTGpSOWxiR01ienM0N2VWcGV6blQ3Y0NjTjNRdnNUNm4wQmpOQUFtd3BpdTZyQWx6dlIwdXRzWGdXWmgtZTZrUVJNQzJ4RFVlUmREQ1E0TGJSRjNDMDRaRWx4NVhCNW9KNXRxX1B6N3UzTm83ZkNPbEtaUjZrX2RyT0JSY3d3bDRkR0xxREszQkZ4czc3TXc?oc=5",
-      "category": "Makro & TCMB",
-      "published_at": "2026-11-24T06:53:16+00:00",
-      "is_breaking": true
+      "id": "448b28e691a8",
+      "title": "BIST 100 endeksi güne yüzde 0,06 yükselişle başladı | Türkiye Ekonomisi Haberleri",
+      "source": "Yeni Şafak",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVjg2YXVibTVIdW1WeXR4UFdfNC1MdzdRWUdCZ0xWSDJjN1hrSmVpRWJIaVNReGUwR2xIVzBHYm5HVW1WOFhic2tNcEpEa0V4RzFzOF9CRG1QdGhabWhtdndtTXlfdEJ4VElzQWV5aTJGRTRrVFM0dEhYSVBwWVFUenRKVHVEbzBlMldaRG1tVmFseThEYUt3?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-24T07:07:04+00:00",
+      "is_breaking": false
+    },
+    {
+      "id": "e7ffd7252888",
+      "title": "Borsa bugün kaç puanda? İşte 24 Kasım 2026 BIST 100 verileri",
+      "source": "Manşet Haber",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSTJqODVGcng1amZ2aHBmZ0ZVZ3M3R244MUFsYVljME9icnoxS1lzSUVOY09SZ3h2akR3dTdlZklZcHE1ejRkVUVxcFFVZ0Q3dWlpMHJhQTZ5WkJ1c1gtYVppdlJkSDRZeUxfeVNhZXNVQVR0TkdqNzBXaXAxQVFKRkhZdWcxLWNyVGJBOW5pNnB1WU9HSGc?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-24T07:04:00+00:00",
+      "is_breaking": false
+    },
+    {
+      "id": "d39e9d9618f8",
+      "title": "BIST 100 güne yükselişle başladı",
+      "source": "TRT Haber",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaWVQYngwOUdraFZheXZURVpfdmNFM2lJRHVTZWZoS3A0R1JQTUtPemdFbVhjRXdJTUhMTDFWZ0xIcTdFWDNRS0FfNFByRGxGVkhwR2NPOHd6ZDdqb1QzejlvTDE0TWNiQnlUODFoQXN4VGJxVzdUUWhod3FjQjhuY3dLT3A3RWxKYl9n?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-24T07:02:00+00:00",
+      "is_breaking": false
+    },
+    {
+      "id": "3570f8084030",
+      "title": "SON DAKİKA | Borsa İstanbul güne yükselişle başladı! BIST 100 11 bin 111 puanı gördü",
+      "source": "CNN Türk Finans",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRHdrNWxpdmVLcHdVU0RxYklCR3JwakdpcVBrOUhlUWVzRHlDTFpEQVBQeHcwT21uLVhpOHlRY0xTQ2VMeTVmTlJHSzltam84UVBNUFdjaDQ1MmJFZV9zclplWXpvRmlBd29CRXJBaXU1Zi13T0V6R25OWTBsa2V6ZkpNWWRLZFRPNnJQMEZLa252S3VOVlRQTlE5bFRWZVpheHlDd2lhY2VpZ2NFMGhscDVzWlhYdGhDT2puTFJGVnFINy1DbzVaRU81dFQ?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-24T07:01:19+00:00",
+      "is_breaking": false
+    },
+    {
+      "id": "4ce885af3220",
+      "title": "Borsa İstanbul'da hafif yükseliş: BIST 100 güne nasıl başladı? haberi",
+      "source": "Borsanın Gündemi",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaDV2em5MNWhrQnA1LV9wc0F0T084ZzZrVm51QXQwd0czMjdwNC1ZYld6cm1IUlQwTzdmZXgwa2V2Vzl3OWdteF9JakJpektlVXJxeDdCbFk4SExTNkV3WXgtU3ltbm9sNXZhQjU3OWVueHl2OUdxWmQxejBYODZoUW8zRFNzYm9XSkNXSnQxU1Rnd1FPTzlld2dDREEwaTRrUUhQVEhDWUY?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-24T07:00:26+00:00",
+      "is_breaking": false
+    },
+    {
+      "id": "e52ea7a4777b",
+      "title": "BIST 100 güne yükselişle başladı, düşüşle devam etti haberi",
+      "source": "Borsanın Gündemi",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQXkzeXQtWnFpUnc3U2tkZG5KbFZBVjVZU3BnRFNRaTFDSUZ0d1N1WEtaWVViY195Qi0xVE40TzhBVGxvRWpvdzNrLTlXZktEQlNpZHNRWS1qVXNrNUNnYko0UEdRQkFoRkdmRERGZlFtbld5S2tjLWxTTFJVNV9qYmJSZjlGYW5ValNyQ05yZXc3Y0E3aHdUNDZQU1U2QQ?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-24T07:00:26+00:00",
+      "is_breaking": false
+    },
+    {
+      "id": "400cdda1b629",
+      "title": "Gram altında son durum ne? 24 Kasım 2026 Salı altın fiyatları…",
+      "source": "Bloomberght",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRW9kYU91WXJOQnFqR0xudEhYWWdhWWN0NU5NY19WUF82SkpfeldHQVFWbmdQU1ZuR3VSYW1kQzc1Z1A0NXFlb1RHWENZNWQzVkc1VllCcFlvWmRhb1pBZlVQMDFFM0NzdkZtSEVFR0RZaGZqVlhLcC1UTXNTVkRpNWV6NkxnX05LTGN0b1ZMbGM2QWUySmRjZFBISGtBUHM1ZDdv?oc=5",
+      "category": "Altın & Döviz",
+      "published_at": "2026-11-24T07:00:02+00:00",
+      "is_breaking": false
     },
     {
       "id": "346a0132ec46",
@@ -308,227 +492,50 @@
       "is_breaking": false
     },
     {
-      "id": "a41c42a6b631",
-      "title": "Altın 14 ayın dibinden toparlanıyor: Gözler Fed'in faiz kararı ve ABD enflasyon verilerinde",
-      "source": "Foreks.com",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOU2VMUy1tbnl2TDhWNlJLblBJX1cyV1NZMElVSGpZUTdCSnFMUWZyVTU0Z0x2alprSmZmX0lvcVJlRWZPUjRzMXBEMHVjZV83RzhqTnBGbFgwaFVZUWVvUDh3dnhUT1I0R1c2UHkwSGY5bWhIaE9tSFhaVU9QT3ItRll6QlBqNmNkVDB2QlFOUlNYLWl2T09COTgyMnV5QzdTbFFoNWlXcHNpTkpZeG9LdTd1b0ZnaDBQOE5YVnZBRF9NYlVOSGlrcV9LZEdPOFh2TzU4SVJBc25xSUhaMFJWYkY2WXVMV3RiTFJyT1RZUmVFOUhFZEpJX1RpdVFudzJy?oc=5",
-      "category": "Makro & TCMB",
-      "published_at": "2026-11-24T06:32:20+00:00",
-      "is_breaking": true
-    },
-    {
-      "id": "2c1a573a3dc7",
-      "title": "Altın fiyatlarında düşüş sonrası bekleyiş: Gram, çeyrek ve Cumhuriyet altını bugün ne kadar oldu? Güncel altın fiyatları 24 Kasım 2026 Salı...",
-      "source": "Cumhuriyet",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQa3JRd1RYNGJTczk3ZmZTb2lGTk9OWHlranBHajJLX0pCX19JOW1XVUZON09OY3FsV1J6Yy15RHItM0t5RmVMQVVDZzVzTC1iRG9nSU5QT05vN29jUGEyWjVsU2tkRW9uTjJyYWhoSVY2NnA5RDJORHY4RGNxRkxnTVpjNk1KbzJfc0tLUmRObUNkQlE3QWVGUEpBY1QwVXdkZ1hYcFdPTTBlOGpqTUFpS2pVcV9zX2RJVlRBM2hwMDdPOUpDS3IyZGVROWZyYlpITlBzUlFJd0RNaVVMc2RycHNkeU9WMnhRWXNBa1B1WnB1a19hSGJaaWtxR3p2OXQ0THJmdm9GWmR1TmJtNnY0?oc=5",
-      "category": "Altın & Döviz",
-      "published_at": "2026-11-24T06:29:00+00:00",
-      "is_breaking": false
-    },
-    {
-      "id": "91ee86936ad9",
-      "title": "Altında Toparlanma Sinyali Mi? 24 Kasım 2026 Salı Güncel Altın Fiyatları",
-      "source": "BirGün Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdklZZnozZEZsdWdjd1lYQ1BYSVNFcFNJb1pCX01NdW94VEdtY1hmclhsUGE5ckdEejVETHdLaV8ybnNyejJyaW1YUGVuWmZBc2Vub2dCbm9xUHVrZENfeDlfaGVKTVd0WEQybUNrWWZUMHRDVXdXX3ptWjgxek5nZnJDTnJ4MklBZlkzX01ZdWJVeldpeDhwbEJvTk9McEluWmIwSTJJbWEyYVE?oc=5",
-      "category": "Altın & Döviz",
-      "published_at": "2026-11-24T06:15:00+00:00",
-      "is_breaking": false
-    },
-    {
-      "id": "a6cbb7b6900a",
-      "title": "Gram altın güne nasıl başladı? – 24 Kasım 2026",
-      "source": "Diken",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUWkhmcGF2ckRxbTA0Wks2bzA3WjFVaVgybUZIbXV1MDdFcWhRWkFqRnVhNDNTWFJEa0NrNDZFS0lxbmxjcktPQy0zQ3dQcGJOTEx4U0FhQTJieUlCVmd1cU44T2IwSXpkSnhDYlVhUUswZnc0M3RuNw?oc=5",
-      "category": "Altın & Döviz",
-      "published_at": "2026-11-24T06:03:38+00:00",
-      "is_breaking": false
-    },
-    {
-      "id": "8de2fd8fd3f2",
-      "title": "24 KASIM CANLI ALTIN FİYATLARI | Gram altın ne kadar? Çeyrek altın fiyatı ne? Kapalıçarşı altın fiyatlarında son durum!",
-      "source": "CNN Türk",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTjJJc3U3b3M5aUx5eGdYcFhJU3RiX2JCeDd3VEVDdnI2dThjRHNiYTByakc0WEVQYkkyUUVPRkExTnNkbUtyekpFa21UcU9pUVg4ZnFCZEJVZFlGUnVKNEM3U2h6U3M2SVlSTVpzV1NobTQ4c2NkM3NBTm5DM2Q1d3FXaTNxQkJpbS1KUVZnMnNoNTdZcVA5RXNZazlXUVgyeU9HaVg0bXdIQ3p1SGZpZFFvRW1jYVBabFdLQ0JQVmljb3ZMUURHQWd3a2lKSlVibUltaE5WWGFwaDh3eUVURVNEdjRERHkxaHc?oc=5",
-      "category": "Altın & Döviz",
-      "published_at": "2026-11-24T05:59:00+00:00",
-      "is_breaking": true
-    },
-    {
-      "id": "068b8dbc7092",
-      "title": "24 Kasım 2026 Altın Fiyatları: Altın Yatırımcısına Nefes Aldıran Yükseliş: Gram Altın Yeniden 5 Bin 900 TL’yi Aştı",
-      "source": "Muğla Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVzB4dEkxTkxOLVUtTWRYd3VYalJRZElnb3F4YUgybUw5elZ6WjRpeDRtaDNDZEQxdnYyTExvM1RNVGdfeHRON3l5QWhDX3pyR3JZQ0xCUlNDbi1NdDFXNGhLRWF6QzZHZlJGbm1tRmZva1RpcXJ2aHViMG42T0RNbmFhZ1g2QjY3X3pqY0pMcmE1dGZ2TnF3TjFCTGtldVRUeU9IX0oybGptVzdfSlhiWlc5aFRrZ0p6UXhwcEp4R0lPR2tP?oc=5",
-      "category": "Altın & Döviz",
-      "published_at": "2026-11-24T05:57:00+00:00",
-      "is_breaking": false
-    },
-    {
-      "id": "14f574cf7f0e",
-      "title": "SON DAKİKA ALTIN FİYATLARI 24 KASIM 2026 (ALIŞ-SATIŞ) || Gram, Çeyrek, Yarım ve Cumhuriyet Altını Ne Kadar Oldu? Altın Fiyatları Canlı Takip Ekranı",
-      "source": "Bigpara",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdTZXV1VNM1FXOFZwdzd2ZXlvUmx5VXVZZmtXVGV2Q0RMTkRVTHJ4YzAwM0VnNXhQbDRvWEdaVDl6WlhiUFZhdFl6Rll2Z01YTUpGUTVFZFBSd1RRRW92XzV2Z0FvMFU2ZTJsczM3M0VOamNmMDUxNko5NkVjMklVN1ItMThtYXBwamRXRnN6SGZIRTZPT2JjU0w5aFdsdTladFZVU3FDc1JQV0VpMUYteEowN0ZraUkzWEFXZzlQcTNyOHV0WmxWNzVmalEyNnFaRE5yV1NNTXNDWnpNbU9JWTJZMnU?oc=5",
-      "category": "Altın & Döviz",
-      "published_at": "2026-11-24T05:25:02+00:00",
-      "is_breaking": false
-    },
-    {
-      "id": "65bba16635cb",
-      "title": "Fed cephesinde faiz artışlarına destek büyüyor",
-      "source": "Bloomberght",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQam8xNFJaNXNaNEhDTlE2R2U5YjVPT0ozbGZyaHRiUHNtLVdmU1JLSTJZYW9jRDZDdXYteWtJSF94UGlBNk1xclRXLThDNzRnelRQVUpGSkMyR1lHV09IYnoxWkowSUNtcHcyRXpKd3B4UXBqaWl0UEtMY2Z2aXh4WmZCUEVVT1I3Mmc?oc=5",
-      "category": "Makro & TCMB",
-      "published_at": "2026-11-24T05:14:30+00:00",
-      "is_breaking": true
-    },
-    {
-      "id": "1a16ed3199ac",
-      "title": "Altında toparlanma sinyali: İşte 24 Kasım 2026 çeyrek, gram ve yarım altın satış fiyatları",
-      "source": "Ekonomim",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS0M1SVlBQ010cjN3d1UzNDFCRWg4U3paaDFhbGY4aU9hbVBTMC1PMW1EZ0o1ZndiTjV0SjZ1N21fWjF1U2s0UkM5MFJPdEdRVEJzTmZrWmdYZTdZeHZ1NzNLT19kNVM1SmV4TzZwZ2xGR1RZMnVCSjR0TUJTZ1AteGpIOWxLMFV0VWxyVWMwUGtXU0h1Ml9PYzZXc2pHc0FUXzRMVi1fSE1zV0JmSnM5LTgwUF93aUlNVlVGeXdWWFVfMVI3UEtfdWxfNmRDTExjTzZnNWJDb0NwMTA?oc=5",
-      "category": "Altın & Döviz",
-      "published_at": "2026-11-24T04:12:00+00:00",
-      "is_breaking": false
-    },
-    {
-      "id": "eadbd7d1bc71",
-      "title": "Merkez’den faiz ve stopaj mesajı",
-      "source": "Posta",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wTFF5cVJOVXprZkYwaVhuWGdPSmJvNlk5LUpvTk1Zd2daVnJqNHRlRnBETFI0b2tXeGJHclBFRXNjbTR3cTR3TDlRNl9kVVZjbk5uaEw5MC1PYXEyZFBWa08wMmU3YkFqeU9tT0tPZV9pSThBRWlzRzlUUVI?oc=5",
-      "category": "Makro & TCMB",
-      "published_at": "2026-11-24T04:00:00+00:00",
-      "is_breaking": true
-    },
-    {
-      "id": "c04d03c6e0c7",
-      "title": "Özlale'den 25 Eylül iddiası: 'hesaplar bir gecede sıfırlandı'",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEc2x6OF9TQjE5ay1MQnljZ3hubjFNX2J3VDl6UDNtUy1FaGJWM3g2S3AxaHM5RnR3WHkxdkFjTFlMY1BfeTlSRW5HNkx6X21TNkJ4VXh0bWxlRnVoelHSAWNBVV95cUxQSmhiaXNuOV8zaHpQMTRIOUNNTUQyYmJiSE1IOXBmejc2WG9WR0owMjFoNmpqM2R0N2ptT29sOWRzdDNrRjN0cnlJWmV0RVdHTURmaXJaUUlXRmNUTnVIemFPdlk?oc=5",
-      "category": "Gündem & X",
-      "published_at": "2026-11-23T23:31:03+00:00",
-      "is_breaking": false,
-      "ai_summary": "Bir siyasetçinin 25 Eylül tarihinde hesapların bir gecede sıfırlandığına dair bir iddiası gündeme gelmiştir. Bu tür açıklamalar, piyasalarda belirsizlik algısını artırarak kısa vadeli dalgalanmalara yol açabilir."
-    },
-    {
-      "id": "90bdd4894fa1",
-      "title": "Fed/Williams: Enflasyon hala çok yüksek, faiz artırımlarında yapılacak işler var",
-      "source": "Foreks.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVEpPaFJ5RTh4RlU0LXNhb2k4eW1Hbjl0ZG0waXZfXzJCczBPMDQ1clQ4MjdwMjJIY0dReWtlUVJlSEJ3UWR5UWt5MGRLMU0wZjYzdXdNRHZiSVE5U0Jvdk9kckR6N0lhV3llM1V3clE0U2VRbmRfb1ZCamY5N3d4R3hVMDNLcmo0YkdLVDFvVlN5b0cxMEtTRGpBbW5iMldyZjlRcjRRRDBMUzlQRlJ1S2lmVzhrRFllRFBsY3VkaGpfTlBUbHdiaE5xaXRLcXNjZnBXUEVoclVGQm1VWXZYczUtSTVJQnFrRGQyYUUzY00?oc=5",
-      "category": "Makro & TCMB",
-      "published_at": "2026-11-23T22:41:06+00:00",
-      "is_breaking": true,
-      "ai_summary": "Fed yetkilisi Williams, enflasyonun yüksek seyrini koruduğunu ve faiz artırımları konusunda henüz tamamlanmamış işler olduğunu belirtmiştir. Bu açıklama, küresel piyasalarda faiz artırımı beklentilerini güçlendirerek risk iştahını etkileyebilir."
-    },
-    {
-      "id": "0d2671ed4eb8",
-      "title": "Fon soruşturmasında 4 şüpheliye tutuklama talebi",
-      "source": "Haber Sunum",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUE5GZWg0blNDcFkyWVYyYjNiVVktNVhaWGR3Y0VsampuWHpfZFVMLWFCVXVRWXBKY1VCTWNmNVJELUQ2NlBPTjVsT3haUVBUb1dzUWU2bEE5Qml0V2RmTDhEX2h2LTVqZmZLOXRtNUY5ejhhUzVuaDVMOXRTSEFxWWtRNUtjVnFaV0E?oc=5",
-      "category": "Gündem & X",
-      "published_at": "2026-11-23T20:05:04+00:00",
-      "is_breaking": true
-    },
-    {
-      "id": "de1436abd17c",
-      "title": "Altın ve gümüşte sert düşüş sonrası yükseliş: Uzman isimden kritik uyarı",
-      "source": "CNBC-e",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRDNhQzVKMEM5SU8zbEgwcXVVQ2VPVnVMMzc1R001NERBd2M2UXZtUFVtNzlXelZrOUszVFBQVnIyTUNIQ0pySHhEQmxsOUtURGExNGVUNzd5WlRnazBqb1Jva1V2T1FoeGNKeVFOQWgzR3dkZ3U4Um1rQ2l5cGl1b3pTNkVraktqMXFIRE5kYmNZb2lZcnBvNU9YOUVRRXI4cGtzRDRYMHVmYzh5UUZsZw?oc=5",
-      "category": "Küresel",
-      "published_at": "2026-11-23T18:43:00+00:00",
-      "is_breaking": true,
-      "ai_summary": "Altın ve gümüş fiyatlarında yaşanan sert düşüşün ardından bir yükseliş gözlemlenmiş ve bir uzmandan önemli bir uyarı gelmiştir. Bu durum, değerli metallerdeki oynaklığın devam edebileceğine işaret ederek yatırımcıların dikkatli olmasını gerektirebilir."
-    },
-    {
-      "id": "ebcdf75dddaf",
-      "title": "Metin Külünk’ten fon skandalına sert tepki: “Bir yıldır biliyordunuz, ne yaptınız?”",
-      "source": "Aydınses Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVzJIQlFsT0R6Z2NTWmxIbk52R0RYWGNyLWhva1RTQ1h2blRDekVLQnItdnNLbHJibjd3UjdtdndUd2o5anBTakdiLWNqVGEyVFdXbDdBOW8yamxzNFNScU1fbm5CMVNiZDFHOEJYX011VGU1SERJN3A2RVNHZzB5dkE3ME1oQnNjdU93QUM5WEFrd1JEOUJsb3VLSXBrSzJRakdpNg?oc=5",
-      "category": "Gündem & X",
-      "published_at": "2026-11-23T16:00:00+00:00",
-      "is_breaking": true
-    },
-    {
-      "id": "c57e2da7fe4f",
-      "title": "TCMB FAİZ KARARI TARİHİ 2026 ARALIK (PPK TOPLANTISI) | Merkez Bankası faiz kararı ne zaman açıklanacak, hangi gün? Merkez Bankası faiz beklentisi nedir? Gözler Aralık ayı toplantısında!",
-      "source": "Bigpara",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOZjRpMXFzT3F0Qy1yZXlEWlRBZVM5MVJGbkx1LWc0bDVIbUJpbUtJRWNFTGlZZ0t6dzdIOUhaZE0wdEJCMzVaQmxvYTdXT21vX3ZGR1ZkTURMa24zVDNKTWJzaEZOVzVfZUlWLTN0SDYwUERWYXI0ejNTbm40ZWZKUm1PYzJDc1N4VTY5dG00SWp0Vkx4VzRaYlpSRUpQTEZRSzFFamZaTHNZM2NNbng3UnhiMWRJb19HUmpOVS01VjlROXRjajR1LWRPV0JkVHp6SUI2Ty1BMmFVcGNvcVJsOWxPMEtmRXMwSTZGeVo5NmdqMl9naGVKQTJ1Vzk2RzJSZWs3UXRXV3VDUE9RWEdKQTZ0QQ?oc=5",
-      "category": "Makro & TCMB",
-      "published_at": "2026-11-23T15:35:22+00:00",
-      "is_breaking": true,
-      "ai_summary": "Türkiye Cumhuriyet Merkez Bankası'nın (TCMB) Aralık 2026 Para Politikası Kurulu (PPK) toplantısı ve faiz kararı beklentileri gündemdedir. Bu toplantı öncesi ve sonrası, piyasalarda faiz oranlarına ilişkin beklentiler ve döviz kurları üzerinde hareketlilik yaşanabilir."
-    },
-    {
-      "id": "d12593b07a5c",
-      "title": "KAP *** QNB YATIRIM MENKUL DEĞERLER A.Ş. *** FNY,QNBIN *** İzahname (Sermaye Piyasası Aracı Notu-SPK Onayına Sunulan)",
-      "source": "Yeni Şafak",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNU0YteTdvLUVNNld5dlVOU0ZnRGNWb2V1OXpjYzF5U3N0U1pSNjJWYkNwYjVhUzJKbU9yS0ZXN2FQZkRPa2lNQnd4SzBXdWFpaHJQckw0ZzZzT2pubkpJWDNER1hxNy1yRGxPd3RTdnRBM25jUGZ0WGpRTExKWmZHalo2Z25LZHRXZXFwOVdtYlB5djF3dmdua1Y4cmdyVlJuQjlhN016anhEa0RNQ0Q5c1VqQ2drTUkyTTZwQkpRZUJOWndnOGdWaVQtTE1aQmRpemh1d0hPZWg3XzUxX0tVc0VkVlJFYnJISGJV?oc=5",
-      "category": "Gündem & X",
-      "published_at": "2026-11-23T12:20:00+00:00",
-      "is_breaking": true
-    },
-    {
-      "id": "a42c94733811",
-      "title": "Fon soruşturmasında yeni gelişme!",
-      "source": "Bursada Bugün",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdG5XcVR6QkhTbjBsdFI3OXNraXFOMW9kdlhXTjVaWTU2a281ZEk3SklpWE81QlZfT293b211VDNRVGF2V2hYVkZWNUc3U2ZZQjN6SlFjM29MR180X2E0Wnd2LXZINW93UDlRYWJ6QVE1MUlKN0xkYlgtcG1kVmFMdzZFUmFwVXI1MWfSAYoBQVVfeXFMTnRuV3FUekJIU24wbHRSNzlza2lxTjFvZHZYV041Wlk1NmtvNWRJN0pJaVhPNUJWX09vd29tdVQzUVRhdldoWFZGVjVHN1NmWUIzekpRYzNvTEdfNF9hNFp3di12SDVvd1A5UWFiekFRNTFJSjdMZGJYLXBtZFZhTHc2RVJhcFVyNTFn?oc=5",
-      "category": "Gündem & X",
-      "published_at": "2026-11-23T12:13:31+00:00",
-      "is_breaking": true,
-      "ai_summary": "Devam eden fon soruşturmasında yeni bir gelişme yaşandığı bildirildi. Bu tür gelişmeler, ilgili fonların ve piyasanın genel güven algısını etkileyebilir."
-    },
-    {
-      "id": "70a364b82376",
-      "title": "FED faiz kararı ne zaman açıklanacak? Ekonomistlerin faiz beklentisi ne yönde?",
-      "source": "NTV Haber",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQVRMcU5tSFpNaFB2ZWxQZVZkYTU5RkdhTUNUaDRzZ3VxMXotZlJfMlFVWkJsMm9sUUdWbjZjdjRqNnFlVGJCcDJHWHdidzRGYkN6WmFmNlRSbjFXZFczaEpPVFBteVdJTzRRWUdJTnV4S1MtLThyeUdhbGJKTG14NUZIMjZ5ZVdDUU45eEtRM3NfbTh4OENIWHZFanB0Qnc2YUtvMFNDMm4xVVVNS2ZiNXRPZEpXQQ?oc=5",
-      "category": "Makro & TCMB",
-      "published_at": "2026-11-23T12:11:25+00:00",
-      "is_breaking": true,
-      "ai_summary": "Federal Rezerv'in (Fed) faiz kararı açıklanma tarihi ve ekonomistlerin beklentileri piyasaların odağında yer alıyor. Fed'in alacağı kararlar, küresel piyasalar ve döviz kurları üzerinde önemli etkilere sahip olabilir."
-    },
-    {
-      "id": "be9fb947c215",
-      "title": "ABD’de PCE ve büyüme haftası: Fed kararını etkileyebilecek veriler 25 Kasım’da",
-      "source": "Paratic Haber",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX0FmV0tfRzdqUFBBNmQtT2tOam1UbjRHSGRfeFdJSDlwVWhKNm5DcHE5UF9Vak9naEg4Q2VFcENTb1hjSkphLUg1NVVsNFVsYk1pS2pPZUVYUE85cTNkVUVVYXdkcjBYWGdkMTZGanlMeU5BeWZqMjZfaTF4czAyUGVFRnNhSERIY1B2Q0tDNXdVUkRwVnlIZXp1Tlk?oc=5",
-      "category": "Küresel",
-      "published_at": "2026-11-23T12:06:31+00:00",
+      "id": "bd914b534fb3",
+      "title": "Borsa İstanbul Şirket Haberleri (24 Kasım)",
+      "source": "Borsa Gundem",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkbHJlS1F5djFfV3ZsMWhqZUlqV3BxWEppTUlGM1d5NHFhVHdlM25WYWpZWUgtWWRadXZid29FcmQ4Ni1HMzJ3T0pmQUY4d05XZ2lzQTJCM2lPSEtDUlY5bDZfTWtLX3pWbnQ5V2JlWS04RjZTTHJNVEpxcDRSdw?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-24T06:31:00+00:00",
       "is_breaking": false
     }
   ],
   "notification_candidates": [
     {
-      "id": "677b829481e9",
-      "title": "[Makro & TCMB] Canlı Gaste",
-      "body": "TCMB’nin 24 Kasım 2026 Gösterge Döviz Kurları Belirlendi",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdXBzQjdCbnlhNm01eU1oTjNRMmNCZHBCeWE4V0p6TWVwNlQ4eGdkODB3Smh6ZEVxM3ozT3FKdXRYT2J3dzFFblNkTkdmdExJdVA0WW1YWUtiWlFMTGVyc3BTQndudGZQZjZHYWY1RGdGazJpUzgydS10NS1IYW96TkhaNmJhUGc3SVFuRkJoUUh5Q1JkNmc?oc=5",
-      "published_at": "2026-11-24T12:36:53+00:00"
+      "id": "7b7ed9ef9f7d",
+      "title": "[Gündem & X] Ege Telgraf",
+      "body": "Fon mağdurları için ödeme takvimi açıklandı! 27 Kasım'a dikkat",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOckttTWhUdUZVb2ZmWDhOMUpZOFV3Z29GYnlScHNYZWl2R3hQT1RIYl92dXA0M2xZLVRsTUcyTFVHSEZ6cDJXU0lpTm9oN3NUQy1zNGZaRFhEYUg1NkQwU1FBZ05jNFlNMGVlaGVkSHFlWjJYUlpyMGNlT2xWbGNSazctVUxyZzAxQUhJ?oc=5",
+      "published_at": "2026-11-24T20:21:00+00:00"
     },
     {
-      "id": "b5901357d181",
-      "title": "[Gündem & X] DW.com",
-      "body": "Fon krizi: Cezaevinden tahliye edilen Fatma Betül Sayan Kaya kimdir?",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOblVJMzlhTUJtTDV4VWZVczltTDdKYjJzRDlZN0ZfUG0tVG1VTmFZOFRvdkIteE55X09kZDhZMjRjalg0RUJYbUdqZ2k2MmZudTRnMUZhaVhzclY1NjU4MkRJSnhIUkVRV2F2U2RMNnRtZ2trRDd2Tmc4THdZWEQ2MnpHONIBgwFBVV95cUxOblVJMzlhTUJtTDV4VWZVczltTDdKYjJzRDlZN0ZfUG0tVG1VTmFZOFRvdkIteE55X09kZDhZMjRjalg0RUJYbUdqZ2k2MmZudTRnMUZhaVhzclY1NjU4MkRJSnhIUkVRV2F2U2RMNnRtZ2trRDd2Tmc4THdZWEQ2MnpHOA?oc=5",
-      "published_at": "2026-11-24T11:34:59+00:00"
+      "id": "337425436398",
+      "title": "[Gündem & X] ParaMedya",
+      "body": "Fon krizinde kritik gelişme: Son ödemeler için 27 Kasım tarihi verildi, SPK düzenlemesi tamamlandı",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ3RTQzhYT3NwM19ZVHA1dGJXMHFKRW1aMFNvMkhxSUMtZnBBN1dYMmdtZ3JHU1o1SDFXYWJjWDJUZUZKbThIU25SZ1M1amxNXzdJWVVaRkd3Y1daakxwcVpkeXFESm1XdC1qaEVMMGJOdTBET1dza01QVmMyMUFkM3E3YUNERFBEOGtIQ1l1YzVMZ0Z4Y01PVkM0Zk5BVVctZnBMNUFqS3E4ZTB0RGJUVlhteTJHUmJkcGxHQmxELWJHTEJmeDVNbWx4RXF5YldYZFHSAdgBQVVfeXFMTjFmYmJzT2hvNkpTVThxcDdiajlNX0RJa0VaSlV2Y191T05WZVl1VGk2ODFCNERCanZwczJGY1hKWWFKeFBBTkpjR2pxNWhEckhWUHotSUZiV1ZmWTNnb2N4UnZIVTh1N1Bwa1VhQ3Ftc19ZTUlBNFkxbm4yZFVPWEt3VDV3WEY3RUQ5SlhoQ0xveE96X1JWZjJUd1Vha0RZNGpzcjJIVHBQSkNGVDdBVXhWTDRTRWZGVVoyd25lYlNib2hPVHV3VGJXT2tUZy1Ub1ZLZlRlZjRT?oc=5",
+      "published_at": "2026-11-24T19:52:51+00:00"
     },
     {
-      "id": "ebf3475c1e19",
-      "title": "[Makro & TCMB] https://www.edirneahval.com/",
-      "body": "Merkez Bankası'ndan 3 Yıl Sonra İlk İndirim: Kredi Kartı Faiz Oranları Düştü!",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUkdoMF9XeDhBM3lSUGV0NXpuSWFOaHJTUkctWXNLUkhiZ1pWQXF5VFZYSW9peVpuZGgzdVY2NzNseDl5YkVNY0NRUzE0WTZfRjRMaVMtazVjQ1JSZkRBX21jVGV3d29NaUpxM3lJcWptZElXQ05weG9CT29kZHFod1lqZHNrYlZzTUE0aldQUDByU0wxc2FLa0NVMzVlZzJrTzVuTGZZb3E3aEcyc1hzWFdHYndIcVJj?oc=5",
-      "published_at": "2026-11-24T10:56:56+00:00"
+      "id": "f6c8d2e7cd09",
+      "title": "[Gündem & X] Anka Haber",
+      "body": "On Birinci Fon Koordinasyon Kurulu Toplantısı'nın ardından açıklama: Fon mağdurlarına 1 milyon TL'ye kadar ara ödemeler 27 Kasım'da tamamlanacak",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZV9Za2lVMEtGYmRncFpuVFI0QmZiQTVUT1hqelVKanJoVjZxYVpZT2FQSHBmaEpTRjBUd1pKMTV0WGFBSEFZbFVEcFZpd2VjTm81dGY4RmMxelBvcXBNcFJGNDd6THAwM1JzS3VKd0xLN2s1RGRJcXZSVnRZd2QtNmR3VTdOU3QtM0pSR243bFlLYlNEaHJVMEFzd2tpVXlVejAtV3U0SjdqekF6aEVkLS1lN1diN2VReUVPSWlEXzJRb1hZNm1Da2xZRjBwMXQxWVNaTzZFSTlIYzMyQUE2Nm1HZHcyX0djbWl2blpJNkFmMkJyN3huOW5iTThsMHlfNXBUem9xRU8xdG1x?oc=5",
+      "published_at": "2026-11-24T19:45:11+00:00"
     },
     {
-      "id": "33812509a854",
-      "title": "[Makro & TCMB] Paratic Haber",
-      "body": "Simkus’tan Avrupa’da enflasyon uyarısı: Faiz artışları sürebilir",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1JlTGlVblhIN19jdWlhVXpCNWxJQVhfNkNiQVRNUDJoU1QwbmxnUktFbVNJSHBnclJmNzk0ZUZkTldRekVqdzFfNVBCX0ZmTExWWmh1eDVMT09SZkM0b2dRY2phZWZ2OVRnY0dqdHcxMmM1S3FLSks5Wks3YmY3Z2dZN3QyZHVEY1E?oc=5",
-      "published_at": "2026-11-24T09:56:15+00:00"
+      "id": "0c4a2fc0ff4b",
+      "title": "[Gündem & X] Ekonomim",
+      "body": "Fon ödemelerinde yeni açıklama: 1 milyon TL'ye kadar olan ara ödemelerde son kısım için tarih 27 Kasım",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWU5CMS1kd2padkpsenIxUTQzbFpCT21zZXFVNm5FX09wYkdXYUdlLWEzWUxyZmx3b1BJQ01rMEdxWXh2Y25pcVBEY0pNbThUZGZBRkhKUjRGRm9Ha1cxTHJOR01SU2U3Z1ozLVRmc3NCa3BxTXJoM3IxX2FDdEhKc21wRDA0bWM3SHJSMEZBR3FmTzFTLWo1akJmMFI2NDctTkl1aDU4bC1hS1FGV1U4Wnlsc2pmQ1hEY3lRaXBwdjJycFVFR2ZPbVEteUJrc3d1aFRXaThHdTJqUGljbnVKeg?oc=5",
+      "published_at": "2026-11-24T19:29:00+00:00"
     },
     {
-      "id": "90183c8977e4",
-      "title": "[Makro & TCMB] Bigpara",
-      "body": "Kredi kartı faizlerinde indirim kararı! Borç yapılandırmada üst sınır belli oldu",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc2JNUE5GaVUzV0RDWHZRNXkwMGRDY18wdURPYVBQV1kwZll0Q09EWkJMeWVDMF9FdVN6WU9uVVVhNlJoeFh4Y1BBcGF6OXJ4Zlh3UTdDNWg0b052NVZUcDZPcGdxY18tekVIUy10Mi0zZ082UVhlXzdabHdaMlFuWTFOUHJXQTVpVXZmOEJXUUwwTzkyNnFKMDRjV21Jby1SWGcwQXdMSVlubEFwR2VJ?oc=5",
-      "published_at": "2026-11-24T09:06:51+00:00"
+      "id": "4359410b83f5",
+      "title": "[Gündem & X] Gazete Pencere",
+      "body": "Fon soruşturmasının görünmeyen mağdurları",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVEQ2T29Tc2RaUXJ3UDFxX21mWDdRcUFjUUNSQ0k2cUVCY3N5VURvUkR6SW05cEZ4RXhtZUJuaEJBS2V3SkowVEo1QVZXXzloanpjMTdhb1VnUHhESWotQkZiaDd3TXBvLVpPUUgyN0tDOGMwV0RlbWJNdjdEeUp5VWVNd0hKNjVac3RBYUVHdm0?oc=5",
+      "published_at": "2026-11-24T15:11:00+00:00"
     }
   ]
 }
