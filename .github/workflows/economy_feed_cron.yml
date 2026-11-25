@@ -33,7 +33,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python piyasa_sade_engine/news_aggregator.py
 
-      - name: BIST 120 Yükselen & Düşenler (İlk 15 • 1G/10G/20G/30G) Üret
+      - name: Tüm BIST (~625 Hisse) Yükselen & Düşenler (İlk 15 • 1G/10G/20G/30G) Üret
         run: python piyasa_sade_engine/movers_aggregator.py
 
       - name: AI Sabah Bülteni (09:30) ve Akşam Kapanış Özeti (18:25) Üret

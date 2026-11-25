@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-11-25T19:58:18.597980+00:00",
-  "source": "Yahoo Finance",
-  "universe": "BIST Ana Pazar (121 hisse)",
-  "scanned_count": 121,
+  "generated_at": "2026-11-25T20:23:47.354299+00:00",
+  "source": "BIST (TradingView + Yahoo Doğrulamalı)",
+  "universe": "Tüm BIST (625 hisse)",
+  "scanned_count": 625,
   "breadth": {
-    "advancers": 9,
-    "decliners": 112,
-    "unchanged": 0,
-    "total": 121
+    "advancers": 70,
+    "decliners": 548,
+    "unchanged": 7,
+    "total": 625
   },
   "indices": {
     "XU100": {
       "symbol": "XU100",
       "name": "BIST 100",
       "price": 10655.74,
-      "previous_close": 11104.4,
-      "change_percent": -4.04
+      "previous_close": 10965.93,
+      "change_percent": -2.83
     },
     "XU030": {
       "symbol": "XU030",
       "name": "BIST 30",
       "price": 13364.0,
-      "previous_close": 13938.3,
-      "change_percent": -4.12
+      "previous_close": 13762.06,
+      "change_percent": -2.89
     },
     "USDTRY": {
       "symbol": "USDTRY",
       "name": "Dolar / TL",
-      "price": 50.668,
+      "price": 50.6727,
       "previous_close": 50.6404,
-      "change_percent": 0.05
+      "change_percent": 0.06
     },
     "EURTRY": {
       "symbol": "EURTRY",
       "name": "Euro / TL",
-      "price": 55.6271,
+      "price": 55.632,
       "previous_close": 55.525,
-      "change_percent": 0.18
+      "change_percent": 0.19
     },
     "GOLD": {
       "symbol": "GOLD",
       "name": "Ons Altın",
-      "price": 3563.5,
+      "price": 3597.1,
       "previous_close": 3591.1,
-      "change_percent": -0.77
+      "change_percent": 0.17
     },
     "GRAM_ALTIN": {
       "symbol": "GRAM_ALTIN",
       "name": "Gram Altın (TL)",
-      "price": 5804.99,
+      "price": 5860.27,
       "previous_close": 5846.77,
-      "change_percent": -0.71
+      "change_percent": 0.23
     }
   },
   "periods": {
@@ -58,969 +58,1131 @@
       "days": 1,
       "start_date": "24.11.2026",
       "end_date": "25.11.2026",
-      "scanned_count": 121,
-      "advancers": 9,
-      "decliners": 112,
-      "unchanged": 0,
+      "scanned_count": 625,
+      "advancers": 70,
+      "decliners": 548,
+      "unchanged": 7,
       "gainers": [
         {
+          "symbol": "OZRDN",
+          "name": "Ozerden Ambalaj Sanayi A.S.",
+          "price": 13.2,
+          "previous_close": 12.0,
+          "change_percent": 10.0,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
+        },
+        {
+          "symbol": "GEREL",
+          "name": "Gersan Elektrik Ticaret ve Sanayi A.S.",
+          "price": 21.24,
+          "previous_close": 19.31,
+          "change_percent": 9.99,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
+        },
+        {
+          "symbol": "TGSAS",
+          "name": "TGS Dis Ticaret AS",
+          "price": 110.1,
+          "previous_close": 100.1,
+          "change_percent": 9.99,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
+        },
+        {
+          "symbol": "TMPOL",
+          "name": "Temapol Polimer Plastik Ve Insaat Sanayi Ticaret A..S",
+          "price": 73.3,
+          "previous_close": 66.65,
+          "change_percent": 9.98,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
+        },
+        {
+          "symbol": "EFOR",
+          "name": "Efor Yatirim Sanayi Ticaret A.S.",
+          "price": 11.25,
+          "previous_close": 10.23,
+          "change_percent": 9.97,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
+        },
+        {
+          "symbol": "VANGD",
+          "name": "Vanet Gida Sanayi Ic ve Dis Ticaret AS",
+          "price": 51.2,
+          "previous_close": 46.56,
+          "change_percent": 9.97,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
+        },
+        {
           "symbol": "KTLEV",
-          "name": "Katılımevim",
+          "name": "KATILIMEVIM TASARRUF FINANSMAN A.S.",
           "price": 6.63,
           "previous_close": 6.03,
           "change_percent": 9.95,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:08:21+00:00"
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
+        },
+        {
+          "symbol": "SAFKR",
+          "name": "Safkar Ege Cooling Air Conditioning Cold Air Tes.Ihr.Ith.A.S",
+          "price": 12.82,
+          "previous_close": 11.66,
+          "change_percent": 9.95,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
+        },
+        {
+          "symbol": "SEGMN",
+          "name": "Segmen Kardesler Gida Uretim ve Ambalaj Sanayi AS",
+          "price": 15.38,
+          "previous_close": 13.99,
+          "change_percent": 9.94,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
+        },
+        {
+          "symbol": "KATMR",
+          "name": "Katmerciler Arac Ustu Ekipman Sanayi ve Ticaret A.S.",
+          "price": 1.22,
+          "previous_close": 1.11,
+          "change_percent": 9.91,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
+        },
+        {
+          "symbol": "AKENR",
+          "name": "Akenerji Elektrik Uretim A.S.",
+          "price": 7.22,
+          "previous_close": 6.57,
+          "change_percent": 9.89,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
         },
         {
           "symbol": "REEDR",
-          "name": "Reeder Teknoloji",
+          "name": "Reeder Teknoloji Sanayi ve Ticaret A.S.",
           "price": 2.25,
           "previous_close": 2.05,
           "change_percent": 9.76,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:35+00:00"
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
         },
         {
-          "symbol": "KONTR",
-          "name": "Kontrolmatik Teknoloji",
-          "price": 2.29,
-          "previous_close": 2.18,
-          "change_percent": 5.05,
+          "symbol": "GENIL",
+          "name": "Gen Ilac ve Saglik Urunleri Sanayi ve Ticaret A.S.",
+          "price": 4.54,
+          "previous_close": 4.22,
+          "change_percent": 7.58,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:47+00:00"
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
         },
         {
-          "symbol": "ANSGR",
-          "name": "Anadolu Sigorta",
-          "price": 21.06,
-          "previous_close": 20.62,
-          "change_percent": 2.13,
+          "symbol": "ISKPL",
+          "name": "Isik Plastik Sanayi VE Dis Ticaret Pazarlama AS",
+          "price": 2.87,
+          "previous_close": 2.68,
+          "change_percent": 7.09,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:08:02+00:00"
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
         },
         {
-          "symbol": "LOGO",
-          "name": "Logo Yazılım",
-          "price": 112.3,
-          "previous_close": 110.3,
-          "change_percent": 1.81,
+          "symbol": "PENTA",
+          "name": "Penta Teknoloji Urunleri Dagitim Ticaret AS",
+          "price": 9.24,
+          "previous_close": 8.7,
+          "change_percent": 6.21,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:05:27+00:00"
-        },
-        {
-          "symbol": "ASTOR",
-          "name": "Astor Enerji",
-          "price": 152.4,
-          "previous_close": 149.7,
-          "change_percent": 1.8,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:55+00:00"
-        },
-        {
-          "symbol": "OTKAR",
-          "name": "Otokar",
-          "price": 302.0,
-          "previous_close": 297.5,
-          "change_percent": 1.51,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T15:08:01+00:00"
-        },
-        {
-          "symbol": "BIENY",
-          "name": "Bien Yapı Ürünleri",
-          "price": 11.54,
-          "previous_close": 11.38,
-          "change_percent": 1.41,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T15:08:35+00:00"
-        },
-        {
-          "symbol": "AKSA",
-          "name": "Aksa Akrilik",
-          "price": 11.12,
-          "previous_close": 11.1,
-          "change_percent": 0.18,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:55+00:00"
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
         }
       ],
       "losers": [
         {
-          "symbol": "BFREN",
-          "name": "Bosch Fren Sistemleri",
-          "price": 91.8,
-          "previous_close": 99.05,
-          "change_percent": -7.32,
+          "symbol": "TKNKA",
+          "name": "Teknika Plast Teknik Kalip Plastik Sanayi Ve Ticaret Anonim Sirketi",
+          "price": 34.2,
+          "previous_close": 38.0,
+          "change_percent": -10.0,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:08:19+00:00"
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
         },
         {
-          "symbol": "SELEC",
-          "name": "Selçuk Ecza Deposu",
-          "price": 93.0,
-          "previous_close": 100.3,
-          "change_percent": -7.28,
+          "symbol": "IHAAS",
+          "name": "Ihlas Haber Ajansi SA",
+          "price": 9.81,
+          "previous_close": 10.9,
+          "change_percent": -10.0,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:08:54+00:00"
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
         },
         {
-          "symbol": "GOLTS",
-          "name": "Göltaş Çimento",
-          "price": 208.6,
-          "previous_close": 224.9,
-          "change_percent": -7.25,
+          "symbol": "DUNYH",
+          "name": "Dunya Holding Anonim Sirketi",
+          "price": 13.5,
+          "previous_close": 15.0,
+          "change_percent": -10.0,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:58+00:00"
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
         },
         {
-          "symbol": "KLSER",
-          "name": "Kaleseramik",
-          "price": 13.83,
-          "previous_close": 14.89,
-          "change_percent": -7.12,
+          "symbol": "GUNDG",
+          "name": "Gundogdu Gida Sut Urunleri Sanayi Ve Dis Ticaret AS",
+          "price": 151.2,
+          "previous_close": 168.0,
+          "change_percent": -10.0,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:05:26+00:00"
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
         },
         {
-          "symbol": "TRENJ",
-          "name": "TR Doğal Enerji",
-          "price": 64.05,
-          "previous_close": 68.9,
-          "change_percent": -7.04,
+          "symbol": "ENDAE",
+          "name": "Enda Enerji Holding Anonim Sirketi",
+          "price": 6.94,
+          "previous_close": 7.71,
+          "change_percent": -9.99,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:32+00:00"
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
         },
         {
-          "symbol": "TRMET",
-          "name": "TR Anadolu Metal Madencilik",
-          "price": 95.3,
-          "previous_close": 102.4,
-          "change_percent": -6.93,
+          "symbol": "KARTN",
+          "name": "Kartonsan Karton Sanayi ve Ticaret Anonim Sirketi",
+          "price": 80.6,
+          "previous_close": 89.55,
+          "change_percent": -9.99,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:54+00:00"
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
         },
         {
-          "symbol": "EUPWR",
-          "name": "Europower Enerji",
-          "price": 29.74,
-          "previous_close": 31.8,
-          "change_percent": -6.48,
+          "symbol": "UFUK",
+          "name": "Ufuk Yatirim Yonetim Ve Gayrimenkul A.S.",
+          "price": 126.3,
+          "previous_close": 140.3,
+          "change_percent": -9.98,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:14+00:00"
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
         },
         {
-          "symbol": "TRALT",
-          "name": "Türk Altın İşletmeleri",
-          "price": 32.1,
-          "previous_close": 34.32,
-          "change_percent": -6.47,
+          "symbol": "LYDHO",
+          "name": "Lydia Holding A.S.",
+          "price": 18.04,
+          "previous_close": 20.04,
+          "change_percent": -9.98,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:55+00:00"
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
         },
         {
-          "symbol": "TOASO",
-          "name": "Tofaş Oto Fabrika",
-          "price": 232.8,
-          "previous_close": 248.4,
-          "change_percent": -6.28,
+          "symbol": "DSTKF",
+          "name": "Destek Finans Faktoring A.S.",
+          "price": 98.3,
+          "previous_close": 109.2,
+          "change_percent": -9.98,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:08:41+00:00"
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
         },
         {
-          "symbol": "PASEU",
-          "name": "Pasifik Eurasia Lojistik",
-          "price": 28.2,
-          "previous_close": 30.04,
-          "change_percent": -6.13,
+          "symbol": "KARCL",
+          "name": "Kardemir Celik Sanayi AS",
+          "price": 45.6,
+          "previous_close": 50.65,
+          "change_percent": -9.97,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:50+00:00"
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
         },
         {
-          "symbol": "AEFES",
-          "name": "Anadolu Efes",
-          "price": 14.62,
-          "previous_close": 15.52,
-          "change_percent": -5.8,
+          "symbol": "ARMGD",
+          "name": "Armada Gida Ticaret ve Sanayi Anonim Sirketi",
+          "price": 79.45,
+          "previous_close": 88.25,
+          "change_percent": -9.97,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:38+00:00"
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
         },
         {
-          "symbol": "EKGYO",
-          "name": "Emlak Konut GYO",
-          "price": 16.3,
-          "previous_close": 17.26,
-          "change_percent": -5.56,
+          "symbol": "TRHOL",
+          "name": "Tera Financial Investments Holding A.S.",
+          "price": 83.05,
+          "previous_close": 92.25,
+          "change_percent": -9.97,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:59+00:00"
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
         },
         {
-          "symbol": "TMSN",
-          "name": "Tümosan Motor",
-          "price": 42.82,
-          "previous_close": 45.3,
-          "change_percent": -5.47,
+          "symbol": "OZATD",
+          "name": "OZATA DENIZCILIK SANAYI VE TICARET AS",
+          "price": 105.8,
+          "previous_close": 117.5,
+          "change_percent": -9.96,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:05:27+00:00"
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
         },
         {
-          "symbol": "AKSEN",
-          "name": "Aksa Enerji",
-          "price": 58.2,
-          "previous_close": 61.45,
-          "change_percent": -5.29,
+          "symbol": "ALKLC",
+          "name": "Altinkilic Gida ve Sut Sanayi Ticaret AS",
+          "price": 33.26,
+          "previous_close": 36.94,
+          "change_percent": -9.96,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:12+00:00"
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
         },
         {
-          "symbol": "AKFYE",
-          "name": "Akfen Yenilenebilir Enerji",
-          "price": 2.56,
-          "previous_close": 2.7,
-          "change_percent": -5.19,
+          "symbol": "BIGEN",
+          "name": "Birlesim Grup Enerji Yatirimlari AS",
+          "price": 11.67,
+          "previous_close": 12.96,
+          "change_percent": -9.95,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:58+00:00"
+          "updated_at": "2026-11-25T20:23:47.338048+00:00"
         }
       ]
     },
     "10": {
       "days": 10,
-      "start_date": "11.11.2026",
+      "start_date": "13.11.2026",
       "end_date": "25.11.2026",
-      "scanned_count": 121,
-      "advancers": 8,
-      "decliners": 113,
-      "unchanged": 0,
+      "scanned_count": 622,
+      "advancers": 60,
+      "decliners": 561,
+      "unchanged": 1,
       "gainers": [
         {
-          "symbol": "CWENE",
-          "name": "CW Enerji",
-          "price": 17.8,
-          "previous_close": 15.3,
-          "change_percent": 16.34,
+          "symbol": "IDGYO",
+          "name": "Idealist Gayrimenkul Yatirim Ortakligi A.S.",
+          "price": 3.41,
+          "previous_close": 2.23,
+          "change_percent": 52.91,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:58+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "IHLGM",
+          "name": "Ihlas Gayrimenkul Proje Gelistirme ve Ticaret A.S.",
+          "price": 1.44,
+          "previous_close": 1.0,
+          "change_percent": 44.0,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "PEKGY",
+          "name": "Peker Gayrimenkul Yatirim Ortakligi AS",
+          "price": 1.97,
+          "previous_close": 1.51,
+          "change_percent": 30.46,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "GUNDG",
+          "name": "Gundogdu Gida Sut Urunleri Sanayi Ve Dis Ticaret AS",
+          "price": 151.2,
+          "previous_close": 116.0,
+          "change_percent": 30.34,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
           "symbol": "BSOKE",
-          "name": "Batısöke Çimento",
+          "name": "Batisoke Soke Cimento Sanayii T.A.S.",
           "price": 6.46,
-          "previous_close": 5.69,
-          "change_percent": 13.53,
+          "previous_close": 5.35,
+          "change_percent": 20.75,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:08:14+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "BIOEN",
-          "name": "Biotrend Enerji",
-          "price": 14.18,
-          "previous_close": 12.53,
-          "change_percent": 13.17,
+          "symbol": "RALYH",
+          "name": "Ral Yatirim Holding A.S.",
+          "price": 5.34,
+          "previous_close": 4.47,
+          "change_percent": 19.46,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:49+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "KTLEV",
-          "name": "Katılımevim",
-          "price": 6.63,
-          "previous_close": 6.13,
-          "change_percent": 8.16,
+          "symbol": "LYDYE",
+          "name": "Lydia Yesil Enerji kaynaklari A.S.",
+          "price": 2449.0,
+          "previous_close": 2069.0,
+          "change_percent": 18.37,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:08:21+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "AKSA",
-          "name": "Aksa Akrilik",
-          "price": 11.12,
-          "previous_close": 10.47,
-          "change_percent": 6.21,
+          "symbol": "IHEVA",
+          "name": "Ihlas Ev Aletleri Imalat, Sanayi ve Ticaret A.S.",
+          "price": 1.6,
+          "previous_close": 1.36,
+          "change_percent": 17.65,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:55+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "SELEC",
-          "name": "Selçuk Ecza Deposu",
-          "price": 93.0,
-          "previous_close": 87.7,
-          "change_percent": 6.04,
+          "symbol": "TEHOL",
+          "name": "Tera Yatirim Teknoloji Holding A.S.",
+          "price": 2.14,
+          "previous_close": 1.82,
+          "change_percent": 17.58,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:08:54+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "KONTR",
-          "name": "Kontrolmatik Teknoloji",
-          "price": 2.29,
-          "previous_close": 2.17,
-          "change_percent": 5.53,
+          "symbol": "IEYHO",
+          "name": "Isiklar Enerji ve Yapi Holding Anonim Sirketi",
+          "price": 11.43,
+          "previous_close": 9.73,
+          "change_percent": 17.47,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:47+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "TOASO",
-          "name": "Tofaş Oto Fabrika",
-          "price": 232.8,
-          "previous_close": 232.5,
-          "change_percent": 0.13,
+          "symbol": "OZATD",
+          "name": "OZATA DENIZCILIK SANAYI VE TICARET AS",
+          "price": 105.8,
+          "previous_close": 90.1,
+          "change_percent": 17.43,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:08:41+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "MANAS",
+          "name": "Manas Enerji Yonetimi Sanayi ve Ticaret A.S.",
+          "price": 4.18,
+          "previous_close": 3.56,
+          "change_percent": 17.42,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "BIGEN",
+          "name": "Birlesim Grup Enerji Yatirimlari AS",
+          "price": 11.67,
+          "previous_close": 9.94,
+          "change_percent": 17.4,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "ALKLC",
+          "name": "Altinkilic Gida ve Sut Sanayi Ticaret AS",
+          "price": 33.26,
+          "previous_close": 28.34,
+          "change_percent": 17.36,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "DSTKF",
+          "name": "Destek Finans Faktoring A.S.",
+          "price": 98.3,
+          "previous_close": 83.8,
+          "change_percent": 17.3,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
         }
       ],
       "losers": [
         {
-          "symbol": "SARKY",
-          "name": "Sarkuysan",
-          "price": 13.03,
-          "previous_close": 16.31,
-          "change_percent": -20.11,
+          "symbol": "MAGEN",
+          "name": "MARGUN ENERJI URETIM SANAYI VE TICARET A.S.",
+          "price": 4.13,
+          "previous_close": 6.98,
+          "change_percent": -40.83,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:54+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "LKMNH",
-          "name": "Lokman Hekim",
-          "price": 9.21,
-          "previous_close": 11.5,
-          "change_percent": -19.91,
+          "symbol": "HEDEF",
+          "name": "Hedef Holding AS",
+          "price": 4.46,
+          "previous_close": 7.09,
+          "change_percent": -37.09,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:59+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "SDTTR",
-          "name": "SDT Uzay ve Savunma",
-          "price": 9.25,
-          "previous_close": 11.4,
-          "change_percent": -18.86,
+          "symbol": "USHOL",
+          "name": "US Yatirim Holding A.S.",
+          "price": 44.0,
+          "previous_close": 66.5,
+          "change_percent": -33.83,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:15+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "BTCIM",
-          "name": "Batıçim",
-          "price": 1.63,
-          "previous_close": 2.0,
-          "change_percent": -18.5,
+          "symbol": "KRDMB",
+          "name": "Kardemir Karabiik Demir celik Sanayi ve Ticaret A.S. Class B",
+          "price": 39.14,
+          "previous_close": 58.65,
+          "change_percent": -33.27,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:12+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "BIENY",
-          "name": "Bien Yapı Ürünleri",
-          "price": 11.54,
-          "previous_close": 14.03,
-          "change_percent": -17.75,
+          "symbol": "ENDAE",
+          "name": "Enda Enerji Holding Anonim Sirketi",
+          "price": 6.94,
+          "previous_close": 10.15,
+          "change_percent": -31.63,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:08:35+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "ARMGD",
+          "name": "Armada Gida Ticaret ve Sanayi Anonim Sirketi",
+          "price": 79.45,
+          "previous_close": 115.5,
+          "change_percent": -31.21,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "PASEU",
+          "name": "Pasifik Eurasia Lojistik dis Ticaret AS",
+          "price": 28.2,
+          "previous_close": 39.86,
+          "change_percent": -29.25,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "ZERGY",
+          "name": "Zeray Gayrimenkul Yatirim Ortakligi AS",
+          "price": 3.7,
+          "previous_close": 5.23,
+          "change_percent": -29.25,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "BURCE",
+          "name": "Burcelik Bursa Celik Doekum Sanayii A.S.",
+          "price": 15.01,
+          "previous_close": 21.16,
+          "change_percent": -29.06,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "MTRKS",
+          "name": "Matriks Finansal Teknolojiler A.S.",
+          "price": 11.29,
+          "previous_close": 15.67,
+          "change_percent": -27.95,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "AZTEK",
+          "name": "Aztek Teknoloji Urunleri Ticaret A.S.",
+          "price": 1.99,
+          "previous_close": 2.76,
+          "change_percent": -27.9,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
           "symbol": "EUPWR",
-          "name": "Europower Enerji",
+          "name": "Europower Enerji ve Otomasyon Teknolojileri Sanayi Ticaret AS",
           "price": 29.74,
-          "previous_close": 36.14,
-          "change_percent": -17.71,
+          "previous_close": 40.98,
+          "change_percent": -27.43,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:14+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "TUKAS",
-          "name": "Tukaş Gıda",
-          "price": 1.78,
-          "previous_close": 2.16,
-          "change_percent": -17.59,
+          "symbol": "KARTN",
+          "name": "Kartonsan Karton Sanayi ve Ticaret Anonim Sirketi",
+          "price": 80.6,
+          "previous_close": 109.8,
+          "change_percent": -26.59,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:58+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "TRENJ",
-          "name": "TR Doğal Enerji",
-          "price": 64.05,
-          "previous_close": 77.5,
-          "change_percent": -17.35,
+          "symbol": "A1CAP",
+          "name": "A1 Capital Yatitim Menkul Degerler A.S.",
+          "price": 2.42,
+          "previous_close": 3.26,
+          "change_percent": -25.77,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:32+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "SKBNK",
-          "name": "Şekerbank",
-          "price": 3.12,
-          "previous_close": 3.77,
-          "change_percent": -17.24,
+          "symbol": "GRTHO",
+          "name": "Grainturk Holding A.S.",
+          "price": 55.0,
+          "previous_close": 73.9,
+          "change_percent": -25.58,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:47+00:00"
-        },
-        {
-          "symbol": "AKSEN",
-          "name": "Aksa Enerji",
-          "price": 58.2,
-          "previous_close": 70.25,
-          "change_percent": -17.15,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:12+00:00"
-        },
-        {
-          "symbol": "TRALT",
-          "name": "Türk Altın İşletmeleri",
-          "price": 32.1,
-          "previous_close": 38.72,
-          "change_percent": -17.1,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:55+00:00"
-        },
-        {
-          "symbol": "ULKER",
-          "name": "Ülker Bisküvi",
-          "price": 61.95,
-          "previous_close": 74.35,
-          "change_percent": -16.68,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:41+00:00"
-        },
-        {
-          "symbol": "ODAS",
-          "name": "Odaş Elektrik",
-          "price": 3.98,
-          "previous_close": 4.76,
-          "change_percent": -16.39,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:14+00:00"
-        },
-        {
-          "symbol": "MGROS",
-          "name": "Migros Ticaret",
-          "price": 400.75,
-          "previous_close": 476.5,
-          "change_percent": -15.9,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:46+00:00"
-        },
-        {
-          "symbol": "AGHOL",
-          "name": "Anadolu Grubu Holding",
-          "price": 23.54,
-          "previous_close": 27.68,
-          "change_percent": -14.96,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T15:08:20+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         }
       ]
     },
     "20": {
       "days": 20,
-      "start_date": "27.10.2026",
+      "start_date": "05.11.2026",
       "end_date": "25.11.2026",
-      "scanned_count": 121,
-      "advancers": 36,
-      "decliners": 85,
-      "unchanged": 0,
+      "scanned_count": 622,
+      "advancers": 116,
+      "decliners": 504,
+      "unchanged": 2,
       "gainers": [
         {
+          "symbol": "GUNDG",
+          "name": "Gundogdu Gida Sut Urunleri Sanayi Ve Dis Ticaret AS",
+          "price": 151.2,
+          "previous_close": 65.6,
+          "change_percent": 130.49,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "PEKGY",
+          "name": "Peker Gayrimenkul Yatirim Ortakligi AS",
+          "price": 1.97,
+          "previous_close": 0.88,
+          "change_percent": 123.86,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "BIGEN",
+          "name": "Birlesim Grup Enerji Yatirimlari AS",
+          "price": 11.67,
+          "previous_close": 5.63,
+          "change_percent": 107.28,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "MANAS",
+          "name": "Manas Enerji Yonetimi Sanayi ve Ticaret A.S.",
+          "price": 4.18,
+          "previous_close": 2.03,
+          "change_percent": 105.91,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "IDGYO",
+          "name": "Idealist Gayrimenkul Yatirim Ortakligi A.S.",
+          "price": 3.41,
+          "previous_close": 1.68,
+          "change_percent": 102.98,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "DOGUB",
+          "name": "Dogusan Boru Sanayii ve Ticaret A.S.",
+          "price": 45.6,
+          "previous_close": 23.66,
+          "change_percent": 92.73,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "IEYHO",
+          "name": "Isiklar Enerji ve Yapi Holding Anonim Sirketi",
+          "price": 11.43,
+          "previous_close": 5.95,
+          "change_percent": 92.1,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "TEHOL",
+          "name": "Tera Yatirim Teknoloji Holding A.S.",
+          "price": 2.14,
+          "previous_close": 1.21,
+          "change_percent": 76.86,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "ALKLC",
+          "name": "Altinkilic Gida ve Sut Sanayi Ticaret AS",
+          "price": 33.26,
+          "previous_close": 19.59,
+          "change_percent": 69.78,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "OZRDN",
+          "name": "Ozerden Ambalaj Sanayi A.S.",
+          "price": 13.2,
+          "previous_close": 8.3,
+          "change_percent": 59.04,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
           "symbol": "KTLEV",
-          "name": "Katılımevim",
+          "name": "KATILIMEVIM TASARRUF FINANSMAN A.S.",
           "price": 6.63,
-          "previous_close": 4.15,
-          "change_percent": 59.76,
+          "previous_close": 4.42,
+          "change_percent": 50.0,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:08:21+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "KONTR",
-          "name": "Kontrolmatik Teknoloji",
-          "price": 2.29,
-          "previous_close": 1.52,
-          "change_percent": 50.66,
+          "symbol": "ANELE",
+          "name": "Anel Elektrik Proje Taahhut ve Ticaret A.S.",
+          "price": 9.34,
+          "previous_close": 6.25,
+          "change_percent": 49.44,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:47+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "SELEC",
-          "name": "Selçuk Ecza Deposu",
-          "price": 93.0,
-          "previous_close": 64.2,
-          "change_percent": 44.86,
+          "symbol": "IHLGM",
+          "name": "Ihlas Gayrimenkul Proje Gelistirme ve Ticaret A.S.",
+          "price": 1.44,
+          "previous_close": 0.98,
+          "change_percent": 46.94,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:08:54+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "BSOKE",
-          "name": "Batısöke Çimento",
-          "price": 6.46,
-          "previous_close": 4.5,
-          "change_percent": 43.56,
+          "symbol": "KARCL",
+          "name": "Kardemir Celik Sanayi AS",
+          "price": 45.6,
+          "previous_close": 31.46,
+          "change_percent": 44.95,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:08:14+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "BIOEN",
-          "name": "Biotrend Enerji",
-          "price": 14.18,
-          "previous_close": 10.5,
-          "change_percent": 35.05,
+          "symbol": "DSTKF",
+          "name": "Destek Finans Faktoring A.S.",
+          "price": 98.3,
+          "previous_close": 68.0,
+          "change_percent": 44.56,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:49+00:00"
-        },
-        {
-          "symbol": "CWENE",
-          "name": "CW Enerji",
-          "price": 17.8,
-          "previous_close": 14.32,
-          "change_percent": 24.3,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:58+00:00"
-        },
-        {
-          "symbol": "PGSUS",
-          "name": "Pegasus Hava Taşımacılığı",
-          "price": 151.0,
-          "previous_close": 122.1,
-          "change_percent": 23.67,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:58+00:00"
-        },
-        {
-          "symbol": "THYAO",
-          "name": "Türk Hava Yolları",
-          "price": 311.5,
-          "previous_close": 253.0,
-          "change_percent": 23.12,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:57+00:00"
-        },
-        {
-          "symbol": "DOCO",
-          "name": "DO & CO",
-          "price": 12302.5,
-          "previous_close": 10980.0,
-          "change_percent": 12.04,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T15:05:25+00:00"
-        },
-        {
-          "symbol": "YEOTK",
-          "name": "YEO Teknoloji",
-          "price": 24.78,
-          "previous_close": 22.5,
-          "change_percent": 10.13,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:53+00:00"
-        },
-        {
-          "symbol": "VESBE",
-          "name": "Vestel Beyaz Eşya",
-          "price": 3.25,
-          "previous_close": 2.96,
-          "change_percent": 9.8,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T15:05:27+00:00"
-        },
-        {
-          "symbol": "EGEEN",
-          "name": "Ege Endüstri",
-          "price": 4205.0,
-          "previous_close": 3830.0,
-          "change_percent": 9.79,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T15:08:13+00:00"
-        },
-        {
-          "symbol": "KCAER",
-          "name": "Kocaer Çelik",
-          "price": 9.78,
-          "previous_close": 8.98,
-          "change_percent": 8.91,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T15:08:47+00:00"
-        },
-        {
-          "symbol": "MPARK",
-          "name": "MLP Sağlık (Medical Park)",
-          "price": 417.5,
-          "previous_close": 384.75,
-          "change_percent": 8.51,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T15:08:32+00:00"
-        },
-        {
-          "symbol": "GARAN",
-          "name": "Garanti BBVA",
-          "price": 137.9,
-          "previous_close": 127.3,
-          "change_percent": 8.33,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:37+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         }
       ],
       "losers": [
         {
-          "symbol": "SOKM",
-          "name": "Şok Marketler",
-          "price": 40.12,
-          "previous_close": 55.75,
-          "change_percent": -28.04,
+          "symbol": "KARTN",
+          "name": "Kartonsan Karton Sanayi ve Ticaret Anonim Sirketi",
+          "price": 80.6,
+          "previous_close": 128.0,
+          "change_percent": -37.03,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:53+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "AKFYE",
-          "name": "Akfen Yenilenebilir Enerji",
-          "price": 2.56,
-          "previous_close": 3.52,
-          "change_percent": -27.27,
+          "symbol": "HEDEF",
+          "name": "Hedef Holding AS",
+          "price": 4.46,
+          "previous_close": 6.89,
+          "change_percent": -35.27,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:58+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "EUPWR",
-          "name": "Europower Enerji",
-          "price": 29.74,
-          "previous_close": 40.3,
-          "change_percent": -26.2,
+          "symbol": "ENDAE",
+          "name": "Enda Enerji Holding Anonim Sirketi",
+          "price": 6.94,
+          "previous_close": 10.71,
+          "change_percent": -35.2,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:14+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "SDTTR",
-          "name": "SDT Uzay ve Savunma",
-          "price": 9.25,
-          "previous_close": 11.85,
-          "change_percent": -21.94,
+          "symbol": "TRHOL",
+          "name": "Tera Financial Investments Holding A.S.",
+          "price": 83.05,
+          "previous_close": 126.1,
+          "change_percent": -34.14,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:15+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "TURSG",
-          "name": "Türkiye Sigorta",
-          "price": 2.79,
-          "previous_close": 3.41,
-          "change_percent": -18.18,
+          "symbol": "USHOL",
+          "name": "US Yatirim Holding A.S.",
+          "price": 44.0,
+          "previous_close": 66.8,
+          "change_percent": -34.13,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:36+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "ULKER",
-          "name": "Ülker Bisküvi",
-          "price": 61.95,
-          "previous_close": 75.6,
-          "change_percent": -18.06,
+          "symbol": "ARMGD",
+          "name": "Armada Gida Ticaret ve Sanayi Anonim Sirketi",
+          "price": 79.45,
+          "previous_close": 119.9,
+          "change_percent": -33.74,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:41+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "DOAS",
-          "name": "Doğuş Otomotiv",
-          "price": 110.6,
-          "previous_close": 134.3,
-          "change_percent": -17.65,
+          "symbol": "ARASE",
+          "name": "Dogu Aras Enerji Yatirimlari AS",
+          "price": 52.55,
+          "previous_close": 78.35,
+          "change_percent": -32.93,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:04+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "NUHCM",
-          "name": "Nuh Çimento",
-          "price": 160.4,
-          "previous_close": 193.2,
-          "change_percent": -16.98,
+          "symbol": "NETAS",
+          "name": "Netas Telekomunikasyon A.S.",
+          "price": 45.82,
+          "previous_close": 66.85,
+          "change_percent": -31.46,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:05:27+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "ARDYZ",
-          "name": "ARD Bilişim",
-          "price": 43.88,
-          "previous_close": 52.55,
-          "change_percent": -16.5,
+          "symbol": "KRDMB",
+          "name": "Kardemir Karabiik Demir celik Sanayi ve Ticaret A.S. Class B",
+          "price": 39.14,
+          "previous_close": 56.3,
+          "change_percent": -30.48,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:56+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "PETKM",
-          "name": "Petkim",
-          "price": 14.77,
-          "previous_close": 17.58,
-          "change_percent": -15.98,
+          "symbol": "ZERGY",
+          "name": "Zeray Gayrimenkul Yatirim Ortakligi AS",
+          "price": 3.7,
+          "previous_close": 5.28,
+          "change_percent": -29.92,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:05+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "SARKY",
-          "name": "Sarkuysan",
-          "price": 13.03,
-          "previous_close": 15.33,
-          "change_percent": -15.0,
+          "symbol": "OTTO",
+          "name": "OTTO HOLDING A.S",
+          "price": 71.85,
+          "previous_close": 101.6,
+          "change_percent": -29.28,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:54+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "ARCLK",
-          "name": "Arçelik",
-          "price": 60.0,
-          "previous_close": 70.3,
-          "change_percent": -14.65,
+          "symbol": "IZFAS",
+          "name": "Izmir Firca Sanayi ve Ticaret AS",
+          "price": 10.61,
+          "previous_close": 14.95,
+          "change_percent": -29.03,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:06+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "ECZYT",
-          "name": "Eczacıbaşı Yatırım",
-          "price": 137.9,
-          "previous_close": 161.5,
-          "change_percent": -14.61,
+          "symbol": "INDES",
+          "name": "Indeks Bilgisayar Sistemleri Muhendislik Sanayi ve Ticaret A.S",
+          "price": 7.85,
+          "previous_close": 11.0,
+          "change_percent": -28.64,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:27+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "HALKB",
-          "name": "Halkbank",
-          "price": 37.14,
-          "previous_close": 43.32,
-          "change_percent": -14.27,
+          "symbol": "AZTEK",
+          "name": "Aztek Teknoloji Urunleri Ticaret A.S.",
+          "price": 1.99,
+          "previous_close": 2.78,
+          "change_percent": -28.42,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:57+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "KAYSE",
-          "name": "Kayseri Şeker",
-          "price": 2.05,
-          "previous_close": 2.39,
-          "change_percent": -14.23,
+          "symbol": "BURCE",
+          "name": "Burcelik Bursa Celik Doekum Sanayii A.S.",
+          "price": 15.01,
+          "previous_close": 20.96,
+          "change_percent": -28.39,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:05:26+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         }
       ]
     },
     "30": {
       "days": 30,
-      "start_date": "13.10.2026",
+      "start_date": "26.10.2026",
       "end_date": "25.11.2026",
-      "scanned_count": 121,
-      "advancers": 10,
-      "decliners": 111,
-      "unchanged": 0,
+      "scanned_count": 623,
+      "advancers": 198,
+      "decliners": 420,
+      "unchanged": 5,
       "gainers": [
         {
-          "symbol": "BIOEN",
-          "name": "Biotrend Enerji",
-          "price": 14.18,
-          "previous_close": 10.01,
-          "change_percent": 41.66,
+          "symbol": "DOGUB",
+          "name": "Dogusan Boru Sanayii ve Ticaret A.S.",
+          "price": 45.6,
+          "previous_close": 14.35,
+          "change_percent": 217.77,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:49+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "SELEC",
-          "name": "Selçuk Ecza Deposu",
-          "price": 93.0,
-          "previous_close": 73.65,
-          "change_percent": 26.27,
+          "symbol": "PEKGY",
+          "name": "Peker Gayrimenkul Yatirim Ortakligi AS",
+          "price": 1.97,
+          "previous_close": 0.91,
+          "change_percent": 116.48,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:08:54+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "IDGYO",
+          "name": "Idealist Gayrimenkul Yatirim Ortakligi A.S.",
+          "price": 3.41,
+          "previous_close": 1.68,
+          "change_percent": 102.98,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "SANFM",
+          "name": "SANIFOAM ENDUSTRI VE TUKETIM URUNLERI SANAYI TICARET A.S.",
+          "price": 5.18,
+          "previous_close": 2.91,
+          "change_percent": 78.01,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
           "symbol": "KONTR",
-          "name": "Kontrolmatik Teknoloji",
+          "name": "Kontrolmatik Teknoloji Enerji ve Muhendislik AS",
           "price": 2.29,
-          "previous_close": 1.98,
-          "change_percent": 15.66,
+          "previous_close": 1.29,
+          "change_percent": 77.52,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:47+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "DOCO",
-          "name": "DO & CO",
-          "price": 12302.5,
-          "previous_close": 10720.0,
-          "change_percent": 14.76,
+          "symbol": "MANAS",
+          "name": "Manas Enerji Yonetimi Sanayi ve Ticaret A.S.",
+          "price": 4.18,
+          "previous_close": 2.5,
+          "change_percent": 67.2,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:05:25+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "PGSUS",
-          "name": "Pegasus Hava Taşımacılığı",
-          "price": 151.0,
-          "previous_close": 132.6,
-          "change_percent": 13.88,
+          "symbol": "OZRDN",
+          "name": "Ozerden Ambalaj Sanayi A.S.",
+          "price": 13.2,
+          "previous_close": 8.08,
+          "change_percent": 63.37,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:58+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "THYAO",
-          "name": "Türk Hava Yolları",
-          "price": 311.5,
-          "previous_close": 286.25,
-          "change_percent": 8.82,
+          "symbol": "KTLEV",
+          "name": "KATILIMEVIM TASARRUF FINANSMAN A.S.",
+          "price": 6.63,
+          "previous_close": 4.1,
+          "change_percent": 61.71,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:57+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "AKSA",
-          "name": "Aksa Akrilik",
-          "price": 11.12,
-          "previous_close": 10.32,
-          "change_percent": 7.75,
+          "symbol": "BIGEN",
+          "name": "Birlesim Grup Enerji Yatirimlari AS",
+          "price": 11.67,
+          "previous_close": 7.46,
+          "change_percent": 56.43,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:55+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "BSOKE",
-          "name": "Batısöke Çimento",
-          "price": 6.46,
-          "previous_close": 6.0,
-          "change_percent": 7.67,
+          "symbol": "GUNDG",
+          "name": "Gundogdu Gida Sut Urunleri Sanayi Ve Dis Ticaret AS",
+          "price": 151.2,
+          "previous_close": 97.85,
+          "change_percent": 54.52,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:08:14+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "GARAN",
-          "name": "Garanti BBVA",
-          "price": 137.9,
-          "previous_close": 131.3,
-          "change_percent": 5.03,
+          "symbol": "FZLGY",
+          "name": "FUZUL GAYRIMENKUL YATIRIM ORTAKLIGI A.S.",
+          "price": 6.5,
+          "previous_close": 4.22,
+          "change_percent": 54.03,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:37+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "TAVHL",
-          "name": "TAV Havalimanları",
-          "price": 280.5,
-          "previous_close": 268.25,
-          "change_percent": 4.57,
+          "symbol": "KARCL",
+          "name": "Kardemir Celik Sanayi AS",
+          "price": 45.6,
+          "previous_close": 31.02,
+          "change_percent": 47.0,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:08:26+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "IHLGM",
+          "name": "Ihlas Gayrimenkul Proje Gelistirme ve Ticaret A.S.",
+          "price": 1.44,
+          "previous_close": 0.98,
+          "change_percent": 46.94,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "SVGYO",
+          "name": "Savur Gayrimenkul Yatirim Ortakligi A.S",
+          "price": 2.79,
+          "previous_close": 1.91,
+          "change_percent": 46.07,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "SMART",
+          "name": "Smartiks Yazilim AS",
+          "price": 14.89,
+          "previous_close": 10.38,
+          "change_percent": 43.45,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
         }
       ],
       "losers": [
         {
-          "symbol": "TURSG",
-          "name": "Türkiye Sigorta",
-          "price": 2.79,
-          "previous_close": 5.42,
-          "change_percent": -48.52,
+          "symbol": "RALYH",
+          "name": "Ral Yatirim Holding A.S.",
+          "price": 5.34,
+          "previous_close": 14.31,
+          "change_percent": -62.68,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:36+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "SKBNK",
-          "name": "Şekerbank",
-          "price": 3.12,
-          "previous_close": 5.19,
-          "change_percent": -39.88,
+          "symbol": "HEDEF",
+          "name": "Hedef Holding AS",
+          "price": 4.46,
+          "previous_close": 11.75,
+          "change_percent": -62.04,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:47+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "SDTTR",
-          "name": "SDT Uzay ve Savunma",
-          "price": 9.25,
-          "previous_close": 15.29,
-          "change_percent": -39.5,
+          "symbol": "TRHOL",
+          "name": "Tera Financial Investments Holding A.S.",
+          "price": 83.05,
+          "previous_close": 213.3,
+          "change_percent": -61.06,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:15+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "EUPWR",
-          "name": "Europower Enerji",
-          "price": 29.74,
-          "previous_close": 48.0,
-          "change_percent": -38.04,
+          "symbol": "OZATD",
+          "name": "OZATA DENIZCILIK SANAYI VE TICARET AS",
+          "price": 105.8,
+          "previous_close": 236.7,
+          "change_percent": -55.3,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:14+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "GUBRF",
-          "name": "Gübre Fabrikaları",
-          "price": 267.0,
-          "previous_close": 406.0,
-          "change_percent": -34.24,
+          "symbol": "ZERGY",
+          "name": "Zeray Gayrimenkul Yatirim Ortakligi AS",
+          "price": 3.7,
+          "previous_close": 6.75,
+          "change_percent": -45.19,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:59+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "TRENJ",
-          "name": "TR Doğal Enerji",
-          "price": 64.05,
-          "previous_close": 97.3,
-          "change_percent": -34.17,
+          "symbol": "USHOL",
+          "name": "US Yatirim Holding A.S.",
+          "price": 44.0,
+          "previous_close": 70.85,
+          "change_percent": -37.9,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:32+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "ECZYT",
-          "name": "Eczacıbaşı Yatırım",
-          "price": 137.9,
-          "previous_close": 208.8,
-          "change_percent": -33.96,
+          "symbol": "KUVVA",
+          "name": "Kuvva Gida Ticaret ve Sanayi Yatirimlari A.S.",
+          "price": 53.0,
+          "previous_close": 82.5,
+          "change_percent": -35.76,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:27+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "HEKTS",
-          "name": "Hektaş",
-          "price": 1.43,
-          "previous_close": 2.14,
-          "change_percent": -33.18,
+          "symbol": "NETAS",
+          "name": "Netas Telekomunikasyon A.S.",
+          "price": 45.82,
+          "previous_close": 67.85,
+          "change_percent": -32.47,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:56+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "BORLS",
+          "name": "Borlease Otomotiv AS",
+          "price": 1.52,
+          "previous_close": 2.22,
+          "change_percent": -31.53,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
+        },
+        {
+          "symbol": "SOKM",
+          "name": "Sok Marketler Ticaret AS",
+          "price": 40.12,
+          "previous_close": 57.6,
+          "change_percent": -30.35,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
           "symbol": "AKFYE",
-          "name": "Akfen Yenilenebilir Enerji",
+          "name": "AKFEN YENILENEBILIR ENERJI A.S.",
           "price": 2.56,
-          "previous_close": 3.8,
-          "change_percent": -32.63,
+          "previous_close": 3.65,
+          "change_percent": -29.86,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:58+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "ODAS",
-          "name": "Odaş Elektrik",
-          "price": 3.98,
-          "previous_close": 5.87,
-          "change_percent": -32.2,
+          "symbol": "ARTMS",
+          "name": "Artemis Hali A. S.",
+          "price": 21.2,
+          "previous_close": 30.2,
+          "change_percent": -29.8,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:14+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "KAYSE",
-          "name": "Kayseri Şeker",
-          "price": 2.05,
-          "previous_close": 3.0,
-          "change_percent": -31.67,
+          "symbol": "ENDAE",
+          "name": "Enda Enerji Holding Anonim Sirketi",
+          "price": 6.94,
+          "previous_close": 9.87,
+          "change_percent": -29.69,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:05:26+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "ARDYZ",
-          "name": "ARD Bilişim",
-          "price": 43.88,
-          "previous_close": 64.2,
-          "change_percent": -31.65,
+          "symbol": "BIGCH",
+          "name": "Buyuk Sefler Gida Turizm Tekstil Danismanlik Organizasyon Egitim Sanayi ve Ticaret A.S.",
+          "price": 2.13,
+          "previous_close": 3.01,
+          "change_percent": -29.24,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:56+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         },
         {
-          "symbol": "VESTL",
-          "name": "Vestel Elektronik",
-          "price": 12.01,
-          "previous_close": 17.48,
-          "change_percent": -31.29,
+          "symbol": "ODINE",
+          "name": "Odine Solutions Teknoloji Ticaret ve Sanayi AS",
+          "price": 61.95,
+          "previous_close": 86.3,
+          "change_percent": -28.22,
           "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:27+00:00"
-        },
-        {
-          "symbol": "SARKY",
-          "name": "Sarkuysan",
-          "price": 13.03,
-          "previous_close": 18.91,
-          "change_percent": -31.09,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:54+00:00"
-        },
-        {
-          "symbol": "REEDR",
-          "name": "Reeder Teknoloji",
-          "price": 2.25,
-          "previous_close": 3.26,
-          "change_percent": -30.98,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T15:09:35+00:00"
+          "updated_at": "2026-11-25T06:30:00+00:00"
         }
       ]
     }
