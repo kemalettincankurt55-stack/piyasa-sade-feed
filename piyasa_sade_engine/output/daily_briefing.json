@@ -1,0 +1,91 @@
+{
+  "generated_at": "2026-11-25T19:56:29.057878+00:00",
+  "istanbul_time": "25.11.2026 22:56",
+  "date": "25.11.2026",
+  "active_mode": "evening",
+  "disclaimer": "Yatırım tavsiyesi değildir (YTD). Doğrulanmış piyasa verileri ve ekonomi başlıklarından üretilmiştir.",
+  "breadth": {
+    "advancers": 9,
+    "decliners": 112,
+    "unchanged": 0,
+    "total": 121
+  },
+  "indices": {
+    "XU100": {
+      "symbol": "XU100",
+      "name": "BIST 100",
+      "price": 10655.74,
+      "previous_close": 11104.4,
+      "change_percent": -4.04
+    },
+    "XU030": {
+      "symbol": "XU030",
+      "name": "BIST 30",
+      "price": 13364.0,
+      "previous_close": 13938.3,
+      "change_percent": -4.12
+    },
+    "USDTRY": {
+      "symbol": "USDTRY",
+      "name": "Dolar / TL",
+      "price": 50.6738,
+      "previous_close": 50.6404,
+      "change_percent": 0.07
+    },
+    "EURTRY": {
+      "symbol": "EURTRY",
+      "name": "Euro / TL",
+      "price": 55.6363,
+      "previous_close": 55.525,
+      "change_percent": 0.2
+    },
+    "GOLD": {
+      "symbol": "GOLD",
+      "name": "Ons Altın",
+      "price": 3564.6,
+      "previous_close": 3591.1,
+      "change_percent": -0.74
+    },
+    "GRAM_ALTIN": {
+      "symbol": "GRAM_ALTIN",
+      "name": "Gram Altın (TL)",
+      "price": 5807.45,
+      "previous_close": 5846.77,
+      "change_percent": -0.67
+    }
+  },
+  "morning": {
+    "id": "morning-2026-11-25",
+    "type": "morning",
+    "date": "25.11.2026",
+    "ready_at_tr": "09:30",
+    "title": "☀️ Piyasa Açılışına 30 dk • 25.11.2026",
+    "headline": "BIST açılışı öncesi piyasa görünümü ve günün başlıkları (25.11.2026)",
+    "notification_body": "Son kapanış: BIST 100 10655.74 (%-4.04). Döviz ve emtia görünümü: Dolar/TL 50.6738 (+%0.07) · Gram Altın 5807.45 TL (%-0.67).",
+    "bullets": [
+      "Son işlem gününde BIST 100 10655.74 (%-4.04) seviyesinden kapandı; 121 ana hisseden 9 hisse artıda, 112 hisse ekside yer aldı.",
+      "Döviz ve emtia görünümü: Dolar/TL 50.6738 (+%0.07) · Gram Altın 5807.45 TL (%-0.67).",
+      "Gündem başlığı: Gram altın yeniden 6 bin lira sınırında: Fiyatlar 14 ayın dibinden sert döndü.",
+      "Gündem başlığı: Küresel altın fiyatlarında Fed etkisi: 8 ayın en sert düşüşünden sonra yükseliş.",
+      "Gündem başlığı: BIST 100 günü yüzde 0,24 düşüşle 11.104,38 puandan kapattı."
+    ],
+    "ai_generated": false
+  },
+  "evening": {
+    "id": "evening-2026-11-25",
+    "type": "evening",
+    "date": "25.11.2026",
+    "ready_at_tr": "18:25",
+    "title": "🌙 Borsa Kapanış Özeti • BIST 100 10655.74 (%-4.04)",
+    "headline": "Borsa İstanbul gün sonu özeti: 9 yükselen, 112 düşen (25.11.2026)",
+    "notification_body": "BIST 100 10655.74 (%-4.04). 121 ana BIST hissesinden 112 tanesi düşüşte, 9 tanesi yükselişte kapattı.",
+    "bullets": [
+      "Taranan 121 ana BIST hissesinden 9 tanesi günü yükselişle, 112 tanesi düşüşle tamamladı.",
+      "BIST 100 10655.74 (%-4.04) · Dolar/TL 50.6738 (+%0.07) · Gram Altın 5807.45 TL (%-0.67).",
+      "Günün öne çıkan yükselenleri: KTLEV (+%9.95), REEDR (+%9.76), KONTR (+%5.05).",
+      "Satış baskısının yoğunlaştığı hisseler: BFREN (%-7.32), SELEC (%-7.28), GOLTS (%-7.25).",
+      "Günün öne çıkan ekonomi başlığı: Gram altın yeniden 6 bin lira sınırında: Fiyatlar 14 ayın dibinden sert döndü."
+    ],
+    "ai_generated": false
+  }
+}

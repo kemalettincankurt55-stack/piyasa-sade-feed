@@ -1,9 +1,13 @@
-name: Piyasa Sade — 30dk AI Ekonomi Haberleri & BIST Yükselen/Düşenler (CDN JSON)
+name: Piyasa Sade — 30dk AI Ekonomi Haberleri, BIST Liderleri & Sabah/Akşam Bülteni
 
 on:
   schedule:
-    # Her 30 dakikada bir otomatik çalışır (günde 48 kez — tamamen ücretsiz)
+    # Her 30 dakikada bir otomatik çalışır
     - cron: "*/30 * * * *"
+    # Hafta içi BIST açılışından 40 dk önce (09:20 TR = 06:20 UTC) -> 09:30 Sabah Bülteni hazır
+    - cron: "20 6 * * 1-5"
+    # Hafta içi BIST kapanışından 10 dk sonra (18:20 TR = 15:20 UTC) -> 18:25 Akşam Özeti hazır
+    - cron: "20 15 * * 1-5"
   workflow_dispatch:
 
 permissions:
@@ -29,12 +33,17 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python piyasa_sade_engine/news_aggregator.py
 
-      - name: BIST 100 Yükselen & Düşenler (1G/10G/20G/30G) Üret
+      - name: BIST 120 Yükselen & Düşenler (İlk 15 • 1G/10G/20G/30G) Üret
         run: python piyasa_sade_engine/movers_aggregator.py
+
+      - name: AI Sabah Bülteni (09:30) ve Akşam Kapanış Özeti (18:25) Üret
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python piyasa_sade_engine/daily_briefing_generator.py
 
       - name: Güncel JSON akışlarını yayınla
         run: |
           git config user.name "Piyasa Sade Bot"
           git config user.email "bot@piyasasade.app"
-          git add piyasa_sade_engine/output/economy_feed.json piyasa_sade_engine/output/movers_feed.json
-          git diff --staged --quiet || (git commit -m "chore(feed): update AI news and BIST movers feed" && git push)
+          git add piyasa_sade_engine/output/economy_feed.json piyasa_sade_engine/output/movers_feed.json piyasa_sade_engine/output/daily_briefing.json
+          git diff --staged --quiet || (git commit -m "chore(feed): update AI news, BIST 120 movers and daily briefings" && git push)
