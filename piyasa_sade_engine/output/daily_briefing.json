@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-11-25T19:58:36.760581+00:00",
-  "istanbul_time": "25.11.2026 22:58",
+  "generated_at": "2026-11-25T20:25:27.562377+00:00",
+  "istanbul_time": "25.11.2026 23:25",
   "date": "25.11.2026",
   "active_mode": "evening",
   "disclaimer": "Yatırım tavsiyesi değildir (YTD). Doğrulanmış piyasa verileri ve ekonomi başlıklarından üretilmiştir.",
   "breadth": {
-    "advancers": 9,
-    "decliners": 112,
-    "unchanged": 0,
-    "total": 121
+    "advancers": 70,
+    "decliners": 548,
+    "unchanged": 7,
+    "total": 625
   },
   "indices": {
     "XU100": {
       "symbol": "XU100",
       "name": "BIST 100",
       "price": 10655.74,
-      "previous_close": 11104.4,
-      "change_percent": -4.04
+      "previous_close": 10965.93,
+      "change_percent": -2.83
     },
     "XU030": {
       "symbol": "XU030",
       "name": "BIST 30",
       "price": 13364.0,
-      "previous_close": 13938.3,
-      "change_percent": -4.12
+      "previous_close": 13762.06,
+      "change_percent": -2.89
     },
     "USDTRY": {
       "symbol": "USDTRY",
       "name": "Dolar / TL",
-      "price": 50.668,
+      "price": 50.6739,
       "previous_close": 50.6404,
-      "change_percent": 0.05
+      "change_percent": 0.07
     },
     "EURTRY": {
       "symbol": "EURTRY",
       "name": "Euro / TL",
-      "price": 55.6271,
+      "price": 55.6236,
       "previous_close": 55.525,
       "change_percent": 0.18
     },
     "GOLD": {
       "symbol": "GOLD",
       "name": "Ons Altın",
-      "price": 3563.5,
+      "price": 3594.8,
       "previous_close": 3591.1,
-      "change_percent": -0.77
+      "change_percent": 0.1
     },
     "GRAM_ALTIN": {
       "symbol": "GRAM_ALTIN",
       "name": "Gram Altın (TL)",
-      "price": 5804.99,
+      "price": 5856.66,
       "previous_close": 5846.77,
-      "change_percent": -0.71
+      "change_percent": 0.17
     }
   },
   "morning": {
@@ -75,15 +75,15 @@
     "type": "evening",
     "date": "25.11.2026",
     "ready_at_tr": "18:25",
-    "title": "🌙 Borsa Kapanış Özeti: BIST'te kayıp serisi sürdü",
-    "headline": "Borsa İstanbul günü sert düşüşle tamamlarken, dolar yatay, gram altın ise değer kaybetti.",
-    "notification_body": "BIST 100 endeksi günü %4'ün üzerinde düşüşle kapattı. 112 hisse değer kaybederken, dolar yatay, gram altın ise geriledi. ABD enflasyon verileri ve işlem yasakları piyasayı etkiledi.",
+    "title": "🌙 Borsa Kapanış Özeti: Sert Düşüş ve İşlem Yasakları",
+    "headline": "BIST 100 günü %2,83 düşüşle tamamlarken, 548 hisse değer kaybetti; küresel enflasyon verileri piyasaları etkiledi.",
+    "notification_body": "Borsa İstanbul'da sert düşüş yaşandı, BIST 100 10.655 puana geriledi. TKNKA gibi hisselere işlem yasağı geldi, küresel enflasyon endişeleri etkili oldu.",
     "bullets": [
-      "Borsa İstanbul'da işlem gören 121 hisseden 112'si değer kaybederken, sadece 9 hisse yükselişle günü tamamladı. BIST 100 endeksi günü %4.04 düşüşle 10655.74 puandan kapattı.",
-      "Dolar/TL kuru günü %0.05'lik hafif bir yükselişle 50.668 seviyesinde tamamlarken, ons altın %0.77, gram altın ise %0.71 değer kaybederek 5804.99 TL'ye geriledi.",
-      "Piyasalardaki sert satış dalgası ve altın fiyatlarındaki düşüşte, ABD'de açıklanan ve beklentiyi aşan Ekim ayı çekirdek PCE enflasyon verileri etkili oldu. Bu durum, Fed'in faiz artışı beklentilerini güçlendirdi.",
-      "Borsa İstanbul'da SELEC (Selçuk Ecza Deposu) gibi hisselerin en çok düşenler arasında yer alması ve Borsa İstanbul'un TKNKA, PASEU, SELEC hisselerine işlem yasağı getirmesi, piyasadaki olumsuz havayı pekiştirdi.",
-      "Günün en çok yükselenleri arasında Katılımevim (%9.95), Reeder Teknoloji (%9.76) ve Kontrolmatik Teknoloji (%5.05) yer alırken, genel piyasa düşüşünden ayrıştılar."
+      "Borsa İstanbul'da bugün 625 hisseden 548'i değer kaybederken, BIST 100 endeksi günü %2,83 düşüşle 10.655,74 puandan tamamladı.",
+      "Dolar/TL günü sınırlı bir yükselişle 50,67 seviyesinden kapatırken, Gram Altın da %0,17 artışla 5.856,66 TL'ye yükseldi.",
+      "Günün en çok düşenleri arasında TKNKA, IHAAS ve DUNYH gibi hisseler yer alırken, TKNKA'ya getirilen işlem yasağı düşüşte etkili oldu.",
+      "Küresel piyasalarda Fed'in tercih ettiği enflasyon göstergesinin beklentiyi aşması ve ABD ekonomisindeki hızlanma, Borsa İstanbul'daki düşüşte etkili olan başlıca nedenler arasında yer aldı.",
+      "Günün öne çıkan diğer gelişmeleri arasında GOLDA hissesinde devre kesici uygulaması ve Borsa İstanbul'dan bazı hisselere gelen tedbir kararları yer aldı."
     ],
     "ai_generated": true
   }
