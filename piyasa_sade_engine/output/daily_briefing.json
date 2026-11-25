@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T19:56:29.057878+00:00",
-  "istanbul_time": "25.11.2026 22:56",
+  "generated_at": "2026-11-25T19:58:36.760581+00:00",
+  "istanbul_time": "25.11.2026 22:58",
   "date": "25.11.2026",
   "active_mode": "evening",
   "disclaimer": "Yatırım tavsiyesi değildir (YTD). Doğrulanmış piyasa verileri ve ekonomi başlıklarından üretilmiştir.",
@@ -28,30 +28,30 @@
     "USDTRY": {
       "symbol": "USDTRY",
       "name": "Dolar / TL",
-      "price": 50.6738,
+      "price": 50.668,
       "previous_close": 50.6404,
-      "change_percent": 0.07
+      "change_percent": 0.05
     },
     "EURTRY": {
       "symbol": "EURTRY",
       "name": "Euro / TL",
-      "price": 55.6363,
+      "price": 55.6271,
       "previous_close": 55.525,
-      "change_percent": 0.2
+      "change_percent": 0.18
     },
     "GOLD": {
       "symbol": "GOLD",
       "name": "Ons Altın",
-      "price": 3564.6,
+      "price": 3563.5,
       "previous_close": 3591.1,
-      "change_percent": -0.74
+      "change_percent": -0.77
     },
     "GRAM_ALTIN": {
       "symbol": "GRAM_ALTIN",
       "name": "Gram Altın (TL)",
-      "price": 5807.45,
+      "price": 5804.99,
       "previous_close": 5846.77,
-      "change_percent": -0.67
+      "change_percent": -0.71
     }
   },
   "morning": {
@@ -59,33 +59,32 @@
     "type": "morning",
     "date": "25.11.2026",
     "ready_at_tr": "09:30",
-    "title": "☀️ Piyasa Açılışına 30 dk • 25.11.2026",
-    "headline": "BIST açılışı öncesi piyasa görünümü ve günün başlıkları (25.11.2026)",
-    "notification_body": "Son kapanış: BIST 100 10655.74 (%-4.04). Döviz ve emtia görünümü: Dolar/TL 50.6738 (+%0.07) · Gram Altın 5807.45 TL (%-0.67).",
+    "title": "☀️ Piyasa Açılışına 30 dk: BIST'te sert düşüş sonrası yeni gün",
+    "headline": "BIST 100 dün %4'ün üzerinde değer kaybederken, ons ve gram altın ABD enflasyon verisiyle geriledi.",
+    "notification_body": "BIST 100 endeksi dün %4'ün üzerinde düşüşle kapanırken, ons ve gram altın ABD enflasyon verileri sonrası değer kaybetti. Bugün Fed ve TCMB odaklı gelişmeler takip edilecek.",
     "bullets": [
-      "Son işlem gününde BIST 100 10655.74 (%-4.04) seviyesinden kapandı; 121 ana hisseden 9 hisse artıda, 112 hisse ekside yer aldı.",
-      "Döviz ve emtia görünümü: Dolar/TL 50.6738 (+%0.07) · Gram Altın 5807.45 TL (%-0.67).",
-      "Gündem başlığı: Gram altın yeniden 6 bin lira sınırında: Fiyatlar 14 ayın dibinden sert döndü.",
-      "Gündem başlığı: Küresel altın fiyatlarında Fed etkisi: 8 ayın en sert düşüşünden sonra yükseliş.",
-      "Gündem başlığı: BIST 100 günü yüzde 0,24 düşüşle 11.104,38 puandan kapattı."
+      "ABD'de Ekim ayı çekirdek PCE enflasyon verisinin beklentiyi aşması, Fed'in Aralık ayında faiz artırma ihtimalini güçlendirdi. Küresel piyasaların bu gelişmeye tepkisi izlenecek.",
+      "Türkiye Cumhuriyet Merkez Bankası'nın (TCMB) Kasım ayı enflasyon beklentisi anketi paylaşıldı; Kasım ayı enflasyon oranı açıklaması takip edilecek.",
+      "Borsa İstanbul, dün 3 hisseye (TKNKA, PASEU, SELEC) işlem yasağı getirildiğini duyurdu. Bu tür tedbir kararlarının piyasa üzerindeki etkisi gözlemlenecek.",
+      "Ford Otosan'ın hisse başına 3,07 TL brüt temettü ödeyeceği haberi ve bugün temettü ödeyecek diğer hisseler yatırımcıların gündeminde olacak."
     ],
-    "ai_generated": false
+    "ai_generated": true
   },
   "evening": {
     "id": "evening-2026-11-25",
     "type": "evening",
     "date": "25.11.2026",
     "ready_at_tr": "18:25",
-    "title": "🌙 Borsa Kapanış Özeti • BIST 100 10655.74 (%-4.04)",
-    "headline": "Borsa İstanbul gün sonu özeti: 9 yükselen, 112 düşen (25.11.2026)",
-    "notification_body": "BIST 100 10655.74 (%-4.04). 121 ana BIST hissesinden 112 tanesi düşüşte, 9 tanesi yükselişte kapattı.",
+    "title": "🌙 Borsa Kapanış Özeti: BIST'te kayıp serisi sürdü",
+    "headline": "Borsa İstanbul günü sert düşüşle tamamlarken, dolar yatay, gram altın ise değer kaybetti.",
+    "notification_body": "BIST 100 endeksi günü %4'ün üzerinde düşüşle kapattı. 112 hisse değer kaybederken, dolar yatay, gram altın ise geriledi. ABD enflasyon verileri ve işlem yasakları piyasayı etkiledi.",
     "bullets": [
-      "Taranan 121 ana BIST hissesinden 9 tanesi günü yükselişle, 112 tanesi düşüşle tamamladı.",
-      "BIST 100 10655.74 (%-4.04) · Dolar/TL 50.6738 (+%0.07) · Gram Altın 5807.45 TL (%-0.67).",
-      "Günün öne çıkan yükselenleri: KTLEV (+%9.95), REEDR (+%9.76), KONTR (+%5.05).",
-      "Satış baskısının yoğunlaştığı hisseler: BFREN (%-7.32), SELEC (%-7.28), GOLTS (%-7.25).",
-      "Günün öne çıkan ekonomi başlığı: Gram altın yeniden 6 bin lira sınırında: Fiyatlar 14 ayın dibinden sert döndü."
+      "Borsa İstanbul'da işlem gören 121 hisseden 112'si değer kaybederken, sadece 9 hisse yükselişle günü tamamladı. BIST 100 endeksi günü %4.04 düşüşle 10655.74 puandan kapattı.",
+      "Dolar/TL kuru günü %0.05'lik hafif bir yükselişle 50.668 seviyesinde tamamlarken, ons altın %0.77, gram altın ise %0.71 değer kaybederek 5804.99 TL'ye geriledi.",
+      "Piyasalardaki sert satış dalgası ve altın fiyatlarındaki düşüşte, ABD'de açıklanan ve beklentiyi aşan Ekim ayı çekirdek PCE enflasyon verileri etkili oldu. Bu durum, Fed'in faiz artışı beklentilerini güçlendirdi.",
+      "Borsa İstanbul'da SELEC (Selçuk Ecza Deposu) gibi hisselerin en çok düşenler arasında yer alması ve Borsa İstanbul'un TKNKA, PASEU, SELEC hisselerine işlem yasağı getirmesi, piyasadaki olumsuz havayı pekiştirdi.",
+      "Günün en çok yükselenleri arasında Katılımevim (%9.95), Reeder Teknoloji (%9.76) ve Kontrolmatik Teknoloji (%5.05) yer alırken, genel piyasa düşüşünden ayrıştılar."
     ],
-    "ai_generated": false
+    "ai_generated": true
   }
 }

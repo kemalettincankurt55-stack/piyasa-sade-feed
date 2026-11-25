@@ -1,14 +1,68 @@
 {
-  "generated_at": "2026-11-25T17:30:52.117532+00:00",
+  "generated_at": "2026-11-25T19:58:15.421026+00:00",
   "disclaimer": "Haber başlıkları orijinal kaynaklara aittir; yatırım tavsiyesi değildir (YTD).",
   "trending_clusters": [
     {
-      "id": "cluster-305610d288f8",
-      "headline": "Altın Fiyatlarında Son Dönem Düşüşleri ve Piyasa Gündemi",
+      "id": "cluster-3529162fc1c4",
+      "headline": "Bakanlardan Fon Konusunda Ortak Açıklama Beklentisi",
+      "category": "Gündem & X",
+      "is_breaking": true,
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Ensonhaber",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcWtLR2NOMW4zYm9LVWh5c3BsRk5EMnh3cVNYWjAzQ2pIVUVaTVRINTF5Qm4wc0dPdmtJTmZhZzFyY0Y2X2l3czBvSHBnZ3JmUGZpVUkxMS1CMktUQXM3ZmlvUmhKQWNvNC1vM3QwUERobnFlM2RNQzVJWWdPMmhjaExHWEk2RTA3NkhfZ1lGWE9lQng1RjJ3UVBTMFk0TlJnTmdvbkZ3?oc=5"
+        }
+      ],
+      "published_at": "2026-11-25T18:46:40+00:00",
+      "bullets": [
+        "Hükümet yetkilileri, belirli bir fon meselesine ilişkin ortak bir basın toplantısı düzenleyeceklerini bildirdi.",
+        "Toplantıdan çıkacak bilgilerin, ilgili fonun durumu ve genel piyasa algısı üzerinde bir etki yaratabileceği öngörülmektedir."
+      ],
+      "ai_synthesized": true
+    },
+    {
+      "id": "cluster-c14e0a9014e7",
+      "headline": "Borsa İstanbul'da Volatilite ve Düzenleyici Tedbirler",
+      "category": "Borsa & KAP",
+      "is_breaking": true,
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Finans Hattı",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSFgtblBUZFIyUndRZERmVzh6ZmxNNklaRWdQTXhoRmlyeUMySWh1OWZKc0hsdklSZG9EYmRUM1hhaDBoTEI5aC1tRHpfd2VQNjRqOUtGSnhDVFBmTlhsd0RSZFVNRm9MdUMxSUdzVlBTYUNnUWZWQ0pKdEFzak5wdHljeG10eUxpYWRKWg?oc=5"
+        },
+        {
+          "name": "Yeni Şafak",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUFpFR01XRjk4dWZKVUs5b2dmRTRzdFFZeDFXMEVrTmgwMmJuNDg2SFlqRFUyZzhsdkxXRks5QTg5SU1ZeHp5ZVVCUzh4bXlDRndoaXloSHVoNFZPa2p5VXBPalNlemszdVE3VHNyNVNXVjhiVWJzZUlKbUJnTXJoTnNEMTBZSWktUV9odDdIT3NadnUxcGNiejdnbGpabWY4UnNSRW0xaGtSenZOX2dZaF9oT21oZ0xhMV8zNkJDQnNJSDdFZ2ZMMlNiaVBPOWhLMXgyT2xhazN1bEUyNVVsVA?oc=5"
+        },
+        {
+          "name": "Doviz.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNEpaUFdnM3pFdVlGT1NuRWUzcUZnaEZoZXhJN3A3VVh4a3B1WXVXN2ZYakVWYVdfUnFYVW1kaHpPUVRCWDYtVHY0d1JGT3ZVOEtlT0JPaWpwU2R0N3drUXZLY2k5cEtBZmRDWm54MFBkb3FjdjR3QU5YdmVlejlwUVZHeXRYRGJCbkREQzRoWlrSAZgBQVVfeXFMTlFxdVBibVlJNnUwZ3Uzck5yeS1mWDhiOXV2MVh1YjVSemx3bGZvdXdJMWFSYklVVDJnR0NwczVrSmhnMG8xZE5HR0pQdHZJWUIzRGhNTnZaZ3Fta2Fwcm5RSzJoSkdPRGVlQTgwRFFmem03RWVHTUtEY1hEZmgwZHhibWVuWlFZT2FEcjdLWVRpcUxOejR5bng?oc=5"
+        }
+      ],
+      "published_at": "2026-11-25T18:46:06+00:00",
+      "bullets": [
+        "Borsa İstanbul güne düşüşle başlarken, bazı hisselerde kayıplar gözlemlendi ve belirli paylarda (TKNKA, PASEU, SELEC) işlem yasakları ile ACSEL için devre kesici uygulaması devreye alındı.",
+        "Bu tür gelişmeler, piyasada artan volatiliteye ve yatırımcıların temkinli duruşuna işaret ederek, ilgili hisselerdeki risk algısını etkileyebilir ve genel piyasa eğilimini yansıtabilir."
+      ],
+      "ai_synthesized": true
+    },
+    {
+      "id": "cluster-360f7d8d1d15",
+      "headline": "Altın Fiyatlarında Yıllık En Düşük Seviyeler Görüldü",
       "category": "Altın & Döviz",
       "is_breaking": true,
-      "source_count": 7,
+      "source_count": 9,
       "sources": [
+        {
+          "name": "Kocaeli Kent Gazetesi",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTzcxNjViT000V0VUbXRpcWdTVzNUb1JPVHd6Q0Jwcm5jazVhLUZEdjdyMFdBbVh5Q0xfWVRKUXJZM0x3b1V4dXZOZW1GRWlyMFlpLTh4eGMxVjdNaFRNNFp2OXJweWp4V2xBTjZDRHZwdk5hamN3THVIaU1fQXVKeHhtSWI?oc=5"
+        },
+        {
+          "name": "Uzmanpara",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMTMwQVZvcVVJMGpZbEJzY2dNTTJZbzNyMUVjT0hxYUNYNHI2QzR1cXptcVpNcmZhdDFmc0N4UHo3NXhIT0plSEhrc0hiQXB0Rk4zcDJFQjVhMmhWRHN2R3BTU0ZGWDdQcGNESExLVS1IUjEzMk1oRlM3d1hSSmlLMXp4Y2ZoUnlBU2F5TjFuTGtrRkc2M3hqRUY2NVdDaDF1VlVqMWJwN2VRSVpUUEFETzAwb0FJWERMLTJMRU9pV1VtbFk3enphVWNIQQ?oc=5"
+        },
         {
           "name": "İstanbul Ticaret Gazetesi",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQb1pHZEhNaTRlMTVwYkd2aXBzYUtIS051MUVscXVPWlFUbzhaQzBFVDUzMnlEMEI3Z1R5WUFzc1JMTDJoVGIzeklxRHYwTUhVanF6R0pfbUZQTWhwUFExMVpMUnlvcnFUNktLTVlfb2RTb21yX3lwSEZMREJkb09KeE1rYVI1VU1kM211YzZoVVhzRHkxZ01JdTV5Tll5d1drMmJVR25DWFlXSFVrNVVIYkJrSlluczlwcUk5eDQycEpSTzc3VkI3Tndqem9vY1hMQ0Q3ajlvUWRDbWNqM09EM0wxR0I1bWZkTjZwcnJ3?oc=5"
@@ -16,113 +70,125 @@
         {
           "name": "Yeni Şafak",
           "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNY1oyaElqSEpaOFVZSkRfbHZxd09PWFF0cFBxTUp5Ul9Bd0NxZHphM2huamJzcXp6amkycE1yNjR3RFVkbnNxMUVadlpEWHJSLXA3NWhoUzlMeG9lNjZmR0dXdF9ESDJ6ekVlbmZvXzRid2huOHVIelpkMnFTQ1VVcmtxcjNGNmpkMUkwWnRUeVpwNWhtOFVKYXZxcE53dXJsemZUanhBZTVtNHNiRHBQSTI5SVJNVjBvckFuWUhIYkhmeHY3QlVXdVZiX1VITEFYZzBSckNBWktTSElIWmhHQlpxUC1FLVBVbUJkSnRmUlQwbDByQ2c?oc=5"
-        },
-        {
-          "name": "Foreks.com",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUDJ2SzV1NHZqUW04LUFleEw4RW1BandVT0h3dXQ5cU9RYk00QXNsZnRVLWxTYnpFV25wOEtPY1piNDExc3R1LVVyTVI0SWtiZ1hTYVFWWHluR2VlVi13MndHSnNnMkRNQWl1bnRzOFRYRjlJTF9aWnJaZ3RMeERELVN2TXVhT2FTdHRvWV9tU2FvWThzZEYyT0JYQlZfU01HSlRNWEd6UU9LZEdiVnpxanhRVldyMXp4d0xOd1hlNnRSOHVNQmFQUzdWQTJLUWtkazNsVDVscXQ?oc=5"
-        },
-        {
-          "name": "Paratic Haber",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaEs4U1FXUHEwVHJ6cE94WWxBcDV6RjJWM0lfNUxYSHZ5azhHM1RXRDJqamZHaDM5a0hpN19FRE14TExJN1ZfSjNnb0FOM0dFem9JS2t2dWtVM09oTGJHZjkyZnZ6c0RubDdDcy1KdkdGaTFjWWllOXZOWEc1eHhXZjhWWQ?oc=5"
         }
       ],
-      "published_at": "2026-11-25T16:24:00+00:00",
+      "published_at": "2026-11-25T18:02:08+00:00",
       "bullets": [
-        "Altın fiyatları hem gram hem de ons bazında son 12 ila 14 ayın en düşük seviyelerine gerileyerek önemli düşüşler kaydetti.",
-        "Bu durum, altın piyasasında güncel fiyat hareketlerinin ve gelecekteki potansiyel yönelimlerin yatırımcılar tarafından dikkatle izlenmesine yol açabilir."
+        "Gram altın fiyatları son bir yılın en düşük seviyelerine gerileyerek 5.600 TL ve 5.700 TL eşiklerinin altına sarktı; ons altında ise yıllık kayıp yüzde 18'i aştı.",
+        "Altın piyasasında yaşanan bu sert düşüş, yatırımcılar arasında fiyatların gelecekteki seyri ve olası toparlanma potansiyeli hakkında soruları beraberinde getirdi."
       ],
       "ai_synthesized": true
     },
     {
-      "id": "cluster-38ad29c12aff",
-      "headline": "Borsa İstanbul'dan Bazı Hisselerde Düzenleyici Tedbirler",
+      "id": "cluster-c1f08d05908c",
+      "headline": "Borsa'da Gerileme Eğilimi",
       "category": "Borsa & KAP",
       "is_breaking": true,
-      "source_count": 2,
+      "source_count": 4,
       "sources": [
         {
-          "name": "Finans Hattı",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcHVsSXcyVnhKdkxicE5RcXdFNGJ5OWpfMGFjblZDRmtpVDF6Nnktd213ZHExMmllNHg2ZTFjb2dVM1NENUJHSEhWMEY0a05CR2pVQzVtY1I2S1ZEN3NKRVJ5WUg1V2JOR1ZMZ1JJMTR2RDdDTVU1VF82eGRyWENnQXhJbW42TGtYOVV4OUN1eS1WOUJzYV9sVg?oc=5"
+          "name": "Habertürk",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6c3dTUHdvZmhfdTNsa2ZoNHl0ZjVzUEdCZDlhQmliV1EtT2ZNNnpTLUJod0JaX3l0RmhIY1l3LWxJUHgzc2JpaS1VU1JWczJYV3ZsMVJ0Z2NDb21YZ1BrcGJsUFZLTmhfZ3g5R2V0TXBKTTl6ejREZmN3?oc=5"
         },
-        {
-          "name": "Yeni Şafak",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUFpFR01XRjk4dWZKVUs5b2dmRTRzdFFZeDFXMEVrTmgwMmJuNDg2SFlqRFUyZzhsdkxXRks5QTg5SU1ZeHp5ZVVCUzh4bXlDRndoaXloSHVoNFZPa2p5VXBPalNlemszdVE3VHNyNVNXVjhiVWJzZUlKbUJnTXJoTnNEMTBZSWktUV9odDdIT3NadnUxcGNiejdnbGpabWY4UnNSRW0xaGtSenZOX2dZaF9oT21oZ0xhMV8zNkJDQnNJSDdFZ2ZMMlNiaVBPOWhLMXgyT2xhazN1bEUyNVVsVA?oc=5"
-        }
-      ],
-      "published_at": "2026-11-25T16:08:00+00:00",
-      "bullets": [
-        "Borsa İstanbul, TKNKA, PASEU ve SELEC hisselerine işlem yasağı getirirken, ACSEL ve SOHOE hisselerinde devre kesici uygulaması başlattı.",
-        "Bu tedbirler, ilgili hisselerdeki aşırı oynaklığı kontrol altına almayı ve piyasa bütünlüğünü korumayı amaçlamaktadır."
-      ],
-      "ai_synthesized": true
-    },
-    {
-      "id": "cluster-e8e1035400d2",
-      "headline": "25 Kasım 2026 Piyasa Kapanışı ve TCMB Döviz Kurları",
-      "category": "Borsa & KAP",
-      "is_breaking": true,
-      "source_count": 1,
-      "sources": [
-        {
-          "name": "Canlı Gaste",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11SUtDUlFzNzJKeW40Ml82bTBQR0pHYTcwMXZnWm44Q0trXzJVcFNvRE44N3ZyRzFCSkpybld3TUZOam1KOHdMc2t0YmZKajQ1MVNYQ2lkZWl2SFZiMEJXbHJUVENVX21FaUUzSDZka2JsTmNjVi1BbA?oc=5"
-        }
-      ],
-      "published_at": "2026-11-25T15:34:42+00:00",
-      "bullets": [
-        "25 Kasım 2026 tarihinde piyasalar kapanışını gerçekleştirmiş ve Türkiye Cumhuriyet Merkez Bankası (TCMB) o günkü döviz kurlarını açıklamıştır.",
-        "Bu günlük veriler, piyasanın genel seyrini ve döviz değerlemelerini yansıtarak, gelecek dönem piyasa beklentileri ve ekonomik değerlendirmeler için referans oluşturabilir."
-      ],
-      "ai_synthesized": true
-    },
-    {
-      "id": "cluster-c220943ac8c3",
-      "headline": "Hisse Senedi Piyasasında Düşüş Gözlemlendi",
-      "category": "Borsa & KAP",
-      "is_breaking": false,
-      "source_count": 3,
-      "sources": [
         {
           "name": "CNN Türk",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQODBTdTdSWDNJTm5jdDVtMDZ3MXFObEw2NXlZVE5VS0hfQUZHS1Y5eXFOWnRrZDJ2cWlrOWhJdWFxUzhLVC01bUlCbURHb1VrMmRGRXlGMlYwZllKeXltSm16SFJOTG85TzRaT0I0eFFGbnNXTUZnOUY1X2dZNDlmWXVUbWZRNHBGMklOWUktQmRKSlc2?oc=5"
         },
         {
-          "name": "Canlı Gaste",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc1pGeXk0bTFXTlRxbDFnTjZUajQ5NzlJSTctVkRoaTNqUEJodG1HU082RkN1WGM3TFI4bnpSV2tFWjVIejBfTzFtVVlCdWw1MFQ5NG5zNWc5aXBnbVRPY0laeWt5NWxBMElpbXQxUC1FVmRENThEbThuMHhpcFF3WTFadw?oc=5"
+          "name": "Borsanın Gündemi",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS3ctakF1RmtiT1pOcDN4cTJhOVp2ZURyOUJwUWxOSHpsQXh2aDlqZlM1VERCQ0Rkc3kwUlFjUVJpdFRMMVZkbk1wbUY0OTk5WjJUaHYzcm01YlZJeUdXRXhhaU55MUhJX2txUGhOcGVGUmgtZEU4Mjh1YkRvQ3lxN0ZzTmJNUzNBeUdxR0xra01PRlBtY2RPU0VGV19tdUpISXk0cXd1QWI?oc=5"
         },
         {
           "name": "Tigris Haber",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVHBGei1VRmFZZk5TU19VclJSRWxNd09HS1l4ejc2RHkzemZXcnZ1bm94Q2p0ZXBLWFNqb2VITGk4aENwN1pGTl9lb2NmcW5aRkJvV0lYbVVDenhMSDR3MVBZOHpWVVRWTXpCeFBNdEk4b0lWel8xOHJpYWVSNkhURXdZa3JTaVo30gGIAUFVX3lxTE5UcEZ6LVVGYVlmTlNTX1VyUlJFbE13T0dLWXh6NzZEeTN6ZldydnVub3hDanRlcEtYU2pvZUhMaThoQ3A3WkZOX2VvY2ZxblpGQm9XSVhtVUN6eExINHcxUFk4elZVVFZNekJ4UE10SThvSVZ6XzE4cmlhZVI2SFRFd1lrclNpWjc?oc=5"
         }
       ],
-      "published_at": "2026-11-25T15:27:16+00:00",
+      "published_at": "2026-11-25T17:25:07+00:00",
       "bullets": [
-        "BIST 100 endeksi, günü yüzde 2,83 oranında bir değer kaybıyla tamamladı.",
-        "Bu gelişme, piyasa katılımcılarının genel yatırım eğilimleri ve beklentileri üzerinde bir etki yaratabilir."
+        "Piyasa haberlerine göre Borsa İstanbul, günü düşüşle tamamlayarak genel bir gerileme eğilimi sergilemiştir.",
+        "Bu durum, yatırımcıların piyasa beklentilerini gözden geçirmesine ve kısa vadeli işlem stratejilerinde temkinli davranmasına yol açabilir."
       ],
       "ai_synthesized": true
     },
     {
-      "id": "cluster-8b4952e3b661",
-      "headline": "BIST 100'de Geri Çekilme Serisi Sürüyor",
-      "category": "Borsa & KAP",
+      "id": "cluster-df8a3c285f5b",
+      "headline": "Küresel Enflasyon ve Merkez Bankası Politikaları Gündemde",
+      "category": "Makro & TCMB",
       "is_breaking": true,
-      "source_count": 1,
+      "source_count": 3,
       "sources": [
         {
-          "name": "Borsanın Gündemi",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS3ctakF1RmtiT1pOcDN4cTJhOVp2ZURyOUJwUWxOSHpsQXh2aDlqZlM1VERCQ0Rkc3kwUlFjUVJpdFRMMVZkbk1wbUY0OTk5WjJUaHYzcm01YlZJeUdXRXhhaU55MUhJX2txUGhOcGVGUmgtZEU4Mjh1YkRvQ3lxN0ZzTmJNUzNBeUdxR0xra01PRlBtY2RPU0VGV19tdUpISXk0cXd1QWI?oc=5"
+          "name": "CoinDesk",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZmo2QWxrUkw5WWJicUZLRnFCMEcteVlvX0M3MU9rQ3VJdGFQVEQzbWw3WVFzRG9ZYWw3T3hVNm5oR2o5cmw1SEtvekxpV0ptOU9IVnRDR3VkUzk0cHh0V2JIVUJsRzlOb09Qa1A1T1gySmc3ODdPajJSOUxYMjJfWjBHaTRwUHNVTl85Y0RwTk1FU0NkV1FtSXZqaWFOdld1QVA3UzNjdG5Pb3dWWldPNFlxTDdmNmdxUGQ2YjJsek9oQVM1U1FCZjB2MjVEU0xu?oc=5"
+        },
+        {
+          "name": "Bigpara",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZWhka0xmMUFSdV9SRzVPaUZSTWtOeUFoWHB2ejZtU0d6Y1F3SnRCcHE1X0tnX0JkbE1uLW5uVV9rY1U1TDc4SVdlQ29mcXFxX3dfVzhPLUZybXVfZEdDSTV2ZXZIMVFIZi1Nc3FVdEtLNEFNQUpOV19oX19LU2NlN1htUUd6OF9GRUYxUW5uamN6VkR5bWhfSjR3NHEyS1lleXBxQkdSRmxqbktwbWZDR3U2SDVNZUJGQ3U3aGZYdlo2VHlzTl9aZ29Fd08zODhPczBUQ1BwUUpqQlJqUFdYZDM0MnZqWHVYY1NnNDdSQ213c2RfZ09fR01ueHU?oc=5"
+        },
+        {
+          "name": "Paratic Haber",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2k5bUlzR1llLWdsUEJaTDhpQmpodjc0NFdQQVZUWWt6My1kRU9kRHpRQjIxNnFfMXlKSDA1bXZGVmtqOHNnaTVqa1VxSjR0U0x6Q3doaHRyamxUOWdrOVNaZ216cTNYVngtTmlHTGRVNEhISkFyUjVHa3JvZmtTTWFsLWZBZHZBd0NyZmk0aw?oc=5"
         }
       ],
-      "published_at": "2026-11-25T15:10:44+00:00",
+      "published_at": "2026-11-25T15:37:35+00:00",
       "bullets": [
-        "Borsa İstanbul'da BIST 100 endeksi, günü sert düşüşle tamamlayarak kayıp serisini sürdürdü.",
-        "Bu durum, piyasalarda genel bir temkinli seyrin devamına işaret edebilir."
+        "ABD'de Fed'in tercih ettiği enflasyon göstergesi açıklandı ve piyasalar Aralık ayı faiz artışını fiyatlamış durumda. Diğer yandan, Avustralya'da artan enflasyon baskısına rağmen faiz beklentileri sabit kalırken, Japonya'da hizmet enflasyonunun 36 yılın zirvesine ulaşması faiz artışı beklentilerini güçlendirdi.",
+        "Bu gelişmeler, küresel merkez bankalarının para politikası duruşlarına ilişkin beklentileri şekillendirerek döviz kurları, tahvil ve hisse senedi piyasalarında dalgalanmalara yol açabilir. Yatırımcılar, enflasyon verileri ve merkez bankası açıklamaları ışığında gelecekteki adımlara odaklanmaya devam edecektir."
       ],
       "ai_synthesized": true
     }
   ],
   "articles": [
+    {
+      "id": "3529162fc1c4",
+      "title": "Bakanlar, Fon meselesine ilişkin ortak basın toplantısı düzenleyecek",
+      "source": "Ensonhaber",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcWtLR2NOMW4zYm9LVWh5c3BsRk5EMnh3cVNYWjAzQ2pIVUVaTVRINTF5Qm4wc0dPdmtJTmZhZzFyY0Y2X2l3czBvSHBnZ3JmUGZpVUkxMS1CMktUQXM3ZmlvUmhKQWNvNC1vM3QwUERobnFlM2RNQzVJWWdPMmhjaExHWEk2RTA3NkhfZ1lGWE9lQng1RjJ3UVBTMFk0TlJnTmdvbkZ3?oc=5",
+      "category": "Gündem & X",
+      "published_at": "2026-11-25T18:46:40+00:00",
+      "is_breaking": true,
+      "ai_summary": "Bakanlar, bir fon meselesi hakkında ortak bir basın toplantısı düzenleyeceklerini duyurdu. Bu gelişme, ilgili fonun geleceği ve piyasalar üzerindeki potansiyel etkileri hakkında belirsizlik yaratabilir."
+    },
+    {
+      "id": "c14e0a9014e7",
+      "title": "Borsa İstanbul'da 25 Kasım: En Çok Kaybettiren Hisseler",
+      "source": "Finans Hattı",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSFgtblBUZFIyUndRZERmVzh6ZmxNNklaRWdQTXhoRmlyeUMySWh1OWZKc0hsdklSZG9EYmRUM1hhaDBoTEI5aC1tRHpfd2VQNjRqOUtGSnhDVFBmTlhsd0RSZFVNRm9MdUMxSUdzVlBTYUNnUWZWQ0pKdEFzak5wdHljeG10eUxpYWRKWg?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-25T18:46:06+00:00",
+      "is_breaking": false,
+      "ai_summary": "Borsa İstanbul'da 25 Kasım tarihinde en çok değer kaybeden hisseler belirlendi. Bu durum, ilgili sektörlerdeki veya şirketlerdeki gelişmelere yönelik yatırımcı ilgisini artırabilir."
+    },
+    {
+      "id": "360f7d8d1d15",
+      "title": "Piyasalarda sert satış dalgası - Gram altın son bir yılın en düşük seviyesinde",
+      "source": "Kocaeli Kent Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTzcxNjViT000V0VUbXRpcWdTVzNUb1JPVHd6Q0Jwcm5jazVhLUZEdjdyMFdBbVh5Q0xfWVRKUXJZM0x3b1V4dXZOZW1GRWlyMFlpLTh4eGMxVjdNaFRNNFp2OXJweWp4V2xBTjZDRHZwdk5hamN3THVIaU1fQXVKeHhtSWI?oc=5",
+      "category": "Altın & Döviz",
+      "published_at": "2026-11-25T18:02:08+00:00",
+      "is_breaking": false,
+      "ai_summary": "Piyasalarda genel bir satış dalgası yaşanırken, gram altın son bir yılın en düşük seviyelerine geriledi. Bu durum, altın piyasasında oynaklığa ve yatırımcıların dikkatli hareket etmesine neden olabilir."
+    },
+    {
+      "id": "c1f08d05908c",
+      "title": "Borsa günü düşüşle tamamladı",
+      "source": "Habertürk",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6c3dTUHdvZmhfdTNsa2ZoNHl0ZjVzUEdCZDlhQmliV1EtT2ZNNnpTLUJod0JaX3l0RmhIY1l3LWxJUHgzc2JpaS1VU1JWczJYV3ZsMVJ0Z2NDb21YZ1BrcGJsUFZLTmhfZ3g5R2V0TXBKTTl6ejREZmN3?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-25T17:25:07+00:00",
+      "is_breaking": false,
+      "ai_summary": "Borsa İstanbul günü düşüşle kapatarak yatırımcıların dikkatini çekti. Bu kapanış, piyasalarda kısa vadeli bir temkinli duruşa yol açabilir."
+    },
+    {
+      "id": "49b2b59eb2dc",
+      "title": "Altında düşüş sürecek mi? Gram altın için rakam verdi: Bir fırsatın içerisindeyiz",
+      "source": "Uzmanpara",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMTMwQVZvcVVJMGpZbEJzY2dNTTJZbzNyMUVjT0hxYUNYNHI2QzR1cXptcVpNcmZhdDFmc0N4UHo3NXhIT0plSEhrc0hiQXB0Rk4zcDJFQjVhMmhWRHN2R3BTU0ZGWDdQcGNESExLVS1IUjEzMk1oRlM3d1hSSmlLMXp4Y2ZoUnlBU2F5TjFuTGtrRkc2M3hqRUY2NVdDaDF1VlVqMWJwN2VRSVpUUEFETzAwb0FJWERMLTJMRU9pV1VtbFk3enphVWNIQQ?oc=5",
+      "category": "Altın & Döviz",
+      "published_at": "2026-11-25T17:05:00+00:00",
+      "is_breaking": false,
+      "ai_summary": "Altın piyasasında yaşanan düşüşün devam edip etmeyeceği tartışılırken, bir uzman gram altın için belirli bir seviyeye işaret etti. Bu tür yorumlar, piyasada altın fiyatlarına yönelik beklentileri etkileyebilir."
+    },
     {
       "id": "305610d288f8",
       "title": "SON DAKİKA: Altın gram fiyatı 5.600 TL'nin altına sarktı: 12 ayın en düşüğü! Çeyrek, 22 ayar bilezik, Cumhuriyet altını ne kadar?",
@@ -130,7 +196,8 @@
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQb1pHZEhNaTRlMTVwYkd2aXBzYUtIS051MUVscXVPWlFUbzhaQzBFVDUzMnlEMEI3Z1R5WUFzc1JMTDJoVGIzeklxRHYwTUhVanF6R0pfbUZQTWhwUFExMVpMUnlvcnFUNktLTVlfb2RTb21yX3lwSEZMREJkb09KeE1rYVI1VU1kM211YzZoVVhzRHkxZ01JdTV5Tll5d1drMmJVR25DWFlXSFVrNVVIYkJrSlluczlwcUk5eDQycEpSTzc3VkI3Tndqem9vY1hMQ0Q3ajlvUWRDbWNqM09EM0wxR0I1bWZkTjZwcnJ3?oc=5",
       "category": "Altın & Döviz",
       "published_at": "2026-11-25T16:24:00+00:00",
-      "is_breaking": false
+      "is_breaking": false,
+      "ai_summary": "Gram altın fiyatı 5.600 TL seviyesinin altına inerek son 12 ayın en düşük değerini gördü. Bu düşüş, altın piyasasında genel bir fiyat düzeltmesine işaret edebilir ve yatırımcıların ilgisini çekebilir."
     },
     {
       "id": "38ad29c12aff",
@@ -139,7 +206,8 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcHVsSXcyVnhKdkxicE5RcXdFNGJ5OWpfMGFjblZDRmtpVDF6Nnktd213ZHExMmllNHg2ZTFjb2dVM1NENUJHSEhWMEY0a05CR2pVQzVtY1I2S1ZEN3NKRVJ5WUg1V2JOR1ZMZ1JJMTR2RDdDTVU1VF82eGRyWENnQXhJbW42TGtYOVV4OUN1eS1WOUJzYV9sVg?oc=5",
       "category": "Borsa & KAP",
       "published_at": "2026-11-25T16:08:00+00:00",
-      "is_breaking": false
+      "is_breaking": false,
+      "ai_summary": "Borsa İstanbul, TKNKA, PASEU ve SELEC kodlu üç hisse senedine işlem yasağı getirdi. Bu karar, ilgili hisselerdeki yatırımcıların pozisyonlarını ve piyasa hareketlerini etkileyebilir."
     },
     {
       "id": "6eb8582d7726",
@@ -148,16 +216,18 @@
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNY1oyaElqSEpaOFVZSkRfbHZxd09PWFF0cFBxTUp5Ul9Bd0NxZHphM2huamJzcXp6amkycE1yNjR3RFVkbnNxMUVadlpEWHJSLXA3NWhoUzlMeG9lNjZmR0dXdF9ESDJ6ekVlbmZvXzRid2huOHVIelpkMnFTQ1VVcmtxcjNGNmpkMUkwWnRUeVpwNWhtOFVKYXZxcE53dXJsemZUanhBZTVtNHNiRHBQSTI5SVJNVjBvckFuWUhIYkhmeHY3QlVXdVZiX1VITEFYZzBSckNBWktTSElIWmhHQlpxUC1FLVBVbUJkSnRmUlQwbDByQ2c?oc=5",
       "category": "Altın & Döviz",
       "published_at": "2026-11-25T15:56:32+00:00",
-      "is_breaking": false
+      "is_breaking": false,
+      "ai_summary": "Ons altın fiyatlarında yıllık bazda yüzde 18'i aşan bir kayıp yaşandığı belirtildi. Bu durum, gram ve çeyrek altın gibi diğer altın türlerinin fiyatlarını da etkileyerek piyasada genel bir düşüş eğilimine yol açabilir."
     },
     {
-      "id": "b5041b185470",
-      "title": "ABD Enflasyon Verisi Altını Sert Vurdu",
-      "source": "Akdeniz Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJZW44NVNHdzd5c3dWbUwyWDdLNHEzRVdTYnFPZmVyanZTeHl2STFtbzZVOFMxTzdiOXY1RDRtNWIwTV93YWhnempURGtaQWdveVd5SDZoYTdTWE5yLTVIampBcEp4Z0ZwVzdSYmJrbzVXcmFTSXBYN2pn?oc=5",
-      "category": "Altın & Döviz",
-      "published_at": "2026-11-25T15:40:00+00:00",
-      "is_breaking": false
+      "id": "df8a3c285f5b",
+      "title": "Fed’in tercih edilen enflasyon göstergesi, Aralık ayı faiz artışı fiyatlanmış olarak açıklandı",
+      "source": "CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZmo2QWxrUkw5WWJicUZLRnFCMEcteVlvX0M3MU9rQ3VJdGFQVEQzbWw3WVFzRG9ZYWw3T3hVNm5oR2o5cmw1SEtvekxpV0ptOU9IVnRDR3VkUzk0cHh0V2JIVUJsRzlOb09Qa1A1T1gySmc3ODdPajJSOUxYMjJfWjBHaTRwUHNVTl85Y0RwTk1FU0NkV1FtSXZqaWFOdld1QVA3UzNjdG5Pb3dWWldPNFlxTDdmNmdxUGQ2YjJsek9oQVM1U1FCZjB2MjVEU0xu?oc=5",
+      "category": "Makro & TCMB",
+      "published_at": "2026-11-25T15:37:35+00:00",
+      "is_breaking": true,
+      "ai_summary": "Fed'in tercih ettiği enflasyon göstergesi açıklandı ve piyasalar Aralık ayı faiz artışını büyük ölçüde fiyatlamış durumda. Bu gelişme, küresel piyasalarda faiz beklentilerini ve risk iştahını etkileyebilir."
     },
     {
       "id": "e8e1035400d2",
@@ -166,7 +236,8 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11SUtDUlFzNzJKeW40Ml82bTBQR0pHYTcwMXZnWm44Q0trXzJVcFNvRE44N3ZyRzFCSkpybld3TUZOam1KOHdMc2t0YmZKajQ1MVNYQ2lkZWl2SFZiMEJXbHJUVENVX21FaUUzSDZka2JsTmNjVi1BbA?oc=5",
       "category": "Borsa & KAP",
       "published_at": "2026-11-25T15:34:42+00:00",
-      "is_breaking": false
+      "is_breaking": false,
+      "ai_summary": "25 Kasım 2026 tarihli piyasaların gün sonu kapanış verileri açıklandı. Bu veriler, yatırımcıların bir sonraki işlem günü için stratejilerini belirlemesine yardımcı olabilir."
     },
     {
       "id": "c220943ac8c3",
@@ -175,16 +246,8 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQODBTdTdSWDNJTm5jdDVtMDZ3MXFObEw2NXlZVE5VS0hfQUZHS1Y5eXFOWnRrZDJ2cWlrOWhJdWFxUzhLVC01bUlCbURHb1VrMmRGRXlGMlYwZllKeXltSm16SFJOTG85TzRaT0I0eFFGbnNXTUZnOUY1X2dZNDlmWXVUbWZRNHBGMklOWUktQmRKSlc2?oc=5",
       "category": "Borsa & KAP",
       "published_at": "2026-11-25T15:27:16+00:00",
-      "is_breaking": false
-    },
-    {
-      "id": "657a84e56c21",
-      "title": "BIST 100 günü yüzde 2,83 düşüşle tamamladı",
-      "source": "Canlı Gaste",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc1pGeXk0bTFXTlRxbDFnTjZUajQ5NzlJSTctVkRoaTNqUEJodG1HU082RkN1WGM3TFI4bnpSV2tFWjVIejBfTzFtVVlCdWw1MFQ5NG5zNWc5aXBnbVRPY0laeWt5NWxBMElpbXQxUC1FVmRENThEbThuMHhpcFF3WTFadw?oc=5",
-      "category": "Borsa & KAP",
-      "published_at": "2026-11-25T15:22:50+00:00",
-      "is_breaking": false
+      "is_breaking": false,
+      "ai_summary": "Borsa İstanbul çarşamba günkü işlemleri düşüşle tamamladı. Bu kapanış, piyasalarda kısa vadeli bir temkinli duruşa yol açabilir."
     },
     {
       "id": "8b4952e3b661",
@@ -193,7 +256,18 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS3ctakF1RmtiT1pOcDN4cTJhOVp2ZURyOUJwUWxOSHpsQXh2aDlqZlM1VERCQ0Rkc3kwUlFjUVJpdFRMMVZkbk1wbUY0OTk5WjJUaHYzcm01YlZJeUdXRXhhaU55MUhJX2txUGhOcGVGUmgtZEU4Mjh1YkRvQ3lxN0ZzTmJNUzNBeUdxR0xra01PRlBtY2RPU0VGV19tdUpISXk0cXd1QWI?oc=5",
       "category": "Borsa & KAP",
       "published_at": "2026-11-25T15:10:44+00:00",
-      "is_breaking": true
+      "is_breaking": true,
+      "ai_summary": "Borsa İstanbul'da kayıp serisi devam ederken, BİST günü sert bir düşüşle tamamladı. Bu durum, piyasalarda genel bir satış baskısının sürdüğüne işaret edebilir."
+    },
+    {
+      "id": "3944d7d56b3b",
+      "title": "Altının onsu ABD enflasyon verisi sonrası 3 bin 500 doların altına indi",
+      "source": "Canlı Gaste",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWVh1Wksyd3QtcjN3UlQwbFVydWotb1ZlUDhTOWFVYVNYc2hlai1BNk96ZF9hYkJoaGRNcktzMjctZ2k0a3U3Si0zdkNWWmx3QktSWjQydDJUd2xjTEhqUUltMm13eURiWTA0d3ZmMGNLMW5wd09aOHpQZWVuS3oyeVN2QU9Yc2Rwd2pGTTRXcFE0dllhUTBvUjl1dEV1ejVkM0tGNzg5eGR4UQ?oc=5",
+      "category": "Küresel",
+      "published_at": "2026-11-25T14:22:45+00:00",
+      "is_breaking": false,
+      "ai_summary": "ABD enflasyon verilerinin açıklanmasının ardından altının ons fiyatı 3.500 dolar seviyesinin altına geriledi. Bu gelişme, küresel altın piyasasında fiyat hareketliliğine neden olabilir."
     },
     {
       "id": "da0c6a323498",
@@ -202,7 +276,8 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVDhkUFQzTzFTVzl2Y2NLMTIwTU5TdzRzNUNoYmRYakRGbzF4NWQyOWJsNnB5LWo5WWFidW43NEstYlp1c3NiQ1JiMkttaW50c0ZrLWNfNDU1Vi1LTUd3cGs4bk5nNG9UUW92WHV1ZXVTa2l0R3dDMEtfclg4ZnBhY0RkNjNRTW1PSXBQV0p0S1lwVkd0blhNWURLRkFPdw?oc=5",
       "category": "Küresel",
       "published_at": "2026-11-25T14:22:45+00:00",
-      "is_breaking": false
+      "is_breaking": false,
+      "ai_summary": "Enflasyon verilerinin etkisiyle altının ons fiyatı 3.500 dolar seviyesinin altına düştü. Bu durum, küresel altın piyasasında fiyat hareketliliğine neden olabilir."
     },
     {
       "id": "c7ccd7fb3a14",
@@ -210,17 +285,29 @@
       "source": "Paratic Haber",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nQkxuNGNMczV3b2paMWtWVlY1SjZrUXNwMnh4TXBUTnl2QlYxRU9HeTM5ZDBuS0lGem11YnMxaVBVeXYzdUJKdHMyLTc3ak4zaDNYaV9qdDZHREJJMWVXaXBIdHlIYThFeHo0YW83Z2JzVnhmZkM1a1l2QnJQUQ?oc=5",
       "category": "Borsa & KAP",
-      "published_at": "2026-11-25T14:15:00+00:00",
-      "is_breaking": false
+      "published_at": "2026-11-25T14:15:01+00:00",
+      "is_breaking": false,
+      "ai_summary": "BIST 100 endeksinde düşüşün hızlandığı ve 10.700 puan seviyesinin dikkat çektiği belirtildi. Bu durum, piyasalarda genel bir satış baskısının arttığına işaret edebilir."
     },
     {
-      "id": "371630ae00b7",
-      "title": "ABD verileri altında satışları hızlandırdı! Yıllık kayıp yüzde 18'i aştı",
-      "source": "Uzmanpara",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTnpMd0pMMlBMQzdsSEczbnM5Q2pyT08za09DRXBLaEo1Y1lqMzdpR3hvbENFcTJJUjZoYk1wcGZaVGpMT2VkQU9rVDU2LTV5VTVuRzFfU0ZoRHh1VjhiMjNZNE9VOTBLTm4wRFB1WGJULWV5ZHBkSGlOcEVTS2g4QTk3U0Z1NkZiMTctcUZTZHY5bXVndktxcC1HVnhIRU5acG1WeW5iZHNSdjln?oc=5",
+      "id": "c1be07b94b85",
+      "title": "FED Aralık ayı faiz kararı ne zaman açıklanacak? Gözler ABD Merkez Bankası FED'in son faiz kararında!",
+      "source": "Bigpara",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZWhka0xmMUFSdV9SRzVPaUZSTWtOeUFoWHB2ejZtU0d6Y1F3SnRCcHE1X0tnX0JkbE1uLW5uVV9rY1U1TDc4SVdlQ29mcXFxX3dfVzhPLUZybXVfZEdDSTV2ZXZIMVFIZi1Nc3FVdEtLNEFNQUpOV19oX19LU2NlN1htUUd6OF9GRUYxUW5uamN6VkR5bWhfSjR3NHEyS1lleXBxQkdSRmxqbktwbWZDR3U2SDVNZUJGQ3U3aGZYdlo2VHlzTl9aZ29Fd08zODhPczBUQ1BwUUpqQlJqUFdYZDM0MnZqWHVYY1NnNDdSQ213c2RfZ09fR01ueHU?oc=5",
+      "category": "Makro & TCMB",
+      "published_at": "2026-11-25T14:07:00+00:00",
+      "is_breaking": true,
+      "ai_summary": "ABD Merkez Bankası Fed'in Aralık ayı faiz kararı için beklentiler artarken, açıklanma tarihi merak konusu oldu. Bu karar, küresel piyasalarda faiz oranları ve döviz kurları üzerinde önemli etkiler yaratabilir."
+    },
+    {
+      "id": "3f94ba45c8f9",
+      "title": "Altın son 15 ayın dibine indi",
+      "source": "A Para",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlR29yYlVQNHFfTW1JRl9aRGU4MkE4SFhGUXgza1dTbnFhNXloNjB0amRuQXF2emswTU9rbHlMRkNkdHFqQTU2WkEyUFFDdEVROUdySVo4Z2JCTjVuenUyam5SUlhEcWJWOVNwU0xTTFhxbnJyRHlGMEoyZ2V2dw?oc=5",
       "category": "Altın & Döviz",
-      "published_at": "2026-11-25T13:57:00+00:00",
-      "is_breaking": false
+      "published_at": "2026-11-25T13:49:32+00:00",
+      "is_breaking": false,
+      "ai_summary": "Altın fiyatları son 15 ayın en düşük seviyelerine geriledi. Bu düşüş, altın piyasasında genel bir fiyat düzeltmesine işaret edebilir ve yatırımcıların ilgisini çekebilir."
     },
     {
       "id": "b53ecb80c87a",
@@ -229,7 +316,8 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeXo3R2g0T3lwQl85TFVIUEYyQmZkSFdsMTVjYUpBQkR3Nk4yS1RIb1ExUElOYzE4T2wxN0M3OEtRQzdlRWtUb3l5d1VGd0l6ajQzbDFXX1pXblJGVHpkUUxOTnFWQzhucEZmREFtZXFuZUt0RkQxUWsyOWFQZ0h1eFUyX0JnaFJuT2Z4SDVNTnBzRU9DMlQtRFdzcjMtWWtRX2NrUTRfSnhvYXkwam03UU41ZURIcG9MVGFPZVJZNDQyYjQ?oc=5",
       "category": "Gündem & X",
       "published_at": "2026-11-25T13:24:49+00:00",
-      "is_breaking": true
+      "is_breaking": true,
+      "ai_summary": "Babacan, bir fon vurgunu hakkında yaptığı açıklamada, bu büyüklükteki bir dolandırıcılığın siyasi destek olmadan gerçekleşemeyeceğini iddia etti. Bu tür siyasi açıklamalar, ilgili fonun geleceği ve piyasalardaki güven ortamı üzerinde belirsizlik yaratabilir."
     },
     {
       "id": "512e3423d0cb",
@@ -238,7 +326,8 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUFpFR01XRjk4dWZKVUs5b2dmRTRzdFFZeDFXMEVrTmgwMmJuNDg2SFlqRFUyZzhsdkxXRks5QTg5SU1ZeHp5ZVVCUzh4bXlDRndoaXloSHVoNFZPa2p5VXBPalNlemszdVE3VHNyNVNXVjhiVWJzZUlKbUJnTXJoTnNEMTBZSWktUV9odDdIT3NadnUxcGNiejdnbGpabWY4UnNSRW0xaGtSenZOX2dZaF9oT21oZ0xhMV8zNkJDQnNJSDdFZ2ZMMlNiaVBPOWhLMXgyT2xhazN1bEUyNVVsVA?oc=5",
       "category": "Borsa & KAP",
       "published_at": "2026-11-25T13:16:00+00:00",
-      "is_breaking": true
+      "is_breaking": true,
+      "ai_summary": "Borsa İstanbul'da ACSEL hissesi için pay bazında devre kesici uygulaması devreye girdi. Bu durum, ilgili hissenin fiyat hareketliliğini sınırlayarak yatırımcıların dikkatini çekebilir."
     },
     {
       "id": "47754bfcc555",
@@ -247,16 +336,8 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUUw5d1pXU1R1WlpDd1VzdkhyRVZHS0xneUZ0OFFoWjg1QWt5OWN1d1NjNjA4by1rdGZfdTJ2ZGJ1SDFtRGZ4eV9fZkhEb05TdXp3dHJUTjh3SlNTcElCazhLX18wbHhjZmw0Z1Q1d2lzVVJrY1lVd1dILXlLNzgybmhkS19iZVd5U29vX1FCdnJxMUtzNW5JSEsyR19rX2c?oc=5",
       "category": "Borsa & KAP",
       "published_at": "2026-11-25T12:56:33+00:00",
-      "is_breaking": false
-    },
-    {
-      "id": "ed47d700fb95",
-      "title": "TCMB döviz kurları / 25 Kasım 2026",
-      "source": "Canlı Gaste",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsLVFpQWw0QjdtQjFoZ1pGc1NKR3Ytd2VoaXAzT0ltNGV6WkZKMGdNVDA5dk1XdmxhR2VnSGxjeFVJaS1KS2tGcDBhWERDUEd5VmJDMDF4bTZERWw1OGdNQ2JJUE1ZeWNyYmRZOW9xaVE0WllaQVE?oc=5",
-      "category": "Makro & TCMB",
-      "published_at": "2026-11-25T12:37:30+00:00",
-      "is_breaking": true
+      "is_breaking": false,
+      "ai_summary": "BIST 100 endeksinde kayıp serisi devam ederken, borsada genel bir geri çekilme yaşandığı belirtildi. Bu durum, piyasalarda genel bir satış baskısının sürdüğüne işaret edebilir."
     },
     {
       "id": "9345251bf15e",
@@ -265,7 +346,8 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPckNSWF8wNkd4cTZKY1BpWDVoaUE5SnUyNUw2ZnFQRXhGT0JwMkhXV0FLM1RmRnN3VTRGRTBiLTB2d0xWdmlsV2JweGc4TGRybnN5M3Y5bXB5YnowVTZEalBZb0lZS2tqbjRvVTh5VUNjYjlOVlRncUFjeE43U0Jsb184YWtwS0hRNVhuSU0teWk4SGsteUQwOUZDbWZQWFB4alNxX0wwZ2YxcW1IeDVsd1lqakg1RURadDg1Sm5FdTRCYTBwYnlJV0F3?oc=5",
       "category": "Altın & Döviz",
       "published_at": "2026-11-25T12:23:12+00:00",
-      "is_breaking": true
+      "is_breaking": true,
+      "ai_summary": "Gram altın fiyatı 5.700 TL eşiğinin altına inerek son bir yılın en düşük seviyesine geriledi. Bu düşüş, altın piyasasında genel bir fiyat düzeltmesine işaret edebilir ve yatırımcıların ilgisini çekebilir."
     },
     {
       "id": "57f88e326f0c",
@@ -274,7 +356,8 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUDJ2SzV1NHZqUW04LUFleEw4RW1BandVT0h3dXQ5cU9RYk00QXNsZnRVLWxTYnpFV25wOEtPY1piNDExc3R1LVVyTVI0SWtiZ1hTYVFWWHluR2VlVi13MndHSnNnMkRNQWl1bnRzOFRYRjlJTF9aWnJaZ3RMeERELVN2TXVhT2FTdHRvWV9tU2FvWThzZEYyT0JYQlZfU01HSlRNWEd6UU9LZEdiVnpxanhRVldyMXp4d0xOd1hlNnRSOHVNQmFQUzdWQTJLUWtkazNsVDVscXQ?oc=5",
       "category": "Altın & Döviz",
       "published_at": "2026-11-25T12:17:37+00:00",
-      "is_breaking": false
+      "is_breaking": false,
+      "ai_summary": "Altın fiyatları 3.500 dolar seviyesinin altına inerek son 14 ayın en düşük değerini gördü. Bu düşüş, küresel altın piyasasında fiyat hareketliliğine neden olabilir."
     },
     {
       "id": "696f77c5d930",
@@ -283,7 +366,8 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2k5bUlzR1llLWdsUEJaTDhpQmpodjc0NFdQQVZUWWt6My1kRU9kRHpRQjIxNnFfMXlKSDA1bXZGVmtqOHNnaTVqa1VxSjR0U0x6Q3doaHRyamxUOWdrOVNaZ216cTNYVngtTmlHTGRVNEhISkFyUjVHa3JvZmtTTWFsLWZBZHZBd0NyZmk0aw?oc=5",
       "category": "Makro & TCMB",
       "published_at": "2026-11-25T12:11:56+00:00",
-      "is_breaking": true
+      "is_breaking": true,
+      "ai_summary": "Avustralya'da enflasyon baskısının arttığı gözlemlenirken, faiz oranlarına ilişkin beklentilerde bir değişiklik olmadığı belirtildi. Bu durum, Avustralya piyasalarında para politikası kararlarına yönelik belirsizliği sürdürebilir."
     },
     {
       "id": "724f37c726a9",
@@ -292,16 +376,8 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVEZOc1BkZVRsbHRJR1ppZzFrWUdqZmNGTzBMb1duNlRXRmpFczRCaXRveGdld3FNY2VWRVREREpHSXlScVF6aGMtTF9MelFGZjA2SzBBcnNtOWhqS0xaNGN3dUZsMGhxZ3ZjUW9QN3RKUHlRclMxa1c5alkxWUxieFViTWkxYUV0TlJDSlVxazlHUmNpS1dBbjZvYlJud2YzOHFvcWZldlNacWdjQ0YyZm5sZHgtaDlG?oc=5",
       "category": "Gündem & X",
       "published_at": "2026-11-25T11:35:36+00:00",
-      "is_breaking": true
-    },
-    {
-      "id": "5f8a0f8c0323",
-      "title": "Dervişoğlu'ndan DEM Parti, Fon İddiası ve 6284 Sayılı Kanun Çıkışı",
-      "source": "Dosya Haber",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc1FTWVAzZkhYcEtrNjJwYkEtQmg0MEJDbkF0LUE2OE53d0RzMnFpOUFFUjZGRGtsRW9SVTJydVkwemFHWWJ6bG50SkFyNFBZRWpLNlNPZnpob3Qzall1YWY0MlIzRkY3SnFsRGxvTFRCeThpSFV6aTVKVTVDYUdfMnRYQXJ5T0g4R20ySTFDT3ZxNUlLS0FYV2k5NFYtWGdqOWVWbDNKRQ?oc=5",
-      "category": "Gündem & X",
-      "published_at": "2026-11-25T10:50:01+00:00",
-      "is_breaking": true
+      "is_breaking": true,
+      "ai_summary": "131 fonun kapanmasıyla başlayan bir krizin detayları ve tarihsel gelişimi incelendi. Bu tür haberler, finansal piyasalarda güven ortamını ve yatırımcı algısını etkileyebilir."
     },
     {
       "id": "c95826da410c",
@@ -310,16 +386,8 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaEs4U1FXUHEwVHJ6cE94WWxBcDV6RjJWM0lfNUxYSHZ5azhHM1RXRDJqamZHaDM5a0hpN19FRE14TExJN1ZfSjNnb0FOM0dFem9JS2t2dWtVM09oTGJHZjkyZnZ6c0RubDdDcy1KdkdGaTFjWWllOXZOWEc1eHhXZjhWWQ?oc=5",
       "category": "Altın & Döviz",
       "published_at": "2026-11-25T10:44:46+00:00",
-      "is_breaking": false
-    },
-    {
-      "id": "6e794bf4892e",
-      "title": "Paladyum, faiz endişesiyle 27 ayın dibinde: 846,4 dolar",
-      "source": "Canlı Gaste",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaFFqaTNlM2VZd2tjR1JwR3BuLUdWSmVrcnRYYk9KNEJIRFZWal9SZkw4aldWdDVVX0ZRVm9DMzRHMEVqZ1JqSkgwX3p4TV9IR0dlRXl1eEMzVjZQazROcW5KbG9FLVpTek5kWUc1Q3ZEV0pESHJoUlFRYVhlZkVTSTg0M3ViUjQzSUJXUEwtNl8ydw?oc=5",
-      "category": "Makro & TCMB",
-      "published_at": "2026-11-25T10:25:48+00:00",
-      "is_breaking": true
+      "is_breaking": false,
+      "ai_summary": "Bir uzmanın gram altının 10 bin TL seviyesine ulaşıp ulaşmayacağına dair değerlendirmeleri paylaşıldı. Bu tür açıklamalar, altın piyasasında geleceğe yönelik beklentileri etkileyebilir."
     },
     {
       "id": "67de80a3b265",
@@ -367,28 +435,19 @@
       "is_breaking": true
     },
     {
-      "id": "805dafd10a5a",
-      "title": "Borsa İstanbul Şirketlerinde Kritik Gelişmeler Ve Pay Hareketleri",
-      "source": "Finans Hattı",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa3B2RkdaWkxYWVBYME41T0E3c0cycmdacXJJMHRXZ0M0NExNYzFBaldqWkVLU3hHWFJlT1RCMzBhYmZUY0Q2UEpWYUMwWnBKMjUxbGlXTlpzQUR6X2F2TndPejBTOXluY2p1bmY3TDJBX2VzX25XTlVHeFFGaWpVYl9yakFQNnR5OHM4NQ?oc=5",
-      "category": "Borsa & KAP",
-      "published_at": "2026-11-25T08:53:46+00:00",
-      "is_breaking": false
-    },
-    {
-      "id": "7b18347bbf5c",
-      "title": "KAP *** BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI *** SOHOE *** Pay Bazında Devre Kesici Bildirimi",
-      "source": "Yeni Şafak",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUjZNbVRXdnd6LTM2VkhmVTA2TjVJMmR5Q0JKNHZGeXR6VUhyb1I0NDdTMWJXYWs0clVrYTI0MldrYVpUYTNRTWlHZlZhR3ZNN0RFbWktN2hLNmFmTzdWMDJIcmozMkZCeDJ2MGVHQk9IajRiRzdwQVo1Z1ZydVJiSGtIZjJkTWxhRm1wTEZ5eHlENjd6clFHcWdzSnpGYnhPeXNRUnBpdlRaQlRqRW9CUXZYekVlTktrR0ZHZ01iTUpZZDlkelo1THZ4V04wQ0V6eDYzdm9FdjczcjcwUkxEZQ?oc=5",
-      "category": "Borsa & KAP",
-      "published_at": "2026-11-25T08:43:00+00:00",
-      "is_breaking": true
-    },
-    {
       "id": "df377fee60a5",
       "title": "TCMB’den üç farklı vadede TL depo alım ihalesi",
       "source": "Canlı Gaste",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVlZ6Qkd6MnpqdEZkYzFrTkJmMVhjSHhRTjNLSWJIbHczcGlvekVBdlhjUTF4OVYtaVJwdmdlYktmcUdBd3JCS3RSUlM5WVhzbEd5Y1FOc01nUUQ0OGJlcjJxWmVRYU1nMEpZbWtja3FFWFVwMWgzenF6VWpKcWxwSS1fczMySVBH?oc=5",
+      "category": "Makro & TCMB",
+      "published_at": "2026-11-25T08:22:15+00:00",
+      "is_breaking": true
+    },
+    {
+      "id": "2f0f3e51bb4e",
+      "title": "TCMB TL depo alım ihaleleri açtı",
+      "source": "Canlı Gaste",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vc29zU1I4Zl9XWXh1eDF6MHNVZzZ5U3o4eURYX3l0OFZzdFo4WW9MR2x2dUptN2NFNENOV3VWVU42dXpVOW5qeWJyUUVJejdwRmRhVmhGYUhrX3pucGxIVkNPYUlkaFBzcm1Ka295MXkxQXZrZUE?oc=5",
       "category": "Makro & TCMB",
       "published_at": "2026-11-25T08:22:15+00:00",
       "is_breaking": true
@@ -403,6 +462,15 @@
       "is_breaking": true
     },
     {
+      "id": "9156646e9aa9",
+      "title": "Japonya’da hizmet enflasyonu 36 yılın zirvesinde: Faiz artışı beklentisi güçlendi",
+      "source": "Paratic Haber",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT3ZTanZoY3F5QVBHbGU0SDZZeEwycVBmTGwzckMyYW9PNDRpTkhDOGhmU3hzTFMyd1QwZGpJMUlMbFR5NlV6X2JQM19HakZtbDI4eHNwZmROSUhiVUI5SW9XdU5rMXlnVVNiTGc0bXo2NjV4WHVEQzJuTjMzRHNIcVhDTGxaWjQzc2sybldXT2NRWWtpeTdJemlMVl8tV1dUWEE?oc=5",
+      "category": "Makro & TCMB",
+      "published_at": "2026-11-25T07:44:19+00:00",
+      "is_breaking": true
+    },
+    {
       "id": "1a71844f3b22",
       "title": "Fon yatırımcılarının beklediği tarih 27 Kasım! 1 milyon TL’ye kadar ödeme kimlere yapılacak?",
       "source": "Genç Gazete",
@@ -412,21 +480,21 @@
       "is_breaking": true
     },
     {
-      "id": "6cb898bd441a",
-      "title": "TCMB’nin döviz satışları ve rezervler: Fon krizinden bu yana son durum",
-      "source": "Paratic Haber",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdTVfUDMzMk5VV1QxdzhwbnRhN2xjU1pydFZnOTRhWWhvM3VJVUVkTEQ1NEl4UGl4S2E2VEtMM19KZUpHTi1VQXRySWdFc0RJVHY3T1NnZU9vQ09nb0ZrdlcxTWtCNkhzUy11c1M5WXNSWU1pUlpmYldCWXBRQmJVRWF0SEdvWlVEbE1xS0t3SXlHOGM?oc=5",
-      "category": "Makro & TCMB",
-      "published_at": "2026-11-25T07:37:22+00:00",
-      "is_breaking": true
+      "id": "dcb09200c9c2",
+      "title": "Gram altın 5 bin 744 liradan, ons altın 3 bin 525 dolardan işlem görüyor",
+      "source": "Forbes Türkiye",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOTJNbFBVZ0VqcXZNcXk0a3JSSzN2c2tVeGNMeUVSUXNEWjFad2VNeE5IRkxMa3o4d2dOWXVWaWdCb2ZXbmJyMDl6MXRseV9ZcjA4VGhuRXZjSEdCQ3JrN3hIRGtLNVNUcTVVMWVMWEdoRjhlRVcxMVJtbWR6ZmZQMGZVVGpjUDRIVUlpR25IVmxZZ1JoR2Q3b2I1a2lUcjVqYUVob21Zb1E?oc=5",
+      "category": "Küresel",
+      "published_at": "2026-11-25T07:30:00+00:00",
+      "is_breaking": false
     },
     {
-      "id": "5857999b1799",
-      "title": "JPMorgan’ın S&P 500 hedefi piyasa beklentisinin altında kaldı",
-      "source": "EKOTÜRK",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWU9jWDNTcm9TZ005OGt3TDdaUXFwQW5DejVPbHB5QTRqVmZoeEZWWS1vbmFLZUlwaXJ0QkowVzl1UUZKMFhLbWhYSVNGQUpGTzVkbzVhYzJ2VlJUQmJnSGlhRTd4cXlNLVJGYzNKSFNvaGhub1pQMzVmUlloMV9FRWxZcWJJbjN2N0lmbHJXUFV4S09f?oc=5",
-      "category": "Küresel",
-      "published_at": "2026-11-25T07:30:48+00:00",
+      "id": "cdc46bba6b6f",
+      "title": "Borsa İstanbul yeni güne düşüşle başladı",
+      "source": "Doviz.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNEpaUFdnM3pFdVlGT1NuRWUzcUZnaEZoZXhJN3A3VVh4a3B1WXVXN2ZYakVWYVdfUnFYVW1kaHpPUVRCWDYtVHY0d1JGT3ZVOEtlT0JPaWpwU2R0N3drUXZLY2k5cEtBZmRDWm54MFBkb3FjdjR3QU5YdmVlejlwUVZHeXRYRGJCbkREQzRoWlrSAZgBQVVfeXFMTlFxdVBibVlJNnUwZ3Uzck5yeS1mWDhiOXV2MVh1YjVSemx3bGZvdXdJMWFSYklVVDJnR0NwczVrSmhnMG8xZE5HR0pQdHZJWUIzRGhNTnZaZ3Fta2Fwcm5RSzJoSkdPRGVlQTgwRFFmem03RWVHTUtEY1hEZmgwZHhibWVuWlFZT2FEcjdLWVRpcUxOejR5bng?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-25T07:27:09+00:00",
       "is_breaking": false
     },
     {
@@ -439,15 +507,6 @@
       "is_breaking": false
     },
     {
-      "id": "1eabcabdd0d6",
-      "title": "Küresel piyasalarda kritik gün",
-      "source": "Türkiye İş Dünyası Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ibTdyV0dTVWE5em56TG9TdndMQ0xuc01BaGlBbWZYUEZBUGFhc09lbUREWjZQSVN1MXNGM1VQLW11WUJuQXZqVkVRcVUwQXpHd1g0bVRMc1FXQUtsZ29xNlZORXRwMmdpT29rM3VsQllVNjVlMWxTZQ?oc=5",
-      "category": "Küresel",
-      "published_at": "2026-11-25T07:23:19+00:00",
-      "is_breaking": false
-    },
-    {
       "id": "1dae8b488a14",
       "title": "Altın yatırımcısı için 2027 yol haritası! Gram altın kaç TL olacak?",
       "source": "Sabah",
@@ -457,15 +516,6 @@
       "is_breaking": false
     },
     {
-      "id": "df22d381c86d",
-      "title": "ALTIN NEDEN DÜŞÜYOR? 25 Kasım Kapalıçarşı altın fiyatları: Gram altın, çeyrek altın bugün ne kadar?",
-      "source": "CNN Türk",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ1hRVTBsc1hNbXlNdDljNWpnNngxN2dxakpqOFdEQS1DUmhld01lNEh1SWFGR0Z0d2FRcF9DLVFJckFMYnFqUXJ2Vno4bFBSTzVaUWZPUEVTdW1vU2dBYjFPOTczSW9zdUlHLXdmdFR0eUpiaE5FYUpXOUZQV1Jkbmc0RmFTVzEwcFFtLTVNeDYyYkd2WlA3RGNzWjVRVHcxSC16YjFwNHpBMi1fNklsd0NPcmxCTkhRN2FaWGpCaWEzUkwwUFVicDlUUnFXODZa?oc=5",
-      "category": "Altın & Döviz",
-      "published_at": "2026-11-25T07:13:32+00:00",
-      "is_breaking": true
-    },
-    {
       "id": "bdd8bdc201d7",
       "title": "JPMorgan’dan temkinli S&P 500 tahmini: Fed endişeleri görünümü baskıladı",
       "source": "Paratic Haber",
@@ -473,18 +523,23 @@
       "category": "Küresel",
       "published_at": "2026-11-25T07:11:28+00:00",
       "is_breaking": false
-    },
-    {
-      "id": "8de4f5840078",
-      "title": "TCMB, dolar/TL swap ihaleleri açtı",
-      "source": "Bloomberght",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0aHBDbW02UFpGLWNTYTRBcXVqVWxkYVAxM2RweVdtTzNzWEJPMEdmdU84S3dPRXBhQ09LbnlQWmtxZ3EtLWdvek50eW5CUFJqWW5mSjVWOUc5Qk4wNWZLWHlPb3c4VkVUMlVwaFkzR29vR0xaZU1B?oc=5",
-      "category": "Makro & TCMB",
-      "published_at": "2026-11-25T07:11:09+00:00",
-      "is_breaking": true
     }
   ],
   "notification_candidates": [
+    {
+      "id": "3529162fc1c4",
+      "title": "[Gündem & X] Ensonhaber",
+      "body": "Bakanlar, Fon meselesine ilişkin ortak basın toplantısı düzenleyecek",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcWtLR2NOMW4zYm9LVWh5c3BsRk5EMnh3cVNYWjAzQ2pIVUVaTVRINTF5Qm4wc0dPdmtJTmZhZzFyY0Y2X2l3czBvSHBnZ3JmUGZpVUkxMS1CMktUQXM3ZmlvUmhKQWNvNC1vM3QwUERobnFlM2RNQzVJWWdPMmhjaExHWEk2RTA3NkhfZ1lGWE9lQng1RjJ3UVBTMFk0TlJnTmdvbkZ3?oc=5",
+      "published_at": "2026-11-25T18:46:40+00:00"
+    },
+    {
+      "id": "df8a3c285f5b",
+      "title": "[Makro & TCMB] CoinDesk",
+      "body": "Fed’in tercih edilen enflasyon göstergesi, Aralık ayı faiz artışı fiyatlanmış olarak açıklandı",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZmo2QWxrUkw5WWJicUZLRnFCMEcteVlvX0M3MU9rQ3VJdGFQVEQzbWw3WVFzRG9ZYWw3T3hVNm5oR2o5cmw1SEtvekxpV0ptOU9IVnRDR3VkUzk0cHh0V2JIVUJsRzlOb09Qa1A1T1gySmc3ODdPajJSOUxYMjJfWjBHaTRwUHNVTl85Y0RwTk1FU0NkV1FtSXZqaWFOdld1QVA3UzNjdG5Pb3dWWldPNFlxTDdmNmdxUGQ2YjJsek9oQVM1U1FCZjB2MjVEU0xu?oc=5",
+      "published_at": "2026-11-25T15:37:35+00:00"
+    },
     {
       "id": "8b4952e3b661",
       "title": "[Borsa & KAP] Borsanın Gündemi",
@@ -493,32 +548,18 @@
       "published_at": "2026-11-25T15:10:44+00:00"
     },
     {
+      "id": "c1be07b94b85",
+      "title": "[Makro & TCMB] Bigpara",
+      "body": "FED Aralık ayı faiz kararı ne zaman açıklanacak? Gözler ABD Merkez Bankası FED'in son faiz kararında!",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZWhka0xmMUFSdV9SRzVPaUZSTWtOeUFoWHB2ejZtU0d6Y1F3SnRCcHE1X0tnX0JkbE1uLW5uVV9rY1U1TDc4SVdlQ29mcXFxX3dfVzhPLUZybXVfZEdDSTV2ZXZIMVFIZi1Nc3FVdEtLNEFNQUpOV19oX19LU2NlN1htUUd6OF9GRUYxUW5uamN6VkR5bWhfSjR3NHEyS1lleXBxQkdSRmxqbktwbWZDR3U2SDVNZUJGQ3U3aGZYdlo2VHlzTl9aZ29Fd08zODhPczBUQ1BwUUpqQlJqUFdYZDM0MnZqWHVYY1NnNDdSQ213c2RfZ09fR01ueHU?oc=5",
+      "published_at": "2026-11-25T14:07:00+00:00"
+    },
+    {
       "id": "b53ecb80c87a",
       "title": "[Gündem & X] Bold Medya",
       "body": "Babacan’dan fon vurgunu çıkışı: Bu kadar büyük dolandırıcılık siyasi destek olmadan yapılamaz",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeXo3R2g0T3lwQl85TFVIUEYyQmZkSFdsMTVjYUpBQkR3Nk4yS1RIb1ExUElOYzE4T2wxN0M3OEtRQzdlRWtUb3l5d1VGd0l6ajQzbDFXX1pXblJGVHpkUUxOTnFWQzhucEZmREFtZXFuZUt0RkQxUWsyOWFQZ0h1eFUyX0JnaFJuT2Z4SDVNTnBzRU9DMlQtRFdzcjMtWWtRX2NrUTRfSnhvYXkwam03UU41ZURIcG9MVGFPZVJZNDQyYjQ?oc=5",
       "published_at": "2026-11-25T13:24:49+00:00"
-    },
-    {
-      "id": "512e3423d0cb",
-      "title": "[Borsa & KAP] Yeni Şafak",
-      "body": "KAP *** BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI *** ACSEL *** Pay Bazında Devre Kesici Bildirimi",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUFpFR01XRjk4dWZKVUs5b2dmRTRzdFFZeDFXMEVrTmgwMmJuNDg2SFlqRFUyZzhsdkxXRks5QTg5SU1ZeHp5ZVVCUzh4bXlDRndoaXloSHVoNFZPa2p5VXBPalNlemszdVE3VHNyNVNXVjhiVWJzZUlKbUJnTXJoTnNEMTBZSWktUV9odDdIT3NadnUxcGNiejdnbGpabWY4UnNSRW0xaGtSenZOX2dZaF9oT21oZ0xhMV8zNkJDQnNJSDdFZ2ZMMlNiaVBPOWhLMXgyT2xhazN1bEUyNVVsVA?oc=5",
-      "published_at": "2026-11-25T13:16:00+00:00"
-    },
-    {
-      "id": "ed47d700fb95",
-      "title": "[Makro & TCMB] Canlı Gaste",
-      "body": "TCMB döviz kurları / 25 Kasım 2026",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsLVFpQWw0QjdtQjFoZ1pGc1NKR3Ytd2VoaXAzT0ltNGV6WkZKMGdNVDA5dk1XdmxhR2VnSGxjeFVJaS1KS2tGcDBhWERDUEd5VmJDMDF4bTZERWw1OGdNQ2JJUE1ZeWNyYmRZOW9xaVE0WllaQVE?oc=5",
-      "published_at": "2026-11-25T12:37:30+00:00"
-    },
-    {
-      "id": "9345251bf15e",
-      "title": "[Altın & Döviz] İstanbul Ticaret Gazetesi",
-      "body": "Son dakika: Gram altın fiyatı 1 yılın en düşüğünde: 5.700 TL eşiği de kırıldı: Altın neden düşüyor?",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPckNSWF8wNkd4cTZKY1BpWDVoaUE5SnUyNUw2ZnFQRXhGT0JwMkhXV0FLM1RmRnN3VTRGRTBiLTB2d0xWdmlsV2JweGc4TGRybnN5M3Y5bXB5YnowVTZEalBZb0lZS2tqbjRvVTh5VUNjYjlOVlRncUFjeE43U0Jsb184YWtwS0hRNVhuSU0teWk4SGsteUQwOUZDbWZQWFB4alNxX0wwZ2YxcW1IeDVsd1lqakg1RURadDg1Sm5FdTRCYTBwYnlJV0F3?oc=5",
-      "published_at": "2026-11-25T12:23:12+00:00"
     }
   ]
 }
