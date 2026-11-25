@@ -440,6 +440,74 @@ def _build_calendar_period_bucket(
     }
 
 
+def _build_tv_1m_bucket(
+    tv_stocks: List[Dict[str, Any]],
+    latest_day: date,
+    histories: List[Dict[str, Any]],
+    top_n: int = 15,
+) -> Dict[str, Any]:
+    """
+    Uses TradingView's official split-adjusted Perf.1M uniformly across ALL ~625
+    BIST stocks so every single stock shares the exact same 1-month baseline
+    (matching TradingView / Midas 1A table with 0.00% discrepancy).
+    """
+    now_iso = datetime.now(timezone.utc).isoformat()
+    # TradingView 1M baseline is same calendar day last month (or prior trading day if weekend/holiday)
+    approx_1m = latest_day - timedelta(days=31)
+    matched_starts: List[date] = []
+    for h in histories[:40]:
+        pt = _point_on_or_before(h["points"][:-1], approx_1m)
+        if pt is not None:
+            matched_starts.append(pt[0])
+    start_day = max(matched_starts) if matched_starts else (latest_day - timedelta(days=30))
+
+    rows: List[Dict[str, Any]] = []
+    for s in tv_stocks:
+        perf_1m = s.get("perf_1m")
+        if perf_1m is None or not math.isfinite(perf_1m):
+            continue
+        end_price = s["close"]
+        denom = 1.0 + perf_1m / 100.0
+        if denom <= 0:
+            continue
+        start_price = end_price / denom
+        rows.append({
+            "symbol": s["symbol"],
+            "name": s["name"],
+            "price": round(end_price, 2),
+            "previous_close": round(start_price, 2),
+            "change_percent": round(perf_1m, 2),
+            "currency": "TRY",
+            "updated_at": now_iso,
+        })
+
+    adv = sum(1 for r in rows if r["change_percent"] > 0)
+    dec = sum(1 for r in rows if r["change_percent"] < 0)
+    flat = len(rows) - adv - dec
+
+    gainers = sorted(
+        [r for r in rows if r["change_percent"] > 0],
+        key=lambda r: r["change_percent"],
+        reverse=True,
+    )[:top_n]
+    losers = sorted(
+        [r for r in rows if r["change_percent"] < 0],
+        key=lambda r: r["change_percent"],
+    )[:top_n]
+
+    return {
+        "days": 30,
+        "start_date": start_day.strftime("%d.%m.%Y"),
+        "end_date": latest_day.strftime("%d.%m.%Y"),
+        "scanned_count": len(rows),
+        "advancers": adv,
+        "decliners": dec,
+        "unchanged": flat,
+        "gainers": gainers,
+        "losers": losers,
+    }
+
+
 def generate_movers_feed(output_dir: Optional[Path] = None) -> Dict[str, Any]:
     session = _create_session(pool_size=28)
     tv_stocks = _fetch_all_bist_from_tradingview(session)
@@ -463,7 +531,7 @@ def generate_movers_feed(output_dir: Optional[Path] = None) -> Dict[str, Any]:
     p1 = _build_1d_bucket(tv_stocks, latest_day, prev_day, top_n=15)
     p10 = _build_calendar_period_bucket(histories, 10, top_n=15)
     p20 = _build_calendar_period_bucket(histories, 20, top_n=15)
-    p30 = _build_calendar_period_bucket(histories, 30, top_n=15)
+    p30 = _build_tv_1m_bucket(tv_stocks, latest_day, histories, top_n=15)
 
     feed = {
         "generated_at": datetime.now(timezone.utc).isoformat(),

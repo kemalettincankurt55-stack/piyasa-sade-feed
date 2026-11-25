@@ -905,12 +905,12 @@
     },
     "30": {
       "days": 30,
-      "start_date": "26.10.2026",
+      "start_date": "23.10.2026",
       "end_date": "25.11.2026",
-      "scanned_count": 623,
-      "advancers": 198,
-      "decliners": 420,
-      "unchanged": 5,
+      "scanned_count": 625,
+      "advancers": 188,
+      "decliners": 429,
+      "unchanged": 8,
       "gainers": [
         {
           "symbol": "DOGUB",
@@ -919,7 +919,7 @@
           "previous_close": 14.35,
           "change_percent": 217.77,
           "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
         },
         {
           "symbol": "PEKGY",
@@ -928,7 +928,7 @@
           "previous_close": 0.91,
           "change_percent": 116.48,
           "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
         },
         {
           "symbol": "IDGYO",
@@ -937,7 +937,7 @@
           "previous_close": 1.68,
           "change_percent": 102.98,
           "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
         },
         {
           "symbol": "SANFM",
@@ -946,7 +946,7 @@
           "previous_close": 2.91,
           "change_percent": 78.01,
           "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
         },
         {
           "symbol": "KONTR",
@@ -955,7 +955,7 @@
           "previous_close": 1.29,
           "change_percent": 77.52,
           "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
         },
         {
           "symbol": "MANAS",
@@ -964,25 +964,16 @@
           "previous_close": 2.5,
           "change_percent": 67.2,
           "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
-        },
-        {
-          "symbol": "OZRDN",
-          "name": "Ozerden Ambalaj Sanayi A.S.",
-          "price": 13.2,
-          "previous_close": 8.08,
-          "change_percent": 63.37,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
         },
         {
           "symbol": "KTLEV",
           "name": "KATILIMEVIM TASARRUF FINANSMAN A.S.",
           "price": 6.63,
-          "previous_close": 4.1,
-          "change_percent": 61.71,
+          "previous_close": 4.14,
+          "change_percent": 60.14,
           "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
         },
         {
           "symbol": "BIGEN",
@@ -991,7 +982,25 @@
           "previous_close": 7.46,
           "change_percent": 56.43,
           "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
+        },
+        {
+          "symbol": "FZLGY",
+          "name": "FUZUL GAYRIMENKUL YATIRIM ORTAKLIGI A.S.",
+          "price": 6.5,
+          "previous_close": 4.17,
+          "change_percent": 55.88,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
+        },
+        {
+          "symbol": "OZRDN",
+          "name": "Ozerden Ambalaj Sanayi A.S.",
+          "price": 13.2,
+          "previous_close": 8.49,
+          "change_percent": 55.48,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
         },
         {
           "symbol": "GUNDG",
@@ -1000,16 +1009,25 @@
           "previous_close": 97.85,
           "change_percent": 54.52,
           "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
         },
         {
-          "symbol": "FZLGY",
-          "name": "FUZUL GAYRIMENKUL YATIRIM ORTAKLIGI A.S.",
-          "price": 6.5,
-          "previous_close": 4.22,
-          "change_percent": 54.03,
+          "symbol": "MMCAS",
+          "name": "MMC Sanayi ve Ticari Yatirimlar A.S",
+          "price": 12.8,
+          "previous_close": 8.3,
+          "change_percent": 54.22,
           "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
+        },
+        {
+          "symbol": "SMART",
+          "name": "Smartiks Yazilim AS",
+          "price": 14.89,
+          "previous_close": 10.03,
+          "change_percent": 48.45,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
         },
         {
           "symbol": "KARCL",
@@ -1018,34 +1036,16 @@
           "previous_close": 31.02,
           "change_percent": 47.0,
           "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
         },
         {
-          "symbol": "IHLGM",
-          "name": "Ihlas Gayrimenkul Proje Gelistirme ve Ticaret A.S.",
-          "price": 1.44,
-          "previous_close": 0.98,
-          "change_percent": 46.94,
+          "symbol": "NETGL",
+          "name": "Net Global Endustriyel Yatirimlar A.S.",
+          "price": 13.25,
+          "previous_close": 9.13,
+          "change_percent": 45.13,
           "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
-        },
-        {
-          "symbol": "SVGYO",
-          "name": "Savur Gayrimenkul Yatirim Ortakligi A.S",
-          "price": 2.79,
-          "previous_close": 1.91,
-          "change_percent": 46.07,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
-        },
-        {
-          "symbol": "SMART",
-          "name": "Smartiks Yazilim AS",
-          "price": 14.89,
-          "previous_close": 10.38,
-          "change_percent": 43.45,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
         }
       ],
       "losers": [
@@ -1056,7 +1056,7 @@
           "previous_close": 14.31,
           "change_percent": -62.68,
           "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
         },
         {
           "symbol": "HEDEF",
@@ -1065,7 +1065,7 @@
           "previous_close": 11.75,
           "change_percent": -62.04,
           "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
         },
         {
           "symbol": "TRHOL",
@@ -1074,7 +1074,7 @@
           "previous_close": 213.3,
           "change_percent": -61.06,
           "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
         },
         {
           "symbol": "OZATD",
@@ -1083,61 +1083,97 @@
           "previous_close": 236.7,
           "change_percent": -55.3,
           "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
         },
         {
           "symbol": "ZERGY",
           "name": "Zeray Gayrimenkul Yatirim Ortakligi AS",
           "price": 3.7,
-          "previous_close": 6.75,
-          "change_percent": -45.19,
+          "previous_close": 7.05,
+          "change_percent": -47.52,
           "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
         },
         {
           "symbol": "USHOL",
           "name": "US Yatirim Holding A.S.",
           "price": 44.0,
-          "previous_close": 70.85,
-          "change_percent": -37.9,
+          "previous_close": 72.0,
+          "change_percent": -38.89,
           "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
+        },
+        {
+          "symbol": "AZTEK",
+          "name": "Aztek Teknoloji Urunleri Ticaret A.S.",
+          "price": 1.99,
+          "previous_close": 3.13,
+          "change_percent": -36.42,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
+        },
+        {
+          "symbol": "EFOR",
+          "name": "Efor Yatirim Sanayi Ticaret A.S.",
+          "price": 11.25,
+          "previous_close": 17.4,
+          "change_percent": -35.34,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
         },
         {
           "symbol": "KUVVA",
           "name": "Kuvva Gida Ticaret ve Sanayi Yatirimlari A.S.",
           "price": 53.0,
-          "previous_close": 82.5,
-          "change_percent": -35.76,
+          "previous_close": 81.0,
+          "change_percent": -34.57,
           "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
-        },
-        {
-          "symbol": "NETAS",
-          "name": "Netas Telekomunikasyon A.S.",
-          "price": 45.82,
-          "previous_close": 67.85,
-          "change_percent": -32.47,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
         },
         {
           "symbol": "BORLS",
           "name": "Borlease Otomotiv AS",
           "price": 1.52,
-          "previous_close": 2.22,
-          "change_percent": -31.53,
+          "previous_close": 2.28,
+          "change_percent": -33.33,
           "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
+        },
+        {
+          "symbol": "BIGCH",
+          "name": "Buyuk Sefler Gida Turizm Tekstil Danismanlik Organizasyon Egitim Sanayi ve Ticaret A.S.",
+          "price": 2.13,
+          "previous_close": 3.13,
+          "change_percent": -31.95,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
+        },
+        {
+          "symbol": "TURSG",
+          "name": "Turkiye Sigorta A.S.",
+          "price": 2.79,
+          "previous_close": 4.1,
+          "change_percent": -31.95,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
+        },
+        {
+          "symbol": "NETAS",
+          "name": "Netas Telekomunikasyon A.S.",
+          "price": 45.82,
+          "previous_close": 65.8,
+          "change_percent": -30.36,
+          "currency": "TRY",
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
         },
         {
           "symbol": "SOKM",
           "name": "Sok Marketler Ticaret AS",
           "price": 40.12,
-          "previous_close": 57.6,
-          "change_percent": -30.35,
+          "previous_close": 57.4,
+          "change_percent": -30.1,
           "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
         },
         {
           "symbol": "AKFYE",
@@ -1146,43 +1182,7 @@
           "previous_close": 3.65,
           "change_percent": -29.86,
           "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
-        },
-        {
-          "symbol": "ARTMS",
-          "name": "Artemis Hali A. S.",
-          "price": 21.2,
-          "previous_close": 30.2,
-          "change_percent": -29.8,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
-        },
-        {
-          "symbol": "ENDAE",
-          "name": "Enda Enerji Holding Anonim Sirketi",
-          "price": 6.94,
-          "previous_close": 9.87,
-          "change_percent": -29.69,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
-        },
-        {
-          "symbol": "BIGCH",
-          "name": "Buyuk Sefler Gida Turizm Tekstil Danismanlik Organizasyon Egitim Sanayi ve Ticaret A.S.",
-          "price": 2.13,
-          "previous_close": 3.01,
-          "change_percent": -29.24,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
-        },
-        {
-          "symbol": "ODINE",
-          "name": "Odine Solutions Teknoloji Ticaret ve Sanayi AS",
-          "price": 61.95,
-          "previous_close": 86.3,
-          "change_percent": -28.22,
-          "currency": "TRY",
-          "updated_at": "2026-11-25T06:30:00+00:00"
+          "updated_at": "2026-11-25T20:50:09.489916+00:00"
         }
       ]
     }
