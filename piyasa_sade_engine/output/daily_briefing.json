@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T17:06:52.406844+00:00",
-  "istanbul_time": "26.11.2026 20:06",
+  "generated_at": "2026-11-26T19:24:04.541414+00:00",
+  "istanbul_time": "26.11.2026 22:23",
   "date": "26.11.2026",
   "active_mode": "evening",
   "disclaimer": "Yatırım tavsiyesi değildir (YTD). Doğrulanmış piyasa verileri ve ekonomi başlıklarından üretilmiştir.",
@@ -28,30 +28,30 @@
     "USDTRY": {
       "symbol": "USDTRY",
       "name": "Dolar / TL",
-      "price": 50.6737,
+      "price": 50.6722,
       "previous_close": 50.674,
       "change_percent": -0.0
     },
     "EURTRY": {
       "symbol": "EURTRY",
       "name": "Euro / TL",
-      "price": 55.7328,
+      "price": 55.7282,
       "previous_close": 55.7478,
-      "change_percent": -0.03
+      "change_percent": -0.04
     },
     "GOLD": {
       "symbol": "GOLD",
       "name": "Ons Altın",
-      "price": 3598.5,
+      "price": 3593.9,
       "previous_close": 3564.6,
-      "change_percent": 0.95
+      "change_percent": 0.82
     },
     "GRAM_ALTIN": {
       "symbol": "GRAM_ALTIN",
       "name": "Gram Altın (TL)",
-      "price": 5862.67,
+      "price": 5855.0,
       "previous_close": 5807.47,
-      "change_percent": 0.95
+      "change_percent": 0.82
     }
   },
   "morning": {
@@ -75,16 +75,16 @@
     "type": "evening",
     "date": "26.11.2026",
     "ready_at_tr": "18:25",
-    "title": "🌙 Borsa Kapanış Özeti • BIST 100 10743.11 (+%0.82)",
-    "headline": "Borsa İstanbul gün sonu özeti: 427 yükselen, 162 düşen (26.11.2026)",
-    "notification_body": "BIST 100 10743.11 (+%0.82). 625 ana BIST hissesinden 162 tanesi düşüşte, 427 tanesi yükselişte kapattı.",
+    "title": "🌙 Borsa Kapanış Özeti: BIST Yükselişle Kapattı!",
+    "headline": "BIST 100 günü %0,82 yükselişle tamamlarken, hisselerin büyük çoğunluğu değer kazandı.",
+    "notification_body": "Borsa İstanbul günü yükselişle kapattı; 427 hisse değer kazandı. Dolar/TL yatay seyrederken, Gram Altın yükselişini sürdürdü. SPK ve TCMB haberleri piyasada etkili oldu.",
     "bullets": [
-      "Taranan 625 ana BIST hissesinden 427 tanesi günü yükselişle, 162 tanesi düşüşle tamamladı.",
-      "BIST 100 10743.11 (+%0.82) · Dolar/TL 50.6737 (+%0.00) · Gram Altın 5862.67 TL (+%0.95).",
-      "Günün öne çıkan yükselenleri: FZLGY (+%10.00), OZRDN (+%10.00), CITAS (+%10.00).",
-      "Satış baskısının yoğunlaştığı hisseler: DOGUB (-%10.00), GUNDG (-%9.99), LYDHO (-%9.98).",
-      "Günün öne çıkan ekonomi başlığı: 26 Kasım 2026 Piyasa Kapanışı: BIST 100 %0,82 yükseldi, dolar 50,6729 ₺, gram altın 5.868."
+      "Borsa İstanbul günü %0,82 yükselişle 10.743,11 puandan tamamladı. Toplam 625 hisseden 427'si değer kazanırken, 162'si değer kaybetti.",
+      "Dolar/TL kuru 50,67 seviyesinde yatay bir seyir izlerken, Gram Altın %0,82 artışla 5.855 TL seviyesinden kapandı. Ons Altın da benzer oranda yükseldi.",
+      "Günün en çok yükselenleri arasında FZLGY, OZRDN ve CITAS gibi hisseler %10'luk artışlarla öne çıktı.",
+      "Sermaye Piyasası Kurulu'nun (SPK) şüpheli işlemler için otomatik erken alarm sistemi kurma ve dönüşüm projesi açıklamaları piyasada olumlu karşılandı.",
+      "Merkez Bankası'nın yurt içinde cevherden üretilen altın alımına ara vermesi ve döviz karşılığı TL swap ihaleleri açması gibi gelişmeler gün boyu piyasaların gündeminde yer aldı."
     ],
-    "ai_generated": false
+    "ai_generated": true
   }
 }

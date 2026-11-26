@@ -1,10 +1,41 @@
 {
-  "generated_at": "2026-11-26T17:06:11.208431+00:00",
+  "generated_at": "2026-11-26T19:23:43.660818+00:00",
   "disclaimer": "Haber başlıkları orijinal kaynaklara aittir; yatırım tavsiyesi değildir (YTD).",
   "trending_clusters": [
     {
+      "id": "cluster-a2d78222a009",
+      "headline": "Borsa İstanbul Günü Yükselişle Tamamladı",
+      "category": "Borsa & KAP",
+      "is_breaking": true,
+      "source_count": 7,
+      "sources": [
+        {
+          "name": "Habertürk",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xMEVGUHcxQW9iVUtGMURzVFV3MXFaOTIydFl4Q3dsMGZNTEd0RVN1UG40WDJ4M2dRLVVaaGVDLWUyQ2hlRnBkMXhDZzdRX3BMX1dRMVlfNGppY2FhcVVXa0NBbkFMTnZod0tURW1lNDNjcVV0T01UeVZlU1JFQQ?oc=5"
+        },
+        {
+          "name": "CNN Türk",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUNtakg4bUpEOWp0V0xKTjdSdGtBOHBDanl5Z0g2bThHdU1JUF9raVBvVWFLUlplT2FtTzNwd2o4NGRvcExXTDBNODVRZ2cwYTRtdVpCTFdmQThfckdSejFuTW5IdHQ0Q1pJc0VkZDRsZDVUMzFNX1gyVm9hek96bHZhcUktNlFGNVpkWnlSVE91VGgycHNyMw?oc=5"
+        },
+        {
+          "name": "Hürriyet",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWVNuQVdsTGtSYThfQS1mVEIzVTc3QTNaWlctWDdxT1RCVVNKajdVTk9fTjJGUmZpWUt6YTRrSDRuT2RqWkx2Q1llaXZwZ2NhOVJLdGw0TWpnNXpQaGtrZ216R1dfb0xyc0pqQ0VLaXFPQ0RBc0VINXdIcGNxS2ZSZnMwNHJhc1VDZlVER2pzR1pSRHB1T1J4R3RuVlk4U3NsR0w1aGRJRTFMZGR5Z1BBZGVpUlc2ckh5dFFJUFd0eTFKQQ?oc=5"
+        },
+        {
+          "name": "A Haber",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORUVSb0JxbkpoT2JBN1pyQnFfNDJSVjNPeEFEcVdlampLRzVtaHUxU2poeVF1bUtmWEU5QnpfY1RybDBCdmd1anpIVzNSVUNfdUo0NzlOVGFVVXBETC0yQ2FOUjRQWUc0U1hsWEZPRHM1azc4MUI2NVg2MDFvVU5MTHBGUEg4a0thbUVlNzR5b1BvSTRGdlJzcTljcmh1QkxSSG9qR0xuZFIzemZaaGxYWG5aZHlWTlFTZ2FvWXhNLTJRdw?oc=5"
+        }
+      ],
+      "published_at": "2026-11-26T17:51:17+00:00",
+      "bullets": [
+        "Borsa İstanbul, günü yükselişle tamamlayarak genel olarak pozitif bir kapanış gerçekleştirdi.",
+        "Piyasalarda gözlemlenen bu yükseliş, genel piyasa algısında olumlu bir tablo çizebilir."
+      ],
+      "ai_synthesized": true
+    },
+    {
       "id": "cluster-dcacf4de7270",
-      "headline": "26 Kasım 2026 Piyasa Kapanışı: BIST 100 Yükseldi, Dolar ve Altın Fiyatları Belirlendi",
+      "headline": "26 Kasım 2026 Piyasa Kapanışı ve Altın Fiyatları Gelişmeleri",
       "category": "Altın & Döviz",
       "is_breaking": true,
       "source_count": 9,
@@ -28,29 +59,21 @@
       ],
       "published_at": "2026-11-26T16:22:30+00:00",
       "bullets": [
-        "26 Kasım 2026 tarihinde BIST 100 endeksi %0,82 artışla kapanırken, dolar 50,6729 TL ve gram altın 5.868 TL seviyelerinden işlem gördü.",
-        "Bu veriler, yatırımcıların genel piyasa performansını ve döviz ile altın fiyatlarındaki güncel durumu değerlendirmelerine olanak tanıyabilir."
+        "26 Kasım 2026 tarihinde BIST 100 endeksi günü yükselişle tamamlarken, dolar kuru ve çeşitli altın türlerinin (gram, çeyrek, ons) güncel alış-satış fiyatları piyasalarda öne çıkan veriler oldu.",
+        "Bu bilgiler, yatırımcıların ilgili finansal varlıkların günlük performansını takip etmeleri ve kendi değerlendirmelerini yapmaları için temel veri niteliğindedir."
       ],
       "ai_synthesized": true
     },
     {
       "id": "cluster-fea213d0e9f8",
-      "headline": "SPK'dan Piyasalar İçin Otomatik Erken Uyarı Sistemi",
+      "headline": "SPK'dan Şüpheli İşlemler İçin Otomatik Erken Uyarı Sistemi",
       "category": "Gündem & X",
       "is_breaking": true,
-      "source_count": 4,
+      "source_count": 2,
       "sources": [
         {
           "name": "Yeni Birlik",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXdDWnFacWNTZFdLRkR3WjdWYjZGclBuSWtySUNqQzdRbDM4Ukd0Q0Z5ckZmVENySjV4X0dYX283ZkdpOWlFTGFvRi0zckpSa21TT241dkVGc3MwWFR4Qkc0ZzQxUV9xLXZLQVRqd0JjcDlFQ1VjQl9aZWtsTlU0OHBoQnlvYkx5NFpwZGpQX0RtMllpUU5BRExRMkstVVZlYk92MVkySXhRLUI1cXFBOElBaC1mN2hXVHFvRnZsb1pnS1p4cnc?oc=5"
-        },
-        {
-          "name": "Bursa Hakimiyet",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVFhSS3NNcUptODk4ZkxudzQ0YXZ2bU1ob3I5TEh3MmhNNGsySGFQYjA0UHFsVFQxdkczb0VKMThsLUZiVFJMaW9iV2ZWVncwa3Jnbk1uUFYxSjgyLUxMVEZOb3UzaHlxaGl3VWE2UF9iT2p5cl9QdGVKaDhERXhyZTVqS2pja0ROcEFxNlNyZ3RVRS04OG9UUHR6T2lOVUo5WkE1MXFzTzZYQk43cUNDdVNIeE1nV0N3dGtV?oc=5"
-        },
-        {
-          "name": "İnternet Haber",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUzI2cG1LZmsxaS1YeDNRdXdEZDdlbHZtYmppdXgzN0VFSWNORmZpZjYwLVRRczBnTkR1blRqNXZwMkZyTUhhMXltUnNyNktGYXFJSkY1b0VJOXVKQkUwWlRpUmEtMUdacmhqTE5oaGdLcUZyN1lLWDFlWEFUZVRxcUlvbzJoSTNxbFhvc2x4Zk5LLUsySWF1RnF2YzVpcmhsX1B6TVZyYzlScmp0ZnJqLUhNX0ZKYmI0RlUyc3hrbVQ?oc=5"
         },
         {
           "name": "Mynet Finans",
@@ -59,68 +82,41 @@
       ],
       "published_at": "2026-11-26T16:01:53+00:00",
       "bullets": [
-        "Sermaye Piyasası Kurulu (SPK), şüpheli işlemleri erken tespit etmek amacıyla otomatik bir erken uyarı sistemi kurma kararı aldı.",
-        "Bu sistemin, piyasalarda denetim etkinliğini artırarak şeffaflığı ve yatırımcı güvenini desteklemesi beklenmektedir."
+        "Sermaye Piyasası Kurulu (SPK), piyasalardaki şüpheli işlemleri otomatik olarak tespit etmek üzere bir erken uyarı sistemi kurduğunu açıkladı.",
+        "Bu sistemin, piyasa bütünlüğünü ve yatırımcı güvenini artırarak daha şeffaf bir işlem ortamı sağlaması beklenmektedir."
       ],
       "ai_synthesized": true
     },
     {
-      "id": "cluster-9a85a05c8950",
-      "headline": "Borsa İstanbul Günü Yükselişle Kapattı, Devre Kesici Uygulamaları Gündemdeydi",
+      "id": "cluster-ec6899ba746b",
+      "headline": "Borsa İstanbul'da Volatilite ve Devre Kesici Uygulamaları",
       "category": "Borsa & KAP",
       "is_breaking": true,
-      "source_count": 6,
+      "source_count": 3,
       "sources": [
         {
-          "name": "Finans Hattı",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMmFudzZhd0VsOG9iOGN2elRrdWRtdzg5N2p4S01xYW9TVjE5VUVFeUNBdjQyc1pybTgycjB2SnVYTlhkR1BTRnFoMFd3VFB2ZlpPR19MSkNPMlUwQlUwdXBnSUU0NHJocjU2WUUwdTZDTTJGS3VPODRJRFN5N1k2TjZWeXZPcHhVRDlr?oc=5"
-        },
-        {
-          "name": "Hürriyet",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWVNuQVdsTGtSYThfQS1mVEIzVTc3QTNaWlctWDdxT1RCVVNKajdVTk9fTjJGUmZpWUt6YTRrSDRuT2RqWkx2Q1llaXZwZ2NhOVJLdGw0TWpnNXpQaGtrZ216R1dfb0xyc0pqQ0VLaXFPQ0RBc0VINXdIcGNxS2ZSZnMwNHJhc1VDZlVER2pzR1pSRHB1T1J4R3RuVlk4U3NsR0w1aGRJRTFMZGR5Z1BBZGVpUlc2ckh5dFFJUFd0eTFKQQ?oc=5"
-        },
-        {
-          "name": "A Haber",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORUVSb0JxbkpoT2JBN1pyQnFfNDJSVjNPeEFEcVdlampLRzVtaHUxU2poeVF1bUtmWEU5QnpfY1RybDBCdmd1anpIVzNSVUNfdUo0NzlOVGFVVXBETC0yQ2FOUjRQWUc0U1hsWEZPRHM1azc4MUI2NVg2MDFvVU5MTHBGUEg4a0thbUVlNzR5b1BvSTRGdlJzcTljcmh1QkxSSG9qR0xuZFIzemZaaGxYWG5aZHlWTlFTZ2FvWXhNLTJRdw?oc=5"
+          "name": "NirvanaHaber",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUG5IVldScDU3T3Fobmt2TFdZRkQwRUF1SmV3R1o5c0hvbGxaN2JvTy1MQ3lrZ0tuZWZRWEwwTU9zOF9lckREWVB1WjlrSjl5MF9ZeWJPUjBhbmcyRnE0dldSOFF3QmJkU2M3OXRPZkQ5WXM5MGVWaHhKMHhKc2ZuWE85TVJzcmNmUGN2U3VIVTIxS2YxLWxPS1ZWVi1CNHlhYnVhc2FtRTU?oc=5"
         },
         {
           "name": "Yeni Şafak",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTUFLSFNsUERNVUVheWxXZGxvaF84OFI1MF90M2tKYXg4dkNSUGl2TTZLTVRKWkhTc21KSnR3SHhhN09sMENsS05qYkJMT2dqRFU3Q3h0T2JxNWtMc0xobE1TTWpPWDFUcm9PY3NIWkwxb0s4Wms5NmlteHctMnB2RFRFMS01S2dkUWRLWUlYOVBudFpLRjFfdlRBSy04WW9Ea1R0cXV4YXcyRVNfdnV0cEx3Vkp2Y29DX2RoN3ZqSHZaZ3BMM2pHbGV5enNFU3JCNFNUclF6clJxamdQWnhfVg?oc=5"
-        }
-      ],
-      "published_at": "2026-11-26T16:00:34+00:00",
-      "bullets": [
-        "Borsa İstanbul, güne yükselişle başlayıp günü pozitif bir seyirle tamamlarken, bazı hisselerde devre kesici uygulamaları devreye girdi.",
-        "Bu genel yükseliş piyasada olumlu bir atmosfer oluştururken, devre kesiciler belirli hisselerdeki oynaklığın yönetildiğini gösterdi."
-      ],
-      "ai_synthesized": true
-    },
-    {
-      "id": "cluster-5da6fb3f1d57",
-      "headline": "Borsa Yükseliş Eğilimi Gösterdi",
-      "category": "Borsa & KAP",
-      "is_breaking": false,
-      "source_count": 2,
-      "sources": [
-        {
-          "name": "CNN Türk",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUNtakg4bUpEOWp0V0xKTjdSdGtBOHBDanl5Z0g2bThHdU1JUF9raVBvVWFLUlplT2FtTzNwd2o4NGRvcExXTDBNODVRZ2cwYTRtdVpCTFdmQThfckdSejFuTW5IdHQ0Q1pJc0VkZDRsZDVUMzFNX1gyVm9hek96bHZhcUktNlFGNVpkWnlSVE91VGgycHNyMw?oc=5"
         },
         {
-          "name": "TRT Haber",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRzFCeVFGYnJXMGZVZ1JGbkt6NGF1aVVYQUhqVVRiaUk4aGhiWHhRRFlXY2tJOHFFVTdJel84YkhTLWp2MndJeXhYUnAtYWVPS0x0THpFVWxfaEdTTzNBdzYyVFU3OUc0ejdSZkEwb2NYdlJGeWJzczQ4ckJkUXlRQmJMOXlQbTg?oc=5"
+          "name": "Bölgenin Sesi Gazetesi",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWVZkSG9JZ2duVC1hejlpLWNIN0V0SVR0ZjBIZW9OZW9LclZ0VmxTSHNzRkljQUtCUVE5R0NRV1NyWHctN1FZVnZLNWtKZWQ5Q25aLUlEN1ZNbVZ6U1B6ZENTT2RBVFdKMG1XVlFHRElhQTVyeFJOM3NKN2dZS1VkTEdkVzRDRmxHSkpfSHBwSEtmY3ktT19ZdDk4RU4wRXBnR3k1MQ?oc=5"
         }
       ],
-      "published_at": "2026-11-26T15:37:34+00:00",
+      "published_at": "2026-11-26T15:35:00+00:00",
       "bullets": [
-        "Borsa, perşembe gününü artışla kapatırken, yeni işlem gününe de yükselişle başladı.",
-        "Bu durum, piyasada genel bir pozitif algının veya belirli beklentilerin varlığına işaret edebilir."
+        "Borsa İstanbul'da farklı zaman dilimlerinde hem yükselişler hem de yüzde 2,83'e varan düşüşler gözlemlenirken, bazı hisselerde devre kesici uygulamaları devreye girdi.",
+        "Bu durum, piyasada genel bir oynaklık eğilimine ve yatırımcılar için daha dikkatli bir değerlendirme ihtiyacına işaret edebilir."
       ],
       "ai_synthesized": true
     },
     {
       "id": "cluster-0e30cbaabc89",
-      "headline": "Merkez Bankaları Faiz Beklentilerinde Değişen Görünüm",
+      "headline": "Merkez Bankaları Faiz Beklentilerinde Ayrışma",
       "category": "Makro & TCMB",
       "is_breaking": true,
       "source_count": 2,
@@ -136,13 +132,43 @@
       ],
       "published_at": "2026-11-26T15:22:22+00:00",
       "bullets": [
-        "Kıdemli bir stratejist Fed'in faiz indirimine mecbur kalacağını öngörürken, yurt içinde TCMB'ye yönelik faiz indirimi beklentileri piyasada terse döndü.",
-        "Bu durum, küresel piyasalarda Fed'in gelecekteki adımlarına yönelik belirsizliği artırırken, yurt içinde para politikası beklentilerindeki değişimle birlikte piyasalarda oynaklığa yol açabilir."
+        "Kıdemli bir stratejist Fed'den faiz indirimi beklerken, Türkiye Cumhuriyet Merkez Bankası'na (TCMB) yönelik piyasa faiz indirimi beklentileri tersine dönerek, bankanın planlarında olası bir değişikliğe işaret etti.",
+        "Bu durum, küresel ve yerel para politikaları arasındaki ayrışmanın finansal piyasalarda farklı yönelimlere yol açabileceği bir döneme işaret edebilir."
       ],
       "ai_synthesized": true
     }
   ],
   "articles": [
+    {
+      "id": "db093c204aeb",
+      "title": "İslam Memiş’ten altın açıklaması: Tedarik sorunu yaşanıyor",
+      "source": "Paratic Haber",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM2JmblMyYzZDTXUycUtOUXk2MXR0SjZmUG1ZblEybnl2c2hsaU1tYnFjVFJsbUM3RDdaYWFTUy1VVTN6RXAtdFFuendpSEtTVzM4WVhINkl3R2R4cllHOEhCQXFuTk1Pcnc4WFFEQ2JXcXk2cjk1LWJhVjFGMGliTlljYw?oc=5",
+      "category": "Altın & Döviz",
+      "published_at": "2026-11-26T19:11:24+00:00",
+      "is_breaking": false,
+      "ai_summary": "İslam Memiş, altın piyasasında tedarik sıkıntıları yaşandığını belirtmiştir. Bu durum, küresel altın arzında potansiyel bir daralmaya işaret edebilir ve altın fiyatları üzerinde arz-talep dengesi açısından bir etki yaratabilir."
+    },
+    {
+      "id": "a2d78222a009",
+      "title": "Borsa günü yükselişle tamamladı",
+      "source": "Habertürk",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xMEVGUHcxQW9iVUtGMURzVFV3MXFaOTIydFl4Q3dsMGZNTEd0RVN1UG40WDJ4M2dRLVVaaGVDLWUyQ2hlRnBkMXhDZzdRX3BMX1dRMVlfNGppY2FhcVVXa0NBbkFMTnZod0tURW1lNDNjcVV0T01UeVZlU1JFQQ?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-26T17:51:17+00:00",
+      "is_breaking": false,
+      "ai_summary": "Borsa İstanbul, işlem gününü değer kazanarak tamamlamıştır. Bu durum, piyasada genel bir olumlu seyrin gözlemlendiğini göstermektedir ve piyasalarda genel bir iyimserlik havası yaratabilir."
+    },
+    {
+      "id": "2f4db807e0d7",
+      "title": "Teknoloji satışları küresel borsalarda ayrışma yarattı",
+      "source": "Ege Alternatif",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNajBxT2x4dFV1bUg2bDNKQVZRQ1hmdDg0TGwxYVluaWtjVnRlaVNwNW5nWjRZWjNGSC1UVmYxdGpqS253SHpKbjR1RVVmRW93RklRTVlXVWJNYzRBeEJBQS0tUVlkUkdlZHl6VE8xMW5jcEVHOWhka014RjBhZlBRbUlrMGVIQVg3bTBXYTczbnFDZlhKVXFmVmxKVjBjNDQ?oc=5",
+      "category": "Küresel",
+      "published_at": "2026-11-26T17:08:00+00:00",
+      "is_breaking": false,
+      "ai_summary": "Küresel borsalarda teknoloji hisselerinde yaşanan satışlar, piyasalar arasında farklılaşmaya yol açmıştır. Bu durum, sektör bazında performans ayrışmalarının belirginleştiğini göstermekte olup teknoloji sektörü hisselerinde volatiliteyi artırabilir."
+    },
     {
       "id": "dcacf4de7270",
       "title": "26 Kasım 2026 Piyasa Kapanışı: BIST 100 %0,82 yükseldi, dolar 50,6729 ₺, gram altın 5.868",
@@ -164,16 +190,6 @@
       "ai_summary": "Sermaye Piyasası Kurulu (SPK), piyasalardaki şüpheli işlemleri tespit etmek amacıyla otomatik bir erken alarm sistemi geliştirmektedir. Yeni sistemin devreye girmesi, piyasalarda manipülatif hareketlerin önüne geçilmesine katkı sağlayarak yatırımcı güvenini olumlu yönde etkileyebilir."
     },
     {
-      "id": "9a85a05c8950",
-      "title": "Borsa İstanbul'da Bugün En Çok Kazandıran Hisseler (26.11.2026)",
-      "source": "Finans Hattı",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMmFudzZhd0VsOG9iOGN2elRrdWRtdzg5N2p4S01xYW9TVjE5VUVFeUNBdjQyc1pybTgycjB2SnVYTlhkR1BTRnFoMFd3VFB2ZlpPR19MSkNPMlUwQlUwdXBnSUU0NHJocjU2WUUwdTZDTTJGS3VPODRJRFN5N1k2TjZWeXZPcHhVRDlr?oc=5",
-      "category": "Borsa & KAP",
-      "published_at": "2026-11-26T16:00:34+00:00",
-      "is_breaking": false,
-      "ai_summary": "Borsa İstanbul'da 26 Kasım 2026 tarihinde en çok değer kazanan hisseler belirlenmiştir. En çok kazandıran hisseler listesi, yatırımcıların o günkü sektör veya şirket bazında ilgi alanlarını ve piyasa dinamiklerini gözlemlemelerine olanak tanıyabilir."
-    },
-    {
       "id": "e5f862ccac82",
       "title": "Piyasalarda gün sonu / 26 Kasım 2026",
       "source": "Canlı Gaste",
@@ -192,6 +208,16 @@
       "published_at": "2026-11-26T15:37:34+00:00",
       "is_breaking": false,
       "ai_summary": "Borsa İstanbul, perşembe günkü işlemleri yükselişle kapatmıştır. Borsanın yükselişle kapanması, genel piyasa algısını olumlu etkileyebilir ve yatırımcıların risk iştahını artırabilir."
+    },
+    {
+      "id": "ec6899ba746b",
+      "title": "Borsa İstanbul'da yükseliş rüzgarı! Yüzde 0,82 yükseldi",
+      "source": "NirvanaHaber",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUG5IVldScDU3T3Fobmt2TFdZRkQwRUF1SmV3R1o5c0hvbGxaN2JvTy1MQ3lrZ0tuZWZRWEwwTU9zOF9lckREWVB1WjlrSjl5MF9ZeWJPUjBhbmcyRnE0dldSOFF3QmJkU2M3OXRPZkQ5WXM5MGVWaHhKMHhKc2ZuWE85TVJzcmNmUGN2U3VIVTIxS2YxLWxPS1ZWVi1CNHlhYnVhc2FtRTU?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-26T15:35:00+00:00",
+      "is_breaking": false,
+      "ai_summary": "Borsa İstanbul, günü yüzde 0,82 oranında bir yükselişle kapatmıştır. Bu gelişme, piyasada pozitif bir kapanış eğiliminin devam ettiğini göstermekte ve piyasalarda genel bir olumlu algı oluşturabilir."
     },
     {
       "id": "90fcec533173",
@@ -234,6 +260,16 @@
       "ai_summary": "26 Kasım 2026 Perşembe gününe ait güncel altın fiyatları, gram, çeyrek, cumhuriyet ve ons bazında detaylı olarak sunulmuştur. Altın fiyatlarındaki anlık değişimler, yatırımcıların altın piyasasındaki güncel durumu takip etmelerine ve kısa vadeli beklentilerini gözden geçirmelerine neden olabilir."
     },
     {
+      "id": "eae9a66cd6c1",
+      "title": "Borsa günü yükselişle kapadı (26 Kasım 2026)",
+      "source": "CNBC-e",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNXpGRUFfLWptNFZfb0MwNGtmbXlqTEdxUEVCM2VlRjZOZEhUaW5Jd0QxRWRndmo4eE9OeTR4Q1ZDbW4yRmxxRk5rY3o2S21OMjBLcU5jejN5Rm5IUWJzeXp1MnJYT2hvNHZlOHRid3Z5S2tYSTdlTUxibW94YlB6VTl2VQ?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-26T15:12:00+00:00",
+      "is_breaking": true,
+      "ai_summary": "Borsa, 26 Kasım 2026 tarihinde işlem gününü yükselişle tamamlamıştır. Bu durum, ilgili tarihte piyasada pozitif bir kapanışın gerçekleştiğini belirtmekte ve piyasalarda genel bir olumlu hava yaratabilir."
+    },
+    {
       "id": "c055b99e2a33",
       "title": "Bugünkü gram altın fiyatları 26 Kasım 2026 1 gram altın ne kadar?",
       "source": "Mynet Finans",
@@ -262,16 +298,6 @@
       "published_at": "2026-11-26T14:34:00+00:00",
       "is_breaking": true,
       "ai_summary": "Borsa İstanbul'da BISTECH Devre Kesici Uygulaması kapsamında AKHAN hissesi için pay bazında devre kesici bildirimi yapılmıştır. Devre kesici uygulaması, ilgili hissede ani ve sert fiyat hareketlerinin önüne geçerek piyasa istikrarını sağlamaya yönelik bir mekanizma olarak işlev görür."
-    },
-    {
-      "id": "643638f477bf",
-      "title": "Altında düşüş devam edecek mi? HSBC kritik seviyeyi işaret etti",
-      "source": "CNBC-e",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZEliaFlFQkpJMzhObHZfamxRcWpBVG0yb2o0OXFrM2F3ZXhqRDN1UXBhNnhPZmVNcDNvRThFUmxUeUhzVEliMklFbG1LM1ZpVWJUUWFOZEtwU0RNVXd0MmpUZzhfQVFZV2VYc1ZBM2cxMFBYSkFxbVlyNlA0UU9HbXdwY3ozZFNIRHhUamxXd1pFV1dtWmJOT1VsNTloQQ?oc=5",
-      "category": "Altın & Döviz",
-      "published_at": "2026-11-26T14:00:58+00:00",
-      "is_breaking": false,
-      "ai_summary": "HSBC analistleri, altın fiyatlarındaki düşüş eğiliminin devam edip etmeyeceğine dair kritik bir seviyeye dikkat çekmiştir. Belirlenen kritik seviyeler, altın yatırımcıları için teknik analiz açısından önemli ipuçları sunabilir ve piyasadaki yön arayışını etkileyebilir."
     },
     {
       "id": "6f049a315d60",
@@ -344,26 +370,6 @@
       "ai_summary": "Sermaye Piyasası Kurulu (SPK), bir fon soruşturması kapsamında Hayrettin Koç'un oğulları da dahil olmak üzere 66 kişi hakkında suç duyurusunda bulunmuştur. SPK'nın bu tür suç duyuruları, piyasada usulsüzlüklerin önlenmesi ve yatırımcı haklarının korunması adına atılan adımlar olarak algılanabilir, bu da piyasa güvenini artırabilir."
     },
     {
-      "id": "00ec8eb34023",
-      "title": "SPK'dan piyasalara yeni denetim hamlesi! Erken alarm sistemi kurulacak",
-      "source": "Bursa Hakimiyet",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVFhSS3NNcUptODk4ZkxudzQ0YXZ2bU1ob3I5TEh3MmhNNGsySGFQYjA0UHFsVFQxdkczb0VKMThsLUZiVFJMaW9iV2ZWVncwa3Jnbk1uUFYxSjgyLUxMVEZOb3UzaHlxaGl3VWE2UF9iT2p5cl9QdGVKaDhERXhyZTVqS2pja0ROcEFxNlNyZ3RVRS04OG9UUHR6T2lOVUo5WkE1MXFzTzZYQk43cUNDdVNIeE1nV0N3dGtV?oc=5",
-      "category": "Gündem & X",
-      "published_at": "2026-11-26T10:57:28+00:00",
-      "is_breaking": true,
-      "ai_summary": "Sermaye Piyasası Kurulu (SPK), piyasalarda denetimi güçlendirmek amacıyla yeni bir erken alarm sistemi kurma kararı almıştır. Yeni denetim hamlesi ve erken alarm sistemi, piyasalarda şeffaflığı ve güvenliği artırarak yatırımcıların daha sağlıklı bir ortamda işlem yapmasına katkıda bulunabilir."
-    },
-    {
-      "id": "b772497c2624",
-      "title": "SPK'dan piyasaları yakın takibe alacak yeni düzenleme: Erken alarm sistemi geliyor",
-      "source": "İnternet Haber",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUzI2cG1LZmsxaS1YeDNRdXdEZDdlbHZtYmppdXgzN0VFSWNORmZpZjYwLVRRczBnTkR1blRqNXZwMkZyTUhhMXltUnNyNktGYXFJSkY1b0VJOXVKQkUwWlRpUmEtMUdacmhqTE5oaGdLcUZyN1lLWDFlWEFUZVRxcUlvbzJoSTNxbFhvc2x4Zk5LLUsySWF1RnF2YzVpcmhsX1B6TVZyYzlScmp0ZnJqLUhNX0ZKYmI0RlUyc3hrbVQ?oc=5",
-      "category": "Gündem & X",
-      "published_at": "2026-11-26T10:52:00+00:00",
-      "is_breaking": true,
-      "ai_summary": "Sermaye Piyasası Kurulu (SPK), piyasaları daha yakından izlemek için yeni bir düzenleme ve erken alarm sistemi getirmektedir. SPK'nın bu adımı, piyasa bütünlüğünü koruma ve yatırımcıları olası risklere karşı uyarma potansiyeli taşıyarak piyasa güvenini pekiştirebilir."
-    },
-    {
       "id": "fb243bcd995f",
       "title": "S&P 500: Dalgalı satış ve rotasyon işlemi – Deutsche Bank",
       "source": "FXStreet",
@@ -382,16 +388,6 @@
       "published_at": "2026-11-26T10:15:35+00:00",
       "is_breaking": true,
       "ai_summary": "Sermaye Piyasası Kurulu (SPK), piyasalarda otomatik bir erken alarm sistemi kurarak yeni bir düzenlemeyi hayata geçirmektedir. Otomatik erken alarm sistemi, piyasa manipülasyonlarının önüne geçilmesine yardımcı olarak yatırımcıların piyasaya olan güvenini olumlu yönde etkileyebilir."
-    },
-    {
-      "id": "e1295594d055",
-      "title": "BIST 100 ilk yarıda yüzde 2,28 yükseldi",
-      "source": "Canlı Gaste",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vQ0Y0RURGRjAzMVg1S3BaSjk3YnVlLWVBd3hKQ192NFhDZ0ZlVmVubDFEa21SdmpUdlFYZGwtUUxtUTY3WVBrc1dQWEd1REQ2REloZEpHMjVteEdhaXZEQUstRWpBeDVIR05SVGtJd0E4clZmM1plSkFmalc0eGs?oc=5",
-      "category": "Borsa & KAP",
-      "published_at": "2026-11-26T10:11:36+00:00",
-      "is_breaking": false,
-      "ai_summary": "BIST 100 endeksi, günün ilk yarısında %2,28 oranında bir yükseliş kaydetmiştir. Gün içi güçlü yükselişler, yatırımcıların piyasaya olan ilgisini artırabilir ve günün ikinci yarısı için olumlu beklentiler oluşturabilir."
     },
     {
       "id": "418fbb1935cd",
@@ -430,7 +426,8 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNGJpQWk2WUZmeS1ZTnlmRl8tdGtLSnRFNVBjTWphMENQRm81MktuY1lPb0JkMWhDeFJrR0xHR3lKazE3S3lhZktJUTlwSHNsMnRyM2hTNlgzVmpFOW1uSWhvckRUdkprbC1NNW5UdVFXbTdSMERaRnpCR0dlSVVsblJ1RGVCbFJsb1E?oc=5",
       "category": "Makro & TCMB",
       "published_at": "2026-11-26T08:12:23+00:00",
-      "is_breaking": true
+      "is_breaking": true,
+      "ai_summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), üç adet döviz karşılığı Türk lirası swap ihalesi gerçekleştirmiştir. Bu hamle, piyasadaki likidite yönetimine yönelik bir adım olarak değerlendirilebilir ve Türk lirası likiditesini etkileyebilir."
     },
     {
       "id": "5dc5766d0b90",
@@ -449,7 +446,8 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVFhZmZqOThwOTdfNjV2R045T0QycTgtOHFtdzNrd29SN3FpY04xaUhoV21RVmh6SjFzaElxU2ZfRl9UaDhsRXhDbFdsRXRFcUJ6bkY4Wk5yTlI2ZXNQazNaNVhGS01NME0yd1ZJNXR4UGNTSkM2SXFnLUpuMWV1Q3FDNTZVYkxlaUpHS19XN0NMY2dibW9VQld2UjdLWWxCOVZjMjZ0T2RyY0l2TmF6d0t4THdTb29GQ0tnNnpzN3jSAbIBQVVfeXFMTlB5ZGlDRG9RdjRjS0JHenVnRkZ5QWNiZFR0S1Q1UkhwSzVTNkcwcnNkSE5WTlM1Q3pCVlNKekN6d3NOejFJSnZyaHlLUVZjUndYMXhMdmN4RTROdlFIcTlndFZrNXIxQTFqOXdaUjlzc1NGZkEyX2FoeFJUQmItLVoyRHFHUm5ZQzhvenZnN1l1MllLbHlCZHVENXd3SS1SUkF5WGtnZWdYNTdnSFdTWVZ4UQ?oc=5",
       "category": "Borsa & KAP",
       "published_at": "2026-11-26T07:30:33+00:00",
-      "is_breaking": false
+      "is_breaking": false,
+      "ai_summary": "Borsa İstanbul, 26 Kasım 2026 Perşembe günü açılışını gerçekleştirmiş ve BIST 100 endeksinde yeni gelişmeler yaşanmıştır. Bu durum, piyasanın güne başlarken belirli dinamikler sergilediğini göstermekte ve piyasalarda güne başlarken oluşan beklentileri etkileyebilir."
     },
     {
       "id": "dd328fee5582",
@@ -481,6 +479,16 @@
       "ai_summary": "Sermaye Piyasası Kurulu (SPK), nitelikli yatırımcılara yönelik istisnalar, büyük ihraç onayları ve 66 kişi hakkında suç duyurusu gibi önemli kararlar aldı. Bu kararlar, piyasa güvenliğini artırarak yatırımcı algısını etkileyebilir ve sermaye piyasalarındaki işlem dinamiklerini yeniden şekillendirebilir."
     },
     {
+      "id": "a5c68a1d3e84",
+      "title": "BIST 100'de kritik gün: Borsada gözler fon açıklamasında",
+      "source": "Manşet Haber",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTDJjQU9sdjgzaGlsM2stYjlEUXVYQVRXODh6YlBkWUF0ZHo2Zy16SGJsMTFibGNTLXFtYlp1MkREZnVpRGUtSWZNcHFiTURIdTVqRUlsM1Zua1JoZjdQa1V6RGRaUUNvbWFJelFVQ1VFWFl4WmZiS3gtNlNBNDk1X0c3dTY1Tk1zMTdvY1ZZOA?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-26T07:06:00+00:00",
+      "is_breaking": true,
+      "ai_summary": "BIST 100 endeksi için kritik bir gün yaşanmakta olup, piyasaların dikkati fon açıklamalarına çevrilmiştir. Bu durum, açıklanacak fon verilerinin piyasa üzerinde önemli bir etki yaratma potansiyeli taşıdığını göstermektedir."
+    },
+    {
       "id": "0012b2c122f1",
       "title": "Doğal gazda hedef tüm ilçeler, abone artışında tempo düşecek",
       "source": "Sanayi Gazetesi",
@@ -497,7 +505,8 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRzFCeVFGYnJXMGZVZ1JGbkt6NGF1aVVYQUhqVVRiaUk4aGhiWHhRRFlXY2tJOHFFVTdJel84YkhTLWp2MndJeXhYUnAtYWVPS0x0THpFVWxfaEdTTzNBdzYyVFU3OUc0ejdSZkEwb2NYdlJGeWJzczQ4ckJkUXlRQmJMOXlQbTg?oc=5",
       "category": "Borsa & KAP",
       "published_at": "2026-11-26T07:02:00+00:00",
-      "is_breaking": false
+      "is_breaking": false,
+      "ai_summary": "Borsa, işlem gününe değer kazanarak başlamıştır. Bu durum, piyasada güne pozitif bir başlangıç yapıldığını göstermekte ve piyasalarda güne başlarken oluşan genel havayı olumlu yönde etkileyebilir."
     },
     {
       "id": "f2c442b4e814",
@@ -528,15 +537,6 @@
       "published_at": "2026-11-26T06:55:28+00:00",
       "is_breaking": true,
       "ai_summary": "Borsa İstanbul'da BIST 100 endeksi, işlem gününde yüzde 2,83'lük önemli bir düşüş yaşadı. Endeksteki bu düşüş, yatırımcıların risk algısını artırabilir ve piyasada kısa vadeli bir belirsizlik ortamı yaratabilir."
-    },
-    {
-      "id": "b3abcacee20b",
-      "title": "BIST Şirket Haberleri: KAP Duyuruları Ve Temettü Kararları",
-      "source": "Finans Hattı",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVDF2SDZtUS1waV9oT1JPaEdGbmlvSHdRNG5lT3F2cV9KaEV6bU9hNktIZ1NDY1VaSG1IdGVsY0NidnhDd0JKaVZ3RzgtM05tUy1xWnVaN2d1bzlmRnlrTWhQYXQ3SllicDFXZ1ludG1PLWx5dGNPMEQ0engtWWdJOEhyR1JDMUFHSWNyR0hGaXJOdw?oc=5",
-      "category": "Borsa & KAP",
-      "published_at": "2026-11-26T06:52:36+00:00",
-      "is_breaking": true
     }
   ],
   "notification_candidates": [
@@ -562,18 +562,18 @@
       "published_at": "2026-11-26T15:13:48+00:00"
     },
     {
+      "id": "eae9a66cd6c1",
+      "title": "[Borsa & KAP] CNBC-e",
+      "body": "Borsa günü yükselişle kapadı (26 Kasım 2026)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNXpGRUFfLWptNFZfb0MwNGtmbXlqTEdxUEVCM2VlRjZOZEhUaW5Jd0QxRWRndmo4eE9OeTR4Q1ZDbW4yRmxxRk5rY3o2S21OMjBLcU5jejN5Rm5IUWJzeXp1MnJYT2hvNHZlOHRid3Z5S2tYSTdlTUxibW94YlB6VTl2VQ?oc=5",
+      "published_at": "2026-11-26T15:12:00+00:00"
+    },
+    {
       "id": "a8585236f728",
       "title": "[Borsa & KAP] Yeni Şafak",
       "body": "KAP *** BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI *** AKHAN *** Pay Bazında Devre Kesici Bildirimi",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTUFLSFNsUERNVUVheWxXZGxvaF84OFI1MF90M2tKYXg4dkNSUGl2TTZLTVRKWkhTc21KSnR3SHhhN09sMENsS05qYkJMT2dqRFU3Q3h0T2JxNWtMc0xobE1TTWpPWDFUcm9PY3NIWkwxb0s4Wms5NmlteHctMnB2RFRFMS01S2dkUWRLWUlYOVBudFpLRjFfdlRBSy04WW9Ea1R0cXV4YXcyRVNfdnV0cEx3Vkp2Y29DX2RoN3ZqSHZaZ3BMM2pHbGV5enNFU3JCNFNUclF6clJxamdQWnhfVg?oc=5",
       "published_at": "2026-11-26T14:34:00+00:00"
-    },
-    {
-      "id": "ad3c6f881cd4",
-      "title": "[Gündem & X] A Gazete",
-      "body": "Yatırımcıları yakından ilgilendiriyor! SPK'dan kritik düzenleme hazırlığı",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeDFVV0J6WGt2NndELWtmR25CaWJNRmVZYWVHekMwYjk1YnljQ21FNFowdXBqNmQtdGNUVmZyejA3LWJybFJ0NkpkSnkzUU5DYTczS3lYUGdQQzEzU0w2N3ZabmNWd0dLOWdQUWVQVHhlWWNxNzFjVGRKMDBXem10c0l4aUU0TEY2cHBKN191enh1aFM0WE90OENXQjZRSi1vWFVYYXVPQ0otUkhlMnhXWDVqQXU?oc=5",
-      "published_at": "2026-11-26T13:16:52+00:00"
     }
   ]
 }
