@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T19:24:04.541414+00:00",
-  "istanbul_time": "26.11.2026 22:23",
+  "generated_at": "2026-11-26T19:46:04.445820+00:00",
+  "istanbul_time": "26.11.2026 22:46",
   "date": "26.11.2026",
   "active_mode": "evening",
   "disclaimer": "Yatırım tavsiyesi değildir (YTD). Doğrulanmış piyasa verileri ve ekonomi başlıklarından üretilmiştir.",
@@ -35,23 +35,23 @@
     "EURTRY": {
       "symbol": "EURTRY",
       "name": "Euro / TL",
-      "price": 55.7282,
+      "price": 55.7174,
       "previous_close": 55.7478,
-      "change_percent": -0.04
+      "change_percent": -0.05
     },
     "GOLD": {
       "symbol": "GOLD",
       "name": "Ons Altın",
-      "price": 3593.9,
+      "price": 3593.4,
       "previous_close": 3564.6,
-      "change_percent": 0.82
+      "change_percent": 0.81
     },
     "GRAM_ALTIN": {
       "symbol": "GRAM_ALTIN",
       "name": "Gram Altın (TL)",
-      "price": 5855.0,
+      "price": 5854.18,
       "previous_close": 5807.47,
-      "change_percent": 0.82
+      "change_percent": 0.8
     }
   },
   "morning": {
