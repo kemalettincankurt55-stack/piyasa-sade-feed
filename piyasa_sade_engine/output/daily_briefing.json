@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-25T20:25:27.562377+00:00",
-  "istanbul_time": "25.11.2026 23:25",
-  "date": "25.11.2026",
+  "generated_at": "2026-11-26T01:08:04.685735+00:00",
+  "istanbul_time": "26.11.2026 04:07",
+  "date": "26.11.2026",
   "active_mode": "evening",
   "disclaimer": "Yatırım tavsiyesi değildir (YTD). Doğrulanmış piyasa verileri ve ekonomi başlıklarından üretilmiştir.",
   "breadth": {
@@ -28,62 +28,61 @@
     "USDTRY": {
       "symbol": "USDTRY",
       "name": "Dolar / TL",
-      "price": 50.6739,
-      "previous_close": 50.6404,
-      "change_percent": 0.07
+      "price": 50.6746,
+      "previous_close": 50.674,
+      "change_percent": 0.0
     },
     "EURTRY": {
       "symbol": "EURTRY",
       "name": "Euro / TL",
-      "price": 55.6236,
-      "previous_close": 55.525,
-      "change_percent": 0.18
+      "price": 55.7877,
+      "previous_close": 55.7478,
+      "change_percent": 0.07
     },
     "GOLD": {
       "symbol": "GOLD",
       "name": "Ons Altın",
-      "price": 3594.8,
-      "previous_close": 3591.1,
-      "change_percent": 0.1
+      "price": 3586.8,
+      "previous_close": 3564.6,
+      "change_percent": 0.62
     },
     "GRAM_ALTIN": {
       "symbol": "GRAM_ALTIN",
       "name": "Gram Altın (TL)",
-      "price": 5856.66,
-      "previous_close": 5846.77,
-      "change_percent": 0.17
+      "price": 5843.71,
+      "previous_close": 5807.47,
+      "change_percent": 0.62
     }
   },
   "morning": {
-    "id": "morning-2026-11-25",
+    "id": "morning-2026-11-26",
     "type": "morning",
-    "date": "25.11.2026",
+    "date": "26.11.2026",
     "ready_at_tr": "09:30",
-    "title": "☀️ Piyasa Açılışına 30 dk: BIST'te sert düşüş sonrası yeni gün",
-    "headline": "BIST 100 dün %4'ün üzerinde değer kaybederken, ons ve gram altın ABD enflasyon verisiyle geriledi.",
-    "notification_body": "BIST 100 endeksi dün %4'ün üzerinde düşüşle kapanırken, ons ve gram altın ABD enflasyon verileri sonrası değer kaybetti. Bugün Fed ve TCMB odaklı gelişmeler takip edilecek.",
+    "title": "☀️ Piyasa Açılışına 30 dk: Kritik Gündem",
+    "headline": "Borsa İstanbul, küresel enflasyon endişeleri ve Fed'in faiz artışı beklentileriyle yeni güne hazırlanıyor.",
+    "notification_body": "BIST 100 dünü %2,83 düşüşle kapattı. Fed'in enflasyon verileri ve faiz artışı beklentileri piyasaların odağında. İşte güne başlarken bilmeniz gerekenler.",
     "bullets": [
-      "ABD'de Ekim ayı çekirdek PCE enflasyon verisinin beklentiyi aşması, Fed'in Aralık ayında faiz artırma ihtimalini güçlendirdi. Küresel piyasaların bu gelişmeye tepkisi izlenecek.",
-      "Türkiye Cumhuriyet Merkez Bankası'nın (TCMB) Kasım ayı enflasyon beklentisi anketi paylaşıldı; Kasım ayı enflasyon oranı açıklaması takip edilecek.",
-      "Borsa İstanbul, dün 3 hisseye (TKNKA, PASEU, SELEC) işlem yasağı getirildiğini duyurdu. Bu tür tedbir kararlarının piyasa üzerindeki etkisi gözlemlenecek.",
-      "Ford Otosan'ın hisse başına 3,07 TL brüt temettü ödeyeceği haberi ve bugün temettü ödeyecek diğer hisseler yatırımcıların gündeminde olacak."
+      "BIST 100 endeksi dün %2,83 değer kaybederek 10.655 seviyesine geriledi.",
+      "ABD'de açıklanan çekirdek PCE verisinin beklentiyi aşması ve Fed'in faiz artışı beklentilerinin güçlenmesi küresel piyasalarda baskı yaratıyor.",
+      "SPK'nın girişim sermayesi yatırımcılarına yönelik yeni düzenlemeleri ve 66 kişi hakkında suç duyurusunda bulunması piyasa gündemindeki yerini koruyor.",
+      "Ford Otosan'ın hisse başına 3,07 TL brüt temettü ödeme kararı şirket bazlı takip edilecek gelişmeler arasında yer alıyor."
     ],
     "ai_generated": true
   },
   "evening": {
-    "id": "evening-2026-11-25",
+    "id": "evening-2026-11-26",
     "type": "evening",
-    "date": "25.11.2026",
+    "date": "26.11.2026",
     "ready_at_tr": "18:25",
-    "title": "🌙 Borsa Kapanış Özeti: Sert Düşüş ve İşlem Yasakları",
-    "headline": "BIST 100 günü %2,83 düşüşle tamamlarken, 548 hisse değer kaybetti; küresel enflasyon verileri piyasaları etkiledi.",
-    "notification_body": "Borsa İstanbul'da sert düşüş yaşandı, BIST 100 10.655 puana geriledi. TKNKA gibi hisselere işlem yasağı geldi, küresel enflasyon endişeleri etkili oldu.",
+    "title": "🌙 Borsa Kapanış Özeti: Sert Satışlar",
+    "headline": "Borsa İstanbul'da satış baskısı derinleşirken, BIST 100 günü %2,83'lük kayıpla tamamladı.",
+    "notification_body": "BIST 100 endeksi 10.655 seviyesine geriledi. 548 hisse değer kaybederken, piyasalarda genel bir geri çekilme gözlendi.",
     "bullets": [
-      "Borsa İstanbul'da bugün 625 hisseden 548'i değer kaybederken, BIST 100 endeksi günü %2,83 düşüşle 10.655,74 puandan tamamladı.",
-      "Dolar/TL günü sınırlı bir yükselişle 50,67 seviyesinden kapatırken, Gram Altın da %0,17 artışla 5.856,66 TL'ye yükseldi.",
-      "Günün en çok düşenleri arasında TKNKA, IHAAS ve DUNYH gibi hisseler yer alırken, TKNKA'ya getirilen işlem yasağı düşüşte etkili oldu.",
-      "Küresel piyasalarda Fed'in tercih ettiği enflasyon göstergesinin beklentiyi aşması ve ABD ekonomisindeki hızlanma, Borsa İstanbul'daki düşüşte etkili olan başlıca nedenler arasında yer aldı.",
-      "Günün öne çıkan diğer gelişmeleri arasında GOLDA hissesinde devre kesici uygulaması ve Borsa İstanbul'dan bazı hisselere gelen tedbir kararları yer aldı."
+      "Borsa İstanbul'da bugün 548 hisse değer kaybederken, yalnızca 70 hisse günü yükselişle tamamlayabildi.",
+      "BIST 100 endeksi %2,83 düşüşle 10.655,74 puandan kapanırken, BIST 30 endeksindeki kayıp %2,89 seviyesinde gerçekleşti.",
+      "Ons altın ve gram altın, küresel enflasyon verileri sonrası %0,62 oranında değer kazanarak pozitif ayrıştı.",
+      "Piyasalardaki genel satış eğilimi ve devre kesici uygulamaları, yatırımcıların temkinli duruşunu ve küresel makroekonomik gelişmelere olan hassasiyetini yansıtıyor."
     ],
     "ai_generated": true
   }
