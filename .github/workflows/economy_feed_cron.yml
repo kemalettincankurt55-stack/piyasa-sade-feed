@@ -1,14 +1,14 @@
-name: Piyasa Sade — 30dk AI Ekonomi Haberleri, BIST Liderleri & Sabah/Akşam Bülteni
+name: Piyasa Sade — Ekonomi Haberleri, Tüm BIST Liderleri & Sabah/Akşam Bülteni
 
 on:
   schedule:
-    # Her 30 dakikada bir otomatik çalışır
-    - cron: "*/30 * * * *"
-    # Hafta içi BIST açılışından 40 dk önce (09:20 TR = 06:20 UTC) -> 09:30 Sabah Bülteni hazır
-    - cron: "20 6 * * 1-5"
-    # Hafta içi BIST kapanışından 10 dk sonra (18:20 TR = 15:20 UTC) -> 18:25 Akşam Özeti hazır
-    - cron: "20 15 * * 1-5"
+    # 08:20 TR'den 23:50 TR'ye kadar her 30 dakikada bir (09:20 TR ve 18:20 TR tam isabet, gece 00-08 arası gereksiz çalışma yok)
+    - cron: "20,50 5-20 * * *"
   workflow_dispatch:
+
+concurrency:
+  group: piyasa-sade-feed-main
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -26,14 +26,14 @@ jobs:
           python-version: "3.11"
 
       - name: Bağımlılıkları kur
-        run: pip install requests
+        run: pip install -r requirements.txt
 
-      - name: Saf Ekonomi Haberlerini Topla ve Tek Çağrıda AI Özetle
+      - name: Saf Ekonomi Haberlerini Topla ve AI Özetle
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python piyasa_sade_engine/news_aggregator.py
 
-      - name: Tüm BIST (~625 Hisse) Yükselen & Düşenler (İlk 15 • 1G/10G/20G/30G) Üret
+      - name: Tüm BIST (~625 Hisse) Yükselen & Düşenler Üret
         run: python piyasa_sade_engine/movers_aggregator.py
 
       - name: AI Sabah Bülteni (09:30) ve Akşam Kapanış Özeti (18:25) Üret
@@ -46,4 +46,8 @@ jobs:
           git config user.name "Piyasa Sade Bot"
           git config user.email "bot@piyasasade.app"
           git add piyasa_sade_engine/output/economy_feed.json piyasa_sade_engine/output/movers_feed.json piyasa_sade_engine/output/daily_briefing.json
-          git diff --staged --quiet || (git commit -m "chore(feed): update AI news, BIST 120 movers and daily briefings" && git push)
+          if ! git diff --staged --quiet; then
+            git commit -m "chore(feed): update AI news, BIST 625 movers and daily briefings"
+            git pull --rebase -X ours origin main
+            git push origin main
+          fi

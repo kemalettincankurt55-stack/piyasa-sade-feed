@@ -221,7 +221,7 @@ def _call_gemini_briefings(
         "GÜNCEL EKONOMİ & KAP BAŞLIKLARI:\n" + "\n".join(news_lines)
     )
 
-    for model in ("gemini-2.5-flash", "gemini-3.1-flash-lite"):
+    for model in ("gemini-2.5-flash", "gemini-2.0-flash"):
         endpoint = (
             "https://generativelanguage.googleapis.com/v1beta/models/"
             f"{model}:generateContent"
@@ -243,6 +243,7 @@ def _call_gemini_briefings(
                 timeout=35,
             )
             if resp.status_code != 200:
+                print(f"[WARN] Gemini ({model}) HTTP {resp.status_code}")
                 continue
             data = resp.json()
             text = (
@@ -254,7 +255,8 @@ def _call_gemini_briefings(
             parsed = json.loads(text)
             if isinstance(parsed.get("morning"), dict) and isinstance(parsed.get("evening"), dict):
                 return parsed
-        except Exception:
+        except Exception as exc:
+            print(f"[WARN] Gemini ({model}) call failed: {exc}")
             continue
     return None
 
@@ -272,6 +274,32 @@ def generate_daily_briefing(output_dir: Path) -> Dict[str, Any]:
     economy = json.loads(economy_path.read_text(encoding="utf-8")) if economy_path.exists() else {}
     prev_briefing = json.loads(briefing_path.read_text(encoding="utf-8")) if briefing_path.exists() else {}
 
+    prev_morning = prev_briefing.get("morning")
+    prev_evening = prev_briefing.get("evening")
+    has_frozen_morning = (
+        isinstance(prev_morning, dict)
+        and prev_morning.get("id") == f"morning-{date_iso}"
+        and prev_morning.get("ai_generated") is True
+        and ist_now.hour >= 10
+    )
+    # Freeze evening closing summary once generated after BIST closing settlement (18:20 TR)
+    # so it stays stable all evening/night and avoids redundant Gemini API calls!
+    prev_gen_raw = prev_briefing.get("istanbul_time") or ""
+    evening_generated_after_close = False
+    if prev_gen_raw.startswith(date_tr) and len(prev_gen_raw) >= 16:
+        try:
+            hh, mm = map(int, prev_gen_raw[11:16].split(":"))
+            evening_generated_after_close = (hh * 60 + mm) >= (18 * 60 + 18)
+        except ValueError:
+            pass
+    has_frozen_evening = (
+        isinstance(prev_evening, dict)
+        and prev_evening.get("id") == f"evening-{date_iso}"
+        and prev_evening.get("ai_generated") is True
+        and evening_generated_after_close
+        and (ist_now.hour * 60 + ist_now.minute) >= (18 * 60 + 20)
+    )
+
     articles = economy.get("articles") or []
     agenda_headlines = _fetch_agenda_headlines()
     all_headlines = [a.get("title", "") for a in articles[:8] if a.get("title")] + agenda_headlines
@@ -279,7 +307,7 @@ def generate_daily_briefing(output_dir: Path) -> Dict[str, Any]:
     morning, evening = _build_fallback_briefings(movers, all_headlines, ist_now)
 
     api_key = (os.environ.get("GEMINI_API_KEY") or "").strip()
-    if api_key:
+    if api_key and not (has_frozen_morning and has_frozen_evening):
         ai_result = _call_gemini_briefings(movers, articles, agenda_headlines, ist_now, api_key)
         if ai_result:
             for key, target in (("morning", morning), ("evening", evening)):
@@ -294,18 +322,13 @@ def generate_daily_briefing(output_dir: Path) -> Dict[str, Any]:
                     target["bullets"] = bullets
                     target["ai_generated"] = True
 
-    # Keep today's morning briefing stable once morning session has passed (after 11:00 TR)
-    # if we already have an AI-generated morning briefing for the exact same Istanbul date.
-    prev_morning = prev_briefing.get("morning")
-    if (
-        isinstance(prev_morning, dict)
-        and prev_morning.get("id") == f"morning-{date_iso}"
-        and prev_morning.get("ai_generated") is True
-        and ist_now.hour >= 11
-    ):
+    if has_frozen_morning:
         morning = prev_morning
+    if has_frozen_evening:
+        evening = prev_evening
 
-    active_mode = "morning" if (ist_now.weekday() < 5 and 6 <= ist_now.hour < 14) else "evening"
+    # Morning mode strictly 06:00 - 12:00 TR on weekdays; Evening/Intraday summary otherwise
+    active_mode = "morning" if (ist_now.weekday() < 5 and 6 <= ist_now.hour < 12) else "evening"
 
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(),

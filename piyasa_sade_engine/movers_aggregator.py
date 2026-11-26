@@ -380,22 +380,11 @@ def _build_calendar_period_bucket(
             continue
 
         split_artifact = _has_unadjusted_split_jump(pts, start_day)
-        pct = ((end_price - start_price) / start_price) * 100.0
-        if not math.isfinite(pct):
+        if split_artifact:
             continue
 
-        # Cross-validate against TradingView's official split-adjusted Perf.1M
-        tv_1m = s.get("perf_1m")
-        if calendar_days == 30 and tv_1m is not None:
-            if split_artifact or abs(pct - tv_1m) > 12.0:
-                pct = tv_1m
-                start_price = (
-                    end_price / (1.0 + pct / 100.0)
-                    if (1.0 + pct / 100.0) > 0
-                    else start_price
-                )
-        elif split_artifact:
-            # Skip unadjusted split artifact on 10G/20G so bogus -87% never appears
+        pct = ((end_price - start_price) / start_price) * 100.0
+        if not math.isfinite(pct):
             continue
 
         start_dates.append(start_day)
@@ -452,10 +441,10 @@ def _build_tv_1m_bucket(
     (matching TradingView / Midas 1A table with 0.00% discrepancy).
     """
     now_iso = datetime.now(timezone.utc).isoformat()
-    # TradingView 1M baseline is same calendar day last month (or prior trading day if weekend/holiday)
+    # TradingView 1M baseline is same calendar day last month (deterministic sorted sample)
     approx_1m = latest_day - timedelta(days=31)
     matched_starts: List[date] = []
-    for h in histories[:40]:
+    for h in sorted(histories, key=lambda item: item["stock"]["symbol"])[:50]:
         pt = _point_on_or_before(h["points"][:-1], approx_1m)
         if pt is not None:
             matched_starts.append(pt[0])
@@ -508,10 +497,73 @@ def _build_tv_1m_bucket(
     }
 
 
+def _is_bist_session_active(ist_now: datetime) -> bool:
+    if ist_now.weekday() >= 5:
+        return False
+    mins = ist_now.hour * 60 + ist_now.minute
+    # Active window: 09:30 TR through 19:00 TR (includes closing settlement buffer)
+    return (9 * 60 + 30) <= mins <= (19 * 60)
+
+
 def generate_movers_feed(output_dir: Optional[Path] = None) -> Dict[str, Any]:
     session = _create_session(pool_size=28)
     tv_stocks = _fetch_all_bist_from_tradingview(session)
     indices = _fetch_index_snapshot(session)
+    ist_now = datetime.now(IST_TZ)
+
+    # Off-hours & weekend Yahoo quota saver: if BIST is closed AND existing
+    # movers_feed.json already has today's/latest session 10G/20G/30G buckets
+    # with >= 500 scanned stocks, reuse historical buckets and only refresh
+    # live FX/Gold indices + TradingView 1G!
+    existing_path = (output_dir / "movers_feed.json") if output_dir else None
+    if existing_path and existing_path.exists() and not _is_bist_session_active(ist_now):
+        try:
+            prev_feed = json.loads(existing_path.read_text(encoding="utf-8"))
+            prev_periods = prev_feed.get("periods") or {}
+            p10_old = prev_periods.get("10") or {}
+            p20_old = prev_periods.get("20") or {}
+            p30_old = prev_periods.get("30") or {}
+            p1_old = prev_periods.get("1") or {}
+            if (
+                int(p10_old.get("scanned_count") or 0) >= 500
+                and int(p20_old.get("scanned_count") or 0) >= 500
+                and int(p30_old.get("scanned_count") or 0) >= 500
+                and p1_old.get("end_date")
+            ):
+                prev_end = datetime.strptime(p1_old["end_date"], "%d.%m.%Y").date()
+                prev_start = datetime.strptime(p1_old["start_date"], "%d.%m.%Y").date()
+                # Only reuse if BIST hasn't started a new weekday session yet
+                expected_day = ist_now.date() if (ist_now.weekday() < 5 and ist_now.hour >= 10) else None
+                if expected_day is None or prev_end == expected_day:
+                    p1 = _build_1d_bucket(tv_stocks, prev_end, prev_start, top_n=15)
+                    p30 = _build_tv_1m_bucket(tv_stocks, prev_end, [], top_n=15)
+                    p30["start_date"] = p30_old.get("start_date", p30["start_date"])
+                    feed = {
+                        "generated_at": datetime.now(timezone.utc).isoformat(),
+                        "source": "BIST (TradingView + Yahoo Doğrulamalı • Önbellek Korundu)",
+                        "universe": f"Tüm BIST ({len(tv_stocks)} hisse)",
+                        "scanned_count": len(tv_stocks),
+                        "breadth": {
+                            "advancers": p1["advancers"],
+                            "decliners": p1["decliners"],
+                            "unchanged": p1["unchanged"],
+                            "total": p1["scanned_count"],
+                        },
+                        "indices": indices,
+                        "periods": {
+                            "1": p1,
+                            "10": p10_old,
+                            "20": p20_old,
+                            "30": p30,
+                        },
+                    }
+                    existing_path.write_text(
+                        json.dumps(feed, ensure_ascii=False, indent=2),
+                        encoding="utf-8",
+                    )
+                    return feed
+        except Exception as exc:
+            print(f"[WARN] Off-hours cache reuse skipped: {exc}")
 
     # Fetch 2mo daily history for all active BIST stocks via pooled threads (cross-checked with TV)
     histories: List[Dict[str, Any]] = []

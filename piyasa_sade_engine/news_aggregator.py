@@ -41,6 +41,31 @@ ECONOMY_FEEDS = [
     ("Küresel", "Fed faiz OR Nasdaq OR S&P 500 OR küresel piyasalar when:2d"),
 ]
 
+# Tam kelime sınırı ile gerçek son dakika filtrelemesi ("kapasite", "kapsam", "telefon" ve SEO soru başlıklarını eler)
+BREAKING_REGEX = re.compile(
+    r"(?<![a-zçğıöşü0-9])("
+    r"son dakika|devre kesici|işlem yasağı|kap|"
+    r"faiz kararı açıklandı|merkez bankası kararı|zorunlu karşılık|"
+    r"spk bülteni|spk bülteninde|spk['’]dan (?:yeni|kritik)|"
+    r"tcmb['’]den (?:yeni|tl|türk lirası|zorunlu)|"
+    r"sert düşüş|sert yükseliş|rekor kırdı|"
+    r"enflasyon verisi|enflasyon açıklandı"
+    r")(?![a-zçğıöşü0-9])",
+    re.IGNORECASE,
+)
+
+SEO_CLICKBAIT_REGEX = re.compile(
+    r"(ne zaman|saat kaçta|beklentisi|planı değişebilir)",
+    re.IGNORECASE,
+)
+
+
+def is_breaking_headline(title: str) -> bool:
+    if SEO_CLICKBAIT_REGEX.search(title) and "son dakika" not in title.lower():
+        return False
+    return bool(BREAKING_REGEX.search(title))
+
+
 STOPWORDS = {
     "ve", "veya", "ile", "için", "son", "dakika", "göre", "bir", "bu", "da", "de",
     "ne", "nasıl", "neden", "kadar", "oldu", "olacak", "yeni", "açıklaması",
@@ -100,10 +125,7 @@ def fetch_google_news_rss(category: str, query: str, timeout: int = 12) -> List[
             "url": link,
             "category": category,
             "published_at": parse_pub_date(pub_date),
-            "is_breaking": any(
-                k in title.lower()
-                for k in ("son dakika", "tcmb", "faiz", "spk", "kap", "rekor", "sert düşüş", "cop31", "fon")
-            ),
+            "is_breaking": is_breaking_headline(title),
         })
     return items
 
@@ -170,7 +192,7 @@ def synthesize_clusters_with_gemini(
 
     endpoint = (
         "https://generativelanguage.googleapis.com/v1beta/models/"
-        f"gemini-2.5-flash:generateContent?key={key}"
+        "gemini-2.5-flash:generateContent"
     )
     for cluster in clusters:
         headlines_text = "\n".join(f"- {h}" for h in cluster["raw_headlines"])
@@ -185,6 +207,10 @@ def synthesize_clusters_with_gemini(
         try:
             resp = requests.post(
                 endpoint,
+                headers={
+                    "Content-Type": "application/json",
+                    "x-goog-api-key": key,
+                },
                 json={
                     "contents": [{"parts": [{"text": prompt}]}],
                     "generationConfig": {
@@ -195,6 +221,7 @@ def synthesize_clusters_with_gemini(
                 timeout=15,
             )
             if resp.status_code != 200:
+                print(f"[WARN] Cluster Gemini HTTP {resp.status_code}")
                 continue
             data = resp.json()
             text = (
@@ -208,7 +235,8 @@ def synthesize_clusters_with_gemini(
                 cluster["headline"] = parsed["headline"].strip()
                 cluster["bullets"] = [str(b).strip() for b in parsed["bullets"][:3] if str(b).strip()]
                 cluster["ai_synthesized"] = True
-        except Exception:
+        except Exception as exc:
+            print(f"[WARN] Cluster Gemini error: {exc}")
             continue
     return clusters
 
@@ -247,7 +275,7 @@ def batch_summarize_articles_with_gemini(
         "Sadece geçerli JSON nesnesi döndür: {\"<id>\": \"2 cümlelik sade özet ve olası etki\"}\n\n"
         f"Haberler:\n{lines}"
     )
-    for model in ("gemini-2.5-flash", "gemini-3.1-flash-lite"):
+    for model in ("gemini-2.5-flash", "gemini-2.0-flash"):
         endpoint = (
             "https://generativelanguage.googleapis.com/v1beta/models/"
             f"{model}:generateContent"
@@ -327,7 +355,11 @@ def generate_economy_feed(output_dir: Optional[Path] = None) -> Dict[str, Any]:
         {
             "id": a["id"],
             "title": f"[{a['category']}] {a['source']}",
+            "headline": a["title"],
             "body": a["title"],
+            "source": a["source"],
+            "category": a["category"],
+            "ai_summary": a.get("ai_summary", ""),
             "url": a["url"],
             "published_at": a["published_at"],
         }
