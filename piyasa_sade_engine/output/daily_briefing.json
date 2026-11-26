@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-11-26T01:08:04.685735+00:00",
-  "istanbul_time": "26.11.2026 04:07",
+  "generated_at": "2026-11-26T09:48:33.366148+00:00",
+  "istanbul_time": "26.11.2026 12:48",
   "date": "26.11.2026",
-  "active_mode": "evening",
+  "active_mode": "morning",
   "disclaimer": "Yatırım tavsiyesi değildir (YTD). Doğrulanmış piyasa verileri ve ekonomi başlıklarından üretilmiştir.",
   "breadth": {
-    "advancers": 70,
-    "decliners": 548,
-    "unchanged": 7,
+    "advancers": 531,
+    "decliners": 71,
+    "unchanged": 23,
     "total": 625
   },
   "indices": {
     "XU100": {
       "symbol": "XU100",
       "name": "BIST 100",
-      "price": 10655.74,
-      "previous_close": 10965.93,
-      "change_percent": -2.83
+      "price": 10880.09,
+      "previous_close": 10655.74,
+      "change_percent": 2.11
     },
     "XU030": {
       "symbol": "XU030",
       "name": "BIST 30",
-      "price": 13364.0,
-      "previous_close": 13762.06,
-      "change_percent": -2.89
+      "price": 13633.76,
+      "previous_close": 13364.0,
+      "change_percent": 2.02
     },
     "USDTRY": {
       "symbol": "USDTRY",
       "name": "Dolar / TL",
-      "price": 50.6746,
+      "price": 50.6695,
       "previous_close": 50.674,
-      "change_percent": 0.0
+      "change_percent": -0.01
     },
     "EURTRY": {
       "symbol": "EURTRY",
       "name": "Euro / TL",
-      "price": 55.7877,
+      "price": 55.7551,
       "previous_close": 55.7478,
-      "change_percent": 0.07
+      "change_percent": 0.01
     },
     "GOLD": {
       "symbol": "GOLD",
       "name": "Ons Altın",
-      "price": 3586.8,
+      "price": 3603.6,
       "previous_close": 3564.6,
-      "change_percent": 0.62
+      "change_percent": 1.09
     },
     "GRAM_ALTIN": {
       "symbol": "GRAM_ALTIN",
       "name": "Gram Altın (TL)",
-      "price": 5843.71,
+      "price": 5870.49,
       "previous_close": 5807.47,
-      "change_percent": 0.62
+      "change_percent": 1.09
     }
   },
   "morning": {
@@ -75,14 +75,15 @@
     "type": "evening",
     "date": "26.11.2026",
     "ready_at_tr": "18:25",
-    "title": "🌙 Borsa Kapanış Özeti: Sert Satışlar",
-    "headline": "Borsa İstanbul'da satış baskısı derinleşirken, BIST 100 günü %2,83'lük kayıpla tamamladı.",
-    "notification_body": "BIST 100 endeksi 10.655 seviyesine geriledi. 548 hisse değer kaybederken, piyasalarda genel bir geri çekilme gözlendi.",
+    "title": "🌙 Borsa Kapanış Özeti: BIST Yükselişle Kapattı, Altın Değer Kazandı",
+    "headline": "Borsa İstanbul günü yükselişle tamamlarken, BIST 100 endeksi %2.11 artışla 10880.09 puan seviyesinden kapandı.",
+    "notification_body": "Bugün Borsa İstanbul'da 531 hisse değer kazanırken, BIST 100 %2.11 yükseldi. Gram Altın %1.09 artışla 5870.49 TL'ye çıktı, Dolar/TL ise yatay seyretti.",
     "bullets": [
-      "Borsa İstanbul'da bugün 548 hisse değer kaybederken, yalnızca 70 hisse günü yükselişle tamamlayabildi.",
-      "BIST 100 endeksi %2,83 düşüşle 10.655,74 puandan kapanırken, BIST 30 endeksindeki kayıp %2,89 seviyesinde gerçekleşti.",
-      "Ons altın ve gram altın, küresel enflasyon verileri sonrası %0,62 oranında değer kazanarak pozitif ayrıştı.",
-      "Piyasalardaki genel satış eğilimi ve devre kesici uygulamaları, yatırımcıların temkinli duruşunu ve küresel makroekonomik gelişmelere olan hassasiyetini yansıtıyor."
+      "Borsa İstanbul günü güçlü bir yükselişle tamamladı; BIST 100 endeksi %2.11 değer kazanarak 10880.09 puandan kapandı. Toplam 625 hisseden 531'i yükselişle günü bitirdi.",
+      "Gram Altın %1.09 artışla 5870.49 TL seviyesine ulaşırken, Ons Altın da benzer bir yükseliş gösterdi; Dolar/TL ise 50.6695 ile önceki kapanışına yakın seyretti.",
+      "TCMB'nin faiz indirimi planının değişebileceği ve altın alımına ara verildiği yönündeki haberler, piyasalardaki genel havayı ve altın fiyatlarındaki yükselişi etkilemiş olabilir.",
+      "SPK'nın Tera Yatırım Bankası'nın ek süre talebini kabul etmesine rağmen, Tera Financial Investments Holding (TRHOL) günü en çok düşenler arasında tamamladı.",
+      "Günün öne çıkan yükselenleri arasında Fuzul GYO, Özerden Ambalaj ve Kaleseramik yer alırken, Doğusan Boru ve Lydia Holding en çok değer kaybedenler arasında dikkat çekti."
     ],
     "ai_generated": true
   }
