@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-11-26T09:48:33.366148+00:00",
-  "istanbul_time": "26.11.2026 12:48",
+  "generated_at": "2026-11-26T17:06:52.406844+00:00",
+  "istanbul_time": "26.11.2026 20:06",
   "date": "26.11.2026",
-  "active_mode": "morning",
+  "active_mode": "evening",
   "disclaimer": "Yatırım tavsiyesi değildir (YTD). Doğrulanmış piyasa verileri ve ekonomi başlıklarından üretilmiştir.",
   "breadth": {
-    "advancers": 531,
-    "decliners": 71,
-    "unchanged": 23,
+    "advancers": 427,
+    "decliners": 162,
+    "unchanged": 36,
     "total": 625
   },
   "indices": {
     "XU100": {
       "symbol": "XU100",
       "name": "BIST 100",
-      "price": 10880.09,
+      "price": 10743.11,
       "previous_close": 10655.74,
-      "change_percent": 2.11
+      "change_percent": 0.82
     },
     "XU030": {
       "symbol": "XU030",
       "name": "BIST 30",
-      "price": 13633.76,
+      "price": 13453.63,
       "previous_close": 13364.0,
-      "change_percent": 2.02
+      "change_percent": 0.67
     },
     "USDTRY": {
       "symbol": "USDTRY",
       "name": "Dolar / TL",
-      "price": 50.6695,
+      "price": 50.6737,
       "previous_close": 50.674,
-      "change_percent": -0.01
+      "change_percent": -0.0
     },
     "EURTRY": {
       "symbol": "EURTRY",
       "name": "Euro / TL",
-      "price": 55.7551,
+      "price": 55.7328,
       "previous_close": 55.7478,
-      "change_percent": 0.01
+      "change_percent": -0.03
     },
     "GOLD": {
       "symbol": "GOLD",
       "name": "Ons Altın",
-      "price": 3603.6,
+      "price": 3598.5,
       "previous_close": 3564.6,
-      "change_percent": 1.09
+      "change_percent": 0.95
     },
     "GRAM_ALTIN": {
       "symbol": "GRAM_ALTIN",
       "name": "Gram Altın (TL)",
-      "price": 5870.49,
+      "price": 5862.67,
       "previous_close": 5807.47,
-      "change_percent": 1.09
+      "change_percent": 0.95
     }
   },
   "morning": {
@@ -75,16 +75,16 @@
     "type": "evening",
     "date": "26.11.2026",
     "ready_at_tr": "18:25",
-    "title": "🌙 Borsa Kapanış Özeti: BIST Yükselişle Kapattı, Altın Değer Kazandı",
-    "headline": "Borsa İstanbul günü yükselişle tamamlarken, BIST 100 endeksi %2.11 artışla 10880.09 puan seviyesinden kapandı.",
-    "notification_body": "Bugün Borsa İstanbul'da 531 hisse değer kazanırken, BIST 100 %2.11 yükseldi. Gram Altın %1.09 artışla 5870.49 TL'ye çıktı, Dolar/TL ise yatay seyretti.",
+    "title": "🌙 Borsa Kapanış Özeti • BIST 100 10743.11 (+%0.82)",
+    "headline": "Borsa İstanbul gün sonu özeti: 427 yükselen, 162 düşen (26.11.2026)",
+    "notification_body": "BIST 100 10743.11 (+%0.82). 625 ana BIST hissesinden 162 tanesi düşüşte, 427 tanesi yükselişte kapattı.",
     "bullets": [
-      "Borsa İstanbul günü güçlü bir yükselişle tamamladı; BIST 100 endeksi %2.11 değer kazanarak 10880.09 puandan kapandı. Toplam 625 hisseden 531'i yükselişle günü bitirdi.",
-      "Gram Altın %1.09 artışla 5870.49 TL seviyesine ulaşırken, Ons Altın da benzer bir yükseliş gösterdi; Dolar/TL ise 50.6695 ile önceki kapanışına yakın seyretti.",
-      "TCMB'nin faiz indirimi planının değişebileceği ve altın alımına ara verildiği yönündeki haberler, piyasalardaki genel havayı ve altın fiyatlarındaki yükselişi etkilemiş olabilir.",
-      "SPK'nın Tera Yatırım Bankası'nın ek süre talebini kabul etmesine rağmen, Tera Financial Investments Holding (TRHOL) günü en çok düşenler arasında tamamladı.",
-      "Günün öne çıkan yükselenleri arasında Fuzul GYO, Özerden Ambalaj ve Kaleseramik yer alırken, Doğusan Boru ve Lydia Holding en çok değer kaybedenler arasında dikkat çekti."
+      "Taranan 625 ana BIST hissesinden 427 tanesi günü yükselişle, 162 tanesi düşüşle tamamladı.",
+      "BIST 100 10743.11 (+%0.82) · Dolar/TL 50.6737 (+%0.00) · Gram Altın 5862.67 TL (+%0.95).",
+      "Günün öne çıkan yükselenleri: FZLGY (+%10.00), OZRDN (+%10.00), CITAS (+%10.00).",
+      "Satış baskısının yoğunlaştığı hisseler: DOGUB (-%10.00), GUNDG (-%9.99), LYDHO (-%9.98).",
+      "Günün öne çıkan ekonomi başlığı: 26 Kasım 2026 Piyasa Kapanışı: BIST 100 %0,82 yükseldi, dolar 50,6729 ₺, gram altın 5.868."
     ],
-    "ai_generated": true
+    "ai_generated": false
   }
 }
