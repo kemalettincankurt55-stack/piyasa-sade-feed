@@ -1,130 +1,122 @@
 {
-  "generated_at": "2026-11-26T19:46:02.374715+00:00",
+  "generated_at": "2026-11-27T02:26:31.651433+00:00",
   "disclaimer": "Haber başlıkları orijinal kaynaklara aittir; yatırım tavsiyesi değildir (YTD).",
   "trending_clusters": [
     {
-      "id": "cluster-13c748fd86c2",
-      "headline": "TCMB'den TL Likidite ve Zorunlu Karşılık Düzenlemesi",
+      "id": "cluster-0e781bc91ee8",
+      "headline": "TCMB'den TL Likidite Düzenlemesi",
       "category": "Makro & TCMB",
       "is_breaking": true,
       "source_count": 1,
       "sources": [
         {
+          "name": "CNN Türk",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMDdIbk1BYmFlWVhudDR1aE9XX2Z0VjRjRE5tam5Bem9Ec1dxclVDX0ZqZlhIQUxSamhucXk2eXpPWTRWY0NINlpFbnM4TTB1Vzg0WC1KRnNHd1hEcnRNVlphaFVTQ3MzbFhGeG1JbjRPelVWM1VIX1FKQ2YxRkM4YkVwdWlZOGc?oc=5"
+        }
+      ],
+      "published_at": "2026-11-26T21:15:16+00:00",
+      "bullets": [
+        "Türkiye Cumhuriyet Merkez Bankası (TCMB), Türk Lirası likiditesine yönelik bir adım atarak ilgili bir oranı değiştirdi.",
+        "Bu tür bir düzenleme, piyasadaki TL likidite koşullarını ve kısa vadeli faiz oranlarının seyrini etkileme potansiyeline sahiptir."
+      ],
+      "ai_synthesized": true
+    },
+    {
+      "id": "cluster-a1b78d56f5b7",
+      "headline": "TCMB'den TL Likiditesine Yönelik Yeni Düzenlemeler",
+      "category": "Makro & TCMB",
+      "is_breaking": true,
+      "source_count": 3,
+      "sources": [
+        {
+          "name": "Paratic Haber",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zSktqRVZSeERvc1drZV9tVzEwaTRwMU90SC1QbVhFSkJkOTRma0piTkN6SHhyYmt6V0xoNkZGRUcxWXNsYVVVdWsxbWZUaWZPa1J5c1IxUXYxbTBBVzNCSlZKWndHOXc1VTM2dGU5RkptSFpNQ2NFTFVQSFV1Zw?oc=5"
+        },
+        {
+          "name": "Bloomberght",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcWtvZTlMNHdrRm9zQTE3aThUY3V5b3dJMFpwQzJPQjlSY0VQVmtET29kT0JiVlVkdV9OVldpVVFjTXNrNGc4czJOdndVdTAtdEJ4VUwtQjBETUt5WUdVUjRfNkFnV2JFZDdkSkF3S3lENjlaRGdYMTNnS05ndkZ4eWJn?oc=5"
+        },
+        {
           "name": "Canlı Gaste",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWWZlNHp4dFB3SHBEbHpTaGMtTmR6R0VnT21NOWNTQUowak8ySWx6R3NIaWtDTVM4MUk1aF94dE1TOVY0aUNvX1ZXQXUxS2lNMTF4SEo0TDcxQldIelNsdEpadVZoZXpPazFZQ3BQN0d1VmVLTDNDQmpiQWZJaVVNcmc5Q3o2ZEk1N2R2UnZsU21DWm95VkNHdHl1aVE?oc=5"
         }
       ],
-      "published_at": "2026-11-26T19:27:06+00:00",
+      "published_at": "2026-11-26T21:01:22+00:00",
       "bullets": [
-        "Türkiye Cumhuriyet Merkez Bankası (TCMB), Türk lirası likidite yönetimi ve zorunlu karşılıklara yönelik yeni düzenlemeler açıkladı.",
-        "Bu adımların, Türk lirası fonlama maliyetleri ve bankaların likidite yönetimi üzerinde etkili olabileceği değerlendirilmektedir."
+        "Türkiye Cumhuriyet Merkez Bankası (TCMB), Türk Lirası mevduatlar için zorunlu karşılık oranlarını yükselterek ve bu karşılıklara ödenen faizi artırarak yeni düzenlemeler yaptı.",
+        "Bu adımlar, piyasadaki Türk Lirası likiditesini sıkılaştırmayı ve dolaylı olarak faiz oranları ile Türk Lirası değerlemesi üzerinde etkili olmayı hedeflemektedir."
       ],
       "ai_synthesized": true
     },
     {
-      "id": "cluster-a2d78222a009",
-      "headline": "Borsa günü yükselişle tamamladı",
-      "category": "Borsa & KAP",
-      "is_breaking": true,
-      "source_count": 5,
-      "sources": [
-        {
-          "name": "Habertürk",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xMEVGUHcxQW9iVUtGMURzVFV3MXFaOTIydFl4Q3dsMGZNTEd0RVN1UG40WDJ4M2dRLVVaaGVDLWUyQ2hlRnBkMXhDZzdRX3BMX1dRMVlfNGppY2FhcVVXa0NBbkFMTnZod0tURW1lNDNjcVV0T01UeVZlU1JFQQ?oc=5"
-        },
-        {
-          "name": "CNN Türk",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUNtakg4bUpEOWp0V0xKTjdSdGtBOHBDanl5Z0g2bThHdU1JUF9raVBvVWFLUlplT2FtTzNwd2o4NGRvcExXTDBNODVRZ2cwYTRtdVpCTFdmQThfckdSejFuTW5IdHQ0Q1pJc0VkZDRsZDVUMzFNX1gyVm9hek96bHZhcUktNlFGNVpkWnlSVE91VGgycHNyMw?oc=5"
-        },
-        {
-          "name": "Hürriyet",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWVNuQVdsTGtSYThfQS1mVEIzVTc3QTNaWlctWDdxT1RCVVNKajdVTk9fTjJGUmZpWUt6YTRrSDRuT2RqWkx2Q1llaXZwZ2NhOVJLdGw0TWpnNXpQaGtrZ216R1dfb0xyc0pqQ0VLaXFPQ0RBc0VINXdIcGNxS2ZSZnMwNHJhc1VDZlVER2pzR1pSRHB1T1J4R3RuVlk4U3NsR0w1aGRJRTFMZGR5Z1BBZGVpUlc2ckh5dFFJUFd0eTFKQQ?oc=5"
-        },
-        {
-          "name": "A Haber",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORUVSb0JxbkpoT2JBN1pyQnFfNDJSVjNPeEFEcVdlampLRzVtaHUxU2poeVF1bUtmWEU5QnpfY1RybDBCdmd1anpIVzNSVUNfdUo0NzlOVGFVVXBETC0yQ2FOUjRQWUc0U1hsWEZPRHM1azc4MUI2NVg2MDFvVU5MTHBGUEg4a0thbUVlNzR5b1BvSTRGdlJzcTljcmh1QkxSSG9qR0xuZFIzemZaaGxYWG5aZHlWTlFTZ2FvWXhNLTJRdw?oc=5"
-        }
-      ],
-      "published_at": "2026-11-26T17:51:17+00:00",
-      "bullets": [
-        "5 farklı ekonomi kaynağında öne çıkan başlık.",
-        "Detaylar için aşağıdaki orijinal kaynak bağlantılarına gidebilirsiniz."
-      ],
-      "ai_synthesized": false
-    },
-    {
-      "id": "cluster-dcacf4de7270",
-      "headline": "26 Kasım 2026 Piyasa Kapanışı: BIST Yükseldi, Altın Fiyatları Gündemde",
-      "category": "Altın & Döviz",
-      "is_breaking": false,
-      "source_count": 8,
-      "sources": [
-        {
-          "name": "Aposto",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BRTg0djlqNWRqbGU0TGJZdEFyY25nVzFsYzdXV3k5X1Z0c0JYZFh3ZHp1U1d1dTU3Zk5OQXBMOXRIeDVlNUNHeC1MNlFqNDlTZ1JYbm1XV0h1QUk?oc=5"
-        },
-        {
-          "name": "Canlı Gaste",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90M1lzOFJadDZYUUJhRW9UZ29BRG5qay1HdER0bUhlcl9LNGlIYVhxUWtndUpHd1VMREJZVzg0eERIWlY2YVl3eHJVRE93YnF4ZUpZUUhXc29qcTV0WTF5Y05CcUo4ZEhtNi1SRkFGQi1xZ3kwTDJ6YQ?oc=5"
-        },
-        {
-          "name": "Bigpara",
-          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNaV9hRDd4NHhCZTVzWDgxRk81cVdwajNsV0N3V0tPX2hwaWpDVGFvdWZwaUV5TUVYQkZuUUNZczgxZjgyaVlzcENac3FOUVI4a0hzOWtfc25FVlg1SmtfQ1c1UzFWdlJ6TWJMZHRSMVhpY1VReDRWLVFmbHA0MmJzc1lvMVlSRVNwb0FBeWtUSk5rRElZM1BMejljS3JpVHBRcjFVcW9TZ3ktOWo0TW9zYzNCNFlUb0gxTjFBWGtJWVVwb3Z0eE1DZzFGMkpaSFJjcG4wOWc0OGxkdGxISWE4eUxXZERSV3N2OUpsN0VUWUVUdEs1azZIQXpNb254UjNJOVZsUVpQazU2cE5ndjJJbV9JSmlBWTA?oc=5"
-        },
-        {
-          "name": "Uzmanpara",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcTV1eTQwS3M0dFB2NjVkYjg1cS1RelAzTHJsY3F4eURnNDFUZjdEZVBSV3J1VGd4dWtHQlExbGpiWWY4X05Ya29hLVd3V1dZUGJ6Z25KcDktaTd3dnQySUY4VVJWbkhOTkFVOXVXRERxdmIwSHpybGRjS2pzUGFjd1ZFV2k5TzhtbkRybVJaa01qVXFrei14YnYxNHo1Zk9XXzExVWRNUE56dEJKZ2dValJ5QUNnUTJxMlVKM3p4eE5JS2RaaVhlOGRCcXpGdlRPMzlsa2VzMDA?oc=5"
-        }
-      ],
-      "published_at": "2026-11-26T16:22:30+00:00",
-      "bullets": [
-        "26 Kasım 2026 piyasa kapanışında BIST 100 endeksi yükselişle günü tamamlarken, dolar kuru ve gram altın fiyatları belirli seviyelerde işlem gördü.",
-        "Bu gelişmeler, yatırımcıların genel piyasa eğilimleri ve değerli metal fiyatlarındaki güncel durumu takip etmeleri açısından önem arz etmektedir."
-      ],
-      "ai_synthesized": true
-    },
-    {
-      "id": "cluster-ec6899ba746b",
-      "headline": "Borsa İstanbul'da yükseliş rüzgarı! Yüzde 0,82 yükseldi",
-      "category": "Borsa & KAP",
-      "is_breaking": true,
-      "source_count": 2,
-      "sources": [
-        {
-          "name": "NirvanaHaber",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUG5IVldScDU3T3Fobmt2TFdZRkQwRUF1SmV3R1o5c0hvbGxaN2JvTy1MQ3lrZ0tuZWZRWEwwTU9zOF9lckREWVB1WjlrSjl5MF9ZeWJPUjBhbmcyRnE0dldSOFF3QmJkU2M3OXRPZkQ5WXM5MGVWaHhKMHhKc2ZuWE85TVJzcmNmUGN2U3VIVTIxS2YxLWxPS1ZWVi1CNHlhYnVhc2FtRTU?oc=5"
-        },
-        {
-          "name": "Yeni Şafak",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTUFLSFNsUERNVUVheWxXZGxvaF84OFI1MF90M2tKYXg4dkNSUGl2TTZLTVRKWkhTc21KSnR3SHhhN09sMENsS05qYkJMT2dqRFU3Q3h0T2JxNWtMc0xobE1TTWpPWDFUcm9PY3NIWkwxb0s4Wms5NmlteHctMnB2RFRFMS01S2dkUWRLWUlYOVBudFpLRjFfdlRBSy04WW9Ea1R0cXV4YXcyRVNfdnV0cEx3Vkp2Y29DX2RoN3ZqSHZaZ3BMM2pHbGV5enNFU3JCNFNUclF6clJxamdQWnhfVg?oc=5"
-        }
-      ],
-      "published_at": "2026-11-26T15:35:00+00:00",
-      "bullets": [
-        "2 farklı ekonomi kaynağında öne çıkan başlık.",
-        "Detaylar için aşağıdaki orijinal kaynak bağlantılarına gidebilirsiniz."
-      ],
-      "ai_synthesized": false
-    },
-    {
-      "id": "cluster-0e30cbaabc89",
-      "headline": "Kıdemli stratejistten Fed için faiz indirimi beklentisi: Mecbur kalacak",
+      "id": "cluster-4853ea74ac7e",
+      "headline": "Merkez Bankası Adımları ve Rezerv Gelişmeleri",
       "category": "Makro & TCMB",
       "is_breaking": false,
       "source_count": 2,
       "sources": [
         {
-          "name": "Paratic Haber",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQakk2dDhDdnBSOFd0Ul9sa1dWYk1QaGd1RVB6V0N2bDJqM2c3UTZpRDZucXZWcDVpa2xtYmk1blVQZGc0MUdtSjVKQ2FUbW9DcTU5MDFSUDlKMGNJeEtGVkJPZlgxVVlZR0dYdGVhM3loYXBkcTlIeEtOeTRtZmtGQ204YlNHM1FuaFYyYU5jZkxxSnR0Vmc?oc=5"
+          "name": "Habertürk",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSFdocDUwemxJYloxYnVKUktYSllyYmdQNU1NMU9TNlRLRG9Ick8tckQ4M1dVYXptY0c4S0xIRlRVNFBkQS1jTmJqMDFGckMxNTdTVmZoV0x0OTFJWmo4Zkd2VkhJQUo5QjRmUERTVXY0MWc0RUc1cnZkbzFjYjRfdUJHQkNCSEV4TExj?oc=5"
         },
         {
-          "name": "Bloomberght",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdEF6ZnpZRDlQWlFlb2k3dlNkWVBwc09vS0wwLWZxVE5WZUpzcU45UFNNZXpWdEkwX1JENmluSHpvQUZZTm83X2ZhRmpla181WHdiZ3hLS1QzenZVUnFSM013dF9rRTMwNDh2dmNZc192elZRWGpBWkhIekRUVTVGRjQyczFFTHM?oc=5"
+          "name": "Cumhuriyet",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRWJPdUJkQkVTZk5mdjVJV1gzTHNuNnRZZEJES0o3YS1peUlhZ0gtWXgxSDVkWmc4Z0FmOHIySEs2WG41WkRXV0V2T05SX3E5YktJYXY0VGJSOHUyUG9VT3doUGlqd19ISW91T1dJUlhMTmZVMFFTTXctd1dwRk1ZXzhxT0ZyYkF1ZGljVURhUUxZMlZ6Q3Z2NDhPclFLMnBRU0JNZWFNUklpNmVLaDRFbzdfT3p5U3hE?oc=5"
         }
       ],
-      "published_at": "2026-11-26T15:22:22+00:00",
+      "published_at": "2026-11-26T19:24:56+00:00",
       "bullets": [
-        "2 farklı ekonomi kaynağında öne çıkan başlık.",
+        "Türkiye Cumhuriyet Merkez Bankası (TCMB), Türk Lirası'na yönelik yeni adımlar atarken, rezervlerinde belirgin bir düşüş yaşandığı gözlemlenmiştir.",
+        "Bu gelişmelerin, Türk Lirası'nın seyri ve genel ekonomik beklentiler üzerinde potansiyel etkileri olabileceği belirtilmektedir."
+      ],
+      "ai_synthesized": true
+    },
+    {
+      "id": "cluster-16655b1ab2b2",
+      "headline": "Son Dakika Gelişmesi! Bakan Şimşek: Fonlardaki çıkışın tamamına yakını bankalardaki mevduatlara gitti, bu durum geçici, güven tekrar gelecek ve sermaye piyasası araçlarına ilgi artacak",
+      "category": "Gündem & X",
+      "is_breaking": true,
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Canlı Gaste",
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQcEVjbUlTQ0RqTGM5TGhubEpuWVFkU3dGMnJuX3ZjUmdib2N6NFRsU01pSTExZWZTOFpYSHJrQ2M5QTFXZ1FpSmVZTHJqaXI3WWExRGZQOFhObDJycnNOcjZFZ1F6dDNrMzg5eEZZeWhxUU9EVUNYeF9wQXFBQW1PUmExbXJ2WDZGT2NZZy1yVHlYekp4ejA1RVFwQlNWMzJPMFBiOFRsNHBQQ2dobDFOa0dqMF9jVGFMb193MVlxdDN5Y1V6b0tJNGJ1blJQWXhsQThzdDNQUUx6eWNLQzRmZ1RkZk9CdnJ5SlBZRW5haGJNRGwzRjdvMC0wbVJnWll1ajhrM3I1TTlsTVhvejdORmRQcnY0ZEd6U0NvX1dtTQ?oc=5"
+        }
+      ],
+      "published_at": "2026-11-26T17:08:34+00:00",
+      "bullets": [
+        "1 farklı ekonomi kaynağında öne çıkan başlık.",
+        "Detaylar için aşağıdaki orijinal kaynak bağlantılarına gidebilirsiniz."
+      ],
+      "ai_synthesized": false
+    },
+    {
+      "id": "cluster-40c9d13f1df1",
+      "headline": "Borsa İstanbul günü yükselişle tamamladı: BIST 100 endeksi 87,38 puan arttı",
+      "category": "Borsa & KAP",
+      "is_breaking": true,
+      "source_count": 9,
+      "sources": [
+        {
+          "name": "Kibris Gerçek",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ3FuQzIwSnV5Z1Z1dllCMkFTLVBKUUZDd3FyekNBdHpyRFZFXzVHb0FKUGs2aVRzR2xmdmNjTC1QUkwwZFp3MERpdlRhOHBYdllIM3JlUEFlR3dvYWk4ajNjbkVWMmY1azExdzBpNUZRNXB0Q01qcFlObTN1S2w3WUU1WFc2VFllTDFEcFN0Q2RUajRoT0NFM0F6OUFJQ1VkcEJhZg?oc=5"
+        },
+        {
+          "name": "TRT Haber",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTTU5X0dDSk1jalY4bVJvZTlnVnVxYm51eXZCSU5TYVpNVXJWellRM0xvelBSREtodE0zbTlFVGc4SHlGdkFYSlhYYXFxdWw2U3o3ekh4WUhpZmtiX1YxTGFjcG9kTU44T2J2NlhLWDU3MlduXzNpUFpMcjByWG5BbmFTNXQ5LWNVb1E?oc=5"
+        },
+        {
+          "name": "Finans Hattı",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMmFudzZhd0VsOG9iOGN2elRrdWRtdzg5N2p4S01xYW9TVjE5VUVFeUNBdjQyc1pybTgycjB2SnVYTlhkR1BTRnFoMFd3VFB2ZlpPR19MSkNPMlUwQlUwdXBnSUU0NHJocjU2WUUwdTZDTTJGS3VPODRJRFN5N1k2TjZWeXZPcHhVRDlr?oc=5"
+        },
+        {
+          "name": "CNN Türk",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUNtakg4bUpEOWp0V0xKTjdSdGtBOHBDanl5Z0g2bThHdU1JUF9raVBvVWFLUlplT2FtTzNwd2o4NGRvcExXTDBNODVRZ2cwYTRtdVpCTFdmQThfckdSejFuTW5IdHQ0Q1pJc0VkZDRsZDVUMzFNX1gyVm9hek96bHZhcUktNlFGNVpkWnlSVE91VGgycHNyMw?oc=5"
+        }
+      ],
+      "published_at": "2026-11-26T16:24:00+00:00",
+      "bullets": [
+        "9 farklı ekonomi kaynağında öne çıkan başlık.",
         "Detaylar için aşağıdaki orijinal kaynak bağlantılarına gidebilirsiniz."
       ],
       "ai_synthesized": false
@@ -132,22 +124,64 @@
   ],
   "articles": [
     {
+      "id": "0e781bc91ee8",
+      "title": "TCMB'den TL likidite hamlesi! Oran değişti",
+      "source": "CNN Türk",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMDdIbk1BYmFlWVhudDR1aE9XX2Z0VjRjRE5tam5Bem9Ec1dxclVDX0ZqZlhIQUxSamhucXk2eXpPWTRWY0NINlpFbnM4TTB1Vzg0WC1KRnNHd1hEcnRNVlphaFVTQ3MzbFhGeG1JbjRPelVWM1VIX1FKQ2YxRkM4YkVwdWlZOGc?oc=5",
+      "category": "Makro & TCMB",
+      "published_at": "2026-11-26T21:15:16+00:00",
+      "is_breaking": true,
+      "ai_summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Türk lirası likiditesine yönelik bir adım atarak ilgili oranlarda değişikliğe gitti. Bu düzenleme, piyasadaki TL arzını etkileyerek bankacılık sektörünün fonlama maliyetlerini ve genel piyasa likiditesini değiştirebilir."
+    },
+    {
+      "id": "a1b78d56f5b7",
+      "title": "TCMB TL mevduatta zorunlu karşılık oranını yükseltti",
+      "source": "Paratic Haber",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zSktqRVZSeERvc1drZV9tVzEwaTRwMU90SC1QbVhFSkJkOTRma0piTkN6SHhyYmt6V0xoNkZGRUcxWXNsYVVVdWsxbWZUaWZPa1J5c1IxUXYxbTBBVzNCSlZKWndHOXc1VTM2dGU5RkptSFpNQ2NFTFVQSFV1Zw?oc=5",
+      "category": "Makro & TCMB",
+      "published_at": "2026-11-26T21:01:22+00:00",
+      "is_breaking": true,
+      "ai_summary": "TCMB, Türk lirası mevduatlar için zorunlu karşılık oranlarını artırma kararı aldı. Bu adım, bankaların topladıkları mevduatın daha büyük bir kısmını Merkez Bankası'nda tutmasını gerektirerek piyasadaki likiditeyi sıkılaştırabilir."
+    },
+    {
+      "id": "68b6344aed14",
+      "title": "Şimşek: SPK için yapay zekalı erken uyarı sistemi kurulacak",
+      "source": "Canlı Gaste",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemJGbm40WXRsYlJfNEd0NHVHRUtpcjNfT0ZjcHYyNmhDNUswZXRvdjRsd1JMMGlLUjk1b2R2dUdfelU2OUdNbV9wSUp1ZTE5SFZILXpLZmNQZi16UjZtNHh5Z2d2Mmx1aHpaT2l3Umk1UXFNQUQ3R2lET1p5RFl1TTFVMlk3cEF4X3ZKUjlqaGY3YVlVVTExMDZSUnpDNzZfdU5IV05rVDQyZw?oc=5",
+      "category": "Gündem & X",
+      "published_at": "2026-11-26T19:54:37+00:00",
+      "is_breaking": false,
+      "ai_summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, Sermaye Piyasası Kurulu (SPK) bünyesinde yapay zeka destekli bir erken uyarı sistemi kurulacağını duyurdu. Bu sistem, piyasa manipülasyonu ve usulsüzlükleri daha etkin bir şekilde tespit etmeyi amaçlayarak yatırımcı güvenini artırabilir."
+    },
+    {
+      "id": "90829b03b241",
+      "title": "TCMB, TL zorunlu karşılık faizini artırdı",
+      "source": "Bloomberght",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcWtvZTlMNHdrRm9zQTE3aThUY3V5b3dJMFpwQzJPQjlSY0VQVmtET29kT0JiVlVkdV9OVldpVVFjTXNrNGc4czJOdndVdTAtdEJ4VUwtQjBETUt5WUdVUjRfNkFnV2JFZDdkSkF3S3lENjlaRGdYMTNnS05ndkZ4eWJn?oc=5",
+      "category": "Makro & TCMB",
+      "published_at": "2026-11-26T19:42:57+00:00",
+      "is_breaking": true,
+      "ai_summary": "Türkiye Cumhuriyet Merkez Bankası, Türk lirası zorunlu karşılıklarına uygulanan faiz oranını yükseltti. Bu karar, bankaların Merkez Bankası'nda tuttukları zorunlu karşılıklar üzerinden elde ettikleri getiriyi artırarak fonlama maliyetlerini dengelemeye yardımcı olabilir."
+    },
+    {
       "id": "13c748fd86c2",
       "title": "TCMB’den TL likiditesi ve zorunlu karşılıklara yeni düzenleme",
       "source": "Canlı Gaste",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWWZlNHp4dFB3SHBEbHpTaGMtTmR6R0VnT21NOWNTQUowak8ySWx6R3NIaWtDTVM4MUk1aF94dE1TOVY0aUNvX1ZXQXUxS2lNMTF4SEo0TDcxQldIelNsdEpadVZoZXpPazFZQ3BQN0d1VmVLTDNDQmpiQWZJaVVNcmc5Q3o2ZEk1N2R2UnZsU21DWm95VkNHdHl1aVE?oc=5",
       "category": "Makro & TCMB",
       "published_at": "2026-11-26T19:27:06+00:00",
-      "is_breaking": true
+      "is_breaking": true,
+      "ai_summary": "TCMB, Türk lirası likiditesi ve zorunlu karşılıklar konusunda yeni düzenlemeler açıkladı. Bu adımlar, piyasadaki TL arzını ve bankaların fonlama yapılarını etkileyerek makroekonomik istikrarı desteklemeyi hedeflemektedir."
     },
     {
-      "id": "2698f455e753",
-      "title": "TCMB’den Türk lirası likidite yönetimi ve zorunlu karşılıklara ilişkin yeni adımlar",
-      "source": "Canlı Gaste",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOWhQV0xVZjlMSWF1bHEyWHc5MXBkUkFuQkQ5TVFqbkU2VHJXcHZ0c3VTUVdXa3g0TVVWY2hOdXIyX0hIYVBHaElObEVzT2c4dG96NFRZbFlEdG1mYnAtbmIySUltTVk3eUF5UzNzaFpIa0k5TGtVa0NzRFVTUC10Z20tdzdLbWhrQWt6M0p5Z1ZsM002YnluSy0zTkJ5TWZWY0c2Tk50VEhOazN6QnN0X215MTZIRWJLZ3c?oc=5",
+      "id": "4853ea74ac7e",
+      "title": "Merkez Bankası'ndan TL için iki yeni adım: Kararlar ne anlama geliyor?",
+      "source": "Habertürk",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSFdocDUwemxJYloxYnVKUktYSllyYmdQNU1NMU9TNlRLRG9Ick8tckQ4M1dVYXptY0c4S0xIRlRVNFBkQS1jTmJqMDFGckMxNTdTVmZoV0x0OTFJWmo4Zkd2VkhJQUo5QjRmUERTVXY0MWc0RUc1cnZkbzFjYjRfdUJHQkNCSEV4TExj?oc=5",
       "category": "Makro & TCMB",
-      "published_at": "2026-11-26T19:27:06+00:00",
-      "is_breaking": true
+      "published_at": "2026-11-26T19:24:56+00:00",
+      "is_breaking": false,
+      "ai_summary": "Merkez Bankası, Türk lirası piyasasına yönelik iki yeni karar aldı. Bu adımlar, piyasadaki likiditeyi yönetme ve finansal istikrarı sağlama amacı taşımaktadır."
     },
     {
       "id": "db093c204aeb",
@@ -160,23 +194,24 @@
       "ai_summary": "İslam Memiş, altın piyasasında tedarik sıkıntıları yaşandığını belirtmiştir. Bu durum, küresel altın arzında potansiyel bir daralmaya işaret edebilir ve altın fiyatları üzerinde arz-talep dengesi açısından bir etki yaratabilir."
     },
     {
-      "id": "a2d78222a009",
-      "title": "Borsa günü yükselişle tamamladı",
-      "source": "Habertürk",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xMEVGUHcxQW9iVUtGMURzVFV3MXFaOTIydFl4Q3dsMGZNTEd0RVN1UG40WDJ4M2dRLVVaaGVDLWUyQ2hlRnBkMXhDZzdRX3BMX1dRMVlfNGppY2FhcVVXa0NBbkFMTnZod0tURW1lNDNjcVV0T01UeVZlU1JFQQ?oc=5",
-      "category": "Borsa & KAP",
-      "published_at": "2026-11-26T17:51:17+00:00",
+      "id": "1f484ec9986e",
+      "title": "Fon soruşturması ortak basın toplantısı... Mehmet Şimşek: SPK, incelemelerini ay sonunda tamamlayacak",
+      "source": "Anka Haber",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYnFOOW4wblJGc1NJRmxXeDRLaDNnQnZvOTBmOU1LNUV5aGZkOXZzaUh5aWw3UWcwLUsweEs5MWg0UGxnX0ppX3dpZC1XMS1kSDNLRjB4VkVwSXRDM3RBV3Z3TTZ0OUcwX1l5VGpJUnVYY0FHaTdvYjZkSGlNd2xfTE1fdTktWW9PTEVnZlRVMTNQUVR4RTBjNFhaRzVvZlA0TUUza1NpTENpNkhkRDVJS2ZvZWVhMDdyYWhlS01HdzJMMTN5c29Ib19vY0N5QQ?oc=5",
+      "category": "Gündem & X",
+      "published_at": "2026-11-26T19:11:02+00:00",
       "is_breaking": false,
-      "ai_summary": "Borsa İstanbul, işlem gününü değer kazanarak tamamlamıştır. Bu durum, piyasada genel bir olumlu seyrin gözlemlendiğini göstermektedir ve piyasalarda genel bir iyimserlik havası yaratabilir."
+      "ai_summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, devam eden fon soruşturmalarına ilişkin SPK'nın incelemelerini ay sonunda tamamlayacağını belirtti. Bu açıklama, piyasalardaki belirsizliği azaltarak ilgili süreçlerin netleşmesine katkı sağlayabilir."
     },
     {
-      "id": "87f2a60baf8e",
-      "title": "Kerim Rota canlı yayında anlatıyor: Fon skandalı erken final mi yapıyor?",
-      "source": "Serbestiyet",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcWc4TGtiajVnQm5POGw4SUttRGRTc1gybGg3bDBUVjRuc2RudDhwZ2NCWkZteU9EaG1TcnRCUUpBMzFvTTVwd3VCQXFRR1R0cHN2RURyS01ESDBBNnctX3FCb2tKQzVLVFdIUlZWSlRFamEtNkY2TmVMLVJaNTlHWXhQUmFsSVZ5ODBfcFBILVNLcFF3SUdSZGo2akc0VTJCTm5KTV9rc2ZNNDJxMU0zNA?oc=5",
+      "id": "16655b1ab2b2",
+      "title": "Son Dakika Gelişmesi! Bakan Şimşek: Fonlardaki çıkışın tamamına yakını bankalardaki mevduatlara gitti, bu durum geçici, güven tekrar gelecek ve sermaye piyasası araçlarına ilgi artacak",
+      "source": "Canlı Gaste",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQcEVjbUlTQ0RqTGM5TGhubEpuWVFkU3dGMnJuX3ZjUmdib2N6NFRsU01pSTExZWZTOFpYSHJrQ2M5QTFXZ1FpSmVZTHJqaXI3WWExRGZQOFhObDJycnNOcjZFZ1F6dDNrMzg5eEZZeWhxUU9EVUNYeF9wQXFBQW1PUmExbXJ2WDZGT2NZZy1yVHlYekp4ejA1RVFwQlNWMzJPMFBiOFRsNHBQQ2dobDFOa0dqMF9jVGFMb193MVlxdDN5Y1V6b0tJNGJ1blJQWXhsQThzdDNQUUx6eWNLQzRmZ1RkZk9CdnJ5SlBZRW5haGJNRGwzRjdvMC0wbVJnWll1ajhrM3I1TTlsTVhvejdORmRQcnY0ZEd6U0NvX1dtTQ?oc=5",
       "category": "Gündem & X",
-      "published_at": "2026-11-26T17:27:41+00:00",
-      "is_breaking": false
+      "published_at": "2026-11-26T17:08:34+00:00",
+      "is_breaking": true,
+      "ai_summary": "Bakan Şimşek, fonlardan çıkan paranın büyük ölçüde banka mevduatlarına yöneldiğini ve bu durumun geçici olduğunu ifade etti. Şimşek, güvenin yeniden tesis edilmesiyle sermaye piyasası araçlarına ilginin artacağını öngördü."
     },
     {
       "id": "2f4db807e0d7",
@@ -189,6 +224,16 @@
       "ai_summary": "Küresel borsalarda teknoloji hisselerinde yaşanan satışlar, piyasalar arasında farklılaşmaya yol açmıştır. Bu durum, sektör bazında performans ayrışmalarının belirginleştiğini göstermekte olup teknoloji sektörü hisselerinde volatiliteyi artırabilir."
     },
     {
+      "id": "40c9d13f1df1",
+      "title": "Borsa İstanbul günü yükselişle tamamladı: BIST 100 endeksi 87,38 puan arttı",
+      "source": "Kibris Gerçek",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ3FuQzIwSnV5Z1Z1dllCMkFTLVBKUUZDd3FyekNBdHpyRFZFXzVHb0FKUGs2aVRzR2xmdmNjTC1QUkwwZFp3MERpdlRhOHBYdllIM3JlUEFlR3dvYWk4ajNjbkVWMmY1azExdzBpNUZRNXB0Q01qcFlObTN1S2w3WUU1WFc2VFllTDFEcFN0Q2RUajRoT0NFM0F6OUFJQ1VkcEJhZg?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-26T16:24:00+00:00",
+      "is_breaking": false,
+      "ai_summary": "Borsa İstanbul'da BIST 100 endeksi günü yükselişle tamamlayarak 87,38 puanlık bir artış kaydetti. Bu durum, genel piyasa duyarlılığının o gün için pozitif olduğunu göstermektedir."
+    },
+    {
       "id": "dcacf4de7270",
       "title": "26 Kasım 2026 Piyasa Kapanışı: BIST 100 %0,82 yükseldi, dolar 50,6729 ₺, gram altın 5.868",
       "source": "Aposto",
@@ -197,6 +242,26 @@
       "published_at": "2026-11-26T16:22:30+00:00",
       "is_breaking": false,
       "ai_summary": "BIST 100 endeksi günü %0,82 artışla tamamlarken, dolar kuru ve gram altın fiyatları belirli seviyelerde kapanış yaptı. Bu tür günlük kapanış verileri, yatırımcıların piyasanın genel yönünü anlamalarına yardımcı olabilir ve gelecek işlem günleri için beklentileri şekillendirebilir."
+    },
+    {
+      "id": "f2fccfa68483",
+      "title": "Borsa günü yükselişle tamamladı",
+      "source": "TRT Haber",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTTU5X0dDSk1jalY4bVJvZTlnVnVxYm51eXZCSU5TYVpNVXJWellRM0xvelBSREtodE0zbTlFVGc4SHlGdkFYSlhYYXFxdWw2U3o3ekh4WUhpZmtiX1YxTGFjcG9kTU44T2J2NlhLWDU3MlduXzNpUFpMcjByWG5BbmFTNXQ5LWNVb1E?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-26T16:04:00+00:00",
+      "is_breaking": false,
+      "ai_summary": "Borsa, işlem gününü yükselişle kapatarak pozitif bir performans sergiledi. Bu durum, piyasada o gün için alım ağırlıklı bir seyrin hakim olduğunu göstermektedir."
+    },
+    {
+      "id": "9a85a05c8950",
+      "title": "Borsa İstanbul'da Bugün En Çok Kazandıran Hisseler (26.11.2026)",
+      "source": "Finans Hattı",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMmFudzZhd0VsOG9iOGN2elRrdWRtdzg5N2p4S01xYW9TVjE5VUVFeUNBdjQyc1pybTgycjB2SnVYTlhkR1BTRnFoMFd3VFB2ZlpPR19MSkNPMlUwQlUwdXBnSUU0NHJocjU2WUUwdTZDTTJGS3VPODRJRFN5N1k2TjZWeXZPcHhVRDlr?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-26T16:00:34+00:00",
+      "is_breaking": false,
+      "ai_summary": "Borsa İstanbul'da belirli hisse senetleri 26 Kasım 2026 tarihinde en yüksek getiriyi sağladı. Bu tür bilgiler, yatırımcıların piyasa hareketliliğini ve sektör performanslarını takip etmelerine yardımcı olur."
     },
     {
       "id": "e5f862ccac82",
@@ -219,16 +284,6 @@
       "ai_summary": "Borsa İstanbul, perşembe günkü işlemleri yükselişle kapatmıştır. Borsanın yükselişle kapanması, genel piyasa algısını olumlu etkileyebilir ve yatırımcıların risk iştahını artırabilir."
     },
     {
-      "id": "ec6899ba746b",
-      "title": "Borsa İstanbul'da yükseliş rüzgarı! Yüzde 0,82 yükseldi",
-      "source": "NirvanaHaber",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUG5IVldScDU3T3Fobmt2TFdZRkQwRUF1SmV3R1o5c0hvbGxaN2JvTy1MQ3lrZ0tuZWZRWEwwTU9zOF9lckREWVB1WjlrSjl5MF9ZeWJPUjBhbmcyRnE0dldSOFF3QmJkU2M3OXRPZkQ5WXM5MGVWaHhKMHhKc2ZuWE85TVJzcmNmUGN2U3VIVTIxS2YxLWxPS1ZWVi1CNHlhYnVhc2FtRTU?oc=5",
-      "category": "Borsa & KAP",
-      "published_at": "2026-11-26T15:35:00+00:00",
-      "is_breaking": false,
-      "ai_summary": "Borsa İstanbul, günü yüzde 0,82 oranında bir yükselişle kapatmıştır. Bu gelişme, piyasada pozitif bir kapanış eğiliminin devam ettiğini göstermekte ve piyasalarda genel bir olumlu algı oluşturabilir."
-    },
-    {
       "id": "90fcec533173",
       "title": "Borsa günü yükselişle tamamladı… İşte en çok kazandıran ve kaybettiren sektörler",
       "source": "Hürriyet",
@@ -237,16 +292,6 @@
       "published_at": "2026-11-26T15:31:23+00:00",
       "is_breaking": false,
       "ai_summary": "Borsa İstanbul günü yükselişle tamamlarken, günün en çok kazandıran ve kaybettiren sektörleri de belirlenmiştir. Sektör performansları, yatırımcıların portföy çeşitlendirme kararlarında ve gelecekteki sektör beklentilerini değerlendirmelerinde yol gösterici olabilir."
-    },
-    {
-      "id": "f8803205297c",
-      "title": "Borsa İstanbul günü yükselişle tamamladı! Altın, döviz ve petrolde son durum",
-      "source": "A Haber",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORUVSb0JxbkpoT2JBN1pyQnFfNDJSVjNPeEFEcVdlampLRzVtaHUxU2poeVF1bUtmWEU5QnpfY1RybDBCdmd1anpIVzNSVUNfdUo0NzlOVGFVVXBETC0yQ2FOUjRQWUc0U1hsWEZPRHM1azc4MUI2NVg2MDFvVU5MTHBGUEg4a0thbUVlNzR5b1BvSTRGdlJzcTljcmh1QkxSSG9qR0xuZFIzemZaaGxYWG5aZHlWTlFTZ2FvWXhNLTJRdw?oc=5",
-      "category": "Altın & Döviz",
-      "published_at": "2026-11-26T15:23:54+00:00",
-      "is_breaking": false,
-      "ai_summary": "Borsa İstanbul günü yükselişle kapatırken, altın, döviz ve petrol piyasalarındaki son durum da kamuoyuyla paylaşılmıştır. Çeşitli piyasalardaki eş zamanlı gelişmeler, yatırımcıların makroekonomik görünümü ve varlıklar arası ilişkileri değerlendirmelerine yardımcı olabilir."
     },
     {
       "id": "0e30cbaabc89",
@@ -299,15 +344,6 @@
       "ai_summary": "Borsa İstanbul'da BISTECH Devre Kesici Uygulaması kapsamında AKHAN hissesi için pay bazında devre kesici bildirimi yapılmıştır. Devre kesici uygulaması, ilgili hissede ani ve sert fiyat hareketlerinin önüne geçerek piyasa istikrarını sağlamaya yönelik bir mekanizma olarak işlev görür."
     },
     {
-      "id": "643638f477bf",
-      "title": "Altında düşüş devam edecek mi? HSBC kritik seviyeyi işaret etti",
-      "source": "CNBC-e",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZEliaFlFQkpJMzhObHZfamxRcWpBVG0yb2o0OXFrM2F3ZXhqRDN1UXBhNnhPZmVNcDNvRThFUmxUeUhzVEliMklFbG1LM1ZpVWJUUWFOZEtwU0RNVXd0MmpUZzhfQVFZV2VYc1ZBM2cxMFBYSkFxbVlyNlA0UU9HbXdwY3ozZFNIRHhUamxXd1pFV1dtWmJOT1VsNTloQQ?oc=5",
-      "category": "Altın & Döviz",
-      "published_at": "2026-11-26T14:00:58+00:00",
-      "is_breaking": false
-    },
-    {
       "id": "6f049a315d60",
       "title": "Altında satış baskısı bitmedi, HSBC kritik desteği işaret etti",
       "source": "Foreks.com",
@@ -324,7 +360,18 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUXJVRU9kN2tPS19JVnFSVTJEaFVCTV92U0dwS1dXZzlhbWVmRTVQZjQwa3pwVXgyUkpac2ViOWRFLTRnRnNpNE5ybkh1TnBVb0ZNSGluNlBVdDVIOVJxb1dfMDBfY0Q0U3g2SHR1UkYzSWpRenhuNEM1dlZlaG5Mc1BGdnJGektONlVXSHVLdGhGd3F1VmtSVEE4SmZuX054aG5zTnRqTzYySkhsYmZFOEdUTnNNYXZWUkE?oc=5",
       "category": "Gündem & X",
       "published_at": "2026-11-26T13:26:51+00:00",
-      "is_breaking": true
+      "is_breaking": true,
+      "ai_summary": "Sermaye Piyasası Kurulu (SPK), yatırımcıları doğrudan ilgilendiren kritik bir düzenleme üzerinde çalışıyor. Bu hazırlık, sermaye piyasalarının işleyişini ve yatırımcı haklarını etkileyebilecek önemli değişiklikler getirebilir."
+    },
+    {
+      "id": "7082b7d3f516",
+      "title": "BIST 100’de yükseliş için 10 bin 923 puan bekleniyor",
+      "source": "Paratic Haber",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tZkYwTmR5UmVBbTBEdS1HTzdkMmtOUVNhdVZUTDJySW80Yjk5dW15VHhkXzZMTjY4VGx2QWhQOFFhc0l1cmREUUR2VE9hQTRnQzlka0JXaDVEQUpHNlR5aUViWExwT3YxV2lJVkhERkg4bzByVEs1WWoyYWo?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-26T13:05:30+00:00",
+      "is_breaking": false,
+      "ai_summary": "BIST 100 endeksinde yükselişin devamı için 10.923 puan seviyesinin aşılması teknik olarak önemli bir eşik olarak görülüyor. Bu tür analizler, piyasa uzmanlarının kısa vadeli beklentilerini ve olası direnç noktalarını yansıtır."
     },
     {
       "id": "6b69b4504514",
@@ -335,6 +382,16 @@
       "published_at": "2026-11-26T12:55:35+00:00",
       "is_breaking": false,
       "ai_summary": "Çeyrek altın fiyatının 10 bin TL sınırına yaklaştığı ve gram altında güncel durumun ne olduğu hakkında bilgi verilmektedir. Altın fiyatlarındaki bu tür önemli eşiklere yaklaşma haberleri, yatırımcıların altın piyasasına olan ilgisini artırabilir ve alım-satım kararlarını etkileyebilir."
+    },
+    {
+      "id": "3f51dbe5b1aa",
+      "title": "Fed faiz kararı ne zaman açıklanacak? Fed faiz açıklaması saat kaçta? Fed faiz indirecek mi, faiz kararı ne olacak? Aralık 2026 Fed toplantısı ne zaman? Fed faizi açıklama?",
+      "source": "Doğubayazıt Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPbF9fUXlBRDBPMXlFSEl6cVRqRkZYY2NvaEFKMWU5R2trZUhMUEQ0MjJaaS1PYzVjNU5PZ2doZUxGbUhZZE5VSVZlUy0ycHpBa2hWZ2tpa1NtdVpVYnlISHpjYXhmUWZNUjRwemtzY3l2RXNfZ2N0OURld1lRNWtMWm9FRmtROVJFMHBSdXBzcFdra2JwZzZ0SF9fZzJ0UXNWZWphdkRJLXAwLWJDSGNrMDBneTMzaUZJLVZfSkowS3RZX2YxODNuYkN5Mkc3d2ZMaENOMmxzRTNaaG9zUTFZczNYczRldEZJUHRNVk9Qc3VrMVVnT2hRX0g2dllvZG9UT1o4aEFsUnAzdw?oc=5",
+      "category": "Küresel",
+      "published_at": "2026-11-26T12:29:00+00:00",
+      "is_breaking": false,
+      "ai_summary": "ABD Merkez Bankası (Fed) faiz kararı ve toplantı takvimi, küresel piyasalar tarafından yakından takip edilmektedir. Fed'in alacağı kararlar, dünya ekonomisi ve finansal piyasalar üzerinde önemli etkilere sahiptir."
     },
     {
       "id": "1e4bfccc5a29",
@@ -377,32 +434,14 @@
       "ai_summary": "Deutsche Bank analistleri, S&P 500 endeksinde dalgalı satış ve rotasyon işlemlerinin gözlemlendiğini belirtmiştir. S&P 500'deki bu tür hareketler, küresel yatırımcıların risk algısını ve portföy dağılım kararlarını etkileyebilir, bu da diğer piyasalar üzerinde dolaylı etkiler yaratabilir."
     },
     {
-      "id": "a691ac4d03b3",
-      "title": "SPK'dan yeni düzenleme: Otomatik erken alarm sistemi geliyor - Finans haberlerinin doğru adresi - Mynet Finans Haber",
-      "source": "Mynet Finans",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdU9RUEVtVzk2Qy1XZGpTZjN3al93Z0RFdEJtOVNzRE5fNUF5SENuUmJrSmtzRFdxMTEtMHdiR1JzSVBEakhCM2pWcHdCMmJlT05zRGZONDJheVNaVXZPc2VEemVqVFJVb1F0TGI2aUQxV0NJaVN2NGt3SVJHSVdpaGlDYmRPajlFREl3TlVSRzc4cUtrZ0lTS0VZaVZLVGt4ejNHakptQVdFbWtyY25YSXBVcV9tRl90NXJpemVnNNIBrgFBVV95cUxNSlppdzRwUlplX1JqNkxXNmtZWnFyLWhObHBNNmtZQXdwb1NiYjJ5Q1hsT29XcXRqNXoyWG5CRG5vTnBjT29lMDQ5bERBYUwxNE0wdWkxVHNyOFV2a0RETFEyZ1JKZy1CSEJaRkJoUy15UV9Bc01lT0hPYTBQRndzVmd6QW5pV2I0X3RJQ0Vua0UzbHdTY1ZRaTJuV19UYlR5YVdmQ0hzakFHMDE3eGc?oc=5",
-      "category": "Gündem & X",
-      "published_at": "2026-11-26T10:15:35+00:00",
-      "is_breaking": true,
-      "ai_summary": "Sermaye Piyasası Kurulu (SPK), piyasalarda otomatik bir erken alarm sistemi kurarak yeni bir düzenlemeyi hayata geçirmektedir. Otomatik erken alarm sistemi, piyasa manipülasyonlarının önüne geçilmesine yardımcı olarak yatırımcıların piyasaya olan güvenini olumlu yönde etkileyebilir."
-    },
-    {
-      "id": "e9e7609741e6",
-      "title": "Piyasalarda gün ortası / 26 Kasım 2026",
-      "source": "Canlı Gaste",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wd2ZBTk1xckczbnBYTzVHaHg5cThlWHpCWVFnT215MXExOGJ1RFJzVFZCUkxfdVJxN1VWMFk3dDR4U2NXVFZTM1paTkh3dmR3S2g5WERINThZenVzV1FFSWJHV0RaN0ZuS0dyYndXaDBVUHIwdXBHcGlPMA?oc=5",
-      "category": "Borsa & KAP",
-      "published_at": "2026-11-26T10:15:18+00:00",
-      "is_breaking": false
-    },
-    {
       "id": "8dfb1deaaf29",
       "title": "SPK, Tera Yatırım Bankası'nın ek süre talebini kabul etti",
       "source": "Ekonomim",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLU9UZ3JmNEw4LUR1Q1dpMUNJZ25zT1pqRXdJb2FOSEVLQmdJYTBEZ2ZZYzc3SVdicHVYS09kN1pVaG9oOHM3OGwtbE9YV0ViT0VXQkY2NzBDbXR0Mk0wWEZhWHBMZ2pUQ2RoeDFaM0dtb2ppZDJqeW01VllFUmxrRy1NVlZFbnVTdVItZGdsUHZXUkgyVUxtX1ladW1SWi1YWHU4ag?oc=5",
       "category": "Gündem & X",
       "published_at": "2026-11-26T09:26:00+00:00",
-      "is_breaking": false
+      "is_breaking": false,
+      "ai_summary": "Sermaye Piyasası Kurulu (SPK), Tera Yatırım Bankası'nın belirli bir işlem veya süreç için ek süre talebini onayladı. Bu karar, ilgili bankanın operasyonel süreçlerini planlamasına yardımcı olacaktır."
     },
     {
       "id": "c0ad79e9599b",
@@ -411,7 +450,8 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa0l3dkxDcjZocVZBTXNYSzY1NXMyZnlXcGtUeW5TWWR5Y2F2OWZydnJ2anlUUWdxV0Z0VDM4MVJuWTNnMGZWR2hqa1VIRGlPTVBJdWZ3ZXZscVc2X09zVW84X0hkSFpoeGV3MXVPWDJfeTRPZWV6eFEzSUJWVnNPWWc2UG1EWG1O?oc=5",
       "category": "Küresel",
       "published_at": "2026-11-26T09:19:37+00:00",
-      "is_breaking": false
+      "is_breaking": false,
+      "ai_summary": "Altın fiyatları, yaşanan sert düşüşün ardından bir miktar toparlanma eğilimi gösterdi. Bu durum, piyasada kısa vadeli bir düzeltme veya alım fırsatı olarak değerlendirilmiş olabilir."
     },
     {
       "id": "c6143f626c03",
@@ -420,7 +460,8 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYkNZN0hzVlVOQk1VSkdHenJNbVlMbUY5b0pOQVlCMnRZODJXN3RmZTVXcTY2U05mZzB6SDFBUk11a3ZDQ1ZrdlJMXzlSZEpyWDRIYzBGQjFVNjlreUJkNkgtVDVjaGxLYW82bFQ5czNZU0RCZzFaUXpoZmh2QXlYbENhQlVOZk1RRkc1T1FoblFxXzFPVHc?oc=5",
       "category": "Küresel",
       "published_at": "2026-11-26T08:51:08+00:00",
-      "is_breaking": false
+      "is_breaking": false,
+      "ai_summary": "Küresel piyasalar, gün içinde sert dalgalanmalar yaşayarak karışık bir seyir izledi. Bu durum, yatırımcıların belirsizlikler karşısında temkinli davrandığını göstermektedir."
     },
     {
       "id": "418fbb1935cd",
@@ -453,16 +494,6 @@
       "ai_summary": "Türkiye Cumhuriyet Merkez Bankası'nın (TCMB) faiz indirimi politikasına ilişkin piyasada yeni sinyallerin belirdiği ve planların değişebileceği belirtiliyor. TCMB'nin para politikası duruşundaki olası bir değişiklik, döviz kurları ve tahvil piyasaları üzerinde önemli etkiler yaratabilir."
     },
     {
-      "id": "e4a38b2083c0",
-      "title": "TCMB’den 3 adet döviz karşılığı TL swap ihalesi",
-      "source": "Canlı Gaste",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNGJpQWk2WUZmeS1ZTnlmRl8tdGtLSnRFNVBjTWphMENQRm81MktuY1lPb0JkMWhDeFJrR0xHR3lKazE3S3lhZktJUTlwSHNsMnRyM2hTNlgzVmpFOW1uSWhvckRUdkprbC1NNW5UdVFXbTdSMERaRnpCR0dlSVVsblJ1RGVCbFJsb1E?oc=5",
-      "category": "Makro & TCMB",
-      "published_at": "2026-11-26T08:12:23+00:00",
-      "is_breaking": false,
-      "ai_summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), üç adet döviz karşılığı Türk lirası swap ihalesi gerçekleştirmiştir. Bu hamle, piyasadaki likidite yönetimine yönelik bir adım olarak değerlendirilebilir ve Türk lirası likiditesini etkileyebilir."
-    },
-    {
       "id": "5dc5766d0b90",
       "title": "Borsa İstanbul güne yükselişle başladı! BIST 100'de yüzde 1,10'luk açılış",
       "source": "A Haber",
@@ -473,23 +504,14 @@
       "ai_summary": "Borsa İstanbul, yeni işlem gününe BIST 100 endeksinde yüzde 1,10'luk bir yükselişle pozitif bir başlangıç yaptı. Endeksin güne yükselişle başlaması, yatırımcıların risk iştahını artırabilir ve gün içi işlemlerde pozitif bir ivme sağlayabilir."
     },
     {
-      "id": "9c50a235aae9",
-      "title": "Borsa İstanbul açıldı 26 Kasım Perşembe 2026: BIST 100'de yeni gelişmeler - Finans haberlerinin doğru adresi - Mynet Finans Haber",
-      "source": "Mynet Finans",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVFhZmZqOThwOTdfNjV2R045T0QycTgtOHFtdzNrd29SN3FpY04xaUhoV21RVmh6SjFzaElxU2ZfRl9UaDhsRXhDbFdsRXRFcUJ6bkY4Wk5yTlI2ZXNQazNaNVhGS01NME0yd1ZJNXR4UGNTSkM2SXFnLUpuMWV1Q3FDNTZVYkxlaUpHS19XN0NMY2dibW9VQld2UjdLWWxCOVZjMjZ0T2RyY0l2TmF6d0t4THdTb29GQ0tnNnpzN3jSAbIBQVVfeXFMTlB5ZGlDRG9RdjRjS0JHenVnRkZ5QWNiZFR0S1Q1UkhwSzVTNkcwcnNkSE5WTlM1Q3pCVlNKekN6d3NOejFJSnZyaHlLUVZjUndYMXhMdmN4RTROdlFIcTlndFZrNXIxQTFqOXdaUjlzc1NGZkEyX2FoeFJUQmItLVoyRHFHUm5ZQzhvenZnN1l1MllLbHlCZHVENXd3SS1SUkF5WGtnZWdYNTdnSFdTWVZ4UQ?oc=5",
-      "category": "Borsa & KAP",
-      "published_at": "2026-11-26T07:30:33+00:00",
-      "is_breaking": false,
-      "ai_summary": "Borsa İstanbul, 26 Kasım 2026 Perşembe günü açılışını gerçekleştirmiş ve BIST 100 endeksinde yeni gelişmeler yaşanmıştır. Bu durum, piyasanın güne başlarken belirli dinamikler sergilediğini göstermekte ve piyasalarda güne başlarken oluşan beklentileri etkileyebilir."
-    },
-    {
       "id": "8c4d38418a04",
       "title": "Bugün çeyrek altın kaç TL? 26 Kasım Perşembe 2026 Gram, tam, Cumhuriyet, Kapalıçarşı anlık fiyatlar - Finans haberlerinin doğru adresi - Mynet Finans Haber",
       "source": "Mynet Finans",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMGMydkZJWWpSV252eFY1VVdHbFVTMFNWNXUwRVlmeHEya2xRWmxtUDFURTFFM0hNNmowQ0FKT2h5LWpQSmZ4Qm1DbmVjYmpCeC1zM2ZHVi0zeWxmcFZac0g3VURRVVByY1RKRVNHVWRPSEFLZXFDLXIycV9sOFNVWUlZTzZZVnBQUUxQbVRVLUJ6XzBDZ2ZBdVR0WVVoZEJYZlFSd0pOaGNicjZVeGpLenRmcUhiRThZLWdHak5RTEU1dkdURFNzeTROTGowemVjZHR4c2piSVU4anpoRTAw0gHQAUFVX3lxTE9uQWRXSFRPalZpQ3lzY3RlRUVVMjBJMnZlN18xUERocWtkc2hBSnRWRVctUDgzM3RFN2RhSFJSRlRpWEwwbHZoLUNaRkRjenRhSkdNakNlTGRlRkNqZW1yZkJ0UGg2Njk2XzFLWVJ1dHFMSDFGcTJGSnJscXBsU0luZEZuemR5QmJObURuTDFsMTJOOTdSUW4zcVBOd0tadTZKR0gxSUJQQ1VyNmpGRWZLUVVHYnlZMWRpZDVpbU5QbFNNY3ZvVkRtdndRZldnSFk?oc=5",
       "category": "Altın & Döviz",
       "published_at": "2026-11-26T07:29:46+00:00",
-      "is_breaking": false
+      "is_breaking": false,
+      "ai_summary": "26 Kasım 2026 tarihinde çeyrek, gram, tam ve Cumhuriyet altınının anlık fiyatları piyasalarda takip edildi. Altın fiyatları, yatırımcılar için önemli bir gösterge olup, küresel ekonomik gelişmelerden etkilenir."
     },
     {
       "id": "dd328fee5582",
@@ -500,27 +522,42 @@
       "published_at": "2026-11-26T07:28:30+00:00",
       "is_breaking": false,
       "ai_summary": "26 Kasım tarihinde Kapalıçarşı'da gram, çeyrek, yarım, tam ve Cumhuriyet altınının anlık fiyatları düşüş eğilimi gösterdi. Altın fiyatlarındaki düşüş eğilimi, yatırımcıların alım veya satım kararlarını gözden geçirmesine neden olabilir."
-    },
-    {
-      "id": "bf4e2860c6ee",
-      "title": "TCMB'den faiz indirim beklentisi terse döndü",
-      "source": "Bloomberght",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdEF6ZnpZRDlQWlFlb2k3dlNkWVBwc09vS0wwLWZxVE5WZUpzcU45UFNNZXpWdEkwX1JENmluSHpvQUZZTm83X2ZhRmpla181WHdiZ3hLS1QzenZVUnFSM013dF9rRTMwNDh2dmNZc192elZRWGpBWkhIekRUVTVGRjQyczFFTHM?oc=5",
-      "category": "Makro & TCMB",
-      "published_at": "2026-11-26T07:25:59+00:00",
-      "is_breaking": false
-    },
-    {
-      "id": "47e22cc6974d",
-      "title": "Yılmaz, Gürlek ve Şimşek'ten fon krizine ilişkin toplantı",
-      "source": "Bloomberght",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOakNfQlJvNXhiNFNvZmVSb3N2YU8xQWdRN3V0Z1dwNnBPMzR5V2J0b3VrQ2hUTVY5MkttRFhGbmRRVkJRLWozUFl1YjZBUE44V1U4dGxtRFlkeFZnSHNTM1NYckJLenpjS3JCaExFeG1RU0JqclZRRC1JLS1QT1Z4U2JmS1RGVEtnNWtZSGRqaXJ4Zkl0UDBz?oc=5",
-      "category": "Gündem & X",
-      "published_at": "2026-11-26T07:12:26+00:00",
-      "is_breaking": false
     }
   ],
   "notification_candidates": [
+    {
+      "id": "0e781bc91ee8",
+      "title": "[Makro & TCMB] CNN Türk",
+      "headline": "TCMB'den TL likidite hamlesi! Oran değişti",
+      "body": "TCMB'den TL likidite hamlesi! Oran değişti",
+      "source": "CNN Türk",
+      "category": "Makro & TCMB",
+      "ai_summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Türk lirası likiditesine yönelik bir adım atarak ilgili oranlarda değişikliğe gitti. Bu düzenleme, piyasadaki TL arzını etkileyerek bankacılık sektörünün fonlama maliyetlerini ve genel piyasa likiditesini değiştirebilir.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMDdIbk1BYmFlWVhudDR1aE9XX2Z0VjRjRE5tam5Bem9Ec1dxclVDX0ZqZlhIQUxSamhucXk2eXpPWTRWY0NINlpFbnM4TTB1Vzg0WC1KRnNHd1hEcnRNVlphaFVTQ3MzbFhGeG1JbjRPelVWM1VIX1FKQ2YxRkM4YkVwdWlZOGc?oc=5",
+      "published_at": "2026-11-26T21:15:16+00:00"
+    },
+    {
+      "id": "a1b78d56f5b7",
+      "title": "[Makro & TCMB] Paratic Haber",
+      "headline": "TCMB TL mevduatta zorunlu karşılık oranını yükseltti",
+      "body": "TCMB TL mevduatta zorunlu karşılık oranını yükseltti",
+      "source": "Paratic Haber",
+      "category": "Makro & TCMB",
+      "ai_summary": "TCMB, Türk lirası mevduatlar için zorunlu karşılık oranlarını artırma kararı aldı. Bu adım, bankaların topladıkları mevduatın daha büyük bir kısmını Merkez Bankası'nda tutmasını gerektirerek piyasadaki likiditeyi sıkılaştırabilir.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zSktqRVZSeERvc1drZV9tVzEwaTRwMU90SC1QbVhFSkJkOTRma0piTkN6SHhyYmt6V0xoNkZGRUcxWXNsYVVVdWsxbWZUaWZPa1J5c1IxUXYxbTBBVzNCSlZKWndHOXc1VTM2dGU5RkptSFpNQ2NFTFVQSFV1Zw?oc=5",
+      "published_at": "2026-11-26T21:01:22+00:00"
+    },
+    {
+      "id": "90829b03b241",
+      "title": "[Makro & TCMB] Bloomberght",
+      "headline": "TCMB, TL zorunlu karşılık faizini artırdı",
+      "body": "TCMB, TL zorunlu karşılık faizini artırdı",
+      "source": "Bloomberght",
+      "category": "Makro & TCMB",
+      "ai_summary": "Türkiye Cumhuriyet Merkez Bankası, Türk lirası zorunlu karşılıklarına uygulanan faiz oranını yükseltti. Bu karar, bankaların Merkez Bankası'nda tuttukları zorunlu karşılıklar üzerinden elde ettikleri getiriyi artırarak fonlama maliyetlerini dengelemeye yardımcı olabilir.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcWtvZTlMNHdrRm9zQTE3aThUY3V5b3dJMFpwQzJPQjlSY0VQVmtET29kT0JiVlVkdV9OVldpVVFjTXNrNGc4czJOdndVdTAtdEJ4VUwtQjBETUt5WUdVUjRfNkFnV2JFZDdkSkF3S3lENjlaRGdYMTNnS05ndkZ4eWJn?oc=5",
+      "published_at": "2026-11-26T19:42:57+00:00"
+    },
     {
       "id": "13c748fd86c2",
       "title": "[Makro & TCMB] Canlı Gaste",
@@ -528,53 +565,20 @@
       "body": "TCMB’den TL likiditesi ve zorunlu karşılıklara yeni düzenleme",
       "source": "Canlı Gaste",
       "category": "Makro & TCMB",
-      "ai_summary": "",
+      "ai_summary": "TCMB, Türk lirası likiditesi ve zorunlu karşılıklar konusunda yeni düzenlemeler açıkladı. Bu adımlar, piyasadaki TL arzını ve bankaların fonlama yapılarını etkileyerek makroekonomik istikrarı desteklemeyi hedeflemektedir.",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWWZlNHp4dFB3SHBEbHpTaGMtTmR6R0VnT21NOWNTQUowak8ySWx6R3NIaWtDTVM4MUk1aF94dE1TOVY0aUNvX1ZXQXUxS2lNMTF4SEo0TDcxQldIelNsdEpadVZoZXpPazFZQ3BQN0d1VmVLTDNDQmpiQWZJaVVNcmc5Q3o2ZEk1N2R2UnZsU21DWm95VkNHdHl1aVE?oc=5",
       "published_at": "2026-11-26T19:27:06+00:00"
     },
     {
-      "id": "2698f455e753",
-      "title": "[Makro & TCMB] Canlı Gaste",
-      "headline": "TCMB’den Türk lirası likidite yönetimi ve zorunlu karşılıklara ilişkin yeni adımlar",
-      "body": "TCMB’den Türk lirası likidite yönetimi ve zorunlu karşılıklara ilişkin yeni adımlar",
+      "id": "16655b1ab2b2",
+      "title": "[Gündem & X] Canlı Gaste",
+      "headline": "Son Dakika Gelişmesi! Bakan Şimşek: Fonlardaki çıkışın tamamına yakını bankalardaki mevduatlara gitti, bu durum geçici, güven tekrar gelecek ve sermaye piyasası araçlarına ilgi artacak",
+      "body": "Son Dakika Gelişmesi! Bakan Şimşek: Fonlardaki çıkışın tamamına yakını bankalardaki mevduatlara gitti, bu durum geçici, güven tekrar gelecek ve sermaye piyasası araçlarına ilgi artacak",
       "source": "Canlı Gaste",
-      "category": "Makro & TCMB",
-      "ai_summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOWhQV0xVZjlMSWF1bHEyWHc5MXBkUkFuQkQ5TVFqbkU2VHJXcHZ0c3VTUVdXa3g0TVVWY2hOdXIyX0hIYVBHaElObEVzT2c4dG96NFRZbFlEdG1mYnAtbmIySUltTVk3eUF5UzNzaFpIa0k5TGtVa0NzRFVTUC10Z20tdzdLbWhrQWt6M0p5Z1ZsM002YnluSy0zTkJ5TWZWY0c2Tk50VEhOazN6QnN0X215MTZIRWJLZ3c?oc=5",
-      "published_at": "2026-11-26T19:27:06+00:00"
-    },
-    {
-      "id": "5da6fb3f1d57",
-      "title": "[Borsa & KAP] CNN Türk",
-      "headline": "SON DAKİKA | Borsa perşembe gününü yükselişle tamamladı",
-      "body": "SON DAKİKA | Borsa perşembe gününü yükselişle tamamladı",
-      "source": "CNN Türk",
-      "category": "Borsa & KAP",
-      "ai_summary": "Borsa İstanbul, perşembe günkü işlemleri yükselişle kapatmıştır. Borsanın yükselişle kapanması, genel piyasa algısını olumlu etkileyebilir ve yatırımcıların risk iştahını artırabilir.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUNtakg4bUpEOWp0V0xKTjdSdGtBOHBDanl5Z0g2bThHdU1JUF9raVBvVWFLUlplT2FtTzNwd2o4NGRvcExXTDBNODVRZ2cwYTRtdVpCTFdmQThfckdSejFuTW5IdHQ0Q1pJc0VkZDRsZDVUMzFNX1gyVm9hek96bHZhcUktNlFGNVpkWnlSVE91VGgycHNyMw?oc=5",
-      "published_at": "2026-11-26T15:37:34+00:00"
-    },
-    {
-      "id": "a8585236f728",
-      "title": "[Borsa & KAP] Yeni Şafak",
-      "headline": "KAP *** BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI *** AKHAN *** Pay Bazında Devre Kesici Bildirimi",
-      "body": "KAP *** BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI *** AKHAN *** Pay Bazında Devre Kesici Bildirimi",
-      "source": "Yeni Şafak",
-      "category": "Borsa & KAP",
-      "ai_summary": "Borsa İstanbul'da BISTECH Devre Kesici Uygulaması kapsamında AKHAN hissesi için pay bazında devre kesici bildirimi yapılmıştır. Devre kesici uygulaması, ilgili hissede ani ve sert fiyat hareketlerinin önüne geçerek piyasa istikrarını sağlamaya yönelik bir mekanizma olarak işlev görür.",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTUFLSFNsUERNVUVheWxXZGxvaF84OFI1MF90M2tKYXg4dkNSUGl2TTZLTVRKWkhTc21KSnR3SHhhN09sMENsS05qYkJMT2dqRFU3Q3h0T2JxNWtMc0xobE1TTWpPWDFUcm9PY3NIWkwxb0s4Wms5NmlteHctMnB2RFRFMS01S2dkUWRLWUlYOVBudFpLRjFfdlRBSy04WW9Ea1R0cXV4YXcyRVNfdnV0cEx3Vkp2Y29DX2RoN3ZqSHZaZ3BMM2pHbGV5enNFU3JCNFNUclF6clJxamdQWnhfVg?oc=5",
-      "published_at": "2026-11-26T14:34:00+00:00"
-    },
-    {
-      "id": "5ce5895e076c",
-      "title": "[Gündem & X] A Gazete",
-      "headline": "Yatırımcıları yakından ilgilendiriyor! SPK'dan kritik düzenleme hazırlığı",
-      "body": "Yatırımcıları yakından ilgilendiriyor! SPK'dan kritik düzenleme hazırlığı",
-      "source": "A Gazete",
       "category": "Gündem & X",
-      "ai_summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUXJVRU9kN2tPS19JVnFSVTJEaFVCTV92U0dwS1dXZzlhbWVmRTVQZjQwa3pwVXgyUkpac2ViOWRFLTRnRnNpNE5ybkh1TnBVb0ZNSGluNlBVdDVIOVJxb1dfMDBfY0Q0U3g2SHR1UkYzSWpRenhuNEM1dlZlaG5Mc1BGdnJGektONlVXSHVLdGhGd3F1VmtSVEE4SmZuX054aG5zTnRqTzYySkhsYmZFOEdUTnNNYXZWUkE?oc=5",
-      "published_at": "2026-11-26T13:26:51+00:00"
+      "ai_summary": "Bakan Şimşek, fonlardan çıkan paranın büyük ölçüde banka mevduatlarına yöneldiğini ve bu durumun geçici olduğunu ifade etti. Şimşek, güvenin yeniden tesis edilmesiyle sermaye piyasası araçlarına ilginin artacağını öngördü.",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQcEVjbUlTQ0RqTGM5TGhubEpuWVFkU3dGMnJuX3ZjUmdib2N6NFRsU01pSTExZWZTOFpYSHJrQ2M5QTFXZ1FpSmVZTHJqaXI3WWExRGZQOFhObDJycnNOcjZFZ1F6dDNrMzg5eEZZeWhxUU9EVUNYeF9wQXFBQW1PUmExbXJ2WDZGT2NZZy1yVHlYekp4ejA1RVFwQlNWMzJPMFBiOFRsNHBQQ2dobDFOa0dqMF9jVGFMb193MVlxdDN5Y1V6b0tJNGJ1blJQWXhsQThzdDNQUUx6eWNLQzRmZ1RkZk9CdnJ5SlBZRW5haGJNRGwzRjdvMC0wbVJnWll1ajhrM3I1TTlsTVhvejdORmRQcnY0ZEd6U0NvX1dtTQ?oc=5",
+      "published_at": "2026-11-26T17:08:34+00:00"
     }
   ]
 }

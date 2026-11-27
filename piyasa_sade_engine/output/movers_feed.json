@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T19:46:02.994161+00:00",
+  "generated_at": "2026-11-27T02:26:32.138627+00:00",
   "source": "BIST (TradingView + Yahoo Doğrulamalı • Önbellek Korundu)",
   "universe": "Tüm BIST (625 hisse)",
   "scanned_count": 625,
@@ -27,30 +27,30 @@
     "USDTRY": {
       "symbol": "USDTRY",
       "name": "Dolar / TL",
-      "price": 50.6722,
-      "previous_close": 50.674,
-      "change_percent": -0.0
+      "price": 50.7439,
+      "previous_close": 50.7185,
+      "change_percent": 0.05
     },
     "EURTRY": {
       "symbol": "EURTRY",
       "name": "Euro / TL",
-      "price": 55.7174,
-      "previous_close": 55.7478,
-      "change_percent": -0.05
+      "price": 55.6978,
+      "previous_close": 55.7668,
+      "change_percent": -0.12
     },
     "GOLD": {
       "symbol": "GOLD",
       "name": "Ons Altın",
-      "price": 3593.4,
+      "price": 3643.5,
       "previous_close": 3564.6,
-      "change_percent": 0.81
+      "change_percent": 2.21
     },
     "GRAM_ALTIN": {
       "symbol": "GRAM_ALTIN",
       "name": "Gram Altın (TL)",
-      "price": 5854.18,
-      "previous_close": 5807.47,
-      "change_percent": 0.8
+      "price": 5944.2,
+      "previous_close": 5812.57,
+      "change_percent": 2.26
     }
   },
   "periods": {
@@ -70,7 +70,7 @@
           "previous_close": 6.5,
           "change_percent": 10.0,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "OZRDN",
@@ -79,7 +79,7 @@
           "previous_close": 13.2,
           "change_percent": 10.0,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "CITAS",
@@ -88,7 +88,7 @@
           "previous_close": 101.0,
           "change_percent": 10.0,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "IZFAS",
@@ -97,7 +97,7 @@
           "previous_close": 10.61,
           "change_percent": 9.99,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "ISVEA",
@@ -106,7 +106,7 @@
           "previous_close": 19.53,
           "change_percent": 9.98,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "KLSER",
@@ -115,7 +115,7 @@
           "previous_close": 13.83,
           "change_percent": 9.98,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "KARCL",
@@ -124,7 +124,7 @@
           "previous_close": 45.6,
           "change_percent": 9.98,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "ATATR",
@@ -133,7 +133,7 @@
           "previous_close": 4.11,
           "change_percent": 9.98,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "KRDMB",
@@ -142,7 +142,7 @@
           "previous_close": 39.14,
           "change_percent": 9.96,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "GZNMI",
@@ -151,7 +151,7 @@
           "previous_close": 16.66,
           "change_percent": 9.96,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "KTLEV",
@@ -160,7 +160,7 @@
           "previous_close": 6.63,
           "change_percent": 9.95,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "YAYLA",
@@ -169,7 +169,7 @@
           "previous_close": 8.74,
           "change_percent": 9.95,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "MCARD",
@@ -178,7 +178,7 @@
           "previous_close": 103.5,
           "change_percent": 9.95,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "BIGEN",
@@ -187,7 +187,7 @@
           "previous_close": 11.67,
           "change_percent": 9.94,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "ODINE",
@@ -196,7 +196,7 @@
           "previous_close": 61.95,
           "change_percent": 9.93,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         }
       ],
       "losers": [
@@ -207,7 +207,7 @@
           "previous_close": 45.6,
           "change_percent": -10.0,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "GUNDG",
@@ -216,7 +216,7 @@
           "previous_close": 151.2,
           "change_percent": -9.99,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "LYDHO",
@@ -225,7 +225,7 @@
           "previous_close": 18.04,
           "change_percent": -9.98,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "SKYLP",
@@ -234,7 +234,7 @@
           "previous_close": 61.6,
           "change_percent": -9.98,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "IDGYO",
@@ -243,7 +243,7 @@
           "previous_close": 3.41,
           "change_percent": -9.97,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "AYDEM",
@@ -252,7 +252,7 @@
           "previous_close": 19.48,
           "change_percent": -9.96,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "ARMGD",
@@ -261,7 +261,7 @@
           "previous_close": 79.45,
           "change_percent": -9.94,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "MAGEN",
@@ -270,7 +270,7 @@
           "previous_close": 4.13,
           "change_percent": -9.93,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "LIDER",
@@ -279,7 +279,7 @@
           "previous_close": 6.16,
           "change_percent": -9.9,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "HEDEF",
@@ -288,7 +288,7 @@
           "previous_close": 4.46,
           "change_percent": -9.87,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "SOHOE",
@@ -297,7 +297,7 @@
           "previous_close": 5.88,
           "change_percent": -9.86,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "IHLGM",
@@ -306,7 +306,7 @@
           "previous_close": 1.44,
           "change_percent": -9.72,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "PEKGY",
@@ -315,7 +315,7 @@
           "previous_close": 1.97,
           "change_percent": -9.64,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "PASEU",
@@ -324,7 +324,7 @@
           "previous_close": 28.2,
           "change_percent": -9.5,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         },
         {
           "symbol": "AKENR",
@@ -333,7 +333,7 @@
           "previous_close": 7.22,
           "change_percent": -9.14,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.992705+00:00"
+          "updated_at": "2026-11-27T02:26:32.136709+00:00"
         }
       ]
     },
@@ -919,7 +919,7 @@
           "previous_close": 16.0,
           "change_percent": 156.5,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "PEKGY",
@@ -928,7 +928,7 @@
           "previous_close": 0.82,
           "change_percent": 117.07,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "IDGYO",
@@ -937,7 +937,7 @@
           "previous_close": 1.68,
           "change_percent": 82.74,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "OZRDN",
@@ -946,7 +946,7 @@
           "previous_close": 8.0,
           "change_percent": 81.5,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "KARCL",
@@ -955,7 +955,7 @@
           "previous_close": 28.0,
           "change_percent": 79.11,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "BIGEN",
@@ -964,7 +964,7 @@
           "previous_close": 7.24,
           "change_percent": 77.21,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "KTLEV",
@@ -973,7 +973,7 @@
           "previous_close": 4.17,
           "change_percent": 74.82,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "FZLGY",
@@ -982,7 +982,7 @@
           "previous_close": 4.23,
           "change_percent": 69.03,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "MANAS",
@@ -991,7 +991,7 @@
           "previous_close": 2.6,
           "change_percent": 60.38,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "SVGYO",
@@ -1000,7 +1000,7 @@
           "previous_close": 1.91,
           "change_percent": 60.21,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "SANFM",
@@ -1009,7 +1009,7 @@
           "previous_close": 3.4,
           "change_percent": 50.88,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "KONTR",
@@ -1018,7 +1018,7 @@
           "previous_close": 1.52,
           "change_percent": 50.66,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "GUNDG",
@@ -1027,7 +1027,7 @@
           "previous_close": 92.0,
           "change_percent": 47.93,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "BRMEN",
@@ -1036,7 +1036,7 @@
           "previous_close": 3.56,
           "change_percent": 46.63,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "NETGL",
@@ -1045,7 +1045,7 @@
           "previous_close": 9.25,
           "change_percent": 46.49,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         }
       ],
       "losers": [
@@ -1056,7 +1056,7 @@
           "previous_close": 11.03,
           "change_percent": -63.55,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "RALYH",
@@ -1065,7 +1065,7 @@
           "previous_close": 12.88,
           "change_percent": -60.33,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "TRHOL",
@@ -1074,7 +1074,7 @@
           "previous_close": 192.0,
           "change_percent": -57.81,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "OZATD",
@@ -1083,7 +1083,7 @@
           "previous_close": 213.1,
           "change_percent": -53.97,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "ZERGY",
@@ -1092,7 +1092,7 @@
           "previous_close": 6.75,
           "change_percent": -44.74,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "KUVVA",
@@ -1101,7 +1101,7 @@
           "previous_close": 81.1,
           "change_percent": -35.51,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "USHOL",
@@ -1110,7 +1110,7 @@
           "previous_close": 70.0,
           "change_percent": -35.14,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "ARMGD",
@@ -1119,7 +1119,7 @@
           "previous_close": 107.1,
           "change_percent": -33.19,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "NETAS",
@@ -1128,7 +1128,7 @@
           "previous_close": 67.85,
           "change_percent": -32.62,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "SOKM",
@@ -1137,7 +1137,7 @@
           "previous_close": 57.55,
           "change_percent": -32.37,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "BORLS",
@@ -1146,7 +1146,7 @@
           "previous_close": 2.09,
           "change_percent": -31.1,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "MAGEN",
@@ -1155,7 +1155,7 @@
           "previous_close": 5.39,
           "change_percent": -30.98,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "LIDER",
@@ -1164,7 +1164,7 @@
           "previous_close": 8.0,
           "change_percent": -30.63,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "BIGCH",
@@ -1173,7 +1173,7 @@
           "previous_close": 3.04,
           "change_percent": -30.26,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         },
         {
           "symbol": "AKFYE",
@@ -1182,7 +1182,7 @@
           "previous_close": 3.65,
           "change_percent": -29.32,
           "currency": "TRY",
-          "updated_at": "2026-11-26T19:46:02.993434+00:00"
+          "updated_at": "2026-11-27T02:26:32.137669+00:00"
         }
       ]
     }
