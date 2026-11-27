@@ -1,90 +1,90 @@
 {
-  "generated_at": "2026-11-27T15:09:35.595095+00:00",
-  "istanbul_time": "27.11.2026 18:09",
-  "date": "27.11.2026",
+  "generated_at": "2026-11-27T23:30:08.315848+00:00",
+  "istanbul_time": "28.11.2026 02:29",
+  "date": "28.11.2026",
   "active_mode": "evening",
   "disclaimer": "Yatırım tavsiyesi değildir (YTD). Doğrulanmış piyasa verileri ve ekonomi başlıklarından üretilmiştir.",
   "breadth": {
-    "advancers": 391,
-    "decliners": 194,
-    "unchanged": 40,
+    "advancers": 403,
+    "decliners": 183,
+    "unchanged": 39,
     "total": 625
   },
   "indices": {
     "XU100": {
       "symbol": "XU100",
       "name": "BIST 100",
-      "price": 10951.74,
+      "price": 10977.01,
       "previous_close": 10743.11,
-      "change_percent": 1.94
+      "change_percent": 2.18
     },
     "XU030": {
       "symbol": "XU030",
       "name": "BIST 30",
-      "price": 13728.78,
+      "price": 13763.83,
       "previous_close": 13453.63,
-      "change_percent": 2.05
+      "change_percent": 2.31
     },
     "USDTRY": {
       "symbol": "USDTRY",
       "name": "Dolar / TL",
-      "price": 50.7842,
+      "price": 50.745,
       "previous_close": 50.7185,
-      "change_percent": 0.13
+      "change_percent": 0.05
     },
     "EURTRY": {
       "symbol": "EURTRY",
       "name": "Euro / TL",
-      "price": 55.6137,
+      "price": 55.4944,
       "previous_close": 55.7668,
-      "change_percent": -0.27
+      "change_percent": -0.49
     },
     "GOLD": {
       "symbol": "GOLD",
       "name": "Ons Altın",
-      "price": 3664.0,
+      "price": 3668.5,
       "previous_close": 3564.6,
-      "change_percent": 2.79
+      "change_percent": 2.91
     },
     "GRAM_ALTIN": {
       "symbol": "GRAM_ALTIN",
       "name": "Gram Altın (TL)",
-      "price": 5982.4,
+      "price": 5985.12,
       "previous_close": 5812.57,
-      "change_percent": 2.92
+      "change_percent": 2.97
     }
   },
   "morning": {
-    "id": "morning-2026-11-27",
+    "id": "morning-2026-11-28",
     "type": "morning",
-    "date": "27.11.2026",
+    "date": "28.11.2026",
     "ready_at_tr": "09:30",
-    "title": "☀️ Piyasa Açılışına 30 dk: BIST, Altın ve Fed Gündemi",
-    "headline": "BIST 100 dünü 10.743 puandan tamamlarken, altın ve döviz piyasalarında hareketlilik sürüyor.",
-    "notification_body": "Piyasalar Fed'in faiz kararı beklentileri ve TCMB'nin enflasyon tahminlerine odaklandı. Desa temettü kararı KAP'ta.",
+    "title": "☀️ Piyasa Açılışına 30 dk: Yeni Güne Bakış",
+    "headline": "Dün BIST 100 yükselirken, altın ve dövizde de hareketlilik gözlendi.",
+    "notification_body": "BIST 100 endeksi dün günü yükselişle tamamlarken, gram altın 6 bin TL seviyesine yaklaştı. Yeni günde Fed, TCMB ve enflasyon beklentileri piyasaların odağında olacak.",
     "bullets": [
-      "Fed'in Aralık ayı faiz kararına yönelik beklentiler ve küresel piyasalara olası etkileri gündemde.",
-      "TCMB'nin Kasım ayı enflasyon beklentileri ve resmi açıklama tarihi piyasaların odağında olacak.",
-      "Desa Deri'nin hisse başına brüt temettü dağıtım kararı KAP'ta duyuruldu.",
-      "Altın piyasalarındaki hareketlilik ve gram altının 6 bin TL seviyesi üzerindeki seyri takip edilecek.",
-      "Borsa İstanbul'da 10 bin puan seviyesi ve endeksin kritik destek/direnç noktaları izlenecek."
+      "Fed'in Aralık ayı faiz artırımı ihtimali %99'u aşarken, küresel piyasalardaki beklentiler takip edilecek.",
+      "TCMB'nin yaklaşan faiz toplantısı ve olası faiz kararına yönelik beklentiler gündemde.",
+      "Kasım ayı enflasyon beklenti anket sonuçları açıklandı; TÜİK'in enflasyon rakamları açıklanma tarihi bekleniyor.",
+      "Borsa İstanbul'da 30 Kasım'dan itibaren 6 hisse için yeni tedbir kararları uygulanmaya başlanacak.",
+      "SPK'dan 5 hisse için işlem yasağı ve suç duyurusu kararı gelirken, 26 yatırım fonuna yeniden işlem izni verildi."
     ],
     "ai_generated": true
   },
   "evening": {
-    "id": "evening-2026-11-27",
+    "id": "evening-2026-11-28",
     "type": "evening",
-    "date": "27.11.2026",
+    "date": "28.11.2026",
     "ready_at_tr": "18:25",
-    "title": "🌙 Borsa Kapanış Özeti: BIST Yükseldi, Altın Ralli Yaptı",
-    "headline": "Borsa İstanbul günü yükselişle tamamlarken, gram altın 6 bin TL sınırını aşarak dikkat çekti.",
-    "notification_body": "BIST 100 %1.94 artışla kapandı. Gram altın %2.92 yükseldi. 391 hisse değer kazandı.",
+    "title": "🌙 Borsa Kapanış Özeti: Yükselişle Kapanış",
+    "headline": "BIST 100 günü güçlü yükselişle tamamlarken, altın fiyatları da dikkat çekti.",
+    "notification_body": "Borsa İstanbul'da bugün yükseliş eğilimi hakim oldu; BIST 100 endeksi günü artıda kapatırken, gram altın 6 bin TL sınırına yaklaştı. Dolar/TL ise yatay seyretti.",
     "bullets": [
-      "Borsa İstanbul günü yükselişle tamamladı; BIST 100 endeksi %1.94 artışla 10.951 puan seviyesine ulaştı.",
-      "Piyasa genelinde 391 hisse değer kazanırken, 194 hisse değer kaybetti.",
-      "Gram altın, küresel piyasalardaki ralliyle birlikte %2.92 yükselerek 5.982 TL seviyesini aştı; Dolar/TL ise günü hafif artışla 50.78 TL'den kapattı.",
-      "Günün öne çıkan hisseleri arasında A1CAP, KGYO ve ASTOR gibi şirketler tavan yaparak dikkat çekti.",
-      "Altın piyasalarındaki güçlü yükseliş ve TCMB'nin sıkılaştırma adımlarının piyasaları sakinleştirmeye başladığına dair beklentiler, gün içi hareketliliğin ana nedenleri arasında yer aldı."
+      "Borsa İstanbul'da işlem gören 625 hisseden 403'ü değer kazanırken, BIST 100 endeksi günü %2,18 yükselişle 10.977,01 puandan tamamladı.",
+      "Gram altın, ons altındaki yükselişin de etkisiyle günü %2,97 artışla 5.985,12 TL seviyesinden kapatarak 6 bin TL sınırına yaklaştı.",
+      "Dolar/TL kuru günü %0,05 gibi sınırlı bir yükselişle 50,745 seviyesinde yatay bir seyirle tamamladı.",
+      "21 şirketten gelen geri alım hamleleri ve SPK'nın 26 fona işlem izni vermesi piyasada güven sinyali olarak algılanırken, Astor Enerji (%9,98) gibi hisseler öne çıktı.",
+      "SPK'nın bazı hisselere yönelik işlem yasağı ve suç duyurusu kararları ile Fintlix Elektronik Para'nın faaliyet izninin iptali gibi düzenleyici gelişmeler de piyasa gündemindeydi."
     ],
     "ai_generated": true
   }
