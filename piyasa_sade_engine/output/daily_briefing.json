@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-28T11:25:12.780524+00:00",
-  "istanbul_time": "28.11.2026 14:24",
+  "generated_at": "2026-11-28T14:16:06.441881+00:00",
+  "istanbul_time": "28.11.2026 17:15",
   "date": "28.11.2026",
   "active_mode": "evening",
   "disclaimer": "Yatırım tavsiyesi değildir (YTD). Doğrulanmış piyasa verileri ve ekonomi başlıklarından üretilmiştir.",
@@ -76,16 +76,16 @@
     "type": "evening",
     "date": "28.11.2026",
     "ready_at_tr": "18:25",
-    "title": "🌙 Borsa Kapanış Özeti • BIST 100 10977.01 (+%2.18)",
-    "headline": "Borsa İstanbul gün sonu özeti: 403 yükselen, 183 düşen (28.11.2026)",
-    "notification_body": "BIST 100 10977.01 (+%2.18). 625 ana BIST hissesinden 183 tanesi düşüşte, 403 tanesi yükselişte kapattı.",
+    "title": "🌙 Borsa Kapanış Özeti: BIST 100 Yükselişle Kapandı",
+    "headline": "Borsa İstanbul günü yükselişle tamamlarken, gram altın 6 bin TL sınırına dayandı.",
+    "notification_body": "BIST 100 endeksi günü %2.18 artışla kapattı. 403 hisse değer kazanırken, gram altın %2.97 yükselişle 5985 TL seviyesini gördü.",
     "bullets": [
-      "Taranan 625 ana BIST hissesinden 403 tanesi günü yükselişle, 183 tanesi düşüşle tamamladı.",
-      "BIST 100 10977.01 (+%2.18) · Dolar/TL 50.745 (+%0.05) · Gram Altın 5985.12 TL (+%2.97).",
-      "Günün öne çıkan yükselenleri: A1CAP (+%10.00), KGYO (+%10.00), BULGS (+%10.00).",
-      "Satış baskısının yoğunlaştığı hisseler: TRHOL (-%10.00), SOHOE (-%10.00), DSTKF (-%9.99).",
-      "Günün öne çıkan ekonomi başlığı: SPK’dan 26 fon için yeniden işlem kararı."
+      "Borsa İstanbul'da işlem gören 625 hisseden 403'ü değer kazanırken, BIST 100 endeksi günü %2.18 artışla 10977.01 puandan tamamladı.",
+      "Gram altın, ons altındaki yükselişin etkisiyle %2.97 artarak 5985.12 TL seviyesine ulaştı ve 6 bin TL sınırına dayandı.",
+      "Dolar/TL kuru günü yatay bir seyirle %0.05 artışla 50.745 seviyesinden kapattı.",
+      "SPK'nın 26 yatırım fonunun yeniden işlemlere açılması kararı ve 6 şirketin temettü açıklamaları piyasada pozitif bir hava yarattı.",
+      "A1CAP, KGYO ve ASTOR gibi hisseler günü tavan fiyattan kapatarak en çok yükselenler arasında yer aldı."
     ],
-    "ai_generated": false
+    "ai_generated": true
   }
 }

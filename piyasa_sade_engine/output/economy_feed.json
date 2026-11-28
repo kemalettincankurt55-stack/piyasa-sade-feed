@@ -1,90 +1,94 @@
 {
-  "generated_at": "2026-11-28T11:24:58.576030+00:00",
+  "generated_at": "2026-11-28T14:15:48.349416+00:00",
   "disclaimer": "Haber başlıkları orijinal kaynaklara aittir; yatırım tavsiyesi değildir (YTD).",
   "trending_clusters": [
     {
-      "id": "cluster-114b2c31b70e",
-      "headline": "SPK'dan 26 Fona Yeniden İşlem İzni",
+      "id": "cluster-46485c802d92",
+      "headline": "Altın Fiyatlarında Yükseliş Eğilimi: Gram Altın 6 Bin TL Sınırına Yaklaştı",
+      "category": "Altın & Döviz",
+      "is_breaking": true,
+      "source_count": 14,
+      "sources": [
+        {
+          "name": "Sabah",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQN1h0VXhTUnZTWWNZSDVNeW1TY1dvUDJhOHN6MG5DdE90NjZOWHdDQ1VsY0FBWG9ZTTZwTFd4N2JNTmg0UWY0TVAwS0U2d2k0eFNBSWhCME1admdHM3RYcVFOSEVmMmhWdXNfSUtLeFFkVVVqQkNlRXdVVzVRTHpGZ1BnTXVqcDBhc2JBZ3JCc2hHZVVkejE3NjB5VlpPNDhVNjI1dHhES29tUnNZX1RZYms2SG92WEgtajM2Mm04aDFfREpwanJIUDRjdE9pVlI5cVJEbHdjbmVqQdIB3AFBVV95cUxQSFRSUF9uTUE2TlRENEplVWMxbWVaZmpwVkpYRmpQZGZlMi1nLS01cUxnUG5vZDlYUEU4bzVIREQweUxRNzVfUzFuWnJVODA2T2cxNmRRVlY4Sk5hcHRaaTZrU3RFS1otX0ZNYjJ0c3Q3STV0a19lWHA5Yk91UXpDXzlwZW1BdW5udzRZckJ4QTZwZDBxTHZlTldMcTItTEdlVExrYkRLMVA3cktVaDc4YkszQ3dYNXRueDREQ0JINS1tRjdLTGZhZGs1WUpQNXFrMWtXd1h4TnA0a2ZR?oc=5"
+        },
+        {
+          "name": "Uzmanpara",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOT3Q1YVdRYktZdkhTc19ON0EyVHRMcTZuTkhCY0xneVhIMWFFcVhVWHJxUWVMWFJZcDkxMTV1NW9DdHBVNmliT2FHTkdWS2R3Z2t6SWZOekw3bDlsVFFIRDNoRm5ITW9CWlJjaV91YUI2YWhwLXRhUDdBbEJWQng0SVQxNWVQenE0SnRrX25wQzF3MFVpSld1WDFYOFhQWm1mR0NWZG5PZGlucUdYeUJrVkFpbEZlbEM2WjBQOGJwejVNaEw1Y0dmenFnSzBJa2NpamtycE5kNDBqNTdfMTFHcXpFNWo4ZWhVcWdkdUs0aUJUekVBUjdtLWJsSWlJWXpSVjI2OG0zdVpjZkhVZkFfcQ?oc=5"
+        },
+        {
+          "name": "TV5 Haber",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUEdyQWxHb2FkYUVOTTU3aXhjMnQ0WFR2LW0xOHRyd2wwNUlSQ2NQNW1tZGpHbmJhRTdaUmx5YVpVaWVKM21SRjdoRmdyUUgybkZIU2NwSmFiVU1vYnZpbEtsbUUyYXdCTUQ1VVVwclpEWW5XVTRpUEprV1pyeTdocjBMcENfcmo5a0RYQTk4VzJWT0E2dmdJMW5WMzFPS3p3?oc=5"
+        },
+        {
+          "name": "Habertürk",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPRFh1bXo3cnBYZ0hQa3I1VVNNRDA5dk52SEtFLUhQQ0hYeWkxcEQxWWJnQlpKZXJleFJrOW1maGc2SjV0V2xoQmxwT2lQcW5KenpVVk5hOTJLQWdVVENRV1AzbG4wSGtaQnhzTnVZX0RrdG1mcUpBWFFFbG9jNGYyY1dTcjQyTk1LRllvY3czVGZTekRkYzd4RHNqR01MalRWQW12RG8yMlpaX01BRzloNkV3WTdQVEVvcEh4Uk5OR0hRNU0tdDM1Y2l5UUhiSTBHTFdvajFOYXRIZWE2UUk3YmRJcjlJanB3RzhoUGtpMlhjNkdqT0FITk1NQXBKNDhTMWx0YU9tUkxRdm5Hbm90OU1xaWZlUm8?oc=5"
+        }
+      ],
+      "published_at": "2026-11-28T13:55:56+00:00",
+      "bullets": [
+        "Altın fiyatları, daha önceki düşüşün ardından toparlanma göstererek, gram altının 6.000 TL seviyesine yaklaştığı bir yükseliş eğilimi sergiledi.",
+        "Bu durum, piyasalarda değerli metallere yönelik mevcut ilgiyi ve fiyat hareketliliğini yansıtmaktadır."
+      ],
+      "ai_synthesized": true
+    },
+    {
+      "id": "cluster-5b581cf270fc",
+      "headline": "Borsa İstanbul'dan Operasyonel Duyurular: Devre Kesici ve Pazar Değişikliği",
+      "category": "Borsa & KAP",
+      "is_breaking": true,
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Yeni Şafak",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNmg5cEczZW92RTd1bkU0bllmVDl4M09BRVhtazhHbmxiUlZKNEZBWlZ6MC1DM0RCWFFYWjF0SlFXWWRQQ3BMa2NWOC1JbG5NaXJuRXAtY3VyQ2lScWg3WVBhMHZwNEY2WU01RDRHTW96QnNDUkhjR01zWkhBMFMzam1nOWdUZFA3SS1Pb0dvUUZqM1oxWVFNZ1lKeElxbEhQWW1ocU43RzF1Y0FnaUpZOC1LODFlR1RDODJWMUlKUFpuVW1GOHlIUHd0QWRPdlRyQTJIUGFLRlI?oc=5"
+        }
+      ],
+      "published_at": "2026-11-28T12:56:00+00:00",
+      "bullets": [
+        "Borsa İstanbul, BISTECH sistemi kapsamında pay bazında devre kesici uygulamasının devreye girdiğini ve PRZMA hissesinin pazar değişikliğine tabi tutulduğunu Kamuyu Aydınlatma Platformu (KAP) aracılığıyla duyurdu.",
+        "Devre kesici uygulaması, aşırı fiyat hareketlerinde piyasa istikrarını sağlamayı hedeflerken, pazar değişikliği ilgili hissenin işlem koşullarını ve yatırımcı ilgisini etkileyebilir."
+      ],
+      "ai_synthesized": true
+    },
+    {
+      "id": "cluster-49e8bffa40f2",
+      "headline": "SPK, İşleme Kapatılan 26 Fonun Yeniden Açılacağını Duyurdu",
       "category": "Gündem & X",
       "is_breaking": true,
-      "source_count": 2,
+      "source_count": 6,
       "sources": [
+        {
+          "name": "Yeni Şafak",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVnJxeGZrZFZiTE5GWTNacUFFNUk0RHBTLXUtY1dsUXd1SUo4U3lRclY2eURhUUl4V0MwU3J0TVRxdzQ5eVVTaVdLMmFNd1ZpVmxMa3o2aTRrY1kyYzdJa0N6MzNoMWhDV0k5azlTUE9JOXE2N3dyOWR5YUJMbDNYNjBOdWdfdUVoTlJNZGd0dEdQY3ZqWUstYkRqeHlRXzMyeXVvNW84d1RfSmstakkwb1VIQTlQWXM?oc=5"
+        },
         {
           "name": "Odatv",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTUFVLUpueUFZUXRGVHE0dFBfQmFZOXJaWGVWN1BnSkdNZVA1Ujd1ZERKZmlzbm5rWjRDUjFMUXBjU29rREVMN0ZsRjJPc0JnWldZTURVSzBXRUNUY2o1eFphc2ZTcjZ3MUgwZFFSY3JhOURnU3FTUlpIZm5wWEN0ZjNOQWFSdw?oc=5"
         },
         {
-          "name": "Yeni Şafak",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVnJxeGZrZFZiTE5GWTNacUFFNUk0RHBTLXUtY1dsUXd1SUo4U3lRclY2eURhUUl4V0MwU3J0TVRxdzQ5eVVTaVdLMmFNd1ZpVmxMa3o2aTRrY1kyYzdJa0N6MzNoMWhDV0k5azlTUE9JOXE2N3dyOWR5YUJMbDNYNjBOdWdfdUVoTlJNZGd0dEdQY3ZqWUstYkRqeHlRXzMyeXVvNW84d1RfSmstakkwb1VIQTlQWXM?oc=5"
-        }
-      ],
-      "published_at": "2026-11-28T10:22:58+00:00",
-      "bullets": [
-        "Sermaye Piyasası Kurulu (SPK), daha önce işleme kapatılan 26 yatırım fonunun yeniden işleme açılmasına karar verdi.",
-        "Bu karar, ilgili fonlarda likiditeyi ve işlem hacmini artırabilirken, piyasada normalleşme adımı olarak yorumlanabilir."
-      ],
-      "ai_synthesized": true
-    },
-    {
-      "id": "cluster-58a955618cc4",
-      "headline": "Altın Fiyatlarında Güncel Hareketlilik ve Gram Altında Belirgin Seviyeler",
-      "category": "Altın & Döviz",
-      "is_breaking": true,
-      "source_count": 12,
-      "sources": [
-        {
-          "name": "Bölgenin Sesi Gazetesi",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSmZmeE5jSEUzaEVRT2xkakp2NFREMW1PY0VuREY2UjJxbW15YzNLT0RSQUtJZEM2WHExOGVtMEhaeWZzZjRjaUVnZjZPUE1TdnlCWE5UV0loai1JdXN4RUppTmNiT0Q2S29GSzd3YVh1bjY0SHJoY0RWeFpMMk5NOExtN3Q1WHhUd1U0eWcyTG44Nm9NZ291S0ZmNTd0Z0NVTXA3eEFJSnh2U0otVE93?oc=5"
-        },
-        {
-          "name": "Habertürk",
-          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPRFh1bXo3cnBYZ0hQa3I1VVNNRDA5dk52SEtFLUhQQ0hYeWkxcEQxWWJnQlpKZXJleFJrOW1maGc2SjV0V2xoQmxwT2lQcW5KenpVVk5hOTJLQWdVVENRV1AzbG4wSGtaQnhzTnVZX0RrdG1mcUpBWFFFbG9jNGYyY1dTcjQyTk1LRllvY3czVGZTekRkYzd4RHNqR01MalRWQW12RG8yMlpaX01BRzloNkV3WTdQVEVvcEh4Uk5OR0hRNU0tdDM1Y2l5UUhiSTBHTFdvajFOYXRIZWE2UUk3YmRJcjlJanB3RzhoUGtpMlhjNkdqT0FITk1NQXBKNDhTMWx0YU9tUkxRdm5Hbm90OU1xaWZlUm8?oc=5"
-        },
-        {
-          "name": "Muğla Gazetesi",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWUJZdjEwTWhTQWk2X3pfSElWUFdzSE9HNmZYQTBZX2I4Y1I5S1F0OGNjeTIyNUUyRGVVSW9fU2VmY2NjVjI1TWdJM2hRVWZ4SmtrcE0wRnNNVGJRdmNYcnkyN09zZmJkalpUanVIRkktQnpHR3pSaWg0QVQzdEpWeUpFU2pROHFrSTNyYmRZbUFiLTF2MlZ2TktoSzRaUllSQmk5WXNnZlBFOEFmZEtqM3phREg3ZktzWGRSSQ?oc=5"
-        },
-        {
-          "name": "Odakgazetesi",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON3Z0V2puZUZwMGNMS0ZDdFUwLVhFTjIzQ0dNeXd2cmJOZTFTcDN1cHc3UTQwV2RRTWoyd1lrQWdYdU1QdDVQM0owRmpITlJRaHl6QmNfMzRaaldMUDMxYU95YjBPZE16NTFIUXFqN2ZMUUY1endhWk5MdGZfYTBrbW0yZS1ZTHlxZmJB?oc=5"
-        }
-      ],
-      "published_at": "2026-11-28T10:20:59+00:00",
-      "bullets": [
-        "Son dönemde altın fiyatlarında bir toparlanma eğilimi gözlemlenmiş, gram altın değeri 6.000 TL seviyelerine yaklaşmıştır.",
-        "Bu durum, piyasa katılımcılarının altın piyasasındaki güncel fiyat değişimlerini ve farklı altın türlerindeki hareketliliği daha dikkatli izlemesine yol açabilir."
-      ],
-      "ai_synthesized": true
-    },
-    {
-      "id": "cluster-023463ff2e98",
-      "headline": "SPK'dan İşleme Kapatılan Fonlara Yönelik Yeni Düzenleme",
-      "category": "Gündem & X",
-      "is_breaking": false,
-      "source_count": 2,
-      "sources": [
-        {
-          "name": "Elips Haber",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IcjQ1MUZnNENhRzBfeWJXMVdWTGNGc0l3TTFoZ3A0QzRnNHA5a2QxX25VUFFHZC1zeTBGdk82QURhdVdsLUtURGI0RWMzV3BDVjdQOU96eG5wVE9Od3oxUlNaMkJ6UFd2QWtjSEY3bWZMa1NSYjR3QTV2S3NHZw?oc=5"
-        },
-        {
           "name": "İlke TV",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeGVfSmtCdU9pQmRNZXJhakRLNU9SckppNldVODFSQVR1X19oSkdhb2pHSUtKdGdINWVXNmd0U0U5OUhEUWY2Vm41TXRmVzlnZWQ2c1NTTEN0bktKdElzU1hpTjJlb0ZtUUN4NGg2QVpIU0czZU1SVHFxRFpPSmVjdHFjN24?oc=5"
+        },
+        {
+          "name": "Para Analiz",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeWFYSzI1TFp6bmJhcEdBS1pxWXNMc0ZTc2hEX1Y0OGt2OHJCeG1SR1ZxblZGMU1Ubmh3aWFMTW9yTGQyUm55THJMeFNOWWtJbzk1OEhhZHpnUVEzRENFOGJJc2FJZEV0V2xISEV6RXVDTzBmVGw2UG80QTNkbERkaGdDeUd4NThFNVg3bV82OUxpaUItYUFXaG55ekJwY2hQVTgyM0dOMUx2NTlVekZtczZSdw?oc=5"
         }
       ],
-      "published_at": "2026-11-28T09:28:00+00:00",
+      "published_at": "2026-11-28T12:52:49+00:00",
       "bullets": [
-        "Sermaye Piyasası Kurulu (SPK), daha önce işleme kapatılan 26 yatırım fonu hakkında yeni bir karar yayımladı.",
-        "Bu düzenleme, ilgili fonların statüsüne ilişkin belirsizliği gidererek piyasada şeffaflığı artırmayı hedeflemektedir."
+        "Sermaye Piyasası Kurulu (SPK), daha önce işleme kapatılan 26 yatırım fonunun 30 Kasım tarihinde yeniden işleme açılmasına karar verdi.",
+        "Bu karar, ilgili fonlarda işlem yapmak isteyen yatırımcılar için işlem imkanlarını genişleterek piyasada likiditeyi artırabilir."
       ],
       "ai_synthesized": true
     },
     {
       "id": "cluster-8220a69ca807",
-      "headline": "TCMB'den Elektronik Para Kuruluşu Fintlix'e Faaliyet İzni İptali",
+      "headline": "TCMB'den Fintlix'e Faaliyet İzni İptali",
       "category": "Makro & TCMB",
       "is_breaking": false,
-      "source_count": 4,
+      "source_count": 5,
       "sources": [
         {
           "name": "CNN Türk",
@@ -99,42 +103,116 @@
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYjFiSVZpSDdfNGN6Uk5aWWcwU2VnZ20zVHFKLTZDdG5CMFBNOVRnX2MwbGVhV3ZQNWtKdElmOVNLa19aaDBieGF3Z0o5eUtnMlM3VE9NOFlyX3JLZnJCS3ZHWXM1cE1BTG9rdXF2YU80N3NuTnRXaGZ0M2l2VnBaM3JBdF83Zl93bm45RFd1WEtFNWE4SGlrV2FlRQ?oc=5"
         },
         {
-          "name": "Canlı Gaste",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM2VIQjYyMXR5dXRoejJPcjM1YVRtcU43MW55a3FzNS15TnkyajFfdS03S3dSQTJjTDVzNHpaMFVuOG5sa0w4NlEtQmZlbkFIYU1EMlVXOVlNYm1PRVJJU1Jnc0wtcnEwZHNxRzAxZVFpS05TOTl3eWxNeVJGWEFvdWZBNDdUNWRteUZUQXI5ZmhGTzlkYUN1Ql93?oc=5"
+          "name": "Foreks.com",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcDN4OHEyRVhGU05YVzFKV3FTVm5qb21TZ29IRzVFUjVGVEFvYUpPY2M4Q2dlVzFtWHY3RG1WX3lRZGwxWmNLQlBsRER4U1Zkb2xIMFBHTDRQLUpsUm9tTEl1UmRnRkh2TmxjQTR5VTlGOUtWNm5TU19mbHJJd1EwNDV5N0FJaU5Ham1ybFlSNHd0alEwOFVGVnBqVDNFbjdYNWNBb04xTTEzY0VUaGNBb3F0dWhodHB6VjN3eE51YkRPQkIzU3YzVGdSQkdFWUNGTVRndXUzaw?oc=5"
         }
       ],
       "published_at": "2026-11-28T09:16:35+00:00",
       "bullets": [
-        "Türkiye Cumhuriyet Merkez Bankası (TCMB), elektronik para kuruluşu Fintlix'in faaliyet iznini iptal etti.",
-        "Bu karar, elektronik para sektöründeki düzenleyici denetimin önemini ve sektördeki şirketlerin uyum yükümlülüklerini vurgulamaktadır."
+        "Türkiye Cumhuriyet Merkez Bankası (TCMB), Fintlix Elektronik Para şirketinin faaliyet iznini iptal etti.",
+        "Bu karar, elektronik para sektöründeki düzenleyici denetimin sıkılaştığına işaret ederek, sektördeki diğer oyuncular için uyum süreçlerinin önemini vurgulayabilir."
       ],
       "ai_synthesized": true
     },
     {
-      "id": "cluster-ea466482ce41",
-      "headline": "SPK'dan 26 Yatırım Fonu İçin İşlem Kararı",
-      "category": "Gündem & X",
+      "id": "cluster-31fb5acbf600",
+      "headline": "Küresel Piyasalarda Toparlanma ve Yerel Dinamikler",
+      "category": "Küresel",
       "is_breaking": false,
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
         {
-          "name": "Medyaradar",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWTJfSnlKUUtSRXJTYVZSNC1nM21WWUlSZHR3cHg1OVBxRTR6V2U2dUZnMTNqYk82WWVJa0YwdTJmTjRoMnh6YmZFdU5oZ0tSRFRKYVlQUlRPNVF5R0lDZVQ5QXJWSEQ2Y1hBeDRHb19pQW5CWjVaV3lPUVJHamdWN19xWjNHNXBBYnF0cW9rcVNaMDl0aV9KTE5iZ1BIQmtKeENoMFlvcXdQZw?oc=5"
+          "name": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFBEUktMU1pWdzZhd2dxd245bTdYMHN6dEdfYTh2eXR4b1EyNFdGYzE3S3hFTmJTRTVqdkVCLWpoRDdSaHNTNVA0N1FDLUJpQnJ4ZllQcEpLeExJbGRHaEc5VzdIMDNoYVp1WkVnOW82MUtlQjlOMjdSNmtiY3YtZURWUmstT2dMQUlQelJWVlU0SGdaNUpLbW5WVHctaVJOWXB5Z2hFYll0a1huMGxHLVdvYW53QlpvbE5QQw?oc=5"
         },
         {
           "name": "Para Analiz",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWm81SG9QS2QzMkZqamk2a2NXalBYWndUaXQyU19JV0FEdnlzQ2VNMlVlQ0JSZWt1OWdta3JjVnctUFVEbjhvRlBtdTJzdGFaa2pGZnd6dUxqcVlXOG1YRFU4ckE4X3lENDUzZkp1c3JFUzdNSGZ4TUNacjNvZklSMVNiQ0s5VXNVUExSRDZPM2xiSHpvcFM3ZGVnb3M2Wnl3NXNiVy10aXFmSmJJUUpKTWd3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN2g1SFZPeERCTHd3V1ZWSURQXzRYeU5RbXBjZk9vUVNQQVZoVGIyY1ZPOElQQlh3emdEOWo0Rm0yTnJjTmxJejRPLUhoN1V0NnFwbkpUSzlHOWFfMlJrXzc5MzdyX3c0alFEQ3owTVdaSloxUEFOZU92Y1loZWxKV1FxVGJHYmlfdklVMUp0RmRnSWZQNF9DOWQ2dVd3SmNzRDV3SVZCRWVFeXY4a1VjemtNUXFpQQ?oc=5"
+        },
+        {
+          "name": "Finans Hattı",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT2pNX1JjZWVyQUtTWHB5a0RNak9wZmxLRHp0ZTdGOXJVTUtFMEQ3Y3RqVVc4NlhOemhjXzZOUjJ0TWFyTy1hM0hFOVhOZ2xMWEdwWnR5LTRDWmx3dnNxUGYtT01vNTNKUk92OTdRam1URFd6ZlhNaXVWX25lTEItWlg2QXdtZkE1akZBT3hSWQ?oc=5"
         }
       ],
-      "published_at": "2026-11-28T08:13:00+00:00",
+      "published_at": "2026-11-28T06:03:35+00:00",
       "bullets": [
-        "Sermaye Piyasası Kurulu (SPK), daha önce soruşturma konusu olan 26 yatırım fonunun 30 Kasım tarihinde yeniden işleme açılmasına karar verdi.",
-        "Bu karar, ilgili fonlarda işlem kısıtlamasının kalkmasıyla birlikte piyasada belirsizliğin azalmasına ve likiditenin artmasına katkı sağlayabilir."
+        "Küresel piyasalar güçlü bir toparlanma göstererek Dow Jones'un 2022'den bu yana en iyi haftasını tamamlamasına neden olurken, altın fiyatları istikrarlı seyrini korudu; ancak BIST 100'de bazı hisseler değer kaybetti.",
+        "Küresel toparlanma genel piyasa iyimserliğini artırabilir ve farklı varlık sınıflarını etkileyebilirken, yerel piyasadaki dalgalanmalar sektörel veya şirkete özgü faktörleri yansıtabilir."
       ],
       "ai_synthesized": true
     }
   ],
   "articles": [
+    {
+      "id": "46485c802d92",
+      "title": "SON DAKİKA | Altın fiyatlarında yükseliş! Gram altın 6 bin TL sınırına dayandı: İşte güncel fiyatlar...",
+      "source": "Sabah",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQN1h0VXhTUnZTWWNZSDVNeW1TY1dvUDJhOHN6MG5DdE90NjZOWHdDQ1VsY0FBWG9ZTTZwTFd4N2JNTmg0UWY0TVAwS0U2d2k0eFNBSWhCME1admdHM3RYcVFOSEVmMmhWdXNfSUtLeFFkVVVqQkNlRXdVVzVRTHpGZ1BnTXVqcDBhc2JBZ3JCc2hHZVVkejE3NjB5VlpPNDhVNjI1dHhES29tUnNZX1RZYms2SG92WEgtajM2Mm04aDFfREpwanJIUDRjdE9pVlI5cVJEbHdjbmVqQdIB3AFBVV95cUxQSFRSUF9uTUE2TlRENEplVWMxbWVaZmpwVkpYRmpQZGZlMi1nLS01cUxnUG5vZDlYUEU4bzVIREQweUxRNzVfUzFuWnJVODA2T2cxNmRRVlY4Sk5hcHRaaTZrU3RFS1otX0ZNYjJ0c3Q3STV0a19lWHA5Yk91UXpDXzlwZW1BdW5udzRZckJ4QTZwZDBxTHZlTldMcTItTEdlVExrYkRLMVA3cktVaDc4YkszQ3dYNXRueDREQ0JINS1tRjdLTGZhZGs1WUpQNXFrMWtXd1h4TnA0a2ZR?oc=5",
+      "category": "Altın & Döviz",
+      "published_at": "2026-11-28T13:55:56+00:00",
+      "is_breaking": true,
+      "ai_summary": "Altın fiyatlarında son dönemde bir artış yaşanmış olup, gram altın 6 bin TL seviyesine yaklaşmıştır. Bu durum, altın piyasasında genel bir hareketliliğe ve yatırımcı ilgisinde artışa işaret edebilir."
+    },
+    {
+      "id": "e2e20462e12c",
+      "title": "ALTIN FİYATLARI CANLI SON DAKİKA: 28 Kasım 2026 anlık gram altın ne kadar, yarım, tam, çeyrek altın fiyatları kaç TL?",
+      "source": "Uzmanpara",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOT3Q1YVdRYktZdkhTc19ON0EyVHRMcTZuTkhCY0xneVhIMWFFcVhVWHJxUWVMWFJZcDkxMTV1NW9DdHBVNmliT2FHTkdWS2R3Z2t6SWZOekw3bDlsVFFIRDNoRm5ITW9CWlJjaV91YUI2YWhwLXRhUDdBbEJWQng0SVQxNWVQenE0SnRrX25wQzF3MFVpSld1WDFYOFhQWm1mR0NWZG5PZGlucUdYeUJrVkFpbEZlbEM2WjBQOGJwejVNaEw1Y0dmenFnSzBJa2NpamtycE5kNDBqNTdfMTFHcXpFNWo4ZWhVcWdkdUs0aUJUekVBUjdtLWJsSWlJWXpSVjI2OG0zdVpjZkhVZkFfcQ?oc=5",
+      "category": "Altın & Döviz",
+      "published_at": "2026-11-28T12:59:29+00:00",
+      "is_breaking": true,
+      "ai_summary": "Altın fiyatlarında gram, yarım, tam ve çeyrek altın özelinde anlık alış-satış değerleri grafiklerle takip edildi. Bu bilgiler, altın piyasasında anlık fiyat hareketliliğini takip eden yatırımcılar için bilgi niteliği taşımaktadır."
+    },
+    {
+      "id": "5b581cf270fc",
+      "title": "KAP *** BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI *** Pay Bazında Devre Kesici Bildirimi",
+      "source": "Yeni Şafak",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNmg5cEczZW92RTd1bkU0bllmVDl4M09BRVhtazhHbmxiUlZKNEZBWlZ6MC1DM0RCWFFYWjF0SlFXWWRQQ3BMa2NWOC1JbG5NaXJuRXAtY3VyQ2lScWg3WVBhMHZwNEY2WU01RDRHTW96QnNDUkhjR01zWkhBMFMzam1nOWdUZFA3SS1Pb0dvUUZqM1oxWVFNZ1lKeElxbEhQWW1ocU43RzF1Y0FnaUpZOC1LODFlR1RDODJWMUlKUFpuVW1GOHlIUHd0QWRPdlRyQTJIUGFLRlI?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-28T12:56:00+00:00",
+      "is_breaking": true,
+      "ai_summary": "Borsa İstanbul'da BISTECH devre kesici uygulaması kapsamında pay bazında bir devre kesici bildirimi yapılmıştır. Bu tür bildirimler, ilgili payda aşırı oynaklığı sınırlayarak piyasa istikrarına katkıda bulunmayı hedefler."
+    },
+    {
+      "id": "49e8bffa40f2",
+      "title": "SPK'dan kritik fon kararı: İşleme kapatılan 26 yatırım fonu yeniden açılıyor",
+      "source": "Yeni Şafak",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVnJxeGZrZFZiTE5GWTNacUFFNUk0RHBTLXUtY1dsUXd1SUo4U3lRclY2eURhUUl4V0MwU3J0TVRxdzQ5eVVTaVdLMmFNd1ZpVmxMa3o2aTRrY1kyYzdJa0N6MzNoMWhDV0k5azlTUE9JOXE2N3dyOWR5YUJMbDNYNjBOdWdfdUVoTlJNZGd0dEdQY3ZqWUstYkRqeHlRXzMyeXVvNW84d1RfSmstakkwb1VIQTlQWXM?oc=5",
+      "category": "Gündem & X",
+      "published_at": "2026-11-28T12:52:49+00:00",
+      "is_breaking": true,
+      "ai_summary": "Sermaye Piyasası Kurulu (SPK), işleme kapatılan 26 yatırım fonunun yeniden açılması yönünde kritik bir karar aldı. Bu gelişme, fon piyasasında belirsizliği azaltarak yatırımcı güvenini etkileyebilir ve ilgili fonlara yönelik ilgiyi artırabilir."
+    },
+    {
+      "id": "e5ac14da03fd",
+      "title": "Altın fiyatlarında yükseliş: Bugün gram ve çeyrek altın ne kadar?",
+      "source": "TV5 Haber",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUEdyQWxHb2FkYUVOTTU3aXhjMnQ0WFR2LW0xOHRyd2wwNUlSQ2NQNW1tZGpHbmJhRTdaUmx5YVpVaWVKM21SRjdoRmdyUUgybkZIU2NwSmFiVU1vYnZpbEtsbUUyYXdCTUQ1VVVwclpEWW5XVTRpUEprV1pyeTdocjBMcENfcmo5a0RYQTk4VzJWT0E2dmdJMW5WMzFPS3p3?oc=5",
+      "category": "Altın & Döviz",
+      "published_at": "2026-11-28T12:19:00+00:00",
+      "is_breaking": false,
+      "ai_summary": "Altın fiyatlarında genel bir yükseliş eğilimi gözlenmekte olup, gram ve çeyrek altın güncel değerleri merak edilmektedir. Bu durum, altın piyasasında devam eden yukarı yönlü hareketin bir göstergesi olarak yorumlanabilir."
+    },
+    {
+      "id": "beaddf49846e",
+      "title": "Piyasalarda dev ralli ve faiz bilmecesi: Gözler ABD'ye çevrildi",
+      "source": "Sözcü Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTnFpWHFUZlpmdDJXMnBrWm41MF9xSEx4T0laQWNadzBzUE90eVNxclNNM01FUllUZExPQVFPc3daU3JKWDBPRTBacWFDYVdEb1R3aUluMTJ3UF9PMFRac0dNZ0QtQlJ2T1k1UFBwZ2xHQlBfWEh1UllPZWZRb3N6N2N4M2I0WmU4U09JdGhOeDdFUGt4bEw0THpzcw?oc=5",
+      "category": "Küresel",
+      "published_at": "2026-11-28T11:46:30+00:00",
+      "is_breaking": false,
+      "ai_summary": "Küresel piyasalarda önemli bir yükseliş yaşanırken, faiz oranlarına ilişkin belirsizlikler devam etmektedir. Bu süreçte, özellikle ABD'den gelecek faiz kararları ve ekonomik veriler piyasaların yönünü belirlemede kritik rol oynayabilir."
+    },
+    {
+      "id": "805bd67a1fc1",
+      "title": "ALTIN SERT DÜŞÜŞ SONRASI YÜKSELDİ! Gram altın 6 bin TL sınırına dayandı: 28 Kasım 2026 Cumhuriyet altını, tam, yarım, çeyrek ve gram altın fiyatları",
+      "source": "Habertürk",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPRFh1bXo3cnBYZ0hQa3I1VVNNRDA5dk52SEtFLUhQQ0hYeWkxcEQxWWJnQlpKZXJleFJrOW1maGc2SjV0V2xoQmxwT2lQcW5KenpVVk5hOTJLQWdVVENRV1AzbG4wSGtaQnhzTnVZX0RrdG1mcUpBWFFFbG9jNGYyY1dTcjQyTk1LRllvY3czVGZTekRkYzd4RHNqR01MalRWQW12RG8yMlpaX01BRzloNkV3WTdQVEVvcEh4Uk5OR0hRNU0tdDM1Y2l5UUhiSTBHTFdvajFOYXRIZWE2UUk3YmRJcjlJanB3RzhoUGtpMlhjNkdqT0FITk1NQXBKNDhTMWx0YU9tUkxRdm5Hbm90OU1xaWZlUm8?oc=5",
+      "category": "Altın & Döviz",
+      "published_at": "2026-11-28T11:41:23+00:00",
+      "is_breaking": true,
+      "ai_summary": "Altın fiyatları, sert bir düşüşün ardından yükseliş eğilimi göstererek gram altının belirli bir seviyeye yaklaştığını belirtti. Bu durum, piyasada altın fiyatlarına yönelik genel bir ilgi ve beklenti yaratabilir."
+    },
     {
       "id": "114b2c31b70e",
       "title": "SPK’dan 26 fon için yeniden işlem kararı",
@@ -154,16 +232,6 @@
       "published_at": "2026-11-28T10:20:59+00:00",
       "is_breaking": false,
       "ai_summary": "Altın fiyatları, hafta sonunda genel bir toparlanma eğilimi göstererek gram altının belirli bir seviyeye yaklaştığını işaret etti. Küresel ve yerel ekonomik gelişmelerin etkisiyle altın piyasasında kısa vadeli hareketlilik gözlemlenebilir."
-    },
-    {
-      "id": "805bd67a1fc1",
-      "title": "ALTIN SERT DÜŞÜŞ SONRASI YÜKSELDİ! Gram altın 6 bin TL sınırına dayandı: 28 Kasım 2026 Cumhuriyet altını, tam, yarım, çeyrek ve gram altın fiyatları",
-      "source": "Habertürk",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPRFh1bXo3cnBYZ0hQa3I1VVNNRDA5dk52SEtFLUhQQ0hYeWkxcEQxWWJnQlpKZXJleFJrOW1maGc2SjV0V2xoQmxwT2lQcW5KenpVVk5hOTJLQWdVVENRV1AzbG4wSGtaQnhzTnVZX0RrdG1mcUpBWFFFbG9jNGYyY1dTcjQyTk1LRllvY3czVGZTekRkYzd4RHNqR01MalRWQW12RG8yMlpaX01BRzloNkV3WTdQVEVvcEh4Uk5OR0hRNU0tdDM1Y2l5UUhiSTBHTFdvajFOYXRIZWE2UUk3YmRJcjlJanB3RzhoUGtpMlhjNkdqT0FITk1NQXBKNDhTMWx0YU9tUkxRdm5Hbm90OU1xaWZlUm8?oc=5",
-      "category": "Altın & Döviz",
-      "published_at": "2026-11-28T09:34:39+00:00",
-      "is_breaking": true,
-      "ai_summary": "Altın fiyatları, sert bir düşüşün ardından yükseliş eğilimi göstererek gram altının belirli bir seviyeye yaklaştığını belirtti. Bu durum, piyasada altın fiyatlarına yönelik genel bir ilgi ve beklenti yaratabilir."
     },
     {
       "id": "023463ff2e98",
@@ -206,15 +274,6 @@
       "ai_summary": "Sermaye Piyasası Kurulu (SPK), daha önce işleme kapatılan 26 yatırım fonu için yeni bir karar aldı. Bu karar, ilgili fonların piyasada tekrar işlem görmesini sağlayarak fon piyasasında belirsizliği azaltabilir ve yatırımcı ilgisini etkileyebilir."
     },
     {
-      "id": "359abf2f8be3",
-      "title": "Piyasalar ABD istihdam raporuna odaklandı",
-      "source": "Sabah",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSlFyVzZwZlduaGlja1d6Nmh2RFRselpuWjF2T3ZCTUVGZWYtU2d0bzd5QWJueUNacDlmUVNWV3U1RUZIWGIzXzdaTzBYYjVtYmRnTlBjR19MZWJQS1NwRlhTVlJyY3ZuT2JRUzVQMzhFN254V2hsNzlwUThXdG5DUm54VFdyeHJBY0hubmlyTU1ZbUdBc0HSAZYBQVVfeXFMT0pRclc2cGZXbmhpY2tXejZodkRUbHpabloxdk92Qk1FRmVmLVNndG83eUFibnlDWnA5ZlFTVld1NUVGSFhiM183Wk8wWGI1bWJkZ05QY0dfTGViUEtTcEZYU1ZScmN2bk9iUVM1UDM4RTdueFdobDc5cFE4V3RuQ1JueFRXcnhyQWNIbm5pck1NWW1HQXNB?oc=5",
-      "category": "Küresel",
-      "published_at": "2026-11-28T08:47:47+00:00",
-      "is_breaking": false
-    },
-    {
       "id": "7afab7e2a789",
       "title": "Elektronik para sektöründe yeni karar: TCMB’den Fintlix’e lisans iptali",
       "source": "Paratic Haber",
@@ -223,16 +282,6 @@
       "published_at": "2026-11-28T08:45:14+00:00",
       "is_breaking": false,
       "ai_summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), elektronik para sektöründe faaliyet gösteren Fintlix'in lisansını iptal ettiğini açıkladı. Bu karar, finansal teknoloji sektöründeki düzenleyici denetimlerin önemini vurgulayarak sektördeki diğer oyuncular üzerinde dolaylı bir etki yaratabilir."
-    },
-    {
-      "id": "b26ba426e4a0",
-      "title": "Altın yeniden yükselişe geçti! Gram altın ne kadar oldu?",
-      "source": "Odakgazetesi",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON3Z0V2puZUZwMGNMS0ZDdFUwLVhFTjIzQ0dNeXd2cmJOZTFTcDN1cHc3UTQwV2RRTWoyd1lrQWdYdU1QdDVQM0owRmpITlJRaHl6QmNfMzRaaldMUDMxYU95YjBPZE16NTFIUXFqN2ZMUUY1endhWk5MdGZfYTBrbW0yZS1ZTHlxZmJB?oc=5",
-      "category": "Altın & Döviz",
-      "published_at": "2026-11-28T08:35:00+00:00",
-      "is_breaking": false,
-      "ai_summary": "Altın fiyatları yeniden yükseliş eğilimine girerek gram altının güncel değerini artırdı. Bu durum, küresel ve yerel ekonomik gelişmelerin etkisiyle altın piyasasında kısa vadeli hareketlilik gözlemlenebilir."
     },
     {
       "id": "88f164ce56b4",
@@ -265,14 +314,14 @@
       "ai_summary": "LYDYE, CEMAS, VKING ve TKNSA olmak üzere dört şirket sermaye artırımı kararı aldığını açıkladı. Bu kararlar, ilgili şirketlerin finansal yapılarını güçlendirme potansiyeli taşıyarak hisse senetleri üzerinde yatırımcı ilgisini çekebilir."
     },
     {
-      "id": "3b656016614f",
+      "id": "1352657fada5",
       "title": "SPK’dan 26 Yatırım Fonu İçin Kritik Karar: 30 Kasım’da Yeniden İşleme Açılıyor",
       "source": "Para Analiz",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWm81SG9QS2QzMkZqamk2a2NXalBYWndUaXQyU19JV0FEdnlzQ2VNMlVlQ0JSZWt1OWdta3JjVnctUFVEbjhvRlBtdTJzdGFaa2pGZnd6dUxqcVlXOG1YRFU4ckE4X3lENDUzZkp1c3JFUzdNSGZ4TUNacjNvZklSMVNiQ0s5VXNVUExSRDZPM2xiSHpvcFM3ZGVnb3M2Wnl3NXNiVy10aXFmSmJJUUpKTWd3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeWFYSzI1TFp6bmJhcEdBS1pxWXNMc0ZTc2hEX1Y0OGt2OHJCeG1SR1ZxblZGMU1Ubmh3aWFMTW9yTGQyUm55THJMeFNOWWtJbzk1OEhhZHpnUVEzRENFOGJJc2FJZEV0V2xISEV6RXVDTzBmVGw2UG80QTNkbERkaGdDeUd4NThFNVg3bV82OUxpaUItYUFXaG55ekJwY2hQVTgyM0dOMUx2NTlVekZtczZSdw?oc=5",
       "category": "Gündem & X",
       "published_at": "2026-11-28T07:38:25+00:00",
       "is_breaking": false,
-      "ai_summary": "Sermaye Piyasası Kurulu (SPK), 26 yatırım fonu için kritik bir karar alarak bu fonların 30 Kasım'da yeniden işleme açılacağını duyurdu. Bu gelişme, fon piyasasında belirsizliği azaltarak yatırımcı güvenini etkileyebilir ve ilgili fonlara yönelik ilgiyi artırabilir."
+      "ai_summary": "Sermaye Piyasası Kurulu (SPK), 26 yatırım fonunun 30 Kasım tarihinde yeniden işleme açılmasına yönelik önemli bir karar almıştır. Bu karar, ilgili fonların piyasada tekrar işlem görmeye başlamasıyla yatırımcılar için yeni fırsatlar sunabilir ve fon piyasasında hareketlilik yaratabilir."
     },
     {
       "id": "c61dc8825dc7",
@@ -283,16 +332,6 @@
       "published_at": "2026-11-28T07:33:00+00:00",
       "is_breaking": false,
       "ai_summary": "Hafta sonu altın fiyatları, gram, çeyrek, cumhuriyet ve ONS altın özelinde güncel değerleri yansıttı. Bu bilgiler, altın piyasasında anlık fiyat hareketliliğini takip eden yatırımcılar için bilgi niteliği taşımaktadır."
-    },
-    {
-      "id": "e2e20462e12c",
-      "title": "ALTIN FİYATLARI CANLI ALIŞ-SATIŞ GRAFİĞİ: 28 Kasım 2026 anlık gram altın ne kadar, yarım, tam, çeyrek altın fiyatları kaç TL?",
-      "source": "Uzmanpara",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOT3Q1YVdRYktZdkhTc19ON0EyVHRMcTZuTkhCY0xneVhIMWFFcVhVWHJxUWVMWFJZcDkxMTV1NW9DdHBVNmliT2FHTkdWS2R3Z2t6SWZOekw3bDlsVFFIRDNoRm5ITW9CWlJjaV91YUI2YWhwLXRhUDdBbEJWQng0SVQxNWVQenE0SnRrX25wQzF3MFVpSld1WDFYOFhQWm1mR0NWZG5PZGlucUdYeUJrVkFpbEZlbEM2WjBQOGJwejVNaEw1Y0dmenFnSzBJa2NpamtycE5kNDBqNTdfMTFHcXpFNWo4ZWhVcWdkdUs0aUJUekVBUjdtLWJsSWlJWXpSVjI2OG0zdVpjZkhVZkFfcQ?oc=5",
-      "category": "Altın & Döviz",
-      "published_at": "2026-11-28T07:25:32+00:00",
-      "is_breaking": false,
-      "ai_summary": "Altın fiyatlarında gram, yarım, tam ve çeyrek altın özelinde anlık alış-satış değerleri grafiklerle takip edildi. Bu bilgiler, altın piyasasında anlık fiyat hareketliliğini takip eden yatırımcılar için bilgi niteliği taşımaktadır."
     },
     {
       "id": "1778dce3fcf0",
@@ -313,16 +352,6 @@
       "published_at": "2026-11-28T06:59:09+00:00",
       "is_breaking": false,
       "ai_summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), bir elektronik para şirketinin faaliyet iznini iptal ettiğini duyurdu. Bu karar, finansal teknoloji sektöründeki düzenleyici denetimlerin önemini vurgulayarak sektördeki diğer oyuncular üzerinde dolaylı bir etki yaratabilir."
-    },
-    {
-      "id": "49e8bffa40f2",
-      "title": "SPK'dan kritik fon kararı: İşleme kapatılan 26 yatırım fonu yeniden açılıyor",
-      "source": "Yeni Şafak",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVnJxeGZrZFZiTE5GWTNacUFFNUk0RHBTLXUtY1dsUXd1SUo4U3lRclY2eURhUUl4V0MwU3J0TVRxdzQ5eVVTaVdLMmFNd1ZpVmxMa3o2aTRrY1kyYzdJa0N6MzNoMWhDV0k5azlTUE9JOXE2N3dyOWR5YUJMbDNYNjBOdWdfdUVoTlJNZGd0dEdQY3ZqWUstYkRqeHlRXzMyeXVvNW84d1RfSmstakkwb1VIQTlQWXM?oc=5",
-      "category": "Gündem & X",
-      "published_at": "2026-11-28T06:58:15+00:00",
-      "is_breaking": true,
-      "ai_summary": "Sermaye Piyasası Kurulu (SPK), işleme kapatılan 26 yatırım fonunun yeniden açılması yönünde kritik bir karar aldı. Bu gelişme, fon piyasasında belirsizliği azaltarak yatırımcı güvenini etkileyebilir ve ilgili fonlara yönelik ilgiyi artırabilir."
     },
     {
       "id": "f05835f930bc",
@@ -365,24 +394,14 @@
       "ai_summary": "Samsun'da altın fiyatları, 28 Kasım itibarıyla güncel değerleri yansıttı. Bu bilgiler, altın piyasasında anlık fiyat hareketliliğini takip eden yatırımcılar için bilgi niteliği taşımaktadır."
     },
     {
-      "id": "d842124b7e98",
-      "title": "Gram altın ne kadar? Sabah fiyatı (28.11.2026)",
-      "source": "Canlı Gaste",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRjVURU56bUZ6b052RDR3T09HYlZuZ2tJdEdDSlg3S2FvQnNXT2REeWk5aXNweDNnY25nYlV1V0F6VWJ2Q2JBOXZsTHhWejBUZW5qUmg2alpmdWNtRElmdXA1VEVHYXFNYnhrVTJSbTRjT3RUN09BdlNTNkpibnNMV19jZXc?oc=5",
-      "category": "Altın & Döviz",
-      "published_at": "2026-11-28T06:10:01+00:00",
+      "id": "31fb5acbf600",
+      "title": "Altın fiyatları bugün, 28 Kasım 2026: Küresel piyasa güçlü bir şekilde toparlanıyor, SJC altın külçeleri ons başına 136 milyon VND seviyesinde sabit kalıyor.",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFBEUktMU1pWdzZhd2dxd245bTdYMHN6dEdfYTh2eXR4b1EyNFdGYzE3S3hFTmJTRTVqdkVCLWpoRDdSaHNTNVA0N1FDLUJpQnJ4ZllQcEpLeExJbGRHaEc5VzdIMDNoYVp1WkVnOW82MUtlQjlOMjdSNmtiY3YtZURWUmstT2dMQUlQelJWVlU0SGdaNUpLbW5WVHctaVJOWXB5Z2hFYll0a1huMGxHLVdvYW53QlpvbE5QQw?oc=5",
+      "category": "Küresel",
+      "published_at": "2026-11-28T06:03:35+00:00",
       "is_breaking": false,
-      "ai_summary": "Gram altın fiyatı, 28 Kasım sabahı itibarıyla güncel değerini gösterdi. Bu bilgiler, altın piyasasında anlık fiyat hareketliliğini takip eden yatırımcılar için bilgi niteliği taşımaktadır."
-    },
-    {
-      "id": "1c1fdeed4e23",
-      "title": "SPK'dan 5 hisseye 2 yıl işlem yasağı: Tera grubuna da yasak geldi",
-      "source": "Gazete Pencere",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaEtpS3hMUnQ5a25ORXlEdUhhTjY5a01xRlRmSjRHVUpXUkRoLU1HT2xqc0JpS3dibWdqWlZJSUZUbGdJeFhDV3VrOXBpOWF5RXh1OFZubFU0R3Q5Qml2MFBFNXBrQmpqenJiRUhmdnNMcWhndTJJR29EdjhkWW5NOXJGNmluMjNrOGNIaWpJMURnTWxIQXltSlpmeWJ0ZDFaanV5djVpbGVmOHc1TGkzaldYRWZhRzlkNm1ZTTF2Rk5sTkU?oc=5",
-      "category": "Gündem & X",
-      "published_at": "2026-11-28T06:03:00+00:00",
-      "is_breaking": true,
-      "ai_summary": "Sermaye Piyasası Kurulu (SPK), beş hisse senedine iki yıl süreyle işlem yasağı getirdiğini duyurdu; bu yasaklardan biri de Tera grubuna ait hisseleri kapsıyor. Bu tür düzenleyici kararlar, ilgili hisselerde işlem hacmini ve yatırımcı ilgisini etkileyebilirken, piyasada şeffaflık ve güveni artırma amacı taşır."
+      "ai_summary": "28 Kasım 2026 tarihinde küresel altın piyasasında güçlü bir toparlanma gözlemlenirken, Vietnam'daki SJC altın külçeleri ons başına 136 milyon VND seviyesinde sabit kalmıştır. Küresel toparlanma altın fiyatları üzerinde yukarı yönlü bir baskı oluşturabilirken, yerel piyasadaki sabitlik bölgesel dinamiklerin farklı seyredebileceğini göstermektedir."
     },
     {
       "id": "c7a3315e8bc5",
@@ -391,7 +410,8 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd29aM09KV1hDYTJ5anY3Z3ZGNTVZc2lCZG9kT0xhRlYzaXBmQTB3UTVCXzdqQS01Q2RtRDdEblFaUjJKdTZPNWc1c1RSbDNCQUI1TW94d1cwa0ItRzVnSzN1Y2VPZUllSHItUUIwSGdSZl91TE5fcEpFZlNzRjJ4RFZIRS1vUkk2eHR3bGtTUGdxZTg4OXhHdEdtODZmTnJkLXBJRG1WY3JKNzVCSWZHR0dxQVJWbUhhS044bk50c0dEM1VaQUJmSzQ0cFJGUE1BbUQ0dQ?oc=5",
       "category": "Altın & Döviz",
       "published_at": "2026-11-28T04:23:00+00:00",
-      "is_breaking": false
+      "is_breaking": false,
+      "ai_summary": "28 Kasım 2026 tarihi itibarıyla altın piyasasında güncel durum ve gram ile çeyrek altın fiyatları merak konusu olmuştur. Altın fiyatlarındaki anlık değişimler, yatırımcıların piyasa hareketlerini yakından takip etmesine neden olabilir."
     },
     {
       "id": "321d77d0835c",
@@ -400,7 +420,18 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNlRoWXllUVBua3FkS1NncjE4UTg3Q3hRc1ZMNlZXNTV2MlNLVWFSRzBFVHNfTXo0TDM3eVdoWjc2ZFhIQlRZMTQxbHNTWms3WFp2OVUzTGpOeHlFOW14MHZ6Znk4TXJNNHotWjBvU2h3ZHNyNEtNQldLNkhEN0l0NUdqZWpHVkRDRTU5VC1yZ3dmQWpfS2RDMzlTcmo4czVhNGE0b3FMcWVNcWZWam9NWDlWeEFjNllVeWdmLUo3SlI3eWZ6U08xTlg1YThsbTFHME9KVkdHVGZDOUtsakF1SnVKUDZ6dXl4dFJF?oc=5",
       "category": "Altın & Döviz",
       "published_at": "2026-11-28T04:07:00+00:00",
-      "is_breaking": false
+      "is_breaking": false,
+      "ai_summary": "28 Kasım 2026 güncel altın satış fiyatları kapsamında çeyrek, gram ve yarım altın değerleri araştırılmaktadır. Altın fiyatlarındaki günlük değişimler, hem bireysel yatırımcılar hem de kuyumculuk sektörü için önemli göstergeler sunar."
+    },
+    {
+      "id": "c0ce438638fb",
+      "title": "TCMB, Fintlix Elektronik Para'nın faaliyet iznini iptal etti",
+      "source": "Foreks.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcDN4OHEyRVhGU05YVzFKV3FTVm5qb21TZ29IRzVFUjVGVEFvYUpPY2M4Q2dlVzFtWHY3RG1WX3lRZGwxWmNLQlBsRER4U1Zkb2xIMFBHTDRQLUpsUm9tTEl1UmRnRkh2TmxjQTR5VTlGOUtWNm5TU19mbHJJd1EwNDV5N0FJaU5Ham1ybFlSNHd0alEwOFVGVnBqVDNFbjdYNWNBb04xTTEzY0VUaGNBb3F0dWhodHB6VjN3eE51YkRPQkIzU3YzVGdSQkdFWUNGTVRndXUzaw?oc=5",
+      "category": "Makro & TCMB",
+      "published_at": "2026-11-28T01:38:18+00:00",
+      "is_breaking": false,
+      "ai_summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Fintlix Elektronik Para kuruluşunun faaliyet iznini iptal etme kararı almıştır. Bu karar, elektronik para ve ödeme hizmetleri sektöründeki düzenlemelerin sıkılaştığını ve ilgili şirketler üzerinde denetimin arttığını gösterebilir."
     },
     {
       "id": "8b6438625be6",
@@ -409,7 +440,8 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN2g1SFZPeERCTHd3V1ZWSURQXzRYeU5RbXBjZk9vUVNQQVZoVGIyY1ZPOElQQlh3emdEOWo0Rm0yTnJjTmxJejRPLUhoN1V0NnFwbkpUSzlHOWFfMlJrXzc5MzdyX3c0alFEQ3owTVdaSloxUEFOZU92Y1loZWxKV1FxVGJHYmlfdklVMUp0RmRnSWZQNF9DOWQ2dVd3SmNzRDV3SVZCRWVFeXY4a1VjemtNUXFpQQ?oc=5",
       "category": "Küresel",
       "published_at": "2026-11-28T00:14:53+00:00",
-      "is_breaking": false
+      "is_breaking": false,
+      "ai_summary": "Küresel piyasalarda güçlü bir toparlanma yaşanmış olup, Dow Jones endeksi 2022'den bu yana en iyi haftalık performansını sergilemiştir. Bu durum, yatırımcı güveninin arttığını ve küresel ekonomideki iyimser beklentilerin güçlendiğini işaret edebilir."
     },
     {
       "id": "2519cb703aa7",
@@ -418,16 +450,8 @@
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNQ3A3QWw4anA4ZmgtcDRReUU2S2FqLUhRa1dsc1RNT3JpYkt5MDVidi1YeHdRcHBleV82dnhKSUEyM0J4eERhcHdkbFc3cDV3UDBTQ1hUaWlPLXpaQTViaF9lUGNBNllSWnJPYk12U0RfNzdTMjZ2b2VlcmVWQ2tLdnY1Q0RJNVh3MUstN0p1YzdWLWpYN2xycFVyZl9hU1RqZlhvNHZidm5Ic2Z4R1VRVmxnc2NqYjBqa3I1eGQ0LUp6NUN3cFladkNUdk9qOVlCdXNYb2RRdzhrM2QxWVVodVZxb2JPakhrU2JhXzdLd0hnal9kbTRkTXpTZXF5OElBMzJWSEFQd2F5emhlUGxETzhsYnJnQ2FHRkVJ?oc=5",
       "category": "Makro & TCMB",
       "published_at": "2026-11-27T22:59:42+00:00",
-      "is_breaking": false
-    },
-    {
-      "id": "4e288fd65859",
-      "title": "SPK açıkladı: Bir bankanın faaliyetleri durduruldu",
-      "source": "Haber Hürriyeti",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb28xT1Z0aW4yUV9wVTkxV3lOODM4S2dwWV9ZUUtvMTZPUmFGRkQ1ZGVYcWNQYU1haS0tTDJ3MlhNblBUTmNGVW95NjNvWi1wUzNFN2w0Y2RnVVFreS1VYVZNTnI1ODA0RjgyM21HeER4eF9ZTnF4ZFNSSlVWdDJZZ1ZkNjY1VUJpdmxOcEFOb1NOY0hIWnlhdm9iQdIBoAFBVV95cUxNMlNPYUE0ZG1yNTZRYTNKczkzZFN5cGp6M2owcFd5UGRjVFRkSVA5SEItZkRQb0ZOZ0NwRXp4MkhWLTJOUzBpN2ZoV2xSMnptWldKSkZudm45UzFnX2RXRmF0LWJiWWdrWmxOQ29uSk1NdzNxZEJRWmU2dGpWRTdxdzNQUFhBdk5FcGtvak83d2ZlNk4yUVVmbVVXNjNlMkNv?oc=5",
-      "category": "Gündem & X",
-      "published_at": "2026-11-27T22:19:00+00:00",
-      "is_breaking": false
+      "is_breaking": false,
+      "ai_summary": "2026 yılı Aralık ayına ilişkin Merkez Bankası Para Politikası Kurulu (PPK) toplantısı ve yılın son faiz kararı açıklaması beklenmektedir. Bu karar, piyasalarda faiz beklentilerini etkileyerek döviz kurları, tahvil piyasası ve borsa üzerinde önemli hareketliliklere yol açabilir."
     },
     {
       "id": "1b64eea571a4",
@@ -480,6 +504,26 @@
       "ai_summary": "ABD Merkez Bankası'nın (Fed) Aralık ayında faiz artırma ihtimalinin yüzde 99'u aştığı belirtilmektedir. Bu yüksek beklenti, küresel piyasalar için önemli bir para politikası gelişmesini işaret etmektedir. Küresel piyasalarda doların değerini artırabilir, gelişmekte olan ülke piyasalarından sermaye çıkışına neden olabilir ve riskli varlıklar üzerinde baskı yaratabilir."
     },
     {
+      "id": "44c65106bd80",
+      "title": "İslam Memiş’ten 2027 için dolar ve faiz tahmini",
+      "source": "Paratic Haber",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ILW1JcFpTbFkzQ3hpYkZqVVhHaVM0b1c5RFh0Y1NRLVVVNVVGWWMzMUxHbldWWWVPN3pPSlM3Z3YtQ3dFcHFJeW5tN3djOVJQajhDR08xY1FReG1OV28yejdGOWJBSHYycm1hN2FOWmxGLWFHVWc?oc=5",
+      "category": "Makro & TCMB",
+      "published_at": "2026-11-27T16:55:55+00:00",
+      "is_breaking": false,
+      "ai_summary": "Finans uzmanı İslam Memiş, 2027 yılına yönelik dolar kuru ve faiz oranları hakkında değerlendirmelerde bulunmuştur. Bu tür uzman görüşleri, piyasa katılımcılarının geleceğe yönelik beklentilerini şekillendirmede ve stratejilerini gözden geçirmelerinde etkili olabilir."
+    },
+    {
+      "id": "1ea20c1096be",
+      "title": "Nasdaq %1,5 yükselişle açıldı; ABD hisseleri haftalık kazanç peşinde",
+      "source": "Invezz",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVItclU2YURlN0RQcUkySXk5dWEwa1FHTEFpZWJqVEt0akQycGhuSjl2c0NYMlhYYmFFZHcwOHd3eG5xS3UxNG9wN1l1Qlg4YUtNQU5YRk40bTNoTEpCMWdPQ0ViOWtNSnA5ck9GTmdub1AtdzV1QnpsWnFTQ1pqWjhicmh6cWdfcmZIOWl2eHQyemN0NXpONTRYREwwb0JXZTRVN3hZVjJhRzlJTDhyWFRn?oc=5",
+      "category": "Küresel",
+      "published_at": "2026-11-27T16:28:46+00:00",
+      "is_breaking": false,
+      "ai_summary": "Nasdaq endeksi güne %1,5'lik bir yükselişle başlamış olup, ABD hisse senedi piyasaları haftalık kazanç elde etme çabasındadır. Bu durum, teknoloji hisselerindeki olumlu seyrin devam ettiğini ve genel piyasa iyimserliğinin sürdüğünü gösterebilir."
+    },
+    {
       "id": "7c2571ed32d2",
       "title": "KAP *** BORSA İSTANBUL A.Ş. *** PRZMA *** Pazar Değişikliği",
       "source": "Yeni Şafak",
@@ -490,56 +534,49 @@
       "ai_summary": "Kamuyu Aydınlatma Platformu (KAP) üzerinden Borsa İstanbul'un PRZMA koduyla işlem gören hissenin pazar değişikliği yaptığı duyurulmuştur. Bu değişiklik, ilgili hissenin işlem gördüğü piyasa segmentini ve dolayısıyla yatırımcı profilini etkileyebilir. İlgili hissenin likiditesini ve yatırımcı ilgisini değiştirebilir, ancak genel piyasa üzerinde sınırlı bir etki yaratması beklenir."
     },
     {
-      "id": "882259a60cae",
-      "title": "Borsada teknoloji öncülüğünde yükseliş: BIST 100 11 bin puana dayandı",
-      "source": "Dünya Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOS1XcjFzSGQ4dTdNNzhXUVNkelptZVFQdDhBbEgzR0xReGhQVzZlT05CME92SUt4ODlKall4WkhwdlE5aWdDT2RfOXg1aXR1YndfVVZOWGFxUUNZejE3QmkzRTgzWnZvbFJMdmt2eGxINEZQaXF6WE9Xc05qUzBDVmtBTmlGZUFQamxxREEwczQtRDNrb1d1cDBqRmxic2VCeTRmaUV6TXVrdDhValU1Qzd5VlZUN01q?oc=5",
+      "id": "d12a086cb8d0",
+      "title": "SON DAKİKA | Borsa haftayı yükselişle tamamladı",
+      "source": "CNN Türk",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0tKbF93Q0tWNENVUmlhVDVYNVptUUVRMzRvVjJjWlpyazRFeGU1ZERzUFotYk50aU5ySk9WYTBOTlZJOWYxMHd1SnpBZXlJclZvUTVPbHdDRGRfTVNFSEhtREljTDB0RFlwaFc5akMwS19GNzFqYkhkdmU3SURjTzlhRnNLWUNsNGZuRmRB?oc=5",
       "category": "Borsa & KAP",
-      "published_at": "2026-11-27T15:43:00+00:00",
-      "is_breaking": false
-    },
-    {
-      "id": "9c1aa124e7ed",
-      "title": "Borsa İstanbul günü yükselişle tamamladı! İşte yeni rakamlar...",
-      "source": "NirvanaHaber",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMTI3eFk1VjdDZTNocmlmUkVEenlUU3ZPamZ1UlhHSTNlVXF4YWFiQWt2YkdPZ3c2NW9Cc3Z4MWU3OFRNU0RsMVNuZzN2RXZtckNsZmhnd3dNQlRBNS1yWWpIekhvLTR4VF9EVGZzWVlwT0wwRHo4N3l2c25QbEp3Q3lscmo0alBNRTlRQlVoZjg1ME9S?oc=5",
-      "category": "Borsa & KAP",
-      "published_at": "2026-11-27T15:40:00+00:00",
-      "is_breaking": false,
-      "ai_summary": "Borsa İstanbul'un günü yükselişle tamamladığı ve yeni rakamların açıklandığı belirtilmektedir. Bu gelişme, piyasada gün içi olumlu bir seyrin yaşandığını göstermektedir. Yatırımcıların kısa vadeli beklentilerini olumlu yönde etkileyebilir ve piyasada genel bir iyimserlik yaratabilir."
-    },
-    {
-      "id": "bff3e20de983",
-      "title": "BIST 100 günü yüzde 2,18 artışla 10.977,01 puandan kapattı",
-      "source": "Canlı Gaste",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZU9mc0l0VVFMOUdzZG83S1ZRSks4SDBqQmNNcEVva1M5aFhzdEhlQWM3Q184cXVOc24xMVVuVzRfc3M5R0piTVA5a2oxTkxONk9KaHZjaUpYQkNhS0tfdWJ1dGM4UUFaZWcyeTE5ODdDMy1najJESmRhRUhCS2Q0SC1aa2tMQWhwcm9aLXRZRkc2QmdlSkNhaQ?oc=5",
-      "category": "Borsa & KAP",
-      "published_at": "2026-11-27T15:30:56+00:00",
-      "is_breaking": false,
-      "ai_summary": "BIST 100 endeksinin günü yüzde 2,18'lik bir artışla 10.977,01 puandan kapattığı bildirilmektedir. Bu güçlü yükseliş, piyasada genel bir alım iştahının olduğunu göstermektedir. Piyasa genelinde olumlu bir hava yaratabilir ve yatırımcıların risk iştahını artırabilir."
-    },
-    {
-      "id": "fc4a4de8aa29",
-      "title": "Nagel’den ECB’ye aralık mesajı: Yeni faiz artışı gündemde",
-      "source": "Paratic Haber",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbVItOFdFNWNEYTNkNmtnTEp5VS1fT19nTWJheGdHLWliUjRWOGdrX3hlbHBWZV9Tb1dDSTJwZ3czSzlnWmt6S0NCZjAzbE9nbnlhZlNET0tsWnhmN25WTXU1VmVUaFZrZTlGTElNalVCb0d3Q1k5VjRtQ20yNEhzYQ?oc=5",
-      "category": "Makro & TCMB",
-      "published_at": "2026-11-27T14:43:31+00:00",
-      "is_breaking": false,
-      "ai_summary": "Avrupa Merkez Bankası (ECB) Yönetim Kurulu üyesi Nagel'den Aralık ayında yeni bir faiz artışı olabileceği yönünde bir mesaj geldiği belirtilmektedir. Bu açıklama, Euro Bölgesi'ndeki para politikası beklentilerini şekillendirebilir. Euro Bölgesi'nde faiz artışı beklentileri, Euro'nun değerini etkileyebilir, tahvil piyasalarında hareketlilik yaratabilir ve enflasyonla mücadele sinyali verebilir."
+      "published_at": "2026-11-27T15:45:46+00:00",
+      "is_breaking": true,
+      "ai_summary": "Borsa, haftalık kapanışını yükselişle gerçekleştirerek pozitif bir seyir izlemiştir. Bu kapanış, piyasada genel bir iyimserliğin hakim olduğunu ve gelecek haftaya olumlu bir başlangıç beklentisi yaratabileceğini gösterir."
     }
   ],
   "notification_candidates": [
     {
-      "id": "805bd67a1fc1",
-      "title": "[Altın & Döviz] Habertürk",
-      "headline": "ALTIN SERT DÜŞÜŞ SONRASI YÜKSELDİ! Gram altın 6 bin TL sınırına dayandı: 28 Kasım 2026 Cumhuriyet altını, tam, yarım, çeyrek ve gram altın fiyatları",
-      "body": "ALTIN SERT DÜŞÜŞ SONRASI YÜKSELDİ! Gram altın 6 bin TL sınırına dayandı: 28 Kasım 2026 Cumhuriyet altını, tam, yarım, çeyrek ve gram altın fiyatları",
-      "source": "Habertürk",
+      "id": "46485c802d92",
+      "title": "[Altın & Döviz] Sabah",
+      "headline": "SON DAKİKA | Altın fiyatlarında yükseliş! Gram altın 6 bin TL sınırına dayandı: İşte güncel fiyatlar...",
+      "body": "SON DAKİKA | Altın fiyatlarında yükseliş! Gram altın 6 bin TL sınırına dayandı: İşte güncel fiyatlar...",
+      "source": "Sabah",
       "category": "Altın & Döviz",
-      "ai_summary": "Altın fiyatları, sert bir düşüşün ardından yükseliş eğilimi göstererek gram altının belirli bir seviyeye yaklaştığını belirtti. Bu durum, piyasada altın fiyatlarına yönelik genel bir ilgi ve beklenti yaratabilir.",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPRFh1bXo3cnBYZ0hQa3I1VVNNRDA5dk52SEtFLUhQQ0hYeWkxcEQxWWJnQlpKZXJleFJrOW1maGc2SjV0V2xoQmxwT2lQcW5KenpVVk5hOTJLQWdVVENRV1AzbG4wSGtaQnhzTnVZX0RrdG1mcUpBWFFFbG9jNGYyY1dTcjQyTk1LRllvY3czVGZTekRkYzd4RHNqR01MalRWQW12RG8yMlpaX01BRzloNkV3WTdQVEVvcEh4Uk5OR0hRNU0tdDM1Y2l5UUhiSTBHTFdvajFOYXRIZWE2UUk3YmRJcjlJanB3RzhoUGtpMlhjNkdqT0FITk1NQXBKNDhTMWx0YU9tUkxRdm5Hbm90OU1xaWZlUm8?oc=5",
-      "published_at": "2026-11-28T09:34:39+00:00"
+      "ai_summary": "Altın fiyatlarında son dönemde bir artış yaşanmış olup, gram altın 6 bin TL seviyesine yaklaşmıştır. Bu durum, altın piyasasında genel bir hareketliliğe ve yatırımcı ilgisinde artışa işaret edebilir.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQN1h0VXhTUnZTWWNZSDVNeW1TY1dvUDJhOHN6MG5DdE90NjZOWHdDQ1VsY0FBWG9ZTTZwTFd4N2JNTmg0UWY0TVAwS0U2d2k0eFNBSWhCME1admdHM3RYcVFOSEVmMmhWdXNfSUtLeFFkVVVqQkNlRXdVVzVRTHpGZ1BnTXVqcDBhc2JBZ3JCc2hHZVVkejE3NjB5VlpPNDhVNjI1dHhES29tUnNZX1RZYms2SG92WEgtajM2Mm04aDFfREpwanJIUDRjdE9pVlI5cVJEbHdjbmVqQdIB3AFBVV95cUxQSFRSUF9uTUE2TlRENEplVWMxbWVaZmpwVkpYRmpQZGZlMi1nLS01cUxnUG5vZDlYUEU4bzVIREQweUxRNzVfUzFuWnJVODA2T2cxNmRRVlY4Sk5hcHRaaTZrU3RFS1otX0ZNYjJ0c3Q3STV0a19lWHA5Yk91UXpDXzlwZW1BdW5udzRZckJ4QTZwZDBxTHZlTldMcTItTEdlVExrYkRLMVA3cktVaDc4YkszQ3dYNXRueDREQ0JINS1tRjdLTGZhZGs1WUpQNXFrMWtXd1h4TnA0a2ZR?oc=5",
+      "published_at": "2026-11-28T13:55:56+00:00"
+    },
+    {
+      "id": "e2e20462e12c",
+      "title": "[Altın & Döviz] Uzmanpara",
+      "headline": "ALTIN FİYATLARI CANLI SON DAKİKA: 28 Kasım 2026 anlık gram altın ne kadar, yarım, tam, çeyrek altın fiyatları kaç TL?",
+      "body": "ALTIN FİYATLARI CANLI SON DAKİKA: 28 Kasım 2026 anlık gram altın ne kadar, yarım, tam, çeyrek altın fiyatları kaç TL?",
+      "source": "Uzmanpara",
+      "category": "Altın & Döviz",
+      "ai_summary": "Altın fiyatlarında gram, yarım, tam ve çeyrek altın özelinde anlık alış-satış değerleri grafiklerle takip edildi. Bu bilgiler, altın piyasasında anlık fiyat hareketliliğini takip eden yatırımcılar için bilgi niteliği taşımaktadır.",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOT3Q1YVdRYktZdkhTc19ON0EyVHRMcTZuTkhCY0xneVhIMWFFcVhVWHJxUWVMWFJZcDkxMTV1NW9DdHBVNmliT2FHTkdWS2R3Z2t6SWZOekw3bDlsVFFIRDNoRm5ITW9CWlJjaV91YUI2YWhwLXRhUDdBbEJWQng0SVQxNWVQenE0SnRrX25wQzF3MFVpSld1WDFYOFhQWm1mR0NWZG5PZGlucUdYeUJrVkFpbEZlbEM2WjBQOGJwejVNaEw1Y0dmenFnSzBJa2NpamtycE5kNDBqNTdfMTFHcXpFNWo4ZWhVcWdkdUs0aUJUekVBUjdtLWJsSWlJWXpSVjI2OG0zdVpjZkhVZkFfcQ?oc=5",
+      "published_at": "2026-11-28T12:59:29+00:00"
+    },
+    {
+      "id": "5b581cf270fc",
+      "title": "[Borsa & KAP] Yeni Şafak",
+      "headline": "KAP *** BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI *** Pay Bazında Devre Kesici Bildirimi",
+      "body": "KAP *** BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI *** Pay Bazında Devre Kesici Bildirimi",
+      "source": "Yeni Şafak",
+      "category": "Borsa & KAP",
+      "ai_summary": "Borsa İstanbul'da BISTECH devre kesici uygulaması kapsamında pay bazında bir devre kesici bildirimi yapılmıştır. Bu tür bildirimler, ilgili payda aşırı oynaklığı sınırlayarak piyasa istikrarına katkıda bulunmayı hedefler.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNmg5cEczZW92RTd1bkU0bllmVDl4M09BRVhtazhHbmxiUlZKNEZBWlZ6MC1DM0RCWFFYWjF0SlFXWWRQQ3BMa2NWOC1JbG5NaXJuRXAtY3VyQ2lScWg3WVBhMHZwNEY2WU01RDRHTW96QnNDUkhjR01zWkhBMFMzam1nOWdUZFA3SS1Pb0dvUUZqM1oxWVFNZ1lKeElxbEhQWW1ocU43RzF1Y0FnaUpZOC1LODFlR1RDODJWMUlKUFpuVW1GOHlIUHd0QWRPdlRyQTJIUGFLRlI?oc=5",
+      "published_at": "2026-11-28T12:56:00+00:00"
     },
     {
       "id": "49e8bffa40f2",
@@ -550,29 +587,18 @@
       "category": "Gündem & X",
       "ai_summary": "Sermaye Piyasası Kurulu (SPK), işleme kapatılan 26 yatırım fonunun yeniden açılması yönünde kritik bir karar aldı. Bu gelişme, fon piyasasında belirsizliği azaltarak yatırımcı güvenini etkileyebilir ve ilgili fonlara yönelik ilgiyi artırabilir.",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVnJxeGZrZFZiTE5GWTNacUFFNUk0RHBTLXUtY1dsUXd1SUo4U3lRclY2eURhUUl4V0MwU3J0TVRxdzQ5eVVTaVdLMmFNd1ZpVmxMa3o2aTRrY1kyYzdJa0N6MzNoMWhDV0k5azlTUE9JOXE2N3dyOWR5YUJMbDNYNjBOdWdfdUVoTlJNZGd0dEdQY3ZqWUstYkRqeHlRXzMyeXVvNW84d1RfSmstakkwb1VIQTlQWXM?oc=5",
-      "published_at": "2026-11-28T06:58:15+00:00"
+      "published_at": "2026-11-28T12:52:49+00:00"
     },
     {
-      "id": "1c1fdeed4e23",
-      "title": "[Gündem & X] Gazete Pencere",
-      "headline": "SPK'dan 5 hisseye 2 yıl işlem yasağı: Tera grubuna da yasak geldi",
-      "body": "SPK'dan 5 hisseye 2 yıl işlem yasağı: Tera grubuna da yasak geldi",
-      "source": "Gazete Pencere",
-      "category": "Gündem & X",
-      "ai_summary": "Sermaye Piyasası Kurulu (SPK), beş hisse senedine iki yıl süreyle işlem yasağı getirdiğini duyurdu; bu yasaklardan biri de Tera grubuna ait hisseleri kapsıyor. Bu tür düzenleyici kararlar, ilgili hisselerde işlem hacmini ve yatırımcı ilgisini etkileyebilirken, piyasada şeffaflık ve güveni artırma amacı taşır.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaEtpS3hMUnQ5a25ORXlEdUhhTjY5a01xRlRmSjRHVUpXUkRoLU1HT2xqc0JpS3dibWdqWlZJSUZUbGdJeFhDV3VrOXBpOWF5RXh1OFZubFU0R3Q5Qml2MFBFNXBrQmpqenJiRUhmdnNMcWhndTJJR29EdjhkWW5NOXJGNmluMjNrOGNIaWpJMURnTWxIQXltSlpmeWJ0ZDFaanV5djVpbGVmOHc1TGkzaldYRWZhRzlkNm1ZTTF2Rk5sTkU?oc=5",
-      "published_at": "2026-11-28T06:03:00+00:00"
-    },
-    {
-      "id": "7c2571ed32d2",
-      "title": "[Borsa & KAP] Yeni Şafak",
-      "headline": "KAP *** BORSA İSTANBUL A.Ş. *** PRZMA *** Pazar Değişikliği",
-      "body": "KAP *** BORSA İSTANBUL A.Ş. *** PRZMA *** Pazar Değişikliği",
-      "source": "Yeni Şafak",
-      "category": "Borsa & KAP",
-      "ai_summary": "Kamuyu Aydınlatma Platformu (KAP) üzerinden Borsa İstanbul'un PRZMA koduyla işlem gören hissenin pazar değişikliği yaptığı duyurulmuştur. Bu değişiklik, ilgili hissenin işlem gördüğü piyasa segmentini ve dolayısıyla yatırımcı profilini etkileyebilir. İlgili hissenin likiditesini ve yatırımcı ilgisini değiştirebilir, ancak genel piyasa üzerinde sınırlı bir etki yaratması beklenir.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNjFoY0xlRUdUYzN5eGhoUDJPOGZrcm14LV82ZTRYVzNqc0NVeUdoN0l4dTlVdHIxbjZjb3AzTWxHeVlLcVdManpVemFPckptRGNVYUUzbmoyek5CY3JyUU1jb2RPZGl1XzFSdlZqRnJIUHVNYWU1THN5bFFJM1FyTWJFRWplUEgtRjJUQUJUN0p4dUlSMWkwOUlPX0p5SjRzRmd3?oc=5",
-      "published_at": "2026-11-27T15:58:00+00:00"
+      "id": "805bd67a1fc1",
+      "title": "[Altın & Döviz] Habertürk",
+      "headline": "ALTIN SERT DÜŞÜŞ SONRASI YÜKSELDİ! Gram altın 6 bin TL sınırına dayandı: 28 Kasım 2026 Cumhuriyet altını, tam, yarım, çeyrek ve gram altın fiyatları",
+      "body": "ALTIN SERT DÜŞÜŞ SONRASI YÜKSELDİ! Gram altın 6 bin TL sınırına dayandı: 28 Kasım 2026 Cumhuriyet altını, tam, yarım, çeyrek ve gram altın fiyatları",
+      "source": "Habertürk",
+      "category": "Altın & Döviz",
+      "ai_summary": "Altın fiyatları, sert bir düşüşün ardından yükseliş eğilimi göstererek gram altının belirli bir seviyeye yaklaştığını belirtti. Bu durum, piyasada altın fiyatlarına yönelik genel bir ilgi ve beklenti yaratabilir.",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPRFh1bXo3cnBYZ0hQa3I1VVNNRDA5dk52SEtFLUhQQ0hYeWkxcEQxWWJnQlpKZXJleFJrOW1maGc2SjV0V2xoQmxwT2lQcW5KenpVVk5hOTJLQWdVVENRV1AzbG4wSGtaQnhzTnVZX0RrdG1mcUpBWFFFbG9jNGYyY1dTcjQyTk1LRllvY3czVGZTekRkYzd4RHNqR01MalRWQW12RG8yMlpaX01BRzloNkV3WTdQVEVvcEh4Uk5OR0hRNU0tdDM1Y2l5UUhiSTBHTFdvajFOYXRIZWE2UUk3YmRJcjlJanB3RzhoUGtpMlhjNkdqT0FITk1NQXBKNDhTMWx0YU9tUkxRdm5Hbm90OU1xaWZlUm8?oc=5",
+      "published_at": "2026-11-28T11:41:23+00:00"
     }
   ]
 }
