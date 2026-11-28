@@ -1,4 +1,6 @@
-# Piyasa Sade — Kalıcı Mühendislik ve Kalite Kuralları (`MEMORY.md`)
+# Borsa Özeti (eski kod adı: Piyasa Sade) — Kalıcı Mühendislik ve Kalite Kuralları (`MEMORY.md`)
+
+> **Resmi Marka Adı:** Uygulamanın kullanıcıya görünen resmi adı **"Borsa Özeti"**dir (`android:label="Borsa Özeti"`). Geriye dönük tam uyumluluk için teknik paket adı (`com.piyasasade.app`), GitHub Pages CDN URL'leri (`piyasa-sade-feed`), Drift SQLite dosya adı (`piyasa_sade`) ve `.psbackup` şifreleme AAD/formatı (`piyasa_sade:psbackup:v1`) değiştirilmeden korunur.
 
 Bu dosyadaki kurallar gerçek denetimlerde yakalanan P0/P1 hatalarından çıkarılmış **değişmez kalite kapılarıdır**. Yeni özellik geliştirirken bu kuralların hiçbiri gevşetilemez.
 
