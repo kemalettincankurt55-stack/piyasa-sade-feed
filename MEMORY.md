@@ -42,3 +42,12 @@ Bu dosyadaki kurallar gerçek denetimlerde yakalanan P0/P1 hatalarından çıkar
 - APK içine **asla** `GEMINI_API_KEY` gömülmez.
 - Portföy dışa aktarımı yalnızca zorunlu parolalı şifreli `.psbackup` (`PBKDF2-HMAC-SHA256` + `AES-256-GCM`) formatındadır.
 - Google ile giriş yapan kullanıcıların Firestore verileri yalnızca kendi `uid` alanına (`users/{uid}/private/portfolio_v2`) kilitlidir ve uygulama içinden tek tıkla kalıcı silinebilir.
+
+---
+
+## 7. Özeleştiri ve Tekrarlanmayacak Mühendislik İlkeleri (v1.5.3 Denetim Dersleri)
+- **Uçtan Uca Sözleşme Kuralı:** Backend JSON şemasına yeni bir durum/alan (ör. `market_status`) eklendiğinde, onu tüketen **tüm istemciler (Flutter Dart + Android Kotlin `BackgroundNotificationEngine.kt`)** aynı turda güncellenmeden iş bitmiş sayılmaz.
+- **Mağaza Kabul Kapısı (Derlendi ≠ Yayına Hazır):** Play Store `.aab` tesliminde `debug` imza kullanımı, çalışmayan/sahte abonelik (Pro) butonları veya eksik SHA-1 kaydı baştan kontrol edilir; mağaza reddine yol açacak hiçbir yarım yapı bırakılmaz.
+- **God-File Yasağı & Temiz UX:** 1.000 satırı aşan dosyalara (`screens.dart`, `market_data.dart`) yeni özellik yığılmaz; yeni ekranlar `lib/src/features/<modül>/` altına ayrılır ve ayarlar/profil öğeleri tek bir düzenli merkezde toplanır.
+- **Son Kullanıcı Gözüyle Canlı Çıktı Denetimi:** Birim testlerin geçmesi tek başına yeterli değildir; canlı üretilen JSON bildirim başlıkları, bülten maddeleri ve mobil ekranlar gerçek kullanıcı gözüyle okunup pürüz (`***`, SEO kalıbı, tutarsız sayı) kalmadığı doğrulanmadan teslim edilmez.
+

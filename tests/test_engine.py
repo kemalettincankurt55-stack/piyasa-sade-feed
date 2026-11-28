@@ -31,6 +31,7 @@ from piyasa_sade_engine.news_aggregator import (
     is_breaking_headline,
     is_noise,
     is_seo_clickbait_article,
+    sanitize_headline,
 )
 from piyasa_sade_engine.spk_guardrail import (
     find_spk_violations,
@@ -60,7 +61,12 @@ class EngineAuditTests(unittest.TestCase):
         self.assertTrue(is_seo_clickbait_article("CANLI ALTIN FİYATLARI GÜNCEL TABLO 27 KASIM 2026 (ANLIK TAKİP)"))
         self.assertTrue(is_seo_clickbait_article("MERKEZ BANKASI FAİZ KARARI NE ZAMAN AÇIKLANACAK?"))
         self.assertTrue(is_seo_clickbait_article("En Çok Kaybettiren Hisseler: 27 Kasım 2026 | BIST 100"))
+        self.assertTrue(is_seo_clickbait_article("Gram altın 6 bin TL sınırına dayandı: İşte güncel fiyatlar"))
         self.assertFalse(is_seo_clickbait_article("TCMB'den TL likiditesi ve zorunlu karşılıklara yeni düzenleme"))
+        self.assertEqual(
+            sanitize_headline("KAP *** BORSA İSTANBUL *** PRZMA *** Pazar Değişikliği"),
+            "KAP — BORSA İSTANBUL — PRZMA — Pazar Değişikliği",
+        )
 
         deduped = _dedupe_stories(
             [

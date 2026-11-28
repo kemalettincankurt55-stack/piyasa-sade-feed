@@ -64,12 +64,18 @@ BREAKING_REGEX = re.compile(
 SEO_CLICKBAIT_REGEX = re.compile(
     r"(ne zaman|saat kaçta|beklentisi|planı değişebilir|"
     r"canlı altın fiyatları|altın fiyatları canlı|güncel tablo|anlık takip|"
-    r"işte çeyrek|çeyrek,\s*yarım|yarım,\s*tam|tam,\s*çeyrek|"
+    r"işte çeyrek|işte güncel|çeyrek,\s*yarım|yarım,\s*tam|tam,\s*çeyrek|"
     r"kaç tl oldu|kaç tl\?|ne kadar,|ne kadar oldu|"
     r"en çok kaybettiren hisseler|en çok kazandıran hisseler|"
     r"bugün altın fiyatları|yükseliş sürecek mi)",
     re.IGNORECASE,
 )
+
+
+def sanitize_headline(title: str) -> str:
+    """Ham KAP *** yıldızlarını ve fazla boşlukları okunaklı hale getirir."""
+    cleaned = re.sub(r"\s*\*{2,}\s*", " — ", title).strip(" —-")
+    return " ".join(cleaned.split())
 
 
 def is_seo_clickbait_article(title: str) -> bool:
@@ -166,6 +172,7 @@ def fetch_google_news_rss(category: str, query: str, timeout: int = 12) -> List[
         source_el = item.find("source")
         explicit_source = (source_el.text or "").strip() if source_el is not None else ""
         title, source = clean_title_and_source(raw_title, explicit_source)
+        title = sanitize_headline(title)
         if not title or not link.startswith("http") or is_noise(title, source) or is_seo_clickbait_article(title):
             continue
         item_id = hashlib.sha1(link.encode("utf-8")).hexdigest()[:12]

@@ -25,7 +25,7 @@ try:
         is_bist_trading_day,
     )
     from piyasa_sade_engine.feed_validator import atomic_write_validated_json, validate_daily_briefing
-    from piyasa_sade_engine.news_aggregator import is_seo_clickbait_article
+    from piyasa_sade_engine.news_aggregator import is_seo_clickbait_article, sanitize_headline
     from piyasa_sade_engine.spk_guardrail import (
         find_spk_violations,
         is_section_spk_compliant,
@@ -38,7 +38,7 @@ except ImportError:
         is_bist_trading_day,
     )
     from feed_validator import atomic_write_validated_json, validate_daily_briefing
-    from news_aggregator import is_seo_clickbait_article
+    from news_aggregator import is_seo_clickbait_article, sanitize_headline
     from spk_guardrail import (
         find_spk_violations,
         is_section_spk_compliant,
@@ -122,7 +122,7 @@ def _build_fallback_briefings(
     gram_str = f"Gram Altın {gram.get('price')} TL ({_fmt_pct(gram.get('change_percent'))})" if gram else ""
 
     safe_headlines = [
-        h for h in headlines
+        sanitize_headline(h) for h in headlines
         if is_spk_compliant(h) and not is_seo_clickbait_article(h)
     ]
     trading_day = is_bist_trading_day(ist_now.date())
