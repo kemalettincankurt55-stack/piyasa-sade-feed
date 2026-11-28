@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-28T15:12:43.715391+00:00",
+  "generated_at": "2026-11-28T15:27:10.627606+00:00",
   "disclaimer": "Haber başlıkları orijinal kaynaklara aittir; yatırım tavsiyesi değildir (YTD).",
   "trending_clusters": [
     {
@@ -29,14 +29,14 @@
       ],
       "published_at": "2026-11-28T13:55:56+00:00",
       "bullets": [
-        "Son dönemde altın fiyatlarında gözle görülür bir yükseliş yaşanırken, gram altın 6.000 TL seviyesine yaklaştı; BIST 100 endeksi ise teknoloji hisseleri öncülüğünde 11.000 puan sınırına dayandı.",
-        "Bu hareketlilik, yatırımcıların güvenli liman tercihlerini veya enflasyon beklentilerini yansıtabileceği gibi, teknoloji sektörüne yönelik artan ilgiyi ve genel piyasa iyimserliğini de işaret edebilir."
+        "Altın fiyatları gram altının 6.000 TL seviyesine yaklaşmasıyla yükseliş gösterirken, Borsa İstanbul'da BIST 100 endeksi teknoloji hisseleri öncülüğünde 11.000 puana yaklaştı.",
+        "Bu gelişmeler, yatırımcıların farklı varlık sınıflarındaki güncel durumu ve piyasa dinamiklerini daha dikkatli değerlendirmelerine yol açabilir."
       ],
       "ai_synthesized": true
     },
     {
       "id": "cluster-5b581cf270fc",
-      "headline": "Borsa İstanbul'da Güncel Piyasa Hareketleri ve Kurumsal Duyurular",
+      "headline": "Borsa İstanbul'da Piyasa Mekanizmaları ve Güncel Gelişmeler",
       "category": "Borsa & KAP",
       "is_breaking": true,
       "source_count": 3,
@@ -56,21 +56,25 @@
       ],
       "published_at": "2026-11-28T12:56:00+00:00",
       "bullets": [
-        "Borsa İstanbul'da pay bazında devre kesici uygulamaları ve PRZMA hissesinin pazar değişikliği gibi kurumsal bildirimler gerçekleşirken, BIST 100 endeksi günü yükselişle kapattı.",
-        "Bu gelişmeler, piyasa volatilitesini dengeleme mekanizmalarının işleyişini ve belirli hisselere özgü değişimleri gösterirken, genel piyasa kapanışı pozitif bir görünüm sergiledi."
+        "Borsa İstanbul'da pay bazında devre kesici uygulamaları ve bazı hisselerin pazar değişiklikleri gibi piyasa düzenlemeleri duyurulurken, endeks günü yükselişle kapattı.",
+        "Bu tür gelişmeler, piyasa oynaklığının yönetilmesine, hisse senedi likiditesinin ve yatırımcı algısının etkilenmesine ve genel piyasa eğilimlerinin belirlenmesine katkı sağlayabilir."
       ],
       "ai_synthesized": true
     },
     {
       "id": "cluster-49e8bffa40f2",
-      "headline": "SPK'dan 26 Yatırım Fonuna Yeniden İşlem İzni",
+      "headline": "SPK'dan 26 Yatırım Fonu İçin İşlem Kararı",
       "category": "Gündem & X",
       "is_breaking": true,
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
         {
           "name": "Yeni Şafak",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVnJxeGZrZFZiTE5GWTNacUFFNUk0RHBTLXUtY1dsUXd1SUo4U3lRclY2eURhUUl4V0MwU3J0TVRxdzQ5eVVTaVdLMmFNd1ZpVmxMa3o2aTRrY1kyYzdJa0N6MzNoMWhDV0k5azlTUE9JOXE2N3dyOWR5YUJMbDNYNjBOdWdfdUVoTlJNZGd0dEdQY3ZqWUstYkRqeHlRXzMyeXVvNW84d1RfSmstakkwb1VIQTlQWXM?oc=5"
+        },
+        {
+          "name": "Ege Saati",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15YTdsUVJ5UWVicnl0eXNGSTZUeTNLNDNCNXRuR2hCWGhVMVh0dWkyNkpIS094LUFVSUhESUpncVhYcWI3ZW1EVW5aWkZyNTU2NVhLa0w3MXF6bFRGQTBydHUtYWdtaEdRcDVFV3dHM0JCWUFHeTBBVTVpOA?oc=5"
         },
         {
           "name": "Haber7",
@@ -79,37 +83,37 @@
       ],
       "published_at": "2026-11-28T12:52:49+00:00",
       "bullets": [
-        "Sermaye Piyasası Kurulu (SPK), daha önce işleme kapatılan 26 yatırım fonunun yeniden işleme açılmasına karar verdiğini duyurdu.",
-        "Bu karar, ilgili fonlardaki yatırımcılar için işlem yapma imkanı sunarken, piyasada fon çeşitliliğini ve likiditeyi potansiyel olarak etkileyebilir."
+        "Sermaye Piyasası Kurulu (SPK), daha önce işleme kapatılan 26 yatırım fonunun yeniden işleme açılmasına karar verdi.",
+        "Bu gelişme, ilgili fonların piyasadaki işlem hacmini ve likiditesini etkileyebilir, ayrıca yatırımcılar için bu fonlara erişimi yeniden sağlayabilir."
       ],
       "ai_synthesized": true
     },
     {
-      "id": "cluster-beaddf49846e",
-      "headline": "Küresel Piyasalar ve Fed Faiz Beklentileri",
+      "id": "cluster-dfa71b2fd2de",
+      "headline": "Piyasalarda dev ralli ve faiz bilmecesi: Gözler ABD'ye çevrildi",
       "category": "Küresel",
       "is_breaking": false,
       "source_count": 2,
       "sources": [
         {
           "name": "Sözcü Gazetesi",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTnFpWHFUZlpmdDJXMnBrWm41MF9xSEx4T0laQWNadzBzUE90eVNxclNNM01FUllUZExPQVFPc3daU3JKWDBPRTBacWFDYVdEb1R3aUluMTJ3UF9PMFRac0dNZ0QtQlJ2T1k1UFBwZ2xHQlBfWEh1UllPZWZRb3N6N2N4M2I0WmU4U09JdGhOeDdFUGt4bEw0THpzcw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2xNcUZXYUdOZ2tCVkxkX2d1X05pMmVWMnd4bWVndVNqVFkzUVpOS2Z6bUtjMU5OVWZ5OGhHX19vWksydFl2UE0zaGpTdWNfT3JFRmZuSzlZSTVZZ0dFSEFJZVprX2RSdjZ4RHVmSjd0ZWs1TXY5Y3FqQ0NvdXFWb3FLZVhFVkN6SXd3WlJObnoybmRYWEN3VkVHRndjbWhf?oc=5"
         },
         {
-          "name": "urfadabugun",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS3JMMHMwSU93QXdYNUJidWpLOTMxRTg4V19TZEc1by1EOERtTUJOMzFudm85bUJzbmtxVDdyRXB2R1ZuanI4UUcxajBKMHJhaEtsbERhMWNaV0dLREZpNkU3Q3F4Q1ViZUJubldKV2dleThRVC1RZkhkeTFnNkJ6YWtHQ0JTeVdKZnJvMFQxX2hGVDZzZFpiQ0MtamloLWZkX1QzSnBXaDJvNzFmMVVZend0ZldYMVR3cnZ6WEFZNEpSV05UaVE?oc=5"
+          "name": "hibya.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWhzQ0NpOFZUVUFIc0Jxbm1MMTgyWEk2UU9yZnFIWmk4X3hJQVk5bG5sMmJBWTZEMmNnaEljSUlSSlREMUV1LUpPbXQwM3l2dTlmY1RCQzFsOWx2dmF5eE13UmszYWVxVFJvZUZpMjFoSzJ3N0RnTjMtOXUzZnV3OWZwN0NvVW4yVUpSSW5hNzRVNWZpemkyTlppa0l0TllUeW1wUVN0U3pVXzg?oc=5"
         }
       ],
       "published_at": "2026-11-28T11:46:30+00:00",
       "bullets": [
-        "Küresel piyasalarda bir yükseliş eğilimi gözlenirken, yatırımcılar ABD Merkez Bankası'nın (Fed) gelecekteki faiz politikalarına odaklanmış durumda.",
-        "Tüketici harcamaları ve Fed'in faiz kararları, piyasalardaki mevcut hareketliliğin yönünü belirlemede kritik rol oynayabilir."
+        "2 farklı ekonomi kaynağında öne çıkan başlık.",
+        "Detaylar için aşağıdaki orijinal kaynak bağlantılarına gidebilirsiniz."
       ],
-      "ai_synthesized": true
+      "ai_synthesized": false
     },
     {
       "id": "cluster-8220a69ca807",
-      "headline": "TCMB'den Elektronik Para Kuruluşu Fintlix'e Lisans İptali",
+      "headline": "TCMB'den Fintlix'e Faaliyet İzni İptali",
       "category": "Makro & TCMB",
       "is_breaking": false,
       "source_count": 2,
@@ -125,8 +129,8 @@
       ],
       "published_at": "2026-11-28T09:16:35+00:00",
       "bullets": [
-        "Türkiye Cumhuriyet Merkez Bankası (TCMB), elektronik para kuruluşu Fintlix'in faaliyet iznini iptal ettiğini duyurdu.",
-        "Bu karar, elektronik para sektöründeki düzenleyici denetimin önemini vurgulamakta ve sektördeki diğer oyuncular için potansiyel bir emsal teşkil edebilmektedir."
+        "Türkiye Cumhuriyet Merkez Bankası (TCMB), elektronik para kuruluşu Fintlix'in faaliyet iznini iptal etti.",
+        "Bu karar, elektronik para sektöründeki düzenleyici denetimlerin devam ettiğini ve sektördeki diğer oyuncular için uyum beklentilerini vurgulamaktadır."
       ],
       "ai_synthesized": true
     }
@@ -163,24 +167,14 @@
       "ai_summary": "Sermaye Piyasası Kurulu (SPK), işleme kapatılan 26 yatırım fonunun yeniden açılması yönünde kritik bir karar aldı. Bu gelişme, fon piyasasında belirsizliği azaltarak yatırımcı güvenini etkileyebilir ve ilgili fonlara yönelik ilgiyi artırabilir."
     },
     {
-      "id": "beaddf49846e",
+      "id": "dfa71b2fd2de",
       "title": "Piyasalarda dev ralli ve faiz bilmecesi: Gözler ABD'ye çevrildi",
       "source": "Sözcü Gazetesi",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTnFpWHFUZlpmdDJXMnBrWm41MF9xSEx4T0laQWNadzBzUE90eVNxclNNM01FUllUZExPQVFPc3daU3JKWDBPRTBacWFDYVdEb1R3aUluMTJ3UF9PMFRac0dNZ0QtQlJ2T1k1UFBwZ2xHQlBfWEh1UllPZWZRb3N6N2N4M2I0WmU4U09JdGhOeDdFUGt4bEw0THpzcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2xNcUZXYUdOZ2tCVkxkX2d1X05pMmVWMnd4bWVndVNqVFkzUVpOS2Z6bUtjMU5OVWZ5OGhHX19vWksydFl2UE0zaGpTdWNfT3JFRmZuSzlZSTVZZ0dFSEFJZVprX2RSdjZ4RHVmSjd0ZWs1TXY5Y3FqQ0NvdXFWb3FLZVhFVkN6SXd3WlJObnoybmRYWEN3VkVHRndjbWhf?oc=5",
       "category": "Küresel",
       "published_at": "2026-11-28T11:46:30+00:00",
       "is_breaking": false,
-      "ai_summary": "Küresel piyasalarda önemli bir yükseliş yaşanırken, faiz oranlarına ilişkin belirsizlikler devam etmektedir. Bu süreçte, özellikle ABD'den gelecek faiz kararları ve ekonomik veriler piyasaların yönünü belirlemede kritik rol oynayabilir."
-    },
-    {
-      "id": "023463ff2e98",
-      "title": "SPK’den işleme kapatılan 26 fon için yeni karar",
-      "source": "Elips Haber",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IcjQ1MUZnNENhRzBfeWJXMVdWTGNGc0l3TTFoZ3A0QzRnNHA5a2QxX25VUFFHZC1zeTBGdk82QURhdVdsLUtURGI0RWMzV3BDVjdQOU96eG5wVE9Od3oxUlNaMkJ6UFd2QWtjSEY3bWZMa1NSYjR3QTV2S3NHZw?oc=5",
-      "category": "Gündem & X",
-      "published_at": "2026-11-28T09:28:00+00:00",
-      "is_breaking": false,
-      "ai_summary": "Sermaye Piyasası Kurulu (SPK), daha önce işleme kapatılan 26 yatırım fonu için yeni bir karar aldı. Bu karar, ilgili fonların piyasada tekrar işlem görmesini sağlayarak fon piyasasında belirsizliği azaltabilir ve yatırımcı ilgisini etkileyebilir."
+      "ai_summary": "Piyasalarda büyük bir yükseliş yaşanırken, faiz oranlarına ilişkin belirsizlik devam etmektedir. Bu süreçte küresel piyasaların odağı ABD'deki gelişmelere çevrilmiştir."
     },
     {
       "id": "8220a69ca807",
@@ -193,6 +187,16 @@
       "ai_summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Fintlix adlı elektronik para kuruluşunun faaliyet iznini iptal ettiğini duyurdu. Bu karar, finansal teknoloji sektöründeki düzenleyici denetimlerin önemini vurgulayarak sektördeki diğer oyuncular üzerinde dolaylı bir etki yaratabilir."
     },
     {
+      "id": "2345231e8b16",
+      "title": "SPK'den 26 yatırım fonuna yeniden işlem izni",
+      "source": "Ege Saati",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15YTdsUVJ5UWVicnl0eXNGSTZUeTNLNDNCNXRuR2hCWGhVMVh0dWkyNkpIS094LUFVSUhESUpncVhYcWI3ZW1EVW5aWkZyNTU2NVhLa0w3MXF6bFRGQTBydHUtYWdtaEdRcDVFV3dHM0JCWUFHeTBBVTVpOA?oc=5",
+      "category": "Gündem & X",
+      "published_at": "2026-11-28T09:03:00+00:00",
+      "is_breaking": false,
+      "ai_summary": "Sermaye Piyasası Kurulu (SPK), 26 adet yatırım fonuna yeniden işlem yapma izni vermiştir. Bu karar, ilgili yatırım fonlarının piyasalardaki faaliyetlerine devam etmesini sağlamaktadır."
+    },
+    {
       "id": "7afab7e2a789",
       "title": "Elektronik para sektöründe yeni karar: TCMB’den Fintlix’e lisans iptali",
       "source": "Paratic Haber",
@@ -201,16 +205,6 @@
       "published_at": "2026-11-28T08:45:14+00:00",
       "is_breaking": false,
       "ai_summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), elektronik para sektöründe faaliyet gösteren Fintlix'in lisansını iptal ettiğini açıkladı. Bu karar, finansal teknoloji sektöründeki düzenleyici denetimlerin önemini vurgulayarak sektördeki diğer oyuncular üzerinde dolaylı bir etki yaratabilir."
-    },
-    {
-      "id": "ea466482ce41",
-      "title": "Fon soruşturmasında yeni gelişme! SPK’dan 26 fon için kritik karar",
-      "source": "Medyaradar",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWTJfSnlKUUtSRXJTYVZSNC1nM21WWUlSZHR3cHg1OVBxRTR6V2U2dUZnMTNqYk82WWVJa0YwdTJmTjRoMnh6YmZFdU5oZ0tSRFRKYVlQUlRPNVF5R0lDZVQ5QXJWSEQ2Y1hBeDRHb19pQW5CWjVaV3lPUVJHamdWN19xWjNHNXBBYnF0cW9rcVNaMDl0aV9KTE5iZ1BIQmtKeENoMFlvcXdQZw?oc=5",
-      "category": "Gündem & X",
-      "published_at": "2026-11-28T08:13:00+00:00",
-      "is_breaking": false,
-      "ai_summary": "Sermaye Piyasası Kurulu (SPK), fon soruşturması kapsamında 26 fon için kritik bir karar aldı. Bu karar, ilgili fonların piyasada tekrar işlem görmesini sağlayarak fon piyasasında belirsizliği azaltabilir ve yatırımcı ilgisini etkileyebilir."
     },
     {
       "id": "250db05fc238",
@@ -263,14 +257,14 @@
       "ai_summary": "Sermaye Piyasası Kurulu (SPK), 26 fonun yeniden işleme açılacağını duyurdu. Bu gelişme, fon piyasasında belirsizliği azaltarak yatırımcı güvenini etkileyebilir ve ilgili fonlara yönelik ilgiyi artırabilir."
     },
     {
-      "id": "8b6438625be6",
+      "id": "d2418ff97122",
       "title": "Küresel Piyasalarda Güçlü Toparlanma: Dow Jones 2022'den Bu Yana En İyi Haftasını Geride Bıraktı",
       "source": "Para Analiz",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN2g1SFZPeERCTHd3V1ZWSURQXzRYeU5RbXBjZk9vUVNQQVZoVGIyY1ZPOElQQlh3emdEOWo0Rm0yTnJjTmxJejRPLUhoN1V0NnFwbkpUSzlHOWFfMlJrXzc5MzdyX3c0alFEQ3owTVdaSloxUEFOZU92Y1loZWxKV1FxVGJHYmlfdklVMUp0RmRnSWZQNF9DOWQ2dVd3SmNzRDV3SVZCRWVFeXY4a1VjemtNUXFpQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUowdnVSZUVubGRWeTU3WkpaQkZ1RHZBNVZMdTN4Zm9JZEF4M2RRTVAyOVpxT3dHQVVHcWpfcjY3bjNtSTZzTmxUY1YzOU5Wem1qMFh2R29XN1pIVllteTRkUWlDOWpNR21qcnFKR3ZZU0RSMVJJMVVfbFByczNTWTFKN05kcUd6ZmVzTk5Pb3ZleGFQZmV6VFVyVFVmUlFfSHNRU2pKOEpaY2J3RElNaEpB?oc=5",
       "category": "Küresel",
       "published_at": "2026-11-28T00:14:53+00:00",
       "is_breaking": false,
-      "ai_summary": "Küresel piyasalarda güçlü bir toparlanma yaşanmış olup, Dow Jones endeksi 2022'den bu yana en iyi haftalık performansını sergilemiştir. Bu durum, yatırımcı güveninin arttığını ve küresel ekonomideki iyimser beklentilerin güçlendiğini işaret edebilir."
+      "ai_summary": "Küresel piyasalarda güçlü bir toparlanma gözlemlenmiştir. Dow Jones endeksi, 2022 yılından bu yana en iyi haftalık performansını kaydetmiştir."
     },
     {
       "id": "e3673ea7c922",
@@ -281,16 +275,6 @@
       "published_at": "2026-11-27T17:20:27+00:00",
       "is_breaking": false,
       "ai_summary": "ABD Merkez Bankası'nın (Fed) Aralık ayında faiz artırma ihtimalinin yüzde 99'u aştığı belirtilmektedir. Bu yüksek beklenti, küresel piyasalar için önemli bir para politikası gelişmesini işaret etmektedir. Küresel piyasalarda doların değerini artırabilir, gelişmekte olan ülke piyasalarından sermaye çıkışına neden olabilir ve riskli varlıklar üzerinde baskı yaratabilir."
-    },
-    {
-      "id": "1ea20c1096be",
-      "title": "Nasdaq %1,5 yükselişle açıldı; ABD hisseleri haftalık kazanç peşinde",
-      "source": "Invezz",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVItclU2YURlN0RQcUkySXk5dWEwa1FHTEFpZWJqVEt0akQycGhuSjl2c0NYMlhYYmFFZHcwOHd3eG5xS3UxNG9wN1l1Qlg4YUtNQU5YRk40bTNoTEpCMWdPQ0ViOWtNSnA5ck9GTmdub1AtdzV1QnpsWnFTQ1pqWjhicmh6cWdfcmZIOWl2eHQyemN0NXpONTRYREwwb0JXZTRVN3hZVjJhRzlJTDhyWFRn?oc=5",
-      "category": "Küresel",
-      "published_at": "2026-11-27T16:28:46+00:00",
-      "is_breaking": false,
-      "ai_summary": "Nasdaq endeksi güne %1,5'lik bir yükselişle başlamış olup, ABD hisse senedi piyasaları haftalık kazanç elde etme çabasındadır. Bu durum, teknoloji hisselerindeki olumlu seyrin devam ettiğini ve genel piyasa iyimserliğinin sürdüğünü gösterebilir."
     },
     {
       "id": "7c2571ed32d2",
@@ -323,6 +307,16 @@
       "ai_summary": "Borsa İstanbul günü yükselişle tamamlamıştır. Kapanışta oluşan yeni rakamlar, endeksin gün sonu değerini ortaya koymuştur."
     },
     {
+      "id": "7e48281a4325",
+      "title": "Piyasalarda gün sonu / 27 Kasım 2026",
+      "source": "Canlı Gaste",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGWU9PVFBjanJRZ3lWYWtfYzllOXR4R0VQYkctRFY0Wko0Sk55aG9iOFAwWXJ2bW81MkNiR0x6VHllc1JKY2RkTHJHeEk2OWQtUktPOGlmcV9qMnpqQlNiZnBUNDZvb0MwTWpXcXIyREN4NVQ4aU4xUQ?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-27T15:32:12+00:00",
+      "is_breaking": false,
+      "ai_summary": "27 Kasım 2026 tarihinde piyasalardaki gün sonu kapanış verileri açıklanmıştır. Bu bilgiler, ilgili tarihteki piyasa hareketliliğini özetlemektedir."
+    },
+    {
       "id": "bff3e20de983",
       "title": "BIST 100 günü yüzde 2,18 artışla 10.977,01 puandan kapattı",
       "source": "Canlı Gaste",
@@ -331,6 +325,16 @@
       "published_at": "2026-11-27T15:30:56+00:00",
       "is_breaking": false,
       "ai_summary": "BIST 100 endeksi günü yüzde 2,18 oranında artışla tamamlamıştır. Endeks kapanışta 10.977,01 puandan işlem görmüştür."
+    },
+    {
+      "id": "6a6fac30aae0",
+      "title": "FED'den piyasaları hareketlendirecek sinyal: Türkiye nasıl etkilenecek?",
+      "source": "Bundle",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbmdXUzFkY2xZUWo2Qml0T2FLV1pSR1gzLUZIWGRfRF9EUm5OZTZhUWQ4dG04amhsUnloRmJsUHBDTzJZTDZuVXJHVUtGVFFCNXNMVjhNNm5wbVZTejBDazVwTWZjRmNnd0puYS1WaUw1RmQ1dVJKY1R0VFNNdF83YWNvNnJ0Vml3WlNfNl9sWTBjbTVzbVpsOTNLc0t6bndHQklST1NNNmk0UEpZM3hTNU1uTU9QdFBQNWFxM0d6aFNqdUZ0VHhkR0tYNVV3dVotRC1zSA?oc=5",
+      "category": "Küresel",
+      "published_at": "2026-11-27T14:42:22+00:00",
+      "is_breaking": false,
+      "ai_summary": "ABD Merkez Bankası (FED) tarafından piyasaları etkileyecek bir sinyal verilmiştir. Bu gelişmenin Türkiye piyasaları üzerindeki potansiyel etkileri değerlendirilmektedir."
     },
     {
       "id": "42b473ac358c",
@@ -353,14 +357,14 @@
       "ai_summary": "JPMorgan, Türkiye Cumhuriyet Merkez Bankası (TCMB) ile ilgili tahminlerini güncellemiştir. Bu değişiklik, bankanın para politikası beklentilerine yönelik yeni bir değerlendirmeyi içermektedir."
     },
     {
-      "id": "bc977954b30d",
-      "title": "Altında toparlanma başladı! Yükseliş kalıcı olacak mı? Piyasaların gözü Fed’in faiz kararında",
-      "source": "Sabah",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM3p0SmV2Mlc1VWJvY0dnMGNDRk1QaHdMWkp1Tk5GZDlVMXdIbDBIa1RXSUNGdUMwbzNhWVF0V0RSVHQxOU9tU2M5Sm5hWEpsWUtGUzJJenhJcm5iZEhyU3c1eERYRWJrYTFVYXFlVGx1Z0Q3VDZOSTh0Q3JsVzdaQTdsV2VwczJvSXY0MTJ6OGFfR2hJYUlXVE84WmUxaU5sR3c0OTNnWmh3d2w1YWZuSWZGd2xJOXh5ZjZoejV6WEwtc1NVSDFiYUJkOWFGaTdNQlHSAdQBQVVfeXFMT1lpNmExRk15Vk5Kbk5VeTl1U2ItdDh0YXlXbF9qYzVqTV8yaWp3bDh4YW4wLVRsbko5dFlfWkFkRVdYMlVZN0lmOVVOZnczeGtSaE9SLUtGNS1vamdKMW10MDM2MjIweWpqdDN2NG92c2x1VHJ6QUxQZnNoOElnTmxBUEtKRnlCb0lmQlJ4c0M5b2hyYUlfcF9tdHNtSDRuYmE1SEFPeVFYUnd2WGFPcXR0NDlxRzZ4VjFZRlhEaEoycmVjMUsxTVc1c2xYY1JsRmEwQ3A?oc=5",
-      "category": "Küresel",
-      "published_at": "2026-11-27T10:35:58+00:00",
+      "id": "3b121e09a864",
+      "title": "BIST 100 ilk yarıda yüzde 1,88 yükseldi",
+      "source": "Canlı Gaste",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRmM1ZXRkSTRnSjZsTFBJelFDVS16RnVWMmt2SWU2ejFrdW9NTXpXek1ULV9LM2NfVlRaVlhNWldTbzczVTlOOUNZcDJUSWRWV2JFZjhXNFVtM3B3NmJWaGc5TXJ1MHEtMUVXNU9nLWo3Z2hsZ0s4aE9hc3h2TjBVQXBlQQ?oc=5",
+      "category": "Borsa & KAP",
+      "published_at": "2026-11-27T10:08:20+00:00",
       "is_breaking": false,
-      "ai_summary": "Altın fiyatlarında bir toparlanma süreci başlamıştır. Piyasalar, bu gelişmenin ardından Fed'in faiz kararına odaklanmıştır."
+      "ai_summary": "Borsa İstanbul 100 endeksi, günün ilk yarısında yüzde 1,88 oranında bir yükseliş kaydetmiştir. Bu artış, endeksin ilgili dönemdeki performansını göstermektedir."
     },
     {
       "id": "7c2685624134",
@@ -393,14 +397,14 @@
       "ai_summary": "Borsa İstanbul, 27 Kasım 2026 Cuma günü açılışını gerçekleştirmiştir. Açılışla birlikte BIST 100 endeksinde yeni gelişmeler yaşanmıştır."
     },
     {
-      "id": "d647cba60a18",
-      "title": "SPK'dan nitelikli yatırımcı şartlarına istisna, 66 kişi hakkında suç duyurusu",
-      "source": "Gazete Oksijen",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONnFUaTVpNlRjOGZFRXk5V08tWjg3VFhDdEtqanplaGkzR0szMVV1V19sYWhPdGZ6NDVCazN3QzFYV29mSWltcktEREtPOGM5Vk05cTNVS1Fhd0NVZWFQZ0QzNUg4ZmhQN01ld19SUUNQVXZ5bzNHczFfeTk2RU5Nam9VbW9Bd3VXYU9hY1NRRDhSVG43eDA0LUJ2WXFtdm9DOUdqYTdJbVFOYWN3Y2llcW12cUFnZmc?oc=5",
-      "category": "Gündem & X",
-      "published_at": "2026-11-27T07:29:57+00:00",
+      "id": "4135a807897b",
+      "title": "ALTIN VE BORSALARDA YÜKSELİŞ: GÖZLER FED'DE!",
+      "source": "Topuz Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50MTJWcU41T0pZZWp1UlQtV1hJcG5vMUNEdzlvc0ZmeFlIMVg0Wmlfa240ZDdGbEJUaG8yYTl5OGNtV3c2bVVKeTFMR1dQQ1I3UlB3MTFGYTVFeEVQaW43SXptUkpnVno1Y1hhNXpwei0zVExnSEhaYkxRSQ?oc=5",
+      "category": "Küresel",
+      "published_at": "2026-11-27T06:53:00+00:00",
       "is_breaking": false,
-      "ai_summary": "Sermaye Piyasası Kurulu (SPK), nitelikli yatırımcı şartlarına yönelik bir istisna kararı almıştır. Ayrıca, 66 kişi hakkında suç duyurusunda bulunulmuştur."
+      "ai_summary": "Altın fiyatları ve borsalarda genel bir yükseliş eğilimi gözlemlenmiştir. Piyasalardaki bu hareketlilikle birlikte, ABD Merkez Bankası (FED) kararları yakından takip edilmektedir."
     },
     {
       "id": "270f73187774",
@@ -413,6 +417,16 @@
       "ai_summary": "Küresel piyasalar, teknoloji hisselerine yönelik alımların etkisiyle yükseliş kaydetmektedir. Bu yükselişte teknoloji sektöründeki hareketlilik belirleyici olmuştur."
     },
     {
+      "id": "6f113dc066a0",
+      "title": "Küresel piyasalarda teknoloji rüzgârı! Borsalarda yükseliş hızlandı",
+      "source": "Türkiye İş Dünyası Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMlZyZk1EUEVLbnJXMWotZGFMOFBBSy10ZmE2bFhWQWQwcXNvSnhCREVpMFNwUmNBU3NndWxWUVRJWktlR29UMl9sUXJhQjV2SGU0WWljcDl3WGpfanlMcDhSQzE4OHd6Q0lHNEF5WERabWJwaGc3Mm1HeE9MNTRSdkJB?oc=5",
+      "category": "Küresel",
+      "published_at": "2026-11-27T06:45:32+00:00",
+      "is_breaking": false,
+      "ai_summary": "Küresel piyasalarda teknoloji sektörünün etkisiyle bir hareketlilik yaşanmaktadır. Bu durum, borsalardaki yükselişin hızlanmasına katkı sağlamıştır."
+    },
+    {
       "id": "b1ec2cbc63dd",
       "title": "Kamu alacakları için faiz indirimi - Ekonomi Haberleri",
       "source": "A Para",
@@ -421,16 +435,6 @@
       "published_at": "2026-11-27T06:44:18+00:00",
       "is_breaking": false,
       "ai_summary": "Kamu alacaklarına yönelik faiz oranlarında bir indirim yapılmıştır. Bu gelişme, ekonomi haberleri kapsamında duyurulmuştur."
-    },
-    {
-      "id": "d4d240f689b1",
-      "title": "Küresel Piyasalar Teknoloji İyimserliğiyle Pozitif Seyrediyor",
-      "source": "N Gazete",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLUdXNWxDcWxIekpTNGxfWGRpckRDVEN4d19aci1zWGY4cHQtR3JRU3pRWjJvRVlDMVB6WE9ZSkxWSTRBSFlISFhMLXBPcHF4RlhYN0doZ3lfV3Q5WHYyMFhlRnRidTktNWxORk5hUG9ubFhleVhXWUxvSENUc2thZURMa0ZEZUtpdGppbVRPQktEcnpEZEdobTFCM2tOTXlCSk5McGRhMGcxMlZlOHfSAa4BQVVfeXFMUC1HVzVsQ3FsSHpKUzRsX1hkaXJEQ1RDeHdfWnItc1hmOHB0LUdyUVN6UVoyb0VZQzFQelhPWUpMVkk0QUhZSEhYTC1wT3BxeEZYWDdHaGd5X1d0OVh2MjBYZUZ0YnU5LTVsTkZOYVBvbmxYZXlYV1lMb0hDVHNrYWVETGtGRGVLaXRqaW1UT0JLRHJ6RGRHaG0xQjNrTk15QkpOTHBkYTBnMTJWZTh3?oc=5",
-      "category": "Küresel",
-      "published_at": "2026-11-27T06:38:03+00:00",
-      "is_breaking": false,
-      "ai_summary": "Küresel piyasalar, teknoloji sektöründeki iyimserliğin etkisiyle pozitif bir seyir izlemektedir. Bu durum, teknoloji hisselerine yönelik olumlu beklentileri ortaya koymaktadır."
     },
     {
       "id": "6355c53c8040",
@@ -443,24 +447,14 @@
       "ai_summary": "Küresel piyasalar, teknoloji hisselerindeki satış baskısının azalmasıyla yükseliş kaydetmiştir. Bu durum, teknoloji sektöründeki toparlanma eğilimini işaret etmektedir."
     },
     {
-      "id": "3cabf1c8f386",
+      "id": "b7bf7e87066f",
       "title": "Küresel piyasalarda Black Friday harcamaları ve Fed’in faiz beklentileri izleniyor",
-      "source": "urfadabugun",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS3JMMHMwSU93QXdYNUJidWpLOTMxRTg4V19TZEc1by1EOERtTUJOMzFudm85bUJzbmtxVDdyRXB2R1ZuanI4UUcxajBKMHJhaEtsbERhMWNaV0dLREZpNkU3Q3F4Q1ViZUJubldKV2dleThRVC1RZkhkeTFnNkJ6YWtHQ0JTeVdKZnJvMFQxX2hGVDZzZFpiQ0MtamloLWZkX1QzSnBXaDJvNzFmMVVZend0ZldYMVR3cnZ6WEFZNEpSV05UaVE?oc=5",
+      "source": "hibya.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWhzQ0NpOFZUVUFIc0Jxbm1MMTgyWEk2UU9yZnFIWmk4X3hJQVk5bG5sMmJBWTZEMmNnaEljSUlSSlREMUV1LUpPbXQwM3l2dTlmY1RCQzFsOWx2dmF5eE13UmszYWVxVFJvZUZpMjFoSzJ3N0RnTjMtOXUzZnV3OWZwN0NvVW4yVUpSSW5hNzRVNWZpemkyTlppa0l0TllUeW1wUVN0U3pVXzg?oc=5",
       "category": "Küresel",
       "published_at": "2026-11-27T06:23:33+00:00",
       "is_breaking": false,
-      "ai_summary": "Küresel piyasalarda Black Friday harcamaları yakından takip edilmektedir. Ayrıca, Fed'in faiz oranlarına ilişkin beklentiler de piyasaların gündemindedir."
-    },
-    {
-      "id": "db113a4cf70e",
-      "title": "Küresel Borsalarda YZ Dopingi: Nasdaq Vadelileri Yüzde 2'yi Aşan Primle İşlem Görüyor",
-      "source": "Para Analiz",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZXFOcUZlZkh3cGpJS2ZFaVRlVlVYbWNDZ20wVklqNWRHX2QxMlE5b2V4bTFxTkFXdkRiN3JBYzgtY25rX2JYUGhjSHZ3RllBY3E1M05VSWg5UllfZlNMUWxUUG1ndXp1azhTaENoTEMwQTNCbjFMdkdOUFJUY19MdHp0em5ycmgyY3pPWnVMTENja04xQUF1QXItTjRPVzB4bHVISWY5akhERGVVY1JadnhUYVQ1Rjg?oc=5",
-      "category": "Küresel",
-      "published_at": "2026-11-27T04:45:12+00:00",
-      "is_breaking": false,
-      "ai_summary": "Küresel borsalarda yapay zeka (YZ) etkisiyle bir hareketlilik yaşanmaktadır. Nasdaq vadelileri, yüzde 2'yi aşan bir primle işlem görmektedir."
+      "ai_summary": "Küresel piyasalarda Black Friday dönemindeki tüketici harcamaları yakından takip edilmektedir. Aynı zamanda, ABD Merkez Bankası (FED)'in faiz oranlarına ilişkin beklentileri de piyasaların gündemindedir."
     },
     {
       "id": "bc1fed68a688",
@@ -483,44 +477,14 @@
       "ai_summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Türk Lirası zorunlu karşılık faiz oranını artırmıştır. Bu karar, para politikası araçlarında yapılan bir düzenlemeyi ifade etmektedir."
     },
     {
-      "id": "818c793a8ba7",
-      "title": "Fed’in şahin tutumu Aralık’ta “çöküş” riskini artırırken kripto alarmda",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13REJPbzVId29uczlpWUZVUzhUWGxWcmUxbkd5RjRoVzNRZEo1RzFhdDdsSkRIMDV4Y0lIejVBS2FtZnJTZ2hBMTVQQmlEVWJPdWFESVNDQTlVZVo3LWdHMzlaWU5HWklfOWpRcllYTQ?oc=5",
-      "category": "Küresel",
-      "published_at": "2026-11-26T17:39:53+00:00",
-      "is_breaking": false,
-      "ai_summary": "Fed'in şahin para politikası tutumu, Aralık ayında \"çöküş\" riskini artırdığı yönünde bir değerlendirme içermektedir. Bu gelişme üzerine kripto piyasalarında bir alarm durumu oluşmuştur."
-    },
-    {
-      "id": "2f4db807e0d7",
-      "title": "Teknoloji satışları küresel borsalarda ayrışma yarattı",
-      "source": "Ege Alternatif",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNajBxT2x4dFV1bUg2bDNKQVZRQ1hmdDg0TGwxYVluaWtjVnRlaVNwNW5nWjRZWjNGSC1UVmYxdGpqS253SHpKbjR1RVVmRW93RklRTVlXVWJNYzRBeEJBQS0tUVlkUkdlZHl6VE8xMW5jcEVHOWhka014RjBhZlBRbUlrMGVIQVg3bTBXYTczbnFDZlhKVXFmVmxKVjBjNDQ?oc=5",
-      "category": "Küresel",
-      "published_at": "2026-11-26T17:08:00+00:00",
-      "is_breaking": false,
-      "ai_summary": "Küresel borsalarda teknoloji hisselerinde gerçekleşen satışlar dikkat çekmiştir. Bu satışlar, dünya genelindeki piyasalarda farklılaşan performansların ortaya çıkmasına neden olmuştur."
-    },
-    {
-      "id": "21331f090f3d",
-      "title": "Mehmet Ali Yıldırımtürk altın için iki senaryo açıkladı: Yön değişebilir",
-      "source": "Ekonomim",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPckNId2tRY2JKTXo5YmQtMVhUMUY4VlU3a085T2pPY2Q1ZDdzMWpQVkFHcGlKZlQ5MkVsZDJlNEJ5dThVVlNSRXlvQ1Q3TFVHOGw1WExaX3g4ZjJad0haaGRaczZJVEJhcVdjVjZOdDEzV0ZlYVdHRmdQU25obXp5bXFtT1NPNzZ2aDhxUEJWNkdOeGYyN2xLWDJHRXgxbXZOa0JxSA?oc=5",
-      "category": "Küresel",
-      "published_at": "2026-11-26T15:45:00+00:00",
-      "is_breaking": false,
-      "ai_summary": "Mehmet Ali Yıldırımtürk, altın piyasasına ilişkin iki farklı senaryo ortaya koymuştur. Bu senaryolar, altın fiyatlarının gelecekteki yönünde bir değişim potansiyeli bulunduğunu belirtmektedir."
-    },
-    {
-      "id": "b772497c2624",
-      "title": "SPK'dan piyasaları yakın takibe alacak yeni düzenleme: Erken alarm sistemi geliyor",
-      "source": "İnternet Haber",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUzI2cG1LZmsxaS1YeDNRdXdEZDdlbHZtYmppdXgzN0VFSWNORmZpZjYwLVRRczBnTkR1blRqNXZwMkZyTUhhMXltUnNyNktGYXFJSkY1b0VJOXVKQkUwWlRpUmEtMUdacmhqTE5oaGdLcUZyN1lLWDFlWEFUZVRxcUlvbzJoSTNxbFhvc2x4Zk5LLUsySWF1RnF2YzVpcmhsX1B6TVZyYzlScmp0ZnJqLUhNX0ZKYmI0RlUyc3hrbVQ?oc=5",
+      "id": "5ce5895e076c",
+      "title": "Yatırımcıları yakından ilgilendiriyor! SPK'dan kritik düzenleme hazırlığı",
+      "source": "A Gazete",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUXJVRU9kN2tPS19JVnFSVTJEaFVCTV92U0dwS1dXZzlhbWVmRTVQZjQwa3pwVXgyUkpac2ViOWRFLTRnRnNpNE5ybkh1TnBVb0ZNSGluNlBVdDVIOVJxb1dfMDBfY0Q0U3g2SHR1UkYzSWpRenhuNEM1dlZlaG5Mc1BGdnJGektONlVXSHVLdGhGd3F1VmtSVEE4SmZuX054aG5zTnRqTzYySkhsYmZFOEdUTnNNYXZWUkE?oc=5",
       "category": "Gündem & X",
-      "published_at": "2026-11-26T10:52:00+00:00",
-      "is_breaking": false,
-      "ai_summary": "Sermaye Piyasası Kurulu (SPK), piyasaları daha yakından takip etmeyi hedefleyen yeni bir düzenleme duyurmuştur. Bu düzenleme ile piyasalar için bir erken alarm sistemi hayata geçirilecektir."
+      "published_at": "2026-11-26T13:26:51+00:00",
+      "is_breaking": true,
+      "ai_summary": "Sermaye Piyasası Kurulu (SPK), yatırımcıları doğrudan ilgilendiren kritik bir düzenleme üzerinde çalışmaktadır. Bu hazırlık, sermaye piyasalarında yeni kuralların yürürlüğe girebileceğine işaret etmektedir."
     },
     {
       "id": "f0f661803e14",
@@ -531,6 +495,26 @@
       "published_at": "2026-11-26T06:34:04+00:00",
       "is_breaking": false,
       "ai_summary": "Sermaye Piyasası Kurulu (SPK), 66 kişi hakkında suç duyurusunda bulunurken, 69 kişiye işlem yasağı uygulamıştır. Bu kararlar, KUYAS, SMRVA ve SVGYO hisselerini mercek altına almıştır."
+    },
+    {
+      "id": "c4108abdaf9e",
+      "title": "SPK'da yeni dönem! Otomatik erken alarm sistemi geliyor: İşte artacak cezalar",
+      "source": "A Haber",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkhsTzlGUVhuekU2MmpJV2pwdHNoQWJBM3kwelFyZVdYQWxPYV9NZGJuNmtncDlDRUFaeGtMVy0wRm5fbWhVZFJRNGt3Z3BCa19XUzhRZVJZR1J1cmw4VGdTUGxtcEhEdlhWX1VyTkdLb0xtdlNtTE0xa3NqUFZzNzFhQjVVSHdXWEk5Vll2ekNiY1hHaFRLeFlrRXdPYmc?oc=5",
+      "category": "Gündem & X",
+      "published_at": "2026-11-26T05:51:52+00:00",
+      "is_breaking": false,
+      "ai_summary": "Sermaye Piyasası Kurulu (SPK), otomatik erken alarm sistemini devreye sokarak yeni bir döneme geçmektedir. Bu sistemle birlikte, sermaye piyasalarındaki ihlallere yönelik cezaların artırılması öngörülmektedir."
+    },
+    {
+      "id": "d7faac0c83c6",
+      "title": "SPK’dan Girişim Sermayesi Yatırım Yükümlülüklerine Yeni Düzenleme",
+      "source": "Borsa Gundem",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeGtYTjFydXhMTTJrZ28yQVV2aFZMRkZoS25ZOUdnTGNKM3Y3R1loVDJlZ3Ffc3pOQXFlT0VNNEVIU1IteTVJV2tib3UxbkRLMmMtTXZqUmRjU05DTUNBNEx4THBKUWt6c3ByYWZGVnlvZ3NBR2txcV9iNGtscUJBQnNaNXktUnRWVzRrcXlnQnItdE9nVG5YbTRkRQ?oc=5",
+      "category": "Gündem & X",
+      "published_at": "2026-11-25T21:17:00+00:00",
+      "is_breaking": false,
+      "ai_summary": "Sermaye Piyasası Kurulu (SPK), girişim sermayesi yatırım yükümlülüklerine ilişkin yeni bir düzenleme yapmıştır. Bu düzenleme, ilgili alandaki yatırım faaliyetlerini etkileyecek niteliktedir."
     }
   ],
   "notification_candidates": [
@@ -581,6 +565,18 @@
       "ai_summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Türk Lirası zorunlu karşılık faiz oranını artırmıştır. Bu karar, para politikası araçlarında yapılan bir düzenlemeyi ifade etmektedir.",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcWtvZTlMNHdrRm9zQTE3aThUY3V5b3dJMFpwQzJPQjlSY0VQVmtET29kT0JiVlVkdV9OVldpVVFjTXNrNGc4czJOdndVdTAtdEJ4VUwtQjBETUt5WUdVUjRfNkFnV2JFZDdkSkF3S3lENjlaRGdYMTNnS05ndkZ4eWJn?oc=5",
       "published_at": "2026-11-26T19:42:57+00:00"
+    },
+    {
+      "id": "5ce5895e076c",
+      "notification_key": "7046cbd8d5e8",
+      "title": "Gündem & X • A Gazete",
+      "headline": "Yatırımcıları yakından ilgilendiriyor! SPK'dan kritik düzenleme hazırlığı",
+      "body": "Yatırımcıları yakından ilgilendiriyor! SPK'dan kritik düzenleme hazırlığı",
+      "source": "A Gazete",
+      "category": "Gündem & X",
+      "ai_summary": "Sermaye Piyasası Kurulu (SPK), yatırımcıları doğrudan ilgilendiren kritik bir düzenleme üzerinde çalışmaktadır. Bu hazırlık, sermaye piyasalarında yeni kuralların yürürlüğe girebileceğine işaret etmektedir.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUXJVRU9kN2tPS19JVnFSVTJEaFVCTV92U0dwS1dXZzlhbWVmRTVQZjQwa3pwVXgyUkpac2ViOWRFLTRnRnNpNE5ybkh1TnBVb0ZNSGluNlBVdDVIOVJxb1dfMDBfY0Q0U3g2SHR1UkYzSWpRenhuNEM1dlZlaG5Mc1BGdnJGektONlVXSHVLdGhGd3F1VmtSVEE4SmZuX054aG5zTnRqTzYySkhsYmZFOEdUTnNNYXZWUkE?oc=5",
+      "published_at": "2026-11-26T13:26:51+00:00"
     }
   ]
 }
