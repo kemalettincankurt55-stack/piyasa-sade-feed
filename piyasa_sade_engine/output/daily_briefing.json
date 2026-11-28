@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-28T15:12:45.677239+00:00",
-  "istanbul_time": "28.11.2026 18:12",
+  "generated_at": "2026-11-28T15:26:19.882259+00:00",
+  "istanbul_time": "28.11.2026 18:25",
   "date": "28.11.2026",
   "market_status": "weekend",
   "active_mode": "evening",
@@ -19,7 +19,7 @@
       "price": 10977.01,
       "previous_close": 10743.11,
       "change_percent": 2.18,
-      "as_of": "2026-11-28T15:12:44.239708+00:00"
+      "as_of": "2026-11-28T15:25:57.089289+00:00"
     },
     "XU030": {
       "symbol": "XU030",
@@ -27,7 +27,7 @@
       "price": 13763.83,
       "previous_close": 13453.63,
       "change_percent": 2.31,
-      "as_of": "2026-11-28T15:12:44.239708+00:00"
+      "as_of": "2026-11-28T15:25:57.089289+00:00"
     },
     "USDTRY": {
       "symbol": "USDTRY",
@@ -35,7 +35,7 @@
       "price": 50.745,
       "previous_close": 50.7185,
       "change_percent": 0.05,
-      "as_of": "2026-11-28T15:12:44.239708+00:00"
+      "as_of": "2026-11-28T15:25:57.089289+00:00"
     },
     "EURTRY": {
       "symbol": "EURTRY",
@@ -43,7 +43,7 @@
       "price": 55.4944,
       "previous_close": 55.7668,
       "change_percent": -0.49,
-      "as_of": "2026-11-28T15:12:44.239708+00:00"
+      "as_of": "2026-11-28T15:25:57.089289+00:00"
     },
     "GOLD": {
       "symbol": "GOLD",
@@ -51,7 +51,7 @@
       "price": 3668.5,
       "previous_close": 3564.6,
       "change_percent": 2.91,
-      "as_of": "2026-11-28T15:12:44.239708+00:00"
+      "as_of": "2026-11-28T15:25:57.089289+00:00"
     },
     "GRAM_ALTIN": {
       "symbol": "GRAM_ALTIN",
@@ -59,7 +59,7 @@
       "price": 5985.12,
       "previous_close": 5812.57,
       "change_percent": 2.97,
-      "as_of": "2026-11-28T15:12:44.239708+00:00"
+      "as_of": "2026-11-28T15:25:57.089289+00:00"
     }
   },
   "morning": {

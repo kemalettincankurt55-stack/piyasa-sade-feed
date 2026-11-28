@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-28T15:12:44.262969+00:00",
+  "generated_at": "2026-11-28T15:25:57.096006+00:00",
   "market_status": "weekend",
   "source": "BIST (TradingView + Yahoo Doğrulamalı • Önbellek Korundu)",
   "universe": "Tüm BIST (625 hisse)",
@@ -18,7 +18,7 @@
       "price": 10977.01,
       "previous_close": 10743.11,
       "change_percent": 2.18,
-      "as_of": "2026-11-28T15:12:44.239708+00:00"
+      "as_of": "2026-11-28T15:25:57.089289+00:00"
     },
     "XU030": {
       "symbol": "XU030",
@@ -26,7 +26,7 @@
       "price": 13763.83,
       "previous_close": 13453.63,
       "change_percent": 2.31,
-      "as_of": "2026-11-28T15:12:44.239708+00:00"
+      "as_of": "2026-11-28T15:25:57.089289+00:00"
     },
     "USDTRY": {
       "symbol": "USDTRY",
@@ -34,7 +34,7 @@
       "price": 50.745,
       "previous_close": 50.7185,
       "change_percent": 0.05,
-      "as_of": "2026-11-28T15:12:44.239708+00:00"
+      "as_of": "2026-11-28T15:25:57.089289+00:00"
     },
     "EURTRY": {
       "symbol": "EURTRY",
@@ -42,7 +42,7 @@
       "price": 55.4944,
       "previous_close": 55.7668,
       "change_percent": -0.49,
-      "as_of": "2026-11-28T15:12:44.239708+00:00"
+      "as_of": "2026-11-28T15:25:57.089289+00:00"
     },
     "GOLD": {
       "symbol": "GOLD",
@@ -50,7 +50,7 @@
       "price": 3668.5,
       "previous_close": 3564.6,
       "change_percent": 2.91,
-      "as_of": "2026-11-28T15:12:44.239708+00:00"
+      "as_of": "2026-11-28T15:25:57.089289+00:00"
     },
     "GRAM_ALTIN": {
       "symbol": "GRAM_ALTIN",
@@ -58,7 +58,7 @@
       "price": 5985.12,
       "previous_close": 5812.57,
       "change_percent": 2.97,
-      "as_of": "2026-11-28T15:12:44.239708+00:00"
+      "as_of": "2026-11-28T15:25:57.089289+00:00"
     }
   },
   "periods": {
@@ -79,7 +79,7 @@
           "change_percent": 10.0,
           "volume": 9852138.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "KGYO",
@@ -89,7 +89,7 @@
           "change_percent": 10.0,
           "volume": 16586561.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "BULGS",
@@ -99,7 +99,7 @@
           "change_percent": 10.0,
           "volume": 9486953.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "ESCAR",
@@ -109,7 +109,7 @@
           "change_percent": 10.0,
           "volume": 2211990.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "ASTOR",
@@ -119,7 +119,7 @@
           "change_percent": 9.98,
           "volume": 43853673.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "BFREN",
@@ -129,7 +129,7 @@
           "change_percent": 9.98,
           "volume": 972851.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "BIGEN",
@@ -139,7 +139,7 @@
           "change_percent": 9.98,
           "volume": 36610126.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "AKHAN",
@@ -149,7 +149,7 @@
           "change_percent": 9.97,
           "volume": 3223752.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "OTTO",
@@ -159,7 +159,7 @@
           "change_percent": 9.97,
           "volume": 459007.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "AZTEK",
@@ -169,7 +169,7 @@
           "change_percent": 9.95,
           "volume": 14842551.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "VKING",
@@ -179,7 +179,7 @@
           "change_percent": 9.92,
           "volume": 347906.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "KTLEV",
@@ -189,7 +189,7 @@
           "change_percent": 9.88,
           "volume": 1249710600.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "BSOKE",
@@ -199,7 +199,7 @@
           "change_percent": 9.87,
           "volume": 22486381.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "INFO",
@@ -209,7 +209,7 @@
           "change_percent": 9.72,
           "volume": 312953360.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "BTCIM",
@@ -219,7 +219,7 @@
           "change_percent": 9.64,
           "volume": 156753358.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         }
       ],
       "losers": [
@@ -231,7 +231,7 @@
           "change_percent": -10.0,
           "volume": 94881.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "SOHOE",
@@ -241,7 +241,7 @@
           "change_percent": -10.0,
           "volume": 47278913.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "DSTKF",
@@ -251,7 +251,7 @@
           "change_percent": -9.99,
           "volume": 3678456.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "OZATD",
@@ -261,7 +261,7 @@
           "change_percent": -9.99,
           "volume": 8198312.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "GUNDG",
@@ -271,7 +271,7 @@
           "change_percent": -9.99,
           "volume": 3720.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "LYDHO",
@@ -281,7 +281,7 @@
           "change_percent": -9.98,
           "volume": 17841363.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "SKYLP",
@@ -291,7 +291,7 @@
           "change_percent": -9.97,
           "volume": 457671.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "MAGEN",
@@ -301,7 +301,7 @@
           "change_percent": -9.95,
           "volume": 9305565.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "IEYHO",
@@ -311,7 +311,7 @@
           "change_percent": -9.92,
           "volume": 39950857.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "LIDER",
@@ -321,7 +321,7 @@
           "change_percent": -9.91,
           "volume": 18372469.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "KARCL",
@@ -331,7 +331,7 @@
           "change_percent": -9.87,
           "volume": 19380036.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "MANAS",
@@ -341,7 +341,7 @@
           "change_percent": -9.83,
           "volume": 71492267.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "IDGYO",
@@ -351,7 +351,7 @@
           "change_percent": -9.77,
           "volume": 1970668.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "TUCLK",
@@ -361,7 +361,7 @@
           "change_percent": -9.63,
           "volume": 8380685.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         },
         {
           "symbol": "PEKGY",
@@ -371,7 +371,7 @@
           "change_percent": -9.55,
           "volume": 1978552.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.260352+00:00"
+          "updated_at": "2026-11-28T15:25:57.094172+00:00"
         }
       ]
     },
@@ -958,7 +958,7 @@
           "change_percent": 109.52,
           "volume": 781050.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "OZRDN",
@@ -968,7 +968,7 @@
           "change_percent": 101.69,
           "volume": 892194.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "BIGEN",
@@ -978,7 +978,7 @@
           "change_percent": 98.17,
           "volume": 36610126.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "KTLEV",
@@ -988,7 +988,7 @@
           "change_percent": 91.17,
           "volume": 1249710600.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "PEKGY",
@@ -998,7 +998,7 @@
           "change_percent": 87.21,
           "volume": 1978552.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "MANAS",
@@ -1008,7 +1008,7 @@
           "change_percent": 77.36,
           "volume": 71492267.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "IDGYO",
@@ -1018,7 +1018,7 @@
           "change_percent": 73.12,
           "volume": 1970668.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "KARCL",
@@ -1028,7 +1028,7 @@
           "change_percent": 71.73,
           "volume": 19380036.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "ISVEA",
@@ -1038,7 +1038,7 @@
           "change_percent": 63.94,
           "volume": 17017879.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "FZLGY",
@@ -1048,7 +1048,7 @@
           "change_percent": 63.23,
           "volume": 77648025.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "NETGL",
@@ -1058,7 +1058,7 @@
           "change_percent": 62.71,
           "volume": 15834357.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "SVGYO",
@@ -1068,7 +1068,7 @@
           "change_percent": 60.66,
           "volume": 41648362.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "GUNDG",
@@ -1078,7 +1078,7 @@
           "change_percent": 54.48,
           "volume": 3720.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "SMART",
@@ -1088,7 +1088,7 @@
           "change_percent": 54.46,
           "volume": 1023512.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "BSOKE",
@@ -1098,7 +1098,7 @@
           "change_percent": 53.33,
           "volume": 22486381.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         }
       ],
       "losers": [
@@ -1110,7 +1110,7 @@
           "change_percent": -62.03,
           "volume": 94881.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "HEDEF",
@@ -1120,7 +1120,7 @@
           "change_percent": -60.02,
           "volume": 753860460.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "RALYH",
@@ -1130,7 +1130,7 @@
           "change_percent": -58.79,
           "volume": 4547036.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "OZATD",
@@ -1140,7 +1140,7 @@
           "change_percent": -53.96,
           "volume": 8198312.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "ZERGY",
@@ -1150,7 +1150,7 @@
           "change_percent": -47.17,
           "volume": 8245266.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "LIDER",
@@ -1160,7 +1160,7 @@
           "change_percent": -38.12,
           "volume": 18372469.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "CRDFA",
@@ -1170,7 +1170,7 @@
           "change_percent": -36.11,
           "volume": 1959146.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "KUVVA",
@@ -1180,7 +1180,7 @@
           "change_percent": -34.61,
           "volume": 144844.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "USHOL",
@@ -1190,7 +1190,7 @@
           "change_percent": -32.44,
           "volume": 720869.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "NETAS",
@@ -1200,7 +1200,7 @@
           "change_percent": -31.21,
           "volume": 660125.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "SOHOE",
@@ -1210,7 +1210,7 @@
           "change_percent": -30.67,
           "volume": 47278913.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "ARMGD",
@@ -1220,7 +1220,7 @@
           "change_percent": -29.81,
           "volume": 6803557.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "SOKM",
@@ -1230,7 +1230,7 @@
           "change_percent": -29.74,
           "volume": 9526329.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "MAGEN",
@@ -1240,7 +1240,7 @@
           "change_percent": -29.47,
           "volume": 9305565.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         },
         {
           "symbol": "ARASE",
@@ -1250,7 +1250,7 @@
           "change_percent": -28.29,
           "volume": 756039.0,
           "currency": "TRY",
-          "updated_at": "2026-11-28T15:12:44.261657+00:00"
+          "updated_at": "2026-11-28T15:25:57.095112+00:00"
         }
       ]
     }
