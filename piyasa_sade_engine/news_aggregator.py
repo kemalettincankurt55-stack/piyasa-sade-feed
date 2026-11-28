@@ -21,6 +21,13 @@ from urllib.parse import quote_plus
 
 import requests
 
+try:
+    from piyasa_sade_engine.feed_validator import atomic_write_validated_json, validate_economy_feed
+    from piyasa_sade_engine.spk_guardrail import find_spk_violations, is_section_spk_compliant, is_spk_compliant
+except ImportError:
+    from feed_validator import atomic_write_validated_json, validate_economy_feed
+    from spk_guardrail import find_spk_violations, is_section_spk_compliant, is_spk_compliant
+
 USER_AGENT = "Mozilla/5.0 PiyasaSade/1.2"
 
 # Futbol, magazin ve alakasız gürültü kelimeleri (kesin eleme)
@@ -232,9 +239,15 @@ def synthesize_clusters_with_gemini(
             )
             parsed = json.loads(text)
             if isinstance(parsed.get("headline"), str) and isinstance(parsed.get("bullets"), list):
-                cluster["headline"] = parsed["headline"].strip()
-                cluster["bullets"] = [str(b).strip() for b in parsed["bullets"][:3] if str(b).strip()]
-                cluster["ai_synthesized"] = True
+                cand_headline = parsed["headline"].strip()
+                cand_bullets = [str(b).strip() for b in parsed["bullets"][:3] if str(b).strip()]
+                if cand_headline and cand_bullets and is_section_spk_compliant([cand_headline, *cand_bullets]):
+                    cluster["headline"] = cand_headline
+                    cluster["bullets"] = cand_bullets
+                    cluster["ai_synthesized"] = True
+                else:
+                    violations = find_spk_violations(" ".join([cand_headline, *cand_bullets]))
+                    print(f"[WARN][SPK] Küme AI sentezi reddedildi ({cluster['id']}): {violations}")
         except Exception as exc:
             print(f"[WARN] Cluster Gemini error: {exc}")
             continue
@@ -255,7 +268,7 @@ def batch_summarize_articles_with_gemini(
     to_summarize: List[Dict[str, Any]] = []
     for article in articles:
         existing = cached_summaries.get(article["id"])
-        if existing:
+        if existing and is_spk_compliant(existing):
             article["ai_summary"] = existing
         else:
             to_summarize.append(article)
@@ -310,7 +323,12 @@ def batch_summarize_articles_with_gemini(
                 for a in batch:
                     summary = parsed.get(a["id"])
                     if isinstance(summary, str) and summary.strip():
-                        a["ai_summary"] = summary.strip()
+                        clean_summary = summary.strip()
+                        if is_spk_compliant(clean_summary):
+                            a["ai_summary"] = clean_summary
+                        else:
+                            violations = find_spk_violations(clean_summary)
+                            print(f"[WARN][SPK] Haber AI özeti reddedildi ({a['id']}): {violations}")
                 break
         except Exception:
             continue
@@ -376,10 +394,10 @@ def generate_economy_feed(output_dir: Optional[Path] = None) -> Dict[str, Any]:
     }
 
     if output_dir is not None:
-        output_dir.mkdir(parents=True, exist_ok=True)
-        (output_dir / "economy_feed.json").write_text(
-            json.dumps(feed, ensure_ascii=False, indent=2),
-            encoding="utf-8",
+        atomic_write_validated_json(
+            output_dir / "economy_feed.json",
+            feed,
+            validate_economy_feed,
         )
     return feed
 

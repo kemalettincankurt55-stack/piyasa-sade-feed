@@ -12,10 +12,15 @@ concurrency:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   update-economy-feed:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Depoyu indir
         uses: actions/checkout@v4
@@ -28,26 +33,44 @@ jobs:
       - name: Bağımlılıkları kur
         run: pip install -r requirements.txt
 
-      - name: Saf Ekonomi Haberlerini Topla ve AI Özetle
+      - name: Motor Birim & SPK Guardrail Testlerini Çalıştır
+        run: python -m unittest discover -s tests -v
+
+      - name: Saf Ekonomi Haberlerini Topla ve AI Özetle (Atomik Korumalı)
+        continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python piyasa_sade_engine/news_aggregator.py
 
-      - name: Tüm BIST (~625 Hisse) Yükselen & Düşenler Üret
+      - name: Tüm BIST (~625 Hisse) Yükselen & Düşenler Üret (Atomik Korumalı)
+        continue-on-error: true
         run: python piyasa_sade_engine/movers_aggregator.py
 
-      - name: AI Sabah Bülteni (09:30) ve Akşam Kapanış Özeti (18:25) Üret
+      - name: AI Sabah Bülteni (09:30) ve Akşam Kapanış Özeti (18:25) Üret (Atomik Korumalı)
+        continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python piyasa_sade_engine/daily_briefing_generator.py
 
-      - name: Güncel JSON akışlarını yayınla
+      - name: Güncel JSON akışlarını repoya kaydet (jsDelivr & Raw CDN)
         run: |
           git config user.name "Piyasa Sade Bot"
           git config user.email "bot@piyasasade.app"
           git add piyasa_sade_engine/output/economy_feed.json piyasa_sade_engine/output/movers_feed.json piyasa_sade_engine/output/daily_briefing.json
           if ! git diff --staged --quiet; then
-            git commit -m "chore(feed): update AI news, BIST 625 movers and daily briefings"
+            git commit -m "chore(feed): update validated AI news, BIST 625 movers and daily briefings"
             git pull --rebase -X ours origin main
             git push origin main
           fi
+
+      - name: GitHub Pages statik CDN paketi hazırla
+        uses: actions/configure-pages@v5
+
+      - name: Doğrulanmış JSON dosyalarını Pages artifact olarak yükle
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: piyasa_sade_engine/output
+
+      - name: GitHub Pages CDN'e yayınla
+        id: deployment
+        uses: actions/deploy-pages@v4

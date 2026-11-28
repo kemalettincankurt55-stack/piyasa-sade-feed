@@ -18,6 +18,13 @@ from urllib.parse import quote_plus
 
 import requests
 
+try:
+    from piyasa_sade_engine.feed_validator import atomic_write_validated_json, validate_daily_briefing
+    from piyasa_sade_engine.spk_guardrail import find_spk_violations, is_section_spk_compliant
+except ImportError:
+    from feed_validator import atomic_write_validated_json, validate_daily_briefing
+    from spk_guardrail import find_spk_violations, is_section_spk_compliant
+
 USER_AGENT = "Mozilla/5.0 PiyasaSade/1.3"
 IST_TZ = timezone(timedelta(hours=3))
 
@@ -314,13 +321,21 @@ def generate_daily_briefing(output_dir: Path) -> Dict[str, Any]:
                 src = ai_result.get(key) or {}
                 bullets = [str(b).strip() for b in (src.get("bullets") or []) if str(b).strip()][:5]
                 if bullets:
-                    target["title"] = str(src.get("title") or target["title"]).strip()
-                    target["headline"] = str(src.get("headline") or target["headline"]).strip()
-                    target["notification_body"] = str(
+                    cand_title = str(src.get("title") or target["title"]).strip()
+                    cand_headline = str(src.get("headline") or target["headline"]).strip()
+                    cand_notif = str(
                         src.get("notification_body") or target["notification_body"]
                     ).strip()
-                    target["bullets"] = bullets
-                    target["ai_generated"] = True
+                    all_texts = [cand_title, cand_headline, cand_notif, *bullets]
+                    if is_section_spk_compliant(all_texts):
+                        target["title"] = cand_title
+                        target["headline"] = cand_headline
+                        target["notification_body"] = cand_notif
+                        target["bullets"] = bullets
+                        target["ai_generated"] = True
+                    else:
+                        violations = find_spk_violations(" ".join(all_texts))
+                        print(f"[WARN][SPK] {key} AI bülteni reddedildi (sıfır tolerans): {violations}")
 
     if has_frozen_morning:
         morning = prev_morning
@@ -342,10 +357,10 @@ def generate_daily_briefing(output_dir: Path) -> Dict[str, Any]:
         "evening": evening,
     }
 
-    output_dir.mkdir(parents=True, exist_ok=True)
-    briefing_path.write_text(
-        json.dumps(payload, ensure_ascii=False, indent=2),
-        encoding="utf-8",
+    atomic_write_validated_json(
+        briefing_path,
+        payload,
+        validate_daily_briefing,
     )
     return payload
 

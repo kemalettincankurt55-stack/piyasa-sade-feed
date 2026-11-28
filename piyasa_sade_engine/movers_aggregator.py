@@ -20,6 +20,11 @@ from typing import Any, Dict, List, Optional, Tuple
 import requests
 from requests.adapters import HTTPAdapter
 
+try:
+    from piyasa_sade_engine.feed_validator import atomic_write_validated_json, validate_movers_feed
+except ImportError:
+    from feed_validator import atomic_write_validated_json, validate_movers_feed
+
 USER_AGENT = "Mozilla/5.0 PiyasaSade/1.3"
 IST_TZ = timezone(timedelta(hours=3))
 TV_TURKEY_SCAN_URL = "https://scanner.tradingview.com/turkey/scan"
@@ -557,9 +562,10 @@ def generate_movers_feed(output_dir: Optional[Path] = None) -> Dict[str, Any]:
                             "30": p30,
                         },
                     }
-                    existing_path.write_text(
-                        json.dumps(feed, ensure_ascii=False, indent=2),
-                        encoding="utf-8",
+                    atomic_write_validated_json(
+                        existing_path,
+                        feed,
+                        validate_movers_feed,
                     )
                     return feed
         except Exception as exc:
@@ -606,10 +612,10 @@ def generate_movers_feed(output_dir: Optional[Path] = None) -> Dict[str, Any]:
     }
 
     if output_dir is not None:
-        output_dir.mkdir(parents=True, exist_ok=True)
-        (output_dir / "movers_feed.json").write_text(
-            json.dumps(feed, ensure_ascii=False, indent=2),
-            encoding="utf-8",
+        atomic_write_validated_json(
+            output_dir / "movers_feed.json",
+            feed,
+            validate_movers_feed,
         )
     return feed
 
