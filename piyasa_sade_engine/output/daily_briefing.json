@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-28T16:02:27.802460+00:00",
-  "istanbul_time": "28.11.2026 19:02",
+  "generated_at": "2026-11-28T16:38:27.390503+00:00",
+  "istanbul_time": "28.11.2026 19:38",
   "date": "28.11.2026",
   "market_status": "weekend",
   "active_mode": "evening",
@@ -19,7 +19,7 @@
       "price": 10977.01,
       "previous_close": 10743.11,
       "change_percent": 2.18,
-      "as_of": "2026-11-28T16:02:26.468468+00:00"
+      "as_of": "2026-11-28T16:38:07.847179+00:00"
     },
     "XU030": {
       "symbol": "XU030",
@@ -27,7 +27,7 @@
       "price": 13763.83,
       "previous_close": 13453.63,
       "change_percent": 2.31,
-      "as_of": "2026-11-28T16:02:26.468468+00:00"
+      "as_of": "2026-11-28T16:38:07.847179+00:00"
     },
     "USDTRY": {
       "symbol": "USDTRY",
@@ -35,7 +35,7 @@
       "price": 50.745,
       "previous_close": 50.7185,
       "change_percent": 0.05,
-      "as_of": "2026-11-28T16:02:26.468468+00:00"
+      "as_of": "2026-11-28T16:38:07.847179+00:00"
     },
     "EURTRY": {
       "symbol": "EURTRY",
@@ -43,7 +43,7 @@
       "price": 55.4944,
       "previous_close": 55.7668,
       "change_percent": -0.49,
-      "as_of": "2026-11-28T16:02:26.468468+00:00"
+      "as_of": "2026-11-28T16:38:07.847179+00:00"
     },
     "GOLD": {
       "symbol": "GOLD",
@@ -51,7 +51,7 @@
       "price": 3668.5,
       "previous_close": 3564.6,
       "change_percent": 2.91,
-      "as_of": "2026-11-28T16:02:26.468468+00:00"
+      "as_of": "2026-11-28T16:38:07.847179+00:00"
     },
     "GRAM_ALTIN": {
       "symbol": "GRAM_ALTIN",
@@ -59,7 +59,7 @@
       "price": 5985.12,
       "previous_close": 5812.57,
       "change_percent": 2.97,
-      "as_of": "2026-11-28T16:02:26.468468+00:00"
+      "as_of": "2026-11-28T16:38:07.847179+00:00"
     }
   },
   "morning": {
@@ -73,9 +73,9 @@
     "bullets": [
       "Son işlem gününde BIST 100 10977.01 (+%2.18) seviyesinden kapandı; 625 ana hisseden 403 hisse artıda, 183 hisse ekside yer aldı.",
       "Döviz ve emtia görünümü: Dolar/TL 50.745 (+%0.05) · Gram Altın 5985.12 TL (+%2.97).",
-      "Gündem başlığı: Altın fiyatları yeniden yükselişte! İşte güncel fiyatlar!.",
-      "Gündem başlığı: KAP *** BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI *** Pay Bazında Devre Kesici Bildirimi.",
-      "Gündem başlığı: SPK'dan kritik fon kararı: İşleme kapatılan 26 yatırım fonu yeniden açılıyor."
+      "Gündem başlığı: KAP — BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi.",
+      "Gündem başlığı: SPK'dan kritik fon kararı: İşleme kapatılan 26 yatırım fonu yeniden açılıyor.",
+      "Gündem başlığı: Altın fiyatlarında yükseliş: Bugün gram ve çeyrek altın ne kadar?."
     ],
     "ai_generated": false
   },
@@ -92,7 +92,7 @@
       "BIST 100 10977.01 (+%2.18) · Dolar/TL 50.745 (+%0.05) · Gram Altın 5985.12 TL (+%2.97).",
       "Son seansta öne çıkan yükselenler: A1CAP (+%10.00), KGYO (+%10.00), BULGS (+%10.00).",
       "Satış baskısının yoğunlaştığı hisseler: TRHOL (-%10.00), SOHOE (-%10.00), DSTKF (-%9.99).",
-      "Öne çıkan ekonomi başlığı: Altın fiyatları yeniden yükselişte! İşte güncel fiyatlar!."
+      "Öne çıkan ekonomi başlığı: KAP — BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi."
     ],
     "ai_generated": false
   }
