@@ -21,13 +21,53 @@ import requests
 from requests.adapters import HTTPAdapter
 
 try:
+    from piyasa_sade_engine.bist_calendar import (
+        IST_TZ,
+        get_market_status,
+        is_bist_session_active,
+    )
     from piyasa_sade_engine.feed_validator import atomic_write_validated_json, validate_movers_feed
 except ImportError:
+    from bist_calendar import (
+        IST_TZ,
+        get_market_status,
+        is_bist_session_active,
+    )
     from feed_validator import atomic_write_validated_json, validate_movers_feed
 
-USER_AGENT = "Mozilla/5.0 PiyasaSade/1.3"
-IST_TZ = timezone(timedelta(hours=3))
+USER_AGENT = "Mozilla/5.0 PiyasaSade/1.5"
 TV_TURKEY_SCAN_URL = "https://scanner.tradingview.com/turkey/scan"
+
+
+def _load_turkish_bist_names() -> Dict[str, str]:
+    catalog_path = Path(__file__).resolve().parent / "data" / "bist_companies_v1.json"
+    if not catalog_path.exists():
+        return {}
+    try:
+        data = json.loads(catalog_path.read_text(encoding="utf-8"))
+        out: Dict[str, str] = {}
+        for item in data.get("companies") or []:
+            sym = str(item.get("symbol") or "").strip().upper()
+            cname = str(item.get("companyName") or "").strip()
+            if sym and cname:
+                out[sym] = cname
+        return out
+    except Exception:
+        return {}
+
+
+_TURKISH_BIST_NAMES: Dict[str, str] = _load_turkish_bist_names()
+
+
+def _clean_company_name(symbol: str, tv_desc: str) -> str:
+    official = _TURKISH_BIST_NAMES.get(symbol.upper())
+    if official:
+        return official
+    cleaned = (tv_desc or symbol).strip()
+    for suffix in (" Class A", " Class B", " Class C"):
+        if cleaned.endswith(suffix):
+            cleaned = cleaned[: -len(suffix)].strip()
+    return cleaned.replace("Yatitim", "Yatırım")
 
 
 def _create_session(pool_size: int = 28) -> requests.Session:
@@ -78,7 +118,7 @@ def _fetch_all_bist_from_tradingview(session: requests.Session) -> List[Dict[str
         if len(d) < 8:
             continue
         sym = str(d[0] or "").strip().upper()
-        name = str(d[1] or sym).strip()
+        name = _clean_company_name(sym, str(d[1] or sym).strip())
         close = d[2]
         chg = d[3]
         chg_abs = d[4]
@@ -288,12 +328,7 @@ def _point_on_or_before(
             chosen = pt
         else:
             break
-    if chosen is not None:
-        return chosen
-    # If target_day is slightly before first bar (e.g. weekend/holiday boundary within 4 days)
-    if points and (points[0][0] - target_day).days <= 4:
-        return points[0]
-    return None
+    return chosen
 
 
 def _build_1d_bucket(
@@ -305,12 +340,17 @@ def _build_1d_bucket(
     now_iso = datetime.now(timezone.utc).isoformat()
     rows: List[Dict[str, Any]] = []
     for s in tv_stocks:
+        # BIST daily circuit-breaker limit is +/-10%. Any single-day move > 11.0%
+        # (e.g. PKART -92.89% unadjusted split on TradingView) is an impossible artifact!
+        if abs(float(s["change_1d"])) > 11.0:
+            continue
         rows.append({
             "symbol": s["symbol"],
             "name": s["name"],
             "price": round(s["close"], 2),
             "previous_close": round(s["prev_close"], 2),
             "change_percent": round(s["change_1d"], 2),
+            "volume": round(float(s.get("volume") or 0), 2),
             "currency": "TRY",
             "updated_at": now_iso,
         })
@@ -455,10 +495,22 @@ def _build_tv_1m_bucket(
             matched_starts.append(pt[0])
     start_day = max(matched_starts) if matched_starts else (latest_day - timedelta(days=30))
 
+    split_symbols: set[str] = set()
+    for h in histories:
+        if _has_unadjusted_split_jump(h["points"], start_day):
+            split_symbols.add(h["stock"]["symbol"])
+
     rows: List[Dict[str, Any]] = []
     for s in tv_stocks:
+        # Reject unadjusted split artifacts (e.g. PKART -91.03%) from 30G as well!
+        if s["symbol"] in split_symbols:
+            continue
+        if abs(float(s.get("change_1d") or 0.0)) > 11.0:
+            continue
         perf_1m = s.get("perf_1m")
         if perf_1m is None or not math.isfinite(perf_1m):
+            continue
+        if perf_1m <= -82.0 or perf_1m >= 600.0:
             continue
         end_price = s["close"]
         denom = 1.0 + perf_1m / 100.0
@@ -471,6 +523,7 @@ def _build_tv_1m_bucket(
             "price": round(end_price, 2),
             "previous_close": round(start_price, 2),
             "change_percent": round(perf_1m, 2),
+            "volume": round(float(s.get("volume") or 0), 2),
             "currency": "TRY",
             "updated_at": now_iso,
         })
@@ -503,18 +556,19 @@ def _build_tv_1m_bucket(
 
 
 def _is_bist_session_active(ist_now: datetime) -> bool:
-    if ist_now.weekday() >= 5:
-        return False
-    mins = ist_now.hour * 60 + ist_now.minute
-    # Active window: 09:30 TR through 19:00 TR (includes closing settlement buffer)
-    return (9 * 60 + 30) <= mins <= (19 * 60)
+    return is_bist_session_active(ist_now)
 
 
 def generate_movers_feed(output_dir: Optional[Path] = None) -> Dict[str, Any]:
     session = _create_session(pool_size=28)
     tv_stocks = _fetch_all_bist_from_tradingview(session)
     indices = _fetch_index_snapshot(session)
+    now_utc_iso = datetime.now(timezone.utc).isoformat()
+    for entry in indices.values():
+        if isinstance(entry, dict):
+            entry.setdefault("as_of", now_utc_iso)
     ist_now = datetime.now(IST_TZ)
+    market_status = get_market_status(ist_now)
 
     # Off-hours & weekend Yahoo quota saver: if BIST is closed AND existing
     # movers_feed.json already has today's/latest session 10G/20G/30G buckets
@@ -544,7 +598,9 @@ def generate_movers_feed(output_dir: Optional[Path] = None) -> Dict[str, Any]:
                     p30 = _build_tv_1m_bucket(tv_stocks, prev_end, [], top_n=15)
                     p30["start_date"] = p30_old.get("start_date", p30["start_date"])
                     feed = {
+                        "schema_version": 2,
                         "generated_at": datetime.now(timezone.utc).isoformat(),
+                        "market_status": market_status,
                         "source": "BIST (TradingView + Yahoo Doğrulamalı • Önbellek Korundu)",
                         "universe": f"Tüm BIST ({len(tv_stocks)} hisse)",
                         "scanned_count": len(tv_stocks),
@@ -592,7 +648,9 @@ def generate_movers_feed(output_dir: Optional[Path] = None) -> Dict[str, Any]:
     p30 = _build_tv_1m_bucket(tv_stocks, latest_day, histories, top_n=15)
 
     feed = {
+        "schema_version": 2,
         "generated_at": datetime.now(timezone.utc).isoformat(),
+        "market_status": market_status,
         "source": "BIST (TradingView + Yahoo Doğrulamalı)",
         "universe": f"Tüm BIST ({len(tv_stocks)} hisse)",
         "scanned_count": len(tv_stocks),

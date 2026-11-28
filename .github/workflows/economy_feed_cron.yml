@@ -5,6 +5,12 @@ on:
     # 08:20 TR'den 23:50 TR'ye kadar her 30 dakikada bir (09:20 TR ve 18:20 TR tam isabet, gece 00-08 arası gereksiz çalışma yok)
     - cron: "20,50 5-20 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "piyasa_sade_engine/*.py"
+      - "tests/*.py"
+      - ".github/workflows/economy_feed_cron.yml"
 
 concurrency:
   group: piyasa-sade-feed-main
@@ -18,6 +24,7 @@ permissions:
 jobs:
   update-economy-feed:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -33,7 +40,7 @@ jobs:
       - name: Bağımlılıkları kur
         run: pip install -r requirements.txt
 
-      - name: Motor Birim & SPK Guardrail Testlerini Çalıştır
+      - name: Motor Birim, Bölünme & SPK Guardrail Testlerini Çalıştır
         run: python -m unittest discover -s tests -v
 
       - name: Saf Ekonomi Haberlerini Topla ve AI Özetle (Atomik Korumalı)
@@ -52,6 +59,37 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python piyasa_sade_engine/daily_briefing_generator.py
 
+      - name: Çıktı Makullük ve Bayatlık (Staleness) Kapısı
+        run: |
+          python -c "
+          import json, sys
+          from datetime import datetime, timezone
+          from pathlib import Path
+          from piyasa_sade_engine.feed_validator import validate_movers_feed, validate_economy_feed, validate_daily_briefing
+
+          out = Path('piyasa_sade_engine/output')
+          checks = [
+              ('movers_feed.json', validate_movers_feed),
+              ('economy_feed.json', validate_economy_feed),
+              ('daily_briefing.json', validate_daily_briefing),
+          ]
+          now = datetime.now(timezone.utc)
+          failed = False
+          for fname, fn in checks:
+              data = json.loads((out / fname).read_text(encoding='utf-8'))
+              errs = fn(data)
+              if errs:
+                  print(f'[ERROR] {fname} validation failed: {errs}')
+                  failed = True
+              gen = datetime.fromisoformat(data['generated_at'].replace('Z', '+00:00'))
+              age_hours = (now - gen).total_seconds() / 3600.0
+              print(f'[OK] {fname}: age={age_hours:.2f}h')
+              if age_hours > 18.0:
+                  print(f'[ERROR] {fname} is stale ({age_hours:.1f}h > 18h)!')
+                  failed = True
+          sys.exit(1 if failed else 0)
+          "
+
       - name: Güncel JSON akışlarını repoya kaydet (jsDelivr & Raw CDN)
         run: |
           git config user.name "Piyasa Sade Bot"
@@ -63,13 +101,20 @@ jobs:
             git push origin main
           fi
 
-      - name: GitHub Pages statik CDN paketi hazırla
+      - name: GitHub Pages statik CDN paketi hazırla (sadece 3 JSON)
         uses: actions/configure-pages@v5
 
       - name: Doğrulanmış JSON dosyalarını Pages artifact olarak yükle
+        run: |
+          mkdir -p _pages_dist
+          cp piyasa_sade_engine/output/economy_feed.json _pages_dist/
+          cp piyasa_sade_engine/output/movers_feed.json _pages_dist/
+          cp piyasa_sade_engine/output/daily_briefing.json _pages_dist/
+
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: piyasa_sade_engine/output
+          path: _pages_dist
 
       - name: GitHub Pages CDN'e yayınla
         id: deployment

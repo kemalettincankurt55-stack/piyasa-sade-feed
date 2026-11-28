@@ -19,14 +19,33 @@ from urllib.parse import quote_plus
 import requests
 
 try:
+    from piyasa_sade_engine.bist_calendar import (
+        IST_TZ,
+        get_market_status,
+        is_bist_trading_day,
+    )
     from piyasa_sade_engine.feed_validator import atomic_write_validated_json, validate_daily_briefing
-    from piyasa_sade_engine.spk_guardrail import find_spk_violations, is_section_spk_compliant
+    from piyasa_sade_engine.news_aggregator import is_seo_clickbait_article
+    from piyasa_sade_engine.spk_guardrail import (
+        find_spk_violations,
+        is_section_spk_compliant,
+        is_spk_compliant,
+    )
 except ImportError:
+    from bist_calendar import (
+        IST_TZ,
+        get_market_status,
+        is_bist_trading_day,
+    )
     from feed_validator import atomic_write_validated_json, validate_daily_briefing
-    from spk_guardrail import find_spk_violations, is_section_spk_compliant
+    from news_aggregator import is_seo_clickbait_article
+    from spk_guardrail import (
+        find_spk_violations,
+        is_section_spk_compliant,
+        is_spk_compliant,
+    )
 
-USER_AGENT = "Mozilla/5.0 PiyasaSade/1.3"
-IST_TZ = timezone(timedelta(hours=3))
+USER_AGENT = "Mozilla/5.0 PiyasaSade/1.5"
 
 AGENDA_QUERIES = [
     '("TCMB" OR "faiz kararı" OR "enflasyon" OR "veri takvimi" OR "ekonomik takvim" OR "piyasalar güne") when:2d',
@@ -102,34 +121,57 @@ def _build_fallback_briefings(
     usd_str = f"Dolar/TL {usd.get('price')} ({_fmt_pct(usd.get('change_percent'))})" if usd else ""
     gram_str = f"Gram Altın {gram.get('price')} TL ({_fmt_pct(gram.get('change_percent'))})" if gram else ""
 
+    safe_headlines = [
+        h for h in headlines
+        if is_spk_compliant(h) and not is_seo_clickbait_article(h)
+    ]
+    trading_day = is_bist_trading_day(ist_now.date())
+    market_status = get_market_status(ist_now)
+
     evening_bullets = [
-        f"Taranan {tot} ana BIST hissesinden {adv} tanesi günü yükselişle, {dec} tanesi düşüşle tamamladı.",
+        (
+            f"Taranan {tot} ana BIST hissesinden {adv} tanesi son işlem gününü yükselişle, {dec} tanesi düşüşle tamamladı."
+            if not trading_day
+            else f"Taranan {tot} ana BIST hissesinden {adv} tanesi günü yükselişle, {dec} tanesi düşüşle tamamladı."
+        ),
         f"{xu100_str}" + (f" · {usd_str}" if usd_str else "") + (f" · {gram_str}" if gram_str else "") + ".",
     ]
     if top_g:
         g_txt = ", ".join(f"{x['symbol']} ({_fmt_pct(x['change_percent'])})" for x in top_g)
-        evening_bullets.append(f"Günün öne çıkan yükselenleri: {g_txt}.")
+        evening_bullets.append(f"Son seansta öne çıkan yükselenler: {g_txt}.")
     if top_l:
         l_txt = ", ".join(f"{x['symbol']} ({_fmt_pct(x['change_percent'])})" for x in top_l)
         evening_bullets.append(f"Satış baskısının yoğunlaştığı hisseler: {l_txt}.")
-    if headlines:
-        evening_bullets.append(f"Günün öne çıkan ekonomi başlığı: {headlines[0]}.")
+    if safe_headlines:
+        evening_bullets.append(f"Öne çıkan ekonomi başlığı: {safe_headlines[0]}.")
 
     morning_bullets = [
         f"Son işlem gününde {xu100_str} seviyesinden kapandı; {tot} ana hisseden {adv} hisse artıda, {dec} hisse ekside yer aldı.",
     ]
     if usd_str or gram_str:
         morning_bullets.append(f"Döviz ve emtia görünümü: {' · '.join(x for x in (usd_str, gram_str) if x)}.")
-    for h in headlines[:3]:
+    for h in safe_headlines[:3]:
         morning_bullets.append(f"Gündem başlığı: {h}.")
+
+    if not trading_day:
+        closed_label = "Hafta Sonu" if market_status == "weekend" else "Resmi Tatil"
+        morning_title = f"📅 {closed_label} Piyasa Özeti • {date_tr}"
+        morning_headline = f"Borsa İstanbul {closed_label.lower()} nedeniyle kapalı; son seans ve ekonomi gündemi ({date_tr})"
+        evening_title = f"📊 Son İşlem Günü Özeti • {xu100_str}"
+        evening_headline = f"Borsa İstanbul {closed_label.lower()} nedeniyle kapalı; son seansta {adv} yükselen, {dec} düşen ({date_tr})"
+    else:
+        morning_title = f"☀️ Piyasa Açılışına 30 dk • {date_tr}"
+        morning_headline = f"BIST açılışı öncesi piyasa görünümü ve günün başlıkları ({date_tr})"
+        evening_title = f"🌙 Borsa Kapanış Özeti • {xu100_str}"
+        evening_headline = f"Borsa İstanbul gün sonu özeti: {adv} yükselen, {dec} düşen ({date_tr})"
 
     morning = {
         "id": f"morning-{date_iso}",
         "type": "morning",
         "date": date_tr,
-        "ready_at_tr": "09:30",
-        "title": f"☀️ Piyasa Açılışına 30 dk • {date_tr}",
-        "headline": f"BIST açılışı öncesi piyasa görünümü ve günün başlıkları ({date_tr})",
+        "ready_at_tr": "09:30" if trading_day else "kapali",
+        "title": morning_title,
+        "headline": morning_headline,
         "notification_body": f"Son kapanış: {xu100_str}. {morning_bullets[1] if len(morning_bullets) > 1 else ''}".strip(),
         "bullets": morning_bullets[:5],
         "ai_generated": False,
@@ -138,9 +180,9 @@ def _build_fallback_briefings(
         "id": f"evening-{date_iso}",
         "type": "evening",
         "date": date_tr,
-        "ready_at_tr": "18:25",
-        "title": f"🌙 Borsa Kapanış Özeti • {xu100_str}",
-        "headline": f"Borsa İstanbul gün sonu özeti: {adv} yükselen, {dec} düşen ({date_tr})",
+        "ready_at_tr": "18:25" if trading_day else "kapali",
+        "title": evening_title,
+        "headline": evening_headline,
         "notification_body": f"{xu100_str}. {tot} ana BIST hissesinden {dec} tanesi düşüşte, {adv} tanesi yükselişte kapattı.",
         "bullets": evening_bullets[:5],
         "ai_generated": False,
@@ -313,8 +355,12 @@ def generate_daily_briefing(output_dir: Path) -> Dict[str, Any]:
 
     morning, evening = _build_fallback_briefings(movers, all_headlines, ist_now)
 
+    trading_day = is_bist_trading_day(ist_now.date())
+    market_status = get_market_status(ist_now)
+
+    # On weekends & official BIST holidays, NEVER call AI for fake "bugün borsa kapattı" or "açılışa 30 dk"!
     api_key = (os.environ.get("GEMINI_API_KEY") or "").strip()
-    if api_key and not (has_frozen_morning and has_frozen_evening):
+    if trading_day and api_key and not (has_frozen_morning and has_frozen_evening):
         ai_result = _call_gemini_briefings(movers, articles, agenda_headlines, ist_now, api_key)
         if ai_result:
             for key, target in (("morning", morning), ("evening", evening)):
@@ -335,20 +381,22 @@ def generate_daily_briefing(output_dir: Path) -> Dict[str, Any]:
                         target["ai_generated"] = True
                     else:
                         violations = find_spk_violations(" ".join(all_texts))
-                        print(f"[WARN][SPK] {key} AI bülteni reddedildi (sıfır tolerans): {violations}")
+                        print(f"[WARN][SPK] {key} AI bulteni reddedildi (sifir tolerans): {violations}")
 
-    if has_frozen_morning:
+    if trading_day and has_frozen_morning:
         morning = prev_morning
-    if has_frozen_evening:
+    if trading_day and has_frozen_evening:
         evening = prev_evening
 
-    # Morning mode strictly 06:00 - 12:00 TR on weekdays; Evening/Intraday summary otherwise
-    active_mode = "morning" if (ist_now.weekday() < 5 and 6 <= ist_now.hour < 12) else "evening"
+    # Morning mode strictly 06:00 - 12:00 TR on official BIST trading days; Evening/Closed summary otherwise
+    active_mode = "morning" if (trading_day and 6 <= ist_now.hour < 12) else "evening"
 
     payload = {
+        "schema_version": 2,
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "istanbul_time": ist_now.strftime("%d.%m.%Y %H:%M"),
         "date": date_tr,
+        "market_status": market_status,
         "active_mode": active_mode,
         "disclaimer": "Yatırım tavsiyesi değildir (YTD). Doğrulanmış piyasa verileri ve ekonomi başlıklarından üretilmiştir.",
         "breadth": movers.get("breadth") or {},

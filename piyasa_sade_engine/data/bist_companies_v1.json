@@ -1,0 +1,6098 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": "2026-08-30",
+  "sourceUrl": "https://kap.org.tr/tr/bist-sirketler",
+  "fetchedAtUtc": "2026-08-30T21:30:57.582126Z",
+  "companyCount": 761,
+  "contentHash": "c5c87ca90419856e78b2fc3bb213ca03748685f73ab8b3c064c988ffb946f8dc",
+  "companies": [
+    {
+      "symbol": "A1CAP",
+      "companyName": "A1 CAPİTAL YATIRIM MENKUL DEĞERLER A.Ş.",
+      "normalizedName": "a1 capital yatirim menkul degerler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "A1CAP.IS"
+    },
+    {
+      "symbol": "A1YEN",
+      "companyName": "A1 YENİLENEBİLİR ENERJİ ÜRETİM A.Ş.",
+      "normalizedName": "a1 yenilenebilir enerji uretim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "A1YEN.IS"
+    },
+    {
+      "symbol": "AAGYO",
+      "companyName": "AĞAOĞLU AVRASYA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "agaoglu avrasya gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AAGYO.IS"
+    },
+    {
+      "symbol": "ACSEL",
+      "companyName": "ACISELSAN ACIPAYAM SELÜLOZ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "aciselsan acipayam seluloz sanayi ve ticaret a s",
+      "city": "DENİZLİ",
+      "sector": null,
+      "dataSymbol": "ACSEL.IS"
+    },
+    {
+      "symbol": "ADB",
+      "companyName": "ANADOLUBANK A.Ş.",
+      "normalizedName": "anadolubank a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ADB.IS"
+    },
+    {
+      "symbol": "ADEL",
+      "companyName": "ADEL KALEMCİLİK TİCARET VE SANAYİ A.Ş.",
+      "normalizedName": "adel kalemcilik ticaret ve sanayi a s",
+      "city": "KOCAELİ",
+      "sector": null,
+      "dataSymbol": "ADEL.IS"
+    },
+    {
+      "symbol": "ADESE",
+      "companyName": "ADESE GAYRİMENKUL YATIRIM A.Ş.",
+      "normalizedName": "adese gayrimenkul yatirim a s",
+      "city": "KONYA",
+      "sector": null,
+      "dataSymbol": "ADESE.IS"
+    },
+    {
+      "symbol": "ADGYO",
+      "companyName": "ADRA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "adra gayrimenkul yatirim ortakligi a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "ADGYO.IS"
+    },
+    {
+      "symbol": "ADLVY",
+      "companyName": "ADİL VARLIK YÖNETİM A.Ş.",
+      "normalizedName": "adil varlik yonetim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ADLVY.IS"
+    },
+    {
+      "symbol": "AEFES",
+      "companyName": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+      "normalizedName": "anadolu efes biracilik ve malt sanayii a s",
+      "city": null,
+      "sector": null,
+      "dataSymbol": "AEFES.IS"
+    },
+    {
+      "symbol": "AFB",
+      "companyName": "AKTİF YATIRIM BANKASI A.Ş.",
+      "normalizedName": "aktif yatirim bankasi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AFB.IS"
+    },
+    {
+      "symbol": "AFYON",
+      "companyName": "AFYON ÇİMENTO SANAYİ T.A.Ş.",
+      "normalizedName": "afyon cimento sanayi t a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AFYON.IS"
+    },
+    {
+      "symbol": "AGESA",
+      "companyName": "AGESA HAYAT VE EMEKLİLİK A.Ş.",
+      "normalizedName": "agesa hayat ve emeklilik a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AGESA.IS"
+    },
+    {
+      "symbol": "AGHOL",
+      "companyName": "AG ANADOLU GRUBU HOLDİNG A.Ş.",
+      "normalizedName": "ag anadolu grubu holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AGHOL.IS"
+    },
+    {
+      "symbol": "AGROT",
+      "companyName": "AGROTECH YÜKSEK TEKNOLOJİ VE YATIRIM A.Ş.",
+      "normalizedName": "agrotech yuksek teknoloji ve yatirim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AGROT.IS"
+    },
+    {
+      "symbol": "AGYO",
+      "companyName": "ATAKULE GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "atakule gayrimenkul yatirim ortakligi a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "AGYO.IS"
+    },
+    {
+      "symbol": "AHGAZ",
+      "companyName": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş.",
+      "normalizedName": "ahlatci dogal gaz dagitim enerji ve yatirim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AHGAZ.IS"
+    },
+    {
+      "symbol": "AHSGY",
+      "companyName": "AHES GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "ahes gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AHSGY.IS"
+    },
+    {
+      "symbol": "AKBNK",
+      "companyName": "AKBANK T.A.Ş.",
+      "normalizedName": "akbank t a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AKBNK.IS"
+    },
+    {
+      "symbol": "AKCNS",
+      "companyName": "AKÇANSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "akcansa cimento sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AKCNS.IS"
+    },
+    {
+      "symbol": "AKCVR",
+      "companyName": "AKADEMİ ÇEVRE ENTEGRE ATIK YÖNETİMİ ENDÜSTRİ A.Ş.",
+      "normalizedName": "akademi cevre entegre atik yonetimi endustri a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AKCVR.IS"
+    },
+    {
+      "symbol": "AKDFA",
+      "companyName": "AKDENİZ FAKTORİNG A.Ş.",
+      "normalizedName": "akdeniz faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AKDFA.IS"
+    },
+    {
+      "symbol": "AKENR",
+      "companyName": "AKENERJİ ELEKTRİK ÜRETİM A.Ş.",
+      "normalizedName": "akenerji elektrik uretim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AKENR.IS"
+    },
+    {
+      "symbol": "AKFGY",
+      "companyName": "AKFEN GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "akfen gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AKFGY.IS"
+    },
+    {
+      "symbol": "AKFIS",
+      "companyName": "AKFEN İNŞAAT TURİZM VE TİCARET A.Ş.",
+      "normalizedName": "akfen insaat turizm ve ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "AKFIS.IS"
+    },
+    {
+      "symbol": "AKFK",
+      "companyName": "AK FİNANSAL KİRALAMA A.Ş.",
+      "normalizedName": "ak finansal kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AKFK.IS"
+    },
+    {
+      "symbol": "AKFYE",
+      "companyName": "AKFEN YENİLENEBİLİR ENERJİ A.Ş.",
+      "normalizedName": "akfen yenilenebilir enerji a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "AKFYE.IS"
+    },
+    {
+      "symbol": "AKGRT",
+      "companyName": "AKSİGORTA A.Ş.",
+      "normalizedName": "aksigorta a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AKGRT.IS"
+    },
+    {
+      "symbol": "AKHAN",
+      "companyName": "AKHAN UN FABRİKASI VE TARIM ÜRÜNLERİ GIDA SANAYİ TİCARET A.Ş.",
+      "normalizedName": "akhan un fabrikasi ve tarim urunleri gida sanayi ticaret a s",
+      "city": "ADANA",
+      "sector": null,
+      "dataSymbol": "AKHAN.IS"
+    },
+    {
+      "symbol": "AKM",
+      "companyName": "AK YATIRIM MENKUL DEĞERLER A.Ş.",
+      "normalizedName": "ak yatirim menkul degerler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AKM.IS"
+    },
+    {
+      "symbol": "AKMGY",
+      "companyName": "AKMERKEZ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "akmerkez gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AKMGY.IS"
+    },
+    {
+      "symbol": "AKSA",
+      "companyName": "AKSA AKRİLİK KİMYA SANAYİİ A.Ş.",
+      "normalizedName": "aksa akrilik kimya sanayii a s",
+      "city": "YALOVA",
+      "sector": null,
+      "dataSymbol": "AKSA.IS"
+    },
+    {
+      "symbol": "AKSEN",
+      "companyName": "AKSA ENERJİ ÜRETİM A.Ş.",
+      "normalizedName": "aksa enerji uretim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AKSEN.IS"
+    },
+    {
+      "symbol": "AKSFA",
+      "companyName": "AK FAKTORİNG A.Ş.",
+      "normalizedName": "ak faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AKSFA.IS"
+    },
+    {
+      "symbol": "AKSGY",
+      "companyName": "AKİŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "akis gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AKSGY.IS"
+    },
+    {
+      "symbol": "AKSUE",
+      "companyName": "AKSU ENERJİ VE TİCARET A.Ş.",
+      "normalizedName": "aksu enerji ve ticaret a s",
+      "city": "ISPARTA",
+      "sector": null,
+      "dataSymbol": "AKSUE.IS"
+    },
+    {
+      "symbol": "AKTVK",
+      "companyName": "AKTİF BANK SUKUK VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "aktif bank sukuk varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AKTVK.IS"
+    },
+    {
+      "symbol": "AKYHO",
+      "companyName": "AKDENİZ YATIRIM HOLDİNG A.Ş.",
+      "normalizedName": "akdeniz yatirim holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AKYHO.IS"
+    },
+    {
+      "symbol": "ALARK",
+      "companyName": "ALARKO HOLDİNG A.Ş.",
+      "normalizedName": "alarko holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ALARK.IS"
+    },
+    {
+      "symbol": "ALBRK",
+      "companyName": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+      "normalizedName": "albaraka turk katilim bankasi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ALBRK.IS"
+    },
+    {
+      "symbol": "ALBTN",
+      "companyName": "ALBAYRAK HAZIR BETON SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "albayrak hazir beton sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ALBTN.IS"
+    },
+    {
+      "symbol": "ALCAR",
+      "companyName": "ALARKO CARRIER SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "alarko carrier sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ALCAR.IS"
+    },
+    {
+      "symbol": "ALCTL",
+      "companyName": "ALCATEL LUCENT TELETAŞ TELEKOMÜNİKASYON A.Ş.",
+      "normalizedName": "alcatel lucent teletas telekomunikasyon a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ALCTL.IS"
+    },
+    {
+      "symbol": "ALFAS",
+      "companyName": "ALFA SOLAR ENERJİ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "alfa solar enerji sanayi ve ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "ALFAS.IS"
+    },
+    {
+      "symbol": "ALGYO",
+      "companyName": "ALARKO GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "alarko gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ALGYO.IS"
+    },
+    {
+      "symbol": "ALJF",
+      "companyName": "ALJ FİNANSMAN A.Ş.",
+      "normalizedName": "alj finansman a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ALJF.IS"
+    },
+    {
+      "symbol": "ALKA",
+      "companyName": "ALKİM KAĞIT SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "alkim kagit sanayi ve ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "ALKA.IS"
+    },
+    {
+      "symbol": "ALKIM",
+      "companyName": "ALKİM ALKALİ KİMYA A.Ş.",
+      "normalizedName": "alkim alkali kimya a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ALKIM.IS"
+    },
+    {
+      "symbol": "ALKLC",
+      "companyName": "ALTINKILIÇ GIDA VE SÜT SANAYİ TİCARET A.Ş.",
+      "normalizedName": "altinkilic gida ve sut sanayi ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ALKLC.IS"
+    },
+    {
+      "symbol": "ALNUS",
+      "companyName": "ALNUS YATIRIM MENKUL DEĞERLER A.Ş.",
+      "normalizedName": "alnus yatirim menkul degerler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ALNUS.IS"
+    },
+    {
+      "symbol": "ALTNY",
+      "companyName": "ALTINAY SAVUNMA TEKNOLOJİLERİ A.Ş.",
+      "normalizedName": "altinay savunma teknolojileri a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ALTNY.IS"
+    },
+    {
+      "symbol": "ALVES",
+      "companyName": "ALVES KABLO SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "alves kablo sanayi ve ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "ALVES.IS"
+    },
+    {
+      "symbol": "ANELE",
+      "companyName": "ANEL ELEKTRİK PROJE TAAHHÜT VE TİCARET A.Ş.",
+      "normalizedName": "anel elektrik proje taahhut ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ANELE.IS"
+    },
+    {
+      "symbol": "ANGEN",
+      "companyName": "ANATOLİA TANI VE BİYOTEKNOLOJİ ÜRÜNLERİ ARAŞTIRMA GELİŞTİRME SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "anatolia tani ve biyoteknoloji urunleri arastirma gelistirme sanayi ve ticaret a s",
+      "city": null,
+      "sector": null,
+      "dataSymbol": "ANGEN.IS"
+    },
+    {
+      "symbol": "ANHYT",
+      "companyName": "ANADOLU HAYAT EMEKLİLİK A.Ş.",
+      "normalizedName": "anadolu hayat emeklilik a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ANHYT.IS"
+    },
+    {
+      "symbol": "ANSGR",
+      "companyName": "ANADOLU ANONİM TÜRK SİGORTA ŞİRKETİ",
+      "normalizedName": "anadolu anonim turk sigorta sirketi",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ANSGR.IS"
+    },
+    {
+      "symbol": "ARASE",
+      "companyName": "DOĞU ARAS ENERJİ YATIRIMLARI A.Ş.",
+      "normalizedName": "dogu aras enerji yatirimlari a s",
+      "city": "ERZURUM",
+      "sector": null,
+      "dataSymbol": "ARASE.IS"
+    },
+    {
+      "symbol": "ARCLK",
+      "companyName": "ARÇELİK A.Ş.",
+      "normalizedName": "arcelik a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ARCLK.IS"
+    },
+    {
+      "symbol": "ARDYZ",
+      "companyName": "ARD GRUP BİLİŞİM TEKNOLOJİLERİ A.Ş.",
+      "normalizedName": "ard grup bilisim teknolojileri a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "ARDYZ.IS"
+    },
+    {
+      "symbol": "ARENA",
+      "companyName": "ARENA BİLGİSAYAR SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "arena bilgisayar sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ARENA.IS"
+    },
+    {
+      "symbol": "ARFYE",
+      "companyName": "ARF BİO YENİLENEBİLİR ENERJİ ÜRETİM A.Ş.",
+      "normalizedName": "arf bio yenilenebilir enerji uretim a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "ARFYE.IS"
+    },
+    {
+      "symbol": "ARMGD",
+      "companyName": "ARMADA GIDA TİCARET SANAYİ A.Ş.",
+      "normalizedName": "armada gida ticaret sanayi a s",
+      "city": "MERSİN",
+      "sector": null,
+      "dataSymbol": "ARMGD.IS"
+    },
+    {
+      "symbol": "ARSAN",
+      "companyName": "ARSAN HOLDİNG A.Ş.",
+      "normalizedName": "arsan holding a s",
+      "city": "KAHRAMANMARAŞ",
+      "sector": null,
+      "dataSymbol": "ARSAN.IS"
+    },
+    {
+      "symbol": "ARSVY",
+      "companyName": "ARSAN VARLIK YÖNETİM A.Ş.",
+      "normalizedName": "arsan varlik yonetim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ARSVY.IS"
+    },
+    {
+      "symbol": "ARTMS",
+      "companyName": "ARTEMİS HALI A.Ş.",
+      "normalizedName": "artemis hali a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ARTMS.IS"
+    },
+    {
+      "symbol": "ARZUM",
+      "companyName": "ARZUM ELEKTRİKLİ EV ALETLERİ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "arzum elektrikli ev aletleri sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ARZUM.IS"
+    },
+    {
+      "symbol": "ASELS",
+      "companyName": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "aselsan elektronik sanayi ve ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "ASELS.IS"
+    },
+    {
+      "symbol": "ASGYO",
+      "companyName": "ASCE GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "asce gayrimenkul yatirim ortakligi a s",
+      "city": "GAZİANTEP",
+      "sector": null,
+      "dataSymbol": "ASGYO.IS"
+    },
+    {
+      "symbol": "ASTOR",
+      "companyName": "ASTOR ENERJİ A.Ş.",
+      "normalizedName": "astor enerji a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "ASTOR.IS"
+    },
+    {
+      "symbol": "ASUZU",
+      "companyName": "ANADOLU ISUZU OTOMOTİV SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "anadolu isuzu otomotiv sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ASUZU.IS"
+    },
+    {
+      "symbol": "ATA",
+      "companyName": "ATA YATIRIM MENKUL KIYMETLER A.Ş.",
+      "normalizedName": "ata yatirim menkul kiymetler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ATA.IS"
+    },
+    {
+      "symbol": "ATAGY",
+      "companyName": "ATA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "ata gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ATAGY.IS"
+    },
+    {
+      "symbol": "ATAKP",
+      "companyName": "ATAKEY PATATES GIDA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "atakey patates gida sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ATAKP.IS"
+    },
+    {
+      "symbol": "ATATP",
+      "companyName": "ATP YAZILIM VE TEKNOLOJİ A.Ş.",
+      "normalizedName": "atp yazilim ve teknoloji a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ATATP.IS"
+    },
+    {
+      "symbol": "ATATR",
+      "companyName": "ATA TURİZM İŞLETMECİLİK TAŞIMACILIK MADENCİLİK KUYUMCULUK SANAYİ VE DIŞ TİCARET A.Ş.",
+      "normalizedName": "ata turizm isletmecilik tasimacilik madencilik kuyumculuk sanayi ve dis ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ATATR.IS"
+    },
+    {
+      "symbol": "ATAVK",
+      "companyName": "ATA VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "ata varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ATAVK.IS"
+    },
+    {
+      "symbol": "ATEKS",
+      "companyName": "AKIN TEKSTİL A.Ş.",
+      "normalizedName": "akin tekstil a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ATEKS.IS"
+    },
+    {
+      "symbol": "ATLAS",
+      "companyName": "ATLAS MENKUL KIYMETLER YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "atlas menkul kiymetler yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ATLAS.IS"
+    },
+    {
+      "symbol": "ATLFA",
+      "companyName": "ATILIM FAKTORİNG A.Ş.",
+      "normalizedName": "atilim faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ATLFA.IS"
+    },
+    {
+      "symbol": "ATSYH",
+      "companyName": "ATLANTİS YATIRIM HOLDİNG A.Ş.",
+      "normalizedName": "atlantis yatirim holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ATSYH.IS"
+    },
+    {
+      "symbol": "AVGYO",
+      "companyName": "AVRASYA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "avrasya gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AVGYO.IS"
+    },
+    {
+      "symbol": "AVHOL",
+      "companyName": "AVRUPA YATIRIM HOLDİNG A.Ş.",
+      "normalizedName": "avrupa yatirim holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AVHOL.IS"
+    },
+    {
+      "symbol": "AVOD",
+      "companyName": "A.V.O.D. KURUTULMUŞ GIDA VE TARIM ÜRÜNLERİ SANAYİ TİCARET A.Ş.",
+      "normalizedName": "a v o d kurutulmus gida ve tarim urunleri sanayi ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "AVOD.IS"
+    },
+    {
+      "symbol": "AVPGY",
+      "companyName": "AVRUPAKENT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "avrupakent gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AVPGY.IS"
+    },
+    {
+      "symbol": "AVTUR",
+      "companyName": "AVRASYA PETROL VE TURİSTİK TESİSLER YATIRIMLAR A.Ş.",
+      "normalizedName": "avrasya petrol ve turistik tesisler yatirimlar a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AVTUR.IS"
+    },
+    {
+      "symbol": "AYCES",
+      "companyName": "ALTIN YUNUS ÇEŞME TURİSTİK TESİSLER A.Ş.",
+      "normalizedName": "altin yunus cesme turistik tesisler a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "AYCES.IS"
+    },
+    {
+      "symbol": "AYDEM",
+      "companyName": "AYDEM YENİLENEBİLİR ENERJİ A.Ş.",
+      "normalizedName": "aydem yenilenebilir enerji a s",
+      "city": "DENİZLİ",
+      "sector": null,
+      "dataSymbol": "AYDEM.IS"
+    },
+    {
+      "symbol": "AYEN",
+      "companyName": "AYEN ENERJİ A.Ş.",
+      "normalizedName": "ayen enerji a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "AYEN.IS"
+    },
+    {
+      "symbol": "AYES",
+      "companyName": "AYES ÇELİK HASIR VE ÇİT SANAYİ A.Ş.",
+      "normalizedName": "ayes celik hasir ve cit sanayi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AYES.IS"
+    },
+    {
+      "symbol": "AYGAZ",
+      "companyName": "AYGAZ A.Ş.",
+      "normalizedName": "aygaz a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AYGAZ.IS"
+    },
+    {
+      "symbol": "AYTEM",
+      "companyName": "AYTEMİZ YATIRIM BANKASI A.Ş.",
+      "normalizedName": "aytemiz yatirim bankasi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AYTEM.IS"
+    },
+    {
+      "symbol": "AZTEK",
+      "companyName": "AZTEK TEKNOLOJİ ÜRÜNLERİ TİCARET A.Ş.",
+      "normalizedName": "aztek teknoloji urunleri ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "AZTEK.IS"
+    },
+    {
+      "symbol": "BAGFS",
+      "companyName": "BAGFAŞ BANDIRMA GÜBRE FABRİKALARI A.Ş.",
+      "normalizedName": "bagfas bandirma gubre fabrikalari a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BAGFS.IS"
+    },
+    {
+      "symbol": "BAHKM",
+      "companyName": "BAHADIR KİMYA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "bahadir kimya sanayi ve ticaret a s",
+      "city": "KIRIKKALE",
+      "sector": null,
+      "dataSymbol": "BAHKM.IS"
+    },
+    {
+      "symbol": "BAKAB",
+      "companyName": "BAK AMBALAJ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "bak ambalaj sanayi ve ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "BAKAB.IS"
+    },
+    {
+      "symbol": "BALAT",
+      "companyName": "BALATACILAR BALATACILIK SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "balatacilar balatacilik sanayi ve ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "BALAT.IS"
+    },
+    {
+      "symbol": "BALSU",
+      "companyName": "BALSU GIDA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "balsu gida sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BALSU.IS"
+    },
+    {
+      "symbol": "BANVT",
+      "companyName": "BANVİT BANDIRMA VİTAMİNLİ YEM SANAYİ A.Ş.",
+      "normalizedName": "banvit bandirma vitaminli yem sanayi a s",
+      "city": "BALIKESİR",
+      "sector": null,
+      "dataSymbol": "BANVT.IS"
+    },
+    {
+      "symbol": "BARMA",
+      "companyName": "BAREM AMBALAJ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "barem ambalaj sanayi ve ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "BARMA.IS"
+    },
+    {
+      "symbol": "BASCM",
+      "companyName": "BAŞTAŞ BAŞKENT ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "bastas baskent cimento sanayi ve ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "BASCM.IS"
+    },
+    {
+      "symbol": "BASGZ",
+      "companyName": "BAŞKENT DOĞALGAZ DAĞITIM GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "baskent dogalgaz dagitim gayrimenkul yatirim ortakligi a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "BASGZ.IS"
+    },
+    {
+      "symbol": "BAYRK",
+      "companyName": "BAYRAK EBT TABAN SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "bayrak ebt taban sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BAYRK.IS"
+    },
+    {
+      "symbol": "BEGYO",
+      "companyName": "BATI EGE GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "bati ege gayrimenkul yatirim ortakligi a s",
+      "city": "DENİZLİ",
+      "sector": null,
+      "dataSymbol": "BEGYO.IS"
+    },
+    {
+      "symbol": "BERA",
+      "companyName": "BERA HOLDİNG A.Ş.",
+      "normalizedName": "bera holding a s",
+      "city": "KONYA",
+      "sector": null,
+      "dataSymbol": "BERA.IS"
+    },
+    {
+      "symbol": "BESLR",
+      "companyName": "BESLER GIDA VE KİMYA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "besler gida ve kimya sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BESLR.IS"
+    },
+    {
+      "symbol": "BESTE",
+      "companyName": "BEST BRANDS GRUP ENERJİ YATIRIM A.Ş.",
+      "normalizedName": "best brands grup enerji yatirim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BESTE.IS"
+    },
+    {
+      "symbol": "BETAE",
+      "companyName": "BETA ENERJİ VE TEKNOLOJİ A.Ş.",
+      "normalizedName": "beta enerji ve teknoloji a s",
+      "city": "ADANA",
+      "sector": null,
+      "dataSymbol": "BETAE.IS"
+    },
+    {
+      "symbol": "BEYAZ",
+      "companyName": "BEYAZ FİLO OTO KİRALAMA A.Ş.",
+      "normalizedName": "beyaz filo oto kiralama a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "BEYAZ.IS"
+    },
+    {
+      "symbol": "BFREN",
+      "companyName": "BOSCH FREN SİSTEMLERİ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "bosch fren sistemleri sanayi ve ticaret a s",
+      "city": "BURSA",
+      "sector": null,
+      "dataSymbol": "BFREN.IS"
+    },
+    {
+      "symbol": "BIENY",
+      "companyName": "BİEN YAPI ÜRÜNLERİ SANAYİ TURİZM VE TİCARET A.Ş.",
+      "normalizedName": "bien yapi urunleri sanayi turizm ve ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "BIENY.IS"
+    },
+    {
+      "symbol": "BIGCH",
+      "companyName": "BÜYÜK ŞEFLER GIDA TURİZM TEKSTİL DANIŞMANLIK ORGANİZASYON EĞİTİM SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "buyuk sefler gida turizm tekstil danismanlik organizasyon egitim sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BIGCH.IS"
+    },
+    {
+      "symbol": "BIGEN",
+      "companyName": "BİRLEŞİM GRUP ENERJİ YATIRIMLARI A.Ş.",
+      "normalizedName": "birlesim grup enerji yatirimlari a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BIGEN.IS"
+    },
+    {
+      "symbol": "BIGTK",
+      "companyName": "BİG MEDYA TEKNOLOJİ A.Ş.",
+      "normalizedName": "big medya teknoloji a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BIGTK.IS"
+    },
+    {
+      "symbol": "BIMAS",
+      "companyName": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+      "normalizedName": "bim birlesik magazalar a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BIMAS.IS"
+    },
+    {
+      "symbol": "BINBN",
+      "companyName": "BİN ULAŞIM VE AKILLI ŞEHİR TEKNOLOJİLERİ A.Ş.",
+      "normalizedName": "bin ulasim ve akilli sehir teknolojileri a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BINBN.IS"
+    },
+    {
+      "symbol": "BINHO",
+      "companyName": "1000 YATIRIMLAR HOLDİNG A.Ş.",
+      "normalizedName": "1000 yatirimlar holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BINHO.IS"
+    },
+    {
+      "symbol": "BIOEN",
+      "companyName": "BİOTREND ÇEVRE VE ENERJİ YATIRIMLARI A.Ş.",
+      "normalizedName": "biotrend cevre ve enerji yatirimlari a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BIOEN.IS"
+    },
+    {
+      "symbol": "BIZIM",
+      "companyName": "BİZİM TOPTAN SATIŞ MAĞAZALARI A.Ş.",
+      "normalizedName": "bizim toptan satis magazalari a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BIZIM.IS"
+    },
+    {
+      "symbol": "BJKAS",
+      "companyName": "BEŞİKTAŞ FUTBOL YATIRIMLARI SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "besiktas futbol yatirimlari sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BJKAS.IS"
+    },
+    {
+      "symbol": "BLCYT",
+      "companyName": "BİLİCİ YATIRIM SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "bilici yatirim sanayi ve ticaret a s",
+      "city": "ADANA",
+      "sector": null,
+      "dataSymbol": "BLCYT.IS"
+    },
+    {
+      "symbol": "BLKOM",
+      "companyName": "BİLKOM BİLİŞİM HİZMETLERİ A.Ş.",
+      "normalizedName": "bilkom bilisim hizmetleri a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BLKOM.IS"
+    },
+    {
+      "symbol": "BLS",
+      "companyName": "BULLS YATIRIM MENKUL DEĞERLER A.Ş.",
+      "normalizedName": "bulls yatirim menkul degerler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BLS.IS"
+    },
+    {
+      "symbol": "BLUME",
+      "companyName": "BLUME METAL KİMYA A.Ş.",
+      "normalizedName": "blume metal kimya a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BLUME.IS"
+    },
+    {
+      "symbol": "BMSCH",
+      "companyName": "BMS ÇELİK HASIR SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "bms celik hasir sanayi ve ticaret a s",
+      "city": "MANİSA",
+      "sector": null,
+      "dataSymbol": "BMSCH.IS"
+    },
+    {
+      "symbol": "BMSTL",
+      "companyName": "BMS BİRLEŞİK METAL SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "bms birlesik metal sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BMSTL.IS"
+    },
+    {
+      "symbol": "BNPPI",
+      "companyName": "BNP PARIBAS ISSUANCE B.V.",
+      "normalizedName": "bnp paribas issuance b v",
+      "city": null,
+      "sector": null,
+      "dataSymbol": "BNPPI.IS"
+    },
+    {
+      "symbol": "BNTAS",
+      "companyName": "BANTAŞ BANDIRMA AMBALAJ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "bantas bandirma ambalaj sanayi ve ticaret a s",
+      "city": "BALIKESİR",
+      "sector": null,
+      "dataSymbol": "BNTAS.IS"
+    },
+    {
+      "symbol": "BOBET",
+      "companyName": "BOĞAZİÇİ BETON SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "bogazici beton sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BOBET.IS"
+    },
+    {
+      "symbol": "BORLS",
+      "companyName": "BORLEASE OTOMOTİV A.Ş.",
+      "normalizedName": "borlease otomotiv a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BORLS.IS"
+    },
+    {
+      "symbol": "BORSK",
+      "companyName": "BOR ŞEKER A.Ş.",
+      "normalizedName": "bor seker a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BORSK.IS"
+    },
+    {
+      "symbol": "BOSSA",
+      "companyName": "BOSSA TİCARET VE SANAYİ İŞLETMELERİ T.A.Ş.",
+      "normalizedName": "bossa ticaret ve sanayi isletmeleri t a s",
+      "city": "ADANA",
+      "sector": null,
+      "dataSymbol": "BOSSA.IS"
+    },
+    {
+      "symbol": "BRGAN",
+      "companyName": "BURGAN BANK A.Ş.",
+      "normalizedName": "burgan bank a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BRGAN.IS"
+    },
+    {
+      "symbol": "BRGFK",
+      "companyName": "BURGAN FİNANSAL KİRALAMA A.Ş.",
+      "normalizedName": "burgan finansal kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BRGFK.IS"
+    },
+    {
+      "symbol": "BRISA",
+      "companyName": "BRİSA BRİDGESTONE SABANCI LASTİK SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "brisa bridgestone sabanci lastik sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BRISA.IS"
+    },
+    {
+      "symbol": "BRKO",
+      "companyName": "BİRKO BİRLEŞİK KOYUNLULULAR MENSUCAT TİCARET VE SANAYİ A.Ş.",
+      "normalizedName": "birko birlesik koyunlulular mensucat ticaret ve sanayi a s",
+      "city": "NİĞDE",
+      "sector": null,
+      "dataSymbol": "BRKO.IS"
+    },
+    {
+      "symbol": "BRKSN",
+      "companyName": "BERKOSAN YALITIM VE TECRİT MADDELERİ ÜRETİM VE TİCARET A.Ş.",
+      "normalizedName": "berkosan yalitim ve tecrit maddeleri uretim ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BRKSN.IS"
+    },
+    {
+      "symbol": "BRKT",
+      "companyName": "BEREKET VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "bereket varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BRKT.IS"
+    },
+    {
+      "symbol": "BRKVY",
+      "companyName": "BİRİKİM VARLIK YÖNETİM A.Ş.",
+      "normalizedName": "birikim varlik yonetim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BRKVY.IS"
+    },
+    {
+      "symbol": "BRLSM",
+      "companyName": "BİRLEŞİM MÜHENDİSLİK ISITMA SOĞUTMA HAVALANDIRMA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "birlesim muhendislik isitma sogutma havalandirma sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BRLSM.IS"
+    },
+    {
+      "symbol": "BRMEN",
+      "companyName": "BİRLİK MENSUCAT TİCARET VE SANAYİ İŞLETMESİ A.Ş.",
+      "normalizedName": "birlik mensucat ticaret ve sanayi isletmesi a s",
+      "city": "KAYSERİ",
+      "sector": null,
+      "dataSymbol": "BRMEN.IS"
+    },
+    {
+      "symbol": "BRSAN",
+      "companyName": "BORUSAN BİRLEŞİK BORU FABRİKALARI SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "borusan birlesik boru fabrikalari sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BRSAN.IS"
+    },
+    {
+      "symbol": "BRYAT",
+      "companyName": "BORUSAN YATIRIM VE PAZARLAMA A.Ş.",
+      "normalizedName": "borusan yatirim ve pazarlama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BRYAT.IS"
+    },
+    {
+      "symbol": "BSOKE",
+      "companyName": "BATIÇİM ÇİMENTO SANAYİ A.Ş.",
+      "normalizedName": "baticim cimento sanayi a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "BSOKE.IS"
+    },
+    {
+      "symbol": "BTCIM",
+      "companyName": "BATIÇİM BATI ANADOLU SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "baticim bati anadolu sanayi ve ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "BTCIM.IS"
+    },
+    {
+      "symbol": "BUCIM",
+      "companyName": "BURSA ÇİMENTO FABRİKASI A.Ş.",
+      "normalizedName": "bursa cimento fabrikasi a s",
+      "city": "BURSA",
+      "sector": null,
+      "dataSymbol": "BUCIM.IS"
+    },
+    {
+      "symbol": "BULGS",
+      "companyName": "BULLS GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "bulls girisim sermayesi yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "BULGS.IS"
+    },
+    {
+      "symbol": "BURCE",
+      "companyName": "BURÇELİK BURSA ÇELİK DÖKÜM SANAYİİ A.Ş.",
+      "normalizedName": "burcelik bursa celik dokum sanayii a s",
+      "city": "BURSA",
+      "sector": null,
+      "dataSymbol": "BURCE.IS"
+    },
+    {
+      "symbol": "BURVA",
+      "companyName": "BURÇELİK VANA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "burcelik vana sanayi ve ticaret a s",
+      "city": "BURSA",
+      "sector": null,
+      "dataSymbol": "BURVA.IS"
+    },
+    {
+      "symbol": "BVSAN",
+      "companyName": "BÜLBÜLOĞLU VİNÇ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "bulbuloglu vinc sanayi ve ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "BVSAN.IS"
+    },
+    {
+      "symbol": "BYDNR",
+      "companyName": "BAYDÖNER RESTORANLARI A.Ş.",
+      "normalizedName": "baydoner restoranlari a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "BYDNR.IS"
+    },
+    {
+      "symbol": "CAGFA",
+      "companyName": "ÇAĞDAŞ FAKTORİNG A.Ş.",
+      "normalizedName": "cagdas faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "CAGFA.IS"
+    },
+    {
+      "symbol": "CANTE",
+      "companyName": "ÇAN2 TERMİK A.Ş.",
+      "normalizedName": "can2 termik a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "CANTE.IS"
+    },
+    {
+      "symbol": "CASA",
+      "companyName": "CASA EMTİA PETROL KİMYEVİ VE TÜREVLERİ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "casa emtia petrol kimyevi ve turevleri sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "CASA.IS"
+    },
+    {
+      "symbol": "CATES",
+      "companyName": "ÇATES ELEKTRİK ÜRETİM A.Ş.",
+      "normalizedName": "cates elektrik uretim a s",
+      "city": "ZONGULDAK",
+      "sector": null,
+      "dataSymbol": "CATES.IS"
+    },
+    {
+      "symbol": "CCOLA",
+      "companyName": "COCA-COLA İÇECEK A.Ş.",
+      "normalizedName": "coca cola icecek a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "CCOLA.IS"
+    },
+    {
+      "symbol": "CELHA",
+      "companyName": "ÇELİK HALAT VE TEL SANAYİİ A.Ş.",
+      "normalizedName": "celik halat ve tel sanayii a s",
+      "city": "KOCAELİ",
+      "sector": null,
+      "dataSymbol": "CELHA.IS"
+    },
+    {
+      "symbol": "CEMAS",
+      "companyName": "ÇEMAŞ DÖKÜM SANAYİ A.Ş.",
+      "normalizedName": "cemas dokum sanayi a s",
+      "city": "KIRŞEHİR",
+      "sector": null,
+      "dataSymbol": "CEMAS.IS"
+    },
+    {
+      "symbol": "CEMTS",
+      "companyName": "ÇEMTAŞ ÇELİK MAKİNA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "cemtas celik makina sanayi ve ticaret a s",
+      "city": "BURSA",
+      "sector": null,
+      "dataSymbol": "CEMTS.IS"
+    },
+    {
+      "symbol": "CEMZY",
+      "companyName": "CEM ZEYTİN A.Ş.",
+      "normalizedName": "cem zeytin a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "CEMZY.IS"
+    },
+    {
+      "symbol": "CEOEM",
+      "companyName": "CEO EVENT MEDYA A.Ş.",
+      "normalizedName": "ceo event medya a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "CEOEM.IS"
+    },
+    {
+      "symbol": "CGCAM",
+      "companyName": "ÇAĞDAŞ CAM SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "cagdas cam sanayi ve ticaret a s",
+      "city": "AYDIN",
+      "sector": null,
+      "dataSymbol": "CGCAM.IS"
+    },
+    {
+      "symbol": "CIMSA",
+      "companyName": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "cimsa cimento sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "CIMSA.IS"
+    },
+    {
+      "symbol": "CITAS",
+      "companyName": "ÇİTLEKÇİ MAĞAZACILIK GIDA A.Ş.",
+      "normalizedName": "citlekci magazacilik gida a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "CITAS.IS"
+    },
+    {
+      "symbol": "CLEBI",
+      "companyName": "ÇELEBİ HAVA SERVİSİ A.Ş.",
+      "normalizedName": "celebi hava servisi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "CLEBI.IS"
+    },
+    {
+      "symbol": "CLKMT",
+      "companyName": "ÇELİK MOTOR TİCARET A.Ş.",
+      "normalizedName": "celik motor ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "CLKMT.IS"
+    },
+    {
+      "symbol": "CMBTN",
+      "companyName": "ÇİMBETON HAZIRBETON VE PREFABRİK YAPI ELEMANLARI SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "cimbeton hazirbeton ve prefabrik yapi elemanlari sanayi ve ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "CMBTN.IS"
+    },
+    {
+      "symbol": "CMENT",
+      "companyName": "ÇİMENTAŞ İZMİR ÇİMENTO FABRİKASI T.A.Ş.",
+      "normalizedName": "cimentas izmir cimento fabrikasi t a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "CMENT.IS"
+    },
+    {
+      "symbol": "CMSAN",
+      "companyName": "ÇAMSAN ENTEGRE AĞAÇ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "camsan entegre agac sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "CMSAN.IS"
+    },
+    {
+      "symbol": "CONSE",
+      "companyName": "CONSUS ENERJİ İŞLETMECİLİĞİ VE HİZMETLERİ A.Ş.",
+      "normalizedName": "consus enerji isletmeciligi ve hizmetleri a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "CONSE.IS"
+    },
+    {
+      "symbol": "COSMO",
+      "companyName": "COSMOS YATIRIM HOLDİNG A.Ş.",
+      "normalizedName": "cosmos yatirim holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "COSMO.IS"
+    },
+    {
+      "symbol": "CRDFA",
+      "companyName": "CREDITWEST FAKTORİNG A.Ş.",
+      "normalizedName": "creditwest faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "CRDFA.IS"
+    },
+    {
+      "symbol": "CRFSA",
+      "companyName": "CARREFOURSA CARREFOUR SABANCI TİCARET MERKEZİ A.Ş.",
+      "normalizedName": "carrefoursa carrefour sabanci ticaret merkezi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "CRFSA.IS"
+    },
+    {
+      "symbol": "CUSAN",
+      "companyName": "ÇUHADAROĞLU METAL SANAYİ VE PAZARLAMA A.Ş.",
+      "normalizedName": "cuhadaroglu metal sanayi ve pazarlama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "CUSAN.IS"
+    },
+    {
+      "symbol": "CVKMD",
+      "companyName": "CVK MADEN İŞLETMELERİ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "cvk maden isletmeleri sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "CVKMD.IS"
+    },
+    {
+      "symbol": "CWENE",
+      "companyName": "CW ENERJİ MÜHENDİSLİK TİCARET VE SANAYİ A.Ş.",
+      "normalizedName": "cw enerji muhendislik ticaret ve sanayi a s",
+      "city": "ANTALYA",
+      "sector": null,
+      "dataSymbol": "CWENE.IS"
+    },
+    {
+      "symbol": "DAGI",
+      "companyName": "DAGİ GİYİM SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "dagi giyim sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DAGI.IS"
+    },
+    {
+      "symbol": "DAPGM",
+      "companyName": "DAP GAYRİMENKUL GELİŞTİRME A.Ş.",
+      "normalizedName": "dap gayrimenkul gelistirme a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DAPGM.IS"
+    },
+    {
+      "symbol": "DARDL",
+      "companyName": "DARDANEL ÖNENTAŞ GIDA SANAYİ A.Ş.",
+      "normalizedName": "dardanel onentas gida sanayi a s",
+      "city": "ÇANAKKALE",
+      "sector": null,
+      "dataSymbol": "DARDL.IS"
+    },
+    {
+      "symbol": "DCTTR",
+      "companyName": "DCT TRADİNG DIŞ TİCARET A.Ş.",
+      "normalizedName": "dct trading dis ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DCTTR.IS"
+    },
+    {
+      "symbol": "DENFA",
+      "companyName": "DENİZ FAKTORİNG A.Ş.",
+      "normalizedName": "deniz faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DENFA.IS"
+    },
+    {
+      "symbol": "DENGE",
+      "companyName": "DENGE YATIRIM HOLDİNG A.Ş.",
+      "normalizedName": "denge yatirim holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DENGE.IS"
+    },
+    {
+      "symbol": "DENVA",
+      "companyName": "DENGE VARLIK YÖNETİM A.Ş.",
+      "normalizedName": "denge varlik yonetim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DENVA.IS"
+    },
+    {
+      "symbol": "DERHL",
+      "companyName": "DERLÜKS YATIRIM HOLDİNG A.Ş.",
+      "normalizedName": "derluks yatirim holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DERHL.IS"
+    },
+    {
+      "symbol": "DERIM",
+      "companyName": "DERİMOD KONFEKSİYON AYAKKABI DERİ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "derimod konfeksiyon ayakkabi deri sanayi ve ticaret a s",
+      "city": "TEKİRDAĞ",
+      "sector": null,
+      "dataSymbol": "DERIM.IS"
+    },
+    {
+      "symbol": "DESA",
+      "companyName": "DESA DERİ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "desa deri sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DESA.IS"
+    },
+    {
+      "symbol": "DESPC",
+      "companyName": "DESPEC BİLGİSAYAR PAZARLAMA VE TİCARET A.Ş.",
+      "normalizedName": "despec bilgisayar pazarlama ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DESPC.IS"
+    },
+    {
+      "symbol": "DEVA",
+      "companyName": "DEVA HOLDİNG A.Ş.",
+      "normalizedName": "deva holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DEVA.IS"
+    },
+    {
+      "symbol": "DFKTR",
+      "companyName": "DORUK FAKTORİNG A.Ş.",
+      "normalizedName": "doruk faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DFKTR.IS"
+    },
+    {
+      "symbol": "DGATE",
+      "companyName": "DATAGATE BİLGİSAYAR MALZEMELERİ TİCARET A.Ş.",
+      "normalizedName": "datagate bilgisayar malzemeleri ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DGATE.IS"
+    },
+    {
+      "symbol": "DGGYO",
+      "companyName": "DOĞUŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "dogus gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DGGYO.IS"
+    },
+    {
+      "symbol": "DGNMO",
+      "companyName": "DOĞANLAR MOBİLYA GRUBU İMALAT SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "doganlar mobilya grubu imalat sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DGNMO.IS"
+    },
+    {
+      "symbol": "DGRVK",
+      "companyName": "DEĞER VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "deger varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DGRVK.IS"
+    },
+    {
+      "symbol": "DIMES",
+      "companyName": "DİMES GIDA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "dimes gida sanayi ve ticaret a s",
+      "city": "TOKAT",
+      "sector": null,
+      "dataSymbol": "DIMES.IS"
+    },
+    {
+      "symbol": "DIRIT",
+      "companyName": "DİRİTEKS DİRİLİŞ TEKSTİL SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "diriteks dirilis tekstil sanayi ve ticaret a s",
+      "city": "ISPARTA",
+      "sector": null,
+      "dataSymbol": "DIRIT.IS"
+    },
+    {
+      "symbol": "DITAS",
+      "companyName": "DİTAŞ BDY YEDEK PARÇA İMALAT VE TEKNİK A.Ş.",
+      "normalizedName": "ditas bdy yedek parca imalat ve teknik a s",
+      "city": "NİĞDE",
+      "sector": null,
+      "dataSymbol": "DITAS.IS"
+    },
+    {
+      "symbol": "DKVRL",
+      "companyName": "DK VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "dk varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DKVRL.IS"
+    },
+    {
+      "symbol": "DKYVK",
+      "companyName": "DK YILDIZ VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "dk yildiz varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DKYVK.IS"
+    },
+    {
+      "symbol": "DMD",
+      "companyName": "DESTEK YATIRIM MENKUL DEĞERLER A.Ş.",
+      "normalizedName": "destek yatirim menkul degerler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DMD.IS"
+    },
+    {
+      "symbol": "DMLKT",
+      "companyName": "EMLAK KONUT DAMLA KENT GMS",
+      "normalizedName": "emlak konut damla kent gms",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DMLKT.IS"
+    },
+    {
+      "symbol": "DMRGD",
+      "companyName": "DMR UNLU MAMULLER ÜRETİM GIDA TOPTAN PERAKENDE İHRACAT A.Ş.",
+      "normalizedName": "dmr unlu mamuller uretim gida toptan perakende ihracat a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DMRGD.IS"
+    },
+    {
+      "symbol": "DMSAS",
+      "companyName": "DEMİSAŞ DÖKÜM EMAYE MAMÜLLERİ SANAYİ A.Ş.",
+      "normalizedName": "demisas dokum emaye mamulleri sanayi a s",
+      "city": "KOCAELİ",
+      "sector": null,
+      "dataSymbol": "DMSAS.IS"
+    },
+    {
+      "symbol": "DNFIN",
+      "companyName": "DENİZ FİNANSAL KİRALAMA A.Ş.",
+      "normalizedName": "deniz finansal kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DNFIN.IS"
+    },
+    {
+      "symbol": "DNISI",
+      "companyName": "DİNAMİK ISI MAKİNA YALITIM MALZEMELERİ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "dinamik isi makina yalitim malzemeleri sanayi ve ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "DNISI.IS"
+    },
+    {
+      "symbol": "DNYVA",
+      "companyName": "DÜNYA VARLIK YÖNETİM A.Ş.",
+      "normalizedName": "dunya varlik yonetim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DNYVA.IS"
+    },
+    {
+      "symbol": "DNZEN",
+      "companyName": "DENİZ EKO ENERJİ VE GERİ DÖNÜŞÜM A.Ş.",
+      "normalizedName": "deniz eko enerji ve geri donusum a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DNZEN.IS"
+    },
+    {
+      "symbol": "DOAS",
+      "companyName": "DOĞUŞ OTOMOTİV SERVİS VE TİCARET A.Ş.",
+      "normalizedName": "dogus otomotiv servis ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DOAS.IS"
+    },
+    {
+      "symbol": "DOCO",
+      "companyName": "DO & CO AKTIENGESELLSCHAFT",
+      "normalizedName": "do co aktiengesellschaft",
+      "city": null,
+      "sector": null,
+      "dataSymbol": "DOCO.IS"
+    },
+    {
+      "symbol": "DOFER",
+      "companyName": "DOFER YAPI MALZEMELERİ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "dofer yapi malzemeleri sanayi ve ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "DOFER.IS"
+    },
+    {
+      "symbol": "DOFRB",
+      "companyName": "DOF ROBOTİK SANAYİ A.Ş.",
+      "normalizedName": "dof robotik sanayi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DOFRB.IS"
+    },
+    {
+      "symbol": "DOGUB",
+      "companyName": "DOĞUSAN BORU SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "dogusan boru sanayi ve ticaret a s",
+      "city": "ERZİNCAN",
+      "sector": null,
+      "dataSymbol": "DOGUB.IS"
+    },
+    {
+      "symbol": "DOGVY",
+      "companyName": "DOĞRU VARLIK YÖNETİM A.Ş.",
+      "normalizedName": "dogru varlik yonetim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DOGVY.IS"
+    },
+    {
+      "symbol": "DOHOL",
+      "companyName": "DOĞAN ŞİRKETLER GRUBU HOLDİNG A.Ş.",
+      "normalizedName": "dogan sirketler grubu holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DOHOL.IS"
+    },
+    {
+      "symbol": "DOKTA",
+      "companyName": "DÖKTAŞ DÖKÜMCÜLÜK TİCARET VE SANAYİ A.Ş.",
+      "normalizedName": "doktas dokumculuk ticaret ve sanayi a s",
+      "city": "BURSA",
+      "sector": null,
+      "dataSymbol": "DOKTA.IS"
+    },
+    {
+      "symbol": "DRPHN",
+      "companyName": "T.C. HAZİNE VE MALİYE BAKANLIĞI DARPHANE VE DAMGA MATBAASI GENEL MÜDÜRLÜĞÜ",
+      "normalizedName": "t c hazine ve maliye bakanligi darphane ve damga matbaasi genel mudurlugu",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DRPHN.IS"
+    },
+    {
+      "symbol": "DSTKF",
+      "companyName": "DESTEK FİNANS FAKTORİNG A.Ş.",
+      "normalizedName": "destek finans faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DSTKF.IS"
+    },
+    {
+      "symbol": "DUNYH",
+      "companyName": "DÜNYA HOLDİNG A.Ş.",
+      "normalizedName": "dunya holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DUNYH.IS"
+    },
+    {
+      "symbol": "DURDO",
+      "companyName": "DURAN DOĞAN BASIM VE AMBALAJ SANAYİ A.Ş.",
+      "normalizedName": "duran dogan basim ve ambalaj sanayi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DURDO.IS"
+    },
+    {
+      "symbol": "DURKN",
+      "companyName": "DURUKAN ŞEKERLEME SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "durukan sekerleme sanayi ve ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "DURKN.IS"
+    },
+    {
+      "symbol": "DVRLK",
+      "companyName": "D VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "d varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DVRLK.IS"
+    },
+    {
+      "symbol": "DYBNK",
+      "companyName": "D YATIRIM BANKASI A.Ş.",
+      "normalizedName": "d yatirim bankasi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DYBNK.IS"
+    },
+    {
+      "symbol": "DYOBY",
+      "companyName": "DYO BOYA FABRİKALARI SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "dyo boya fabrikalari sanayi ve ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "DYOBY.IS"
+    },
+    {
+      "symbol": "DZGYO",
+      "companyName": "DENİZ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "deniz gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "DZGYO.IS"
+    },
+    {
+      "symbol": "EBEBK",
+      "companyName": "EBEBEK MAĞAZACILIK A.Ş.",
+      "normalizedName": "ebebek magazacilik a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "EBEBK.IS"
+    },
+    {
+      "symbol": "ECILC",
+      "companyName": "EİS ECZACIBAŞI İLAÇ SINAİ VE FİNANSAL YATIRIMLAR SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "eis eczacibasi ilac sinai ve finansal yatirimlar sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ECILC.IS"
+    },
+    {
+      "symbol": "ECOGR",
+      "companyName": "ECOGREEN ENERJİ HOLDİNG A.Ş.",
+      "normalizedName": "ecogreen enerji holding a s",
+      "city": "DENİZLİ",
+      "sector": null,
+      "dataSymbol": "ECOGR.IS"
+    },
+    {
+      "symbol": "ECZIP",
+      "companyName": "EİP ECZACIBAŞI İLAÇ PAZARLAMA A.Ş.",
+      "normalizedName": "eip eczacibasi ilac pazarlama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ECZIP.IS"
+    },
+    {
+      "symbol": "ECZYT",
+      "companyName": "ECZACIBAŞI YATIRIM HOLDİNG ORTAKLIĞI A.Ş.",
+      "normalizedName": "eczacibasi yatirim holding ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ECZYT.IS"
+    },
+    {
+      "symbol": "EDATA",
+      "companyName": "E-DATA TEKNOLOJİ PAZARLAMA A.Ş.",
+      "normalizedName": "e data teknoloji pazarlama a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "EDATA.IS"
+    },
+    {
+      "symbol": "EDIP",
+      "companyName": "EDİP GAYRİMENKUL YATIRIM SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "edip gayrimenkul yatirim sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "EDIP.IS"
+    },
+    {
+      "symbol": "EFOR",
+      "companyName": "EFOR YATIRIM SANAYİ TİCARET A.Ş.",
+      "normalizedName": "efor yatirim sanayi ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "EFOR.IS"
+    },
+    {
+      "symbol": "EGEEN",
+      "companyName": "EGE ENDÜSTRİ VE TİCARET A.Ş.",
+      "normalizedName": "ege endustri ve ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "EGEEN.IS"
+    },
+    {
+      "symbol": "EGEGY",
+      "companyName": "EGEYAPI AVRUPA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "egeyapi avrupa gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "EGEGY.IS"
+    },
+    {
+      "symbol": "EGEPO",
+      "companyName": "NASMED ÖZEL SAĞLIK HİZMETLERİ TİCARET A.Ş.",
+      "normalizedName": "nasmed ozel saglik hizmetleri ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "EGEPO.IS"
+    },
+    {
+      "symbol": "EGGUB",
+      "companyName": "EGE GÜBRE SANAYİİ A.Ş.",
+      "normalizedName": "ege gubre sanayii a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "EGGUB.IS"
+    },
+    {
+      "symbol": "EGPRO",
+      "companyName": "EGE PROFİL TİCARET VE SANAYİ A.Ş.",
+      "normalizedName": "ege profil ticaret ve sanayi a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "EGPRO.IS"
+    },
+    {
+      "symbol": "EGSER",
+      "companyName": "EGE SERAMİK SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "ege seramik sanayi ve ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "EGSER.IS"
+    },
+    {
+      "symbol": "EKDMR",
+      "companyName": "EKİNCİLER DEMİR VE ÇELİK SANAYİ A.Ş.",
+      "normalizedName": "ekinciler demir ve celik sanayi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "EKDMR.IS"
+    },
+    {
+      "symbol": "EKER",
+      "companyName": "EKER SÜT ÜRÜNLERİ GIDA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "eker sut urunleri gida sanayi ve ticaret a s",
+      "city": "BURSA",
+      "sector": null,
+      "dataSymbol": "EKER.IS"
+    },
+    {
+      "symbol": "EKGYO",
+      "companyName": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "emlak konut gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "EKGYO.IS"
+    },
+    {
+      "symbol": "EKIM",
+      "companyName": "EKİM TURİZM TİCARET VE SANAYİ A.Ş.",
+      "normalizedName": "ekim turizm ticaret ve sanayi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "EKIM.IS"
+    },
+    {
+      "symbol": "EKIZ",
+      "companyName": "EKİZ KİMYA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "ekiz kimya sanayi ve ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "EKIZ.IS"
+    },
+    {
+      "symbol": "EKOFA",
+      "companyName": "EKO FAKTORİNG A.Ş.",
+      "normalizedName": "eko faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "EKOFA.IS"
+    },
+    {
+      "symbol": "EKOS",
+      "companyName": "EKOS TEKNOLOJİ VE ELEKTRİK A.Ş.",
+      "normalizedName": "ekos teknoloji ve elektrik a s",
+      "city": "BALIKESİR",
+      "sector": null,
+      "dataSymbol": "EKOS.IS"
+    },
+    {
+      "symbol": "EKSUN",
+      "companyName": "EKSUN GIDA TARIM SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "eksun gida tarim sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "EKSUN.IS"
+    },
+    {
+      "symbol": "EKTVK",
+      "companyName": "EMLAK KATILIM VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "emlak katilim varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "EKTVK.IS"
+    },
+    {
+      "symbol": "ELITE",
+      "companyName": "ELİTE NATUREL ORGANİK GIDA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "elite naturel organik gida sanayi ve ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "ELITE.IS"
+    },
+    {
+      "symbol": "EMIRV",
+      "companyName": "EMİR VARLIK YÖNETİM A.Ş.",
+      "normalizedName": "emir varlik yonetim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "EMIRV.IS"
+    },
+    {
+      "symbol": "EMKEL",
+      "companyName": "EMEK ELEKTRİK ENDÜSTRİSİ A.Ş.",
+      "normalizedName": "emek elektrik endustrisi a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "EMKEL.IS"
+    },
+    {
+      "symbol": "EMNIS",
+      "companyName": "EMİNİŞ AMBALAJ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "eminis ambalaj sanayi ve ticaret a s",
+      "city": "KOCAELİ",
+      "sector": null,
+      "dataSymbol": "EMNIS.IS"
+    },
+    {
+      "symbol": "EMPAE",
+      "companyName": "EMPA ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "empa elektronik sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "EMPAE.IS"
+    },
+    {
+      "symbol": "EMVAR",
+      "companyName": "EMLAK VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "emlak varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "EMVAR.IS"
+    },
+    {
+      "symbol": "ENDAE",
+      "companyName": "ENDA ENERJİ HOLDİNG A.Ş.",
+      "normalizedName": "enda enerji holding a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "ENDAE.IS"
+    },
+    {
+      "symbol": "ENERY",
+      "companyName": "ENERYA ENERJİ A.Ş.",
+      "normalizedName": "enerya enerji a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ENERY.IS"
+    },
+    {
+      "symbol": "ENJSA",
+      "companyName": "ENERJİSA ENERJİ A.Ş.",
+      "normalizedName": "enerjisa enerji a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ENJSA.IS"
+    },
+    {
+      "symbol": "ENKAI",
+      "companyName": "ENKA İNŞAAT VE SANAYİ A.Ş.",
+      "normalizedName": "enka insaat ve sanayi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ENKAI.IS"
+    },
+    {
+      "symbol": "ENPRA",
+      "companyName": "ENPARA BANK A.Ş.",
+      "normalizedName": "enpara bank a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ENPRA.IS"
+    },
+    {
+      "symbol": "ENSRI",
+      "companyName": "ENSARİ SINAİ YATIRIMLAR A.Ş.",
+      "normalizedName": "ensari sinai yatirimlar a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ENSRI.IS"
+    },
+    {
+      "symbol": "ENTRA",
+      "companyName": "IC ENTERRA YENİLENEBİLİR ENERJİ A.Ş.",
+      "normalizedName": "ic enterra yenilenebilir enerji a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "ENTRA.IS"
+    },
+    {
+      "symbol": "EPLAS",
+      "companyName": "EGEPLAST EGE PLASTİK TİCARET VE SANAYİ A.Ş.",
+      "normalizedName": "egeplast ege plastik ticaret ve sanayi a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "EPLAS.IS"
+    },
+    {
+      "symbol": "ERBOS",
+      "companyName": "ERBOSAN ERCİYAS BORU SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "erbosan erciyas boru sanayi ve ticaret a s",
+      "city": "KAYSERİ",
+      "sector": null,
+      "dataSymbol": "ERBOS.IS"
+    },
+    {
+      "symbol": "ERCB",
+      "companyName": "ERCİYAS ÇELİK BORU SANAYİ A.Ş.",
+      "normalizedName": "erciyas celik boru sanayi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ERCB.IS"
+    },
+    {
+      "symbol": "EREGL",
+      "companyName": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+      "normalizedName": "eregli demir ve celik fabrikalari t a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "EREGL.IS"
+    },
+    {
+      "symbol": "ERGLI",
+      "companyName": "EREĞLİ TEKSTİL TURİZM SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "eregli tekstil turizm sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ERGLI.IS"
+    },
+    {
+      "symbol": "ERSU",
+      "companyName": "ERSU MEYVE VE GIDA SANAYİ A.Ş.",
+      "normalizedName": "ersu meyve ve gida sanayi a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "ERSU.IS"
+    },
+    {
+      "symbol": "ESCAR",
+      "companyName": "ESCAR FİLO KİRALAMA HİZMETLERİ A.Ş.",
+      "normalizedName": "escar filo kiralama hizmetleri a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ESCAR.IS"
+    },
+    {
+      "symbol": "ESCOM",
+      "companyName": "ESCORT TEKNOLOJİ YATIRIM A.Ş.",
+      "normalizedName": "escort teknoloji yatirim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ESCOM.IS"
+    },
+    {
+      "symbol": "ESEN",
+      "companyName": "ESENBOĞA ELEKTRİK ÜRETİM A.Ş.",
+      "normalizedName": "esenboga elektrik uretim a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "ESEN.IS"
+    },
+    {
+      "symbol": "ETILR",
+      "companyName": "ETİLER GIDA VE TİCARİ YATIRIMLAR SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "etiler gida ve ticari yatirimlar sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ETILR.IS"
+    },
+    {
+      "symbol": "ETYAT",
+      "companyName": "EURO TREND YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "euro trend yatirim ortakligi a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "ETYAT.IS"
+    },
+    {
+      "symbol": "EUHOL",
+      "companyName": "EURO YATIRIM HOLDİNG A.Ş.",
+      "normalizedName": "euro yatirim holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "EUHOL.IS"
+    },
+    {
+      "symbol": "EUKYO",
+      "companyName": "EURO KAPİTAL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "euro kapital yatirim ortakligi a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "EUKYO.IS"
+    },
+    {
+      "symbol": "EUPWR",
+      "companyName": "EUROPOWER ENERJİ VE OTOMASYON TEKNOLOJİLERİ SANAYİ TİCARET A.Ş.",
+      "normalizedName": "europower enerji ve otomasyon teknolojileri sanayi ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "EUPWR.IS"
+    },
+    {
+      "symbol": "EUREN",
+      "companyName": "EUROPEN ENDÜSTRİ İNŞAAT SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "europen endustri insaat sanayi ve ticaret a s",
+      "city": "ESKİŞEHİR",
+      "sector": null,
+      "dataSymbol": "EUREN.IS"
+    },
+    {
+      "symbol": "EUYO",
+      "companyName": "EURO MENKUL KIYMET YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "euro menkul kiymet yatirim ortakligi a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "EUYO.IS"
+    },
+    {
+      "symbol": "EXIMB",
+      "companyName": "TÜRKİYE İHRACAT KREDİ BANKASI A.Ş.",
+      "normalizedName": "turkiye ihracat kredi bankasi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "EXIMB.IS"
+    },
+    {
+      "symbol": "EYGYO",
+      "companyName": "EYG GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "eyg gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "EYGYO.IS"
+    },
+    {
+      "symbol": "FADE",
+      "companyName": "FADE GIDA YATIRIM SANAYİ TİCARET A.Ş.",
+      "normalizedName": "fade gida yatirim sanayi ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "FADE.IS"
+    },
+    {
+      "symbol": "FAIRF",
+      "companyName": "FAİR FİNANSMAN A.Ş.",
+      "normalizedName": "fair finansman a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "FAIRF.IS"
+    },
+    {
+      "symbol": "FBB",
+      "companyName": "FİBABANKA A.Ş.",
+      "normalizedName": "fibabanka a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "FBB.IS"
+    },
+    {
+      "symbol": "FENER",
+      "companyName": "FENERBAHÇE FUTBOL A.Ş.",
+      "normalizedName": "fenerbahce futbol a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "FENER.IS"
+    },
+    {
+      "symbol": "FIGOF",
+      "companyName": "FİGO FİNANS FAKTORİNG A.Ş.",
+      "normalizedName": "figo finans faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "FIGOF.IS"
+    },
+    {
+      "symbol": "FIN",
+      "companyName": "QNB BANK A.Ş.",
+      "normalizedName": "qnb bank a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "FIN.IS"
+    },
+    {
+      "symbol": "FKPET",
+      "companyName": "FİKRET PETROL ÜRÜNLERİ PAZARLAMA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "fikret petrol urunleri pazarlama sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "FKPET.IS"
+    },
+    {
+      "symbol": "FLAP",
+      "companyName": "FLAP KONGRE TOPLANTI HİZMETLERİ OTOMOTİV VE TURİZM A.Ş.",
+      "normalizedName": "flap kongre toplanti hizmetleri otomotiv ve turizm a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "FLAP.IS"
+    },
+    {
+      "symbol": "FMIZP",
+      "companyName": "FEDERAL MOGUL İZMİT PİSTON VE PİM ÜRETİM TESİSLERİ A.Ş.",
+      "normalizedName": "federal mogul izmit piston ve pim uretim tesisleri a s",
+      "city": "KOCAELİ",
+      "sector": null,
+      "dataSymbol": "FMIZP.IS"
+    },
+    {
+      "symbol": "FONET",
+      "companyName": "FONET BİLGİ TEKNOLOJİLERİ A.Ş.",
+      "normalizedName": "fonet bilgi teknolojileri a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "FONET.IS"
+    },
+    {
+      "symbol": "FORMT",
+      "companyName": "FORMET METAL VE CAM SANAYİ A.Ş.",
+      "normalizedName": "formet metal ve cam sanayi a s",
+      "city": "KAYSERİ",
+      "sector": null,
+      "dataSymbol": "FORMT.IS"
+    },
+    {
+      "symbol": "FORTE",
+      "companyName": "FORTE BİLGİ İLETİŞİM TEKNOLOJİLERİ VE SAVUNMA SANAYİ A.Ş.",
+      "normalizedName": "forte bilgi iletisim teknolojileri ve savunma sanayi a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "FORTE.IS"
+    },
+    {
+      "symbol": "FRIGO",
+      "companyName": "FRİGO-PAK GIDA MADDELERİ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "frigo pak gida maddeleri sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "FRIGO.IS"
+    },
+    {
+      "symbol": "FRMPL",
+      "companyName": "FORMÜL PLASTİK VE METAL SANAYİ A.Ş.",
+      "normalizedName": "formul plastik ve metal sanayi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "FRMPL.IS"
+    },
+    {
+      "symbol": "FROTO",
+      "companyName": "FORD OTOMOTİV SANAYİ A.Ş.",
+      "normalizedName": "ford otomotiv sanayi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "FROTO.IS"
+    },
+    {
+      "symbol": "FZLGY",
+      "companyName": "FUZUL GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "fuzul gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "FZLGY.IS"
+    },
+    {
+      "symbol": "GARAN",
+      "companyName": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+      "normalizedName": "turkiye garanti bankasi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GARAN.IS"
+    },
+    {
+      "symbol": "GARFA",
+      "companyName": "GARANTİ FAKTORİNG A.Ş.",
+      "normalizedName": "garanti faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GARFA.IS"
+    },
+    {
+      "symbol": "GARFL",
+      "companyName": "GARANTİ BBVA OPERASYONEL KİRALAMA HİZMETLERİ A.Ş.",
+      "normalizedName": "garanti bbva operasyonel kiralama hizmetleri a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GARFL.IS"
+    },
+    {
+      "symbol": "GATEG",
+      "companyName": "GATE GROUP TEKNOLOJİ MEDYA VE SİBER GÜVENLİK HİZMETLERİ A.Ş.",
+      "normalizedName": "gate group teknoloji medya ve siber guvenlik hizmetleri a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GATEG.IS"
+    },
+    {
+      "symbol": "GEDIK",
+      "companyName": "GEDİK YATIRIM MENKUL DEĞERLER A.Ş.",
+      "normalizedName": "gedik yatirim menkul degerler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GEDIK.IS"
+    },
+    {
+      "symbol": "GEDZA",
+      "companyName": "GEDİZ AMBALAJ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "gediz ambalaj sanayi ve ticaret a s",
+      "city": "KÜTAHYA",
+      "sector": null,
+      "dataSymbol": "GEDZA.IS"
+    },
+    {
+      "symbol": "GENIL",
+      "companyName": "GEN İLAÇ VE SAĞLIK ÜRÜNLERİ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "gen ilac ve saglik urunleri sanayi ve ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "GENIL.IS"
+    },
+    {
+      "symbol": "GENKM",
+      "companyName": "GENTAŞ KİMYA SANAYİ VE TİCARET PAZARLAMA A.Ş.",
+      "normalizedName": "gentas kimya sanayi ve ticaret pazarlama a s",
+      "city": "KOCAELİ",
+      "sector": null,
+      "dataSymbol": "GENKM.IS"
+    },
+    {
+      "symbol": "GENTS",
+      "companyName": "GENTAŞ DEKORATİF YÜZEYLER SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "gentas dekoratif yuzeyler sanayi ve ticaret a s",
+      "city": "BOLU",
+      "sector": null,
+      "dataSymbol": "GENTS.IS"
+    },
+    {
+      "symbol": "GEREL",
+      "companyName": "GERSAN ELEKTRİK TİCARET VE SANAYİ A.Ş.",
+      "normalizedName": "gersan elektrik ticaret ve sanayi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GEREL.IS"
+    },
+    {
+      "symbol": "GESAN",
+      "companyName": "GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş.",
+      "normalizedName": "girisim elektrik sanayi taahhut ve ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "GESAN.IS"
+    },
+    {
+      "symbol": "GGBVK",
+      "companyName": "GOLDEN GLOBAL VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "golden global varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GGBVK.IS"
+    },
+    {
+      "symbol": "GIPTA",
+      "companyName": "GIPTA OFİS KIRTASİYE VE PROMOSYON ÜRÜNLERİ İMALAT SANAYİ A.Ş.",
+      "normalizedName": "gipta ofis kirtasiye ve promosyon urunleri imalat sanayi a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "GIPTA.IS"
+    },
+    {
+      "symbol": "GLB",
+      "companyName": "GLOBAL MENKUL DEĞERLER A.Ş.",
+      "normalizedName": "global menkul degerler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GLB.IS"
+    },
+    {
+      "symbol": "GLCVY",
+      "companyName": "GELECEK VARLIK YÖNETİMİ A.Ş.",
+      "normalizedName": "gelecek varlik yonetimi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GLCVY.IS"
+    },
+    {
+      "symbol": "GLRMK",
+      "companyName": "GÜLERMAK AĞIR SANAYİ İNŞAAT VE TAAHHÜT A.Ş.",
+      "normalizedName": "gulermak agir sanayi insaat ve taahhut a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "GLRMK.IS"
+    },
+    {
+      "symbol": "GLRYH",
+      "companyName": "GÜLER YATIRIM HOLDİNG A.Ş.",
+      "normalizedName": "guler yatirim holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GLRYH.IS"
+    },
+    {
+      "symbol": "GLYHO",
+      "companyName": "GLOBAL YATIRIM HOLDİNG A.Ş.",
+      "normalizedName": "global yatirim holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GLYHO.IS"
+    },
+    {
+      "symbol": "GMTAS",
+      "companyName": "GİMAT MAĞAZACILIK SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "gimat magazacilik sanayi ve ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "GMTAS.IS"
+    },
+    {
+      "symbol": "GOKNR",
+      "companyName": "GÖKNUR GIDA MADDELERİ ENERJİ İMALAT İTHALAT İHRACAT TİCARET VE SANAYİ A.Ş.",
+      "normalizedName": "goknur gida maddeleri enerji imalat ithalat ihracat ticaret ve sanayi a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "GOKNR.IS"
+    },
+    {
+      "symbol": "GOLDA",
+      "companyName": "GOLDA GIDA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "golda gida sanayi ve ticaret a s",
+      "city": "KONYA",
+      "sector": null,
+      "dataSymbol": "GOLDA.IS"
+    },
+    {
+      "symbol": "GOLTS",
+      "companyName": "GÖLTAŞ GÖLLER BÖLGESİ ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "goltas goller bolgesi cimento sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GOLTS.IS"
+    },
+    {
+      "symbol": "GOODY",
+      "companyName": "GOODYEAR LASTİKLERİ T.A.Ş.",
+      "normalizedName": "goodyear lastikleri t a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GOODY.IS"
+    },
+    {
+      "symbol": "GOZDE",
+      "companyName": "GÖZDE GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "gozde girisim sermayesi yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GOZDE.IS"
+    },
+    {
+      "symbol": "GRM",
+      "companyName": "GARANTİ YATIRIM MENKUL KIYMETLER A.Ş.",
+      "normalizedName": "garanti yatirim menkul kiymetler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GRM.IS"
+    },
+    {
+      "symbol": "GRNYO",
+      "companyName": "GARANTİ YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "garanti yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GRNYO.IS"
+    },
+    {
+      "symbol": "GRSEL",
+      "companyName": "GÜR-SEL TURİZM TAŞIMACILIK VE SERVİS TİCARET A.Ş.",
+      "normalizedName": "gur sel turizm tasimacilik ve servis ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GRSEL.IS"
+    },
+    {
+      "symbol": "GRTHO",
+      "companyName": "GRAINTURK HOLDİNG A.Ş.",
+      "normalizedName": "grainturk holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GRTHO.IS"
+    },
+    {
+      "symbol": "GSDDE",
+      "companyName": "GSD DENİZCİLİK GAYRİMENKUL İNŞAAT SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "gsd denizcilik gayrimenkul insaat sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GSDDE.IS"
+    },
+    {
+      "symbol": "GSDHO",
+      "companyName": "GSD HOLDİNG A.Ş.",
+      "normalizedName": "gsd holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GSDHO.IS"
+    },
+    {
+      "symbol": "GSIPD",
+      "companyName": "GOLDMAN SACHS INTERNATIONAL",
+      "normalizedName": "goldman sachs international",
+      "city": null,
+      "sector": null,
+      "dataSymbol": "GSIPD.IS"
+    },
+    {
+      "symbol": "GSRAY",
+      "companyName": "GALATASARAY SPORTİF SINAİ VE TİCARİ YATIRIMLAR A.Ş.",
+      "normalizedName": "galatasaray sportif sinai ve ticari yatirimlar a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GSRAY.IS"
+    },
+    {
+      "symbol": "GUBRF",
+      "companyName": "GÜBRE FABRİKALARI T.A.Ş.",
+      "normalizedName": "gubre fabrikalari t a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GUBRF.IS"
+    },
+    {
+      "symbol": "GUNDG",
+      "companyName": "GÜNDOĞDU GIDA SÜT ÜRÜNLERİ SANAYİ VE DIŞ TİCARET A.Ş.",
+      "normalizedName": "gundogdu gida sut urunleri sanayi ve dis ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GUNDG.IS"
+    },
+    {
+      "symbol": "GWIND",
+      "companyName": "GALATA WIND ENERJİ A.Ş.",
+      "normalizedName": "galata wind enerji a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GWIND.IS"
+    },
+    {
+      "symbol": "GYVAR",
+      "companyName": "GY VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "gy varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "GYVAR.IS"
+    },
+    {
+      "symbol": "GZNMI",
+      "companyName": "GEZİNOMİ SEYAHAT TURİZM TİCARET A.Ş.",
+      "normalizedName": "gezinomi seyahat turizm ticaret a s",
+      "city": "ANTALYA",
+      "sector": null,
+      "dataSymbol": "GZNMI.IS"
+    },
+    {
+      "symbol": "HALKB",
+      "companyName": "TÜRKİYE HALK BANKASI A.Ş.",
+      "normalizedName": "turkiye halk bankasi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "HALKB.IS"
+    },
+    {
+      "symbol": "HALKF",
+      "companyName": "HALK FİNANSAL KİRALAMA A.Ş.",
+      "normalizedName": "halk finansal kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "HALKF.IS"
+    },
+    {
+      "symbol": "HALKI",
+      "companyName": "HALK YATIRIM MENKUL DEĞERLER A.Ş.",
+      "normalizedName": "halk yatirim menkul degerler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "HALKI.IS"
+    },
+    {
+      "symbol": "HATEK",
+      "companyName": "HATEKS HATAY TEKSTİL İŞLETMELERİ A.Ş.",
+      "normalizedName": "hateks hatay tekstil isletmeleri a s",
+      "city": "HATAY",
+      "sector": null,
+      "dataSymbol": "HATEK.IS"
+    },
+    {
+      "symbol": "HATSN",
+      "companyName": "HAT-SAN GEMİ İNŞAA BAKIM ONARIM DENİZ NAKLİYAT SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "hat san gemi insaa bakim onarim deniz nakliyat sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "HATSN.IS"
+    },
+    {
+      "symbol": "HAYVK",
+      "companyName": "HAYAT VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "hayat varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "HAYVK.IS"
+    },
+    {
+      "symbol": "HDFFL",
+      "companyName": "HEDEF ARAÇ KİRALAMA VE SERVİS A.Ş.",
+      "normalizedName": "hedef arac kiralama ve servis a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "HDFFL.IS"
+    },
+    {
+      "symbol": "HDFGS",
+      "companyName": "HEDEF GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "hedef girisim sermayesi yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "HDFGS.IS"
+    },
+    {
+      "symbol": "HDFVK",
+      "companyName": "HEDEF VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "hedef varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "HDFVK.IS"
+    },
+    {
+      "symbol": "HDFYB",
+      "companyName": "HEDEF YATIRIM BANKASI A.Ş.",
+      "normalizedName": "hedef yatirim bankasi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "HDFYB.IS"
+    },
+    {
+      "symbol": "HEDEF",
+      "companyName": "HEDEF HOLDİNG A.Ş.",
+      "normalizedName": "hedef holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "HEDEF.IS"
+    },
+    {
+      "symbol": "HEKTS",
+      "companyName": "HEKTAŞ TİCARET T.A.Ş.",
+      "normalizedName": "hektas ticaret t a s",
+      "city": "KOCAELİ",
+      "sector": null,
+      "dataSymbol": "HEKTS.IS"
+    },
+    {
+      "symbol": "HKTM",
+      "companyName": "HİDROPAR HAREKET KONTROL TEKNOLOJİLERİ MERKEZİ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "hidropar hareket kontrol teknolojileri merkezi sanayi ve ticaret a s",
+      "city": "KOCAELİ",
+      "sector": null,
+      "dataSymbol": "HKTM.IS"
+    },
+    {
+      "symbol": "HLGYO",
+      "companyName": "HALK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "halk gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "HLGYO.IS"
+    },
+    {
+      "symbol": "HLVKS",
+      "companyName": "HALK VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "halk varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "HLVKS.IS"
+    },
+    {
+      "symbol": "HOROZ",
+      "companyName": "HOROZ LOJİSTİK KARGO HİZMETLERİ VE TİCARET A.Ş.",
+      "normalizedName": "horoz lojistik kargo hizmetleri ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "HOROZ.IS"
+    },
+    {
+      "symbol": "HRKET",
+      "companyName": "HAREKET PROJE TAŞIMACILIĞI VE YÜK MÜHENDİSLİĞİ A.Ş.",
+      "normalizedName": "hareket proje tasimaciligi ve yuk muhendisligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "HRKET.IS"
+    },
+    {
+      "symbol": "HTTBT",
+      "companyName": "HİTİT BİLGİSAYAR HİZMETLERİ A.Ş.",
+      "normalizedName": "hitit bilgisayar hizmetleri a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "HTTBT.IS"
+    },
+    {
+      "symbol": "HUBVC",
+      "companyName": "HUB GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "hub girisim sermayesi yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "HUBVC.IS"
+    },
+    {
+      "symbol": "HUNER",
+      "companyName": "HUN YENİLENEBİLİR ENERJİ ÜRETİM A.Ş.",
+      "normalizedName": "hun yenilenebilir enerji uretim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "HUNER.IS"
+    },
+    {
+      "symbol": "HURGZ",
+      "companyName": "HÜRRİYET GAZETECİLİK VE MATBAACILIK A.Ş.",
+      "normalizedName": "hurriyet gazetecilik ve matbaacilik a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "HURGZ.IS"
+    },
+    {
+      "symbol": "HUZFA",
+      "companyName": "HUZUR FAKTORİNG A.Ş.",
+      "normalizedName": "huzur faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "HUZFA.IS"
+    },
+    {
+      "symbol": "IAZ",
+      "companyName": "INVEST-AZ YATIRIM MENKUL DEĞERLER A.Ş.",
+      "normalizedName": "invest az yatirim menkul degerler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "IAZ.IS"
+    },
+    {
+      "symbol": "ICB",
+      "companyName": "ICBC TURKEY BANK A.Ş.",
+      "normalizedName": "icbc turkey bank a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ICB.IS"
+    },
+    {
+      "symbol": "ICBCT",
+      "companyName": "ICBC TURKEY BANK A.Ş.",
+      "normalizedName": "icbc turkey bank a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ICBCT.IS"
+    },
+    {
+      "symbol": "ICUGS",
+      "companyName": "ICU GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "icu girisim sermayesi yatirim ortakligi a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "ICUGS.IS"
+    },
+    {
+      "symbol": "IDGYO",
+      "companyName": "İDEALİST GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "idealist gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "IDGYO.IS"
+    },
+    {
+      "symbol": "IEYHO",
+      "companyName": "IŞIKLAR ENERJİ VE YAPI HOLDİNG A.Ş.",
+      "normalizedName": "isiklar enerji ve yapi holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "IEYHO.IS"
+    },
+    {
+      "symbol": "IHAAS",
+      "companyName": "İHLAS HABER AJANSI A.Ş.",
+      "normalizedName": "ihlas haber ajansi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "IHAAS.IS"
+    },
+    {
+      "symbol": "IHEVA",
+      "companyName": "İHLAS EV ALETLERİ İMALAT SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "ihlas ev aletleri imalat sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "IHEVA.IS"
+    },
+    {
+      "symbol": "IHGZT",
+      "companyName": "İHLAS GAZETECİLİK A.Ş.",
+      "normalizedName": "ihlas gazetecilik a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "IHGZT.IS"
+    },
+    {
+      "symbol": "IHLAS",
+      "companyName": "İHLAS HOLDİNG A.Ş.",
+      "normalizedName": "ihlas holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "IHLAS.IS"
+    },
+    {
+      "symbol": "IHLGM",
+      "companyName": "İHLAS GAYRİMENKUL PROJE GELİŞTİRME VE TİCARET A.Ş.",
+      "normalizedName": "ihlas gayrimenkul proje gelistirme ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "IHLGM.IS"
+    },
+    {
+      "symbol": "IHYAY",
+      "companyName": "İHLAS YAYIN HOLDİNG A.Ş.",
+      "normalizedName": "ihlas yayin holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "IHYAY.IS"
+    },
+    {
+      "symbol": "IMASM",
+      "companyName": "İMAŞ MAKİNA SANAYİ A.Ş.",
+      "normalizedName": "imas makina sanayi a s",
+      "city": "KONYA",
+      "sector": null,
+      "dataSymbol": "IMASM.IS"
+    },
+    {
+      "symbol": "INDES",
+      "companyName": "İNDEKS BİLGİSAYAR SİSTEMLERİ MÜHENDİSLİK SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "indeks bilgisayar sistemleri muhendislik sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "INDES.IS"
+    },
+    {
+      "symbol": "INFO",
+      "companyName": "İNFO YATIRIM MENKUL DEĞERLER A.Ş.",
+      "normalizedName": "info yatirim menkul degerler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "INFO.IS"
+    },
+    {
+      "symbol": "INGRM",
+      "companyName": "INGRAM MİCRO BİLİŞİM SİSTEMLERİ A.Ş.",
+      "normalizedName": "ingram micro bilisim sistemleri a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "INGRM.IS"
+    },
+    {
+      "symbol": "INTEK",
+      "companyName": "İNNOSA TEKNOLOJİ A.Ş.",
+      "normalizedName": "innosa teknoloji a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "INTEK.IS"
+    },
+    {
+      "symbol": "INTEM",
+      "companyName": "İNTEMA İNŞAAT VE TESİSAT MALZEMELERİ YATIRIM VE PAZARLAMA A.Ş.",
+      "normalizedName": "intema insaat ve tesisat malzemeleri yatirim ve pazarlama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "INTEM.IS"
+    },
+    {
+      "symbol": "INVEO",
+      "companyName": "INVEO YATIRIM HOLDİNG A.Ş.",
+      "normalizedName": "inveo yatirim holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "INVEO.IS"
+    },
+    {
+      "symbol": "INVES",
+      "companyName": "INVESTCO HOLDİNG A.Ş.",
+      "normalizedName": "investco holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "INVES.IS"
+    },
+    {
+      "symbol": "ISATR",
+      "companyName": "TÜRKİYE İŞ BANKASI A.Ş.",
+      "normalizedName": "turkiye is bankasi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ISATR.IS"
+    },
+    {
+      "symbol": "ISBIR",
+      "companyName": "İŞBİR HOLDİNG A.Ş.",
+      "normalizedName": "isbir holding a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "ISBIR.IS"
+    },
+    {
+      "symbol": "ISCTR",
+      "companyName": "TÜRKİYE İŞ BANKASI A.Ş.",
+      "normalizedName": "turkiye is bankasi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ISCTR.IS"
+    },
+    {
+      "symbol": "ISDMR",
+      "companyName": "İSKENDERUN DEMİR VE ÇELİK A.Ş.",
+      "normalizedName": "iskenderun demir ve celik a s",
+      "city": "HATAY",
+      "sector": null,
+      "dataSymbol": "ISDMR.IS"
+    },
+    {
+      "symbol": "ISFAK",
+      "companyName": "İŞ FAKTORİNG A.Ş.",
+      "normalizedName": "is faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ISFAK.IS"
+    },
+    {
+      "symbol": "ISFIN",
+      "companyName": "İŞ FİNANSAL KİRALAMA A.Ş.",
+      "normalizedName": "is finansal kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ISFIN.IS"
+    },
+    {
+      "symbol": "ISGSY",
+      "companyName": "İŞ GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "is girisim sermayesi yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ISGSY.IS"
+    },
+    {
+      "symbol": "ISGYO",
+      "companyName": "İŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "is gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ISGYO.IS"
+    },
+    {
+      "symbol": "ISKPL",
+      "companyName": "IŞIK PLASTİK SANAYİ VE DIŞ TİCARET PAZARLAMA A.Ş.",
+      "normalizedName": "isik plastik sanayi ve dis ticaret pazarlama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ISKPL.IS"
+    },
+    {
+      "symbol": "ISMEN",
+      "companyName": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+      "normalizedName": "is yatirim menkul degerler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ISMEN.IS"
+    },
+    {
+      "symbol": "ISSEN",
+      "companyName": "İŞBİR SENTETİK DOKUMA SANAYİ A.Ş.",
+      "normalizedName": "isbir sentetik dokuma sanayi a s",
+      "city": "BALIKESİR",
+      "sector": null,
+      "dataSymbol": "ISSEN.IS"
+    },
+    {
+      "symbol": "ISTFK",
+      "companyName": "İSTANBUL FAKTORİNG A.Ş.",
+      "normalizedName": "istanbul faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ISTFK.IS"
+    },
+    {
+      "symbol": "ISTVY",
+      "companyName": "İSTANBUL VARLIK YÖNETİM A.Ş.",
+      "normalizedName": "istanbul varlik yonetim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ISTVY.IS"
+    },
+    {
+      "symbol": "ISVEA",
+      "companyName": "İSVEA SERAMİK VE BANYO ÜRÜNLERİ SANAYİ A.Ş.",
+      "normalizedName": "isvea seramik ve banyo urunleri sanayi a s",
+      "city": "ÇORUM",
+      "sector": null,
+      "dataSymbol": "ISVEA.IS"
+    },
+    {
+      "symbol": "ISYAT",
+      "companyName": "İŞ YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "is yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ISYAT.IS"
+    },
+    {
+      "symbol": "IZENR",
+      "companyName": "İZDEMİR ENERJİ ELEKTRİK ÜRETİM A.Ş.",
+      "normalizedName": "izdemir enerji elektrik uretim a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "IZENR.IS"
+    },
+    {
+      "symbol": "IZFAS",
+      "companyName": "İZMİR FIRÇA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "izmir firca sanayi ve ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "IZFAS.IS"
+    },
+    {
+      "symbol": "IZINV",
+      "companyName": "İZ YATIRIM HOLDİNG A.Ş.",
+      "normalizedName": "iz yatirim holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "IZINV.IS"
+    },
+    {
+      "symbol": "IZMDC",
+      "companyName": "İZMİR DEMİR ÇELİK SANAYİ A.Ş.",
+      "normalizedName": "izmir demir celik sanayi a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "IZMDC.IS"
+    },
+    {
+      "symbol": "JANTS",
+      "companyName": "JANTSA JANT SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "jantsa jant sanayi ve ticaret a s",
+      "city": "AYDIN",
+      "sector": null,
+      "dataSymbol": "JANTS.IS"
+    },
+    {
+      "symbol": "KAPLM",
+      "companyName": "KAPLAMİN AMBALAJ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "kaplamin ambalaj sanayi ve ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "KAPLM.IS"
+    },
+    {
+      "symbol": "KARCL",
+      "companyName": "KARDEMİR ÇELİK SANAYİ A.Ş.",
+      "normalizedName": "kardemir celik sanayi a s",
+      "city": "DENİZLİ",
+      "sector": null,
+      "dataSymbol": "KARCL.IS"
+    },
+    {
+      "symbol": "KAREL",
+      "companyName": "KAREL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "karel elektronik sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KAREL.IS"
+    },
+    {
+      "symbol": "KARSN",
+      "companyName": "KARSAN OTOMOTİV SANAYİİ VE TİCARET A.Ş.",
+      "normalizedName": "karsan otomotiv sanayii ve ticaret a s",
+      "city": "BURSA",
+      "sector": null,
+      "dataSymbol": "KARSN.IS"
+    },
+    {
+      "symbol": "KARTN",
+      "companyName": "KARTONSAN KARTON SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "kartonsan karton sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KARTN.IS"
+    },
+    {
+      "symbol": "KATMR",
+      "companyName": "KATMERCİLER ARAÇ ÜSTÜ EKİPMAN SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "katmerciler arac ustu ekipman sanayi ve ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "KATMR.IS"
+    },
+    {
+      "symbol": "KATVK",
+      "companyName": "KATILIM VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "katilim varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KATVK.IS"
+    },
+    {
+      "symbol": "KAYSE",
+      "companyName": "KAYSERİ ŞEKER FABRİKASI A.Ş.",
+      "normalizedName": "kayseri seker fabrikasi a s",
+      "city": "KAYSERİ",
+      "sector": null,
+      "dataSymbol": "KAYSE.IS"
+    },
+    {
+      "symbol": "KBORU",
+      "companyName": "KUZEY BORU A.Ş.",
+      "normalizedName": "kuzey boru a s",
+      "city": "AKSARAY",
+      "sector": null,
+      "dataSymbol": "KBORU.IS"
+    },
+    {
+      "symbol": "KCAER",
+      "companyName": "KOCAER ÇELİK SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "kocaer celik sanayi ve ticaret a s",
+      "city": "DENİZLİ",
+      "sector": null,
+      "dataSymbol": "KCAER.IS"
+    },
+    {
+      "symbol": "KCHOL",
+      "companyName": "KOÇ HOLDİNG A.Ş.",
+      "normalizedName": "koc holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KCHOL.IS"
+    },
+    {
+      "symbol": "KENT",
+      "companyName": "KENT GIDA MADDELERİ SANAYİİ VE TİCARET A.Ş.",
+      "normalizedName": "kent gida maddeleri sanayii ve ticaret a s",
+      "city": "KOCAELİ",
+      "sector": null,
+      "dataSymbol": "KENT.IS"
+    },
+    {
+      "symbol": "KERVN",
+      "companyName": "KERVANSARAY YATIRIM HOLDİNG A.Ş.",
+      "normalizedName": "kervansaray yatirim holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KERVN.IS"
+    },
+    {
+      "symbol": "KFEIN",
+      "companyName": "KAFEİN YAZILIM HİZMETLERİ TİCARET A.Ş.",
+      "normalizedName": "kafein yazilim hizmetleri ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KFEIN.IS"
+    },
+    {
+      "symbol": "KFILO",
+      "companyName": "KAYATUR FİLO KİRALAMA A.Ş.",
+      "normalizedName": "kayatur filo kiralama a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "KFILO.IS"
+    },
+    {
+      "symbol": "KGYO",
+      "companyName": "KORAY GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "koray gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KGYO.IS"
+    },
+    {
+      "symbol": "KIMMR",
+      "companyName": "ERSAN ALIŞVERİŞ HİZMETLERİ VE GIDA SANAYİ TİCARET A.Ş.",
+      "normalizedName": "ersan alisveris hizmetleri ve gida sanayi ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KIMMR.IS"
+    },
+    {
+      "symbol": "KLGYO",
+      "companyName": "KİLER GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "kiler gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KLGYO.IS"
+    },
+    {
+      "symbol": "KLKIM",
+      "companyName": "KALEKİM KİMYEVİ MADDELER SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "kalekim kimyevi maddeler sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KLKIM.IS"
+    },
+    {
+      "symbol": "KLMSN",
+      "companyName": "KLİMASAN KLİMA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "klimasan klima sanayi ve ticaret a s",
+      "city": "MANİSA",
+      "sector": null,
+      "dataSymbol": "KLMSN.IS"
+    },
+    {
+      "symbol": "KLN",
+      "companyName": "TÜRKİYE KALKINMA VE YATIRIM BANKASI A.Ş.",
+      "normalizedName": "turkiye kalkinma ve yatirim bankasi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KLN.IS"
+    },
+    {
+      "symbol": "KLRHO",
+      "companyName": "KİLER HOLDİNG A.Ş.",
+      "normalizedName": "kiler holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KLRHO.IS"
+    },
+    {
+      "symbol": "KLSER",
+      "companyName": "KALESERAMİK ÇANAKKALE KALEBODUR SERAMİK SANAYİ A.Ş.",
+      "normalizedName": "kaleseramik canakkale kalebodur seramik sanayi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KLSER.IS"
+    },
+    {
+      "symbol": "KLSYN",
+      "companyName": "KOLEKSİYON MOBİLYA SANAYİ A.Ş.",
+      "normalizedName": "koleksiyon mobilya sanayi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KLSYN.IS"
+    },
+    {
+      "symbol": "KLVKS",
+      "companyName": "KALKINMA YATIRIM VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "kalkinma yatirim varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KLVKS.IS"
+    },
+    {
+      "symbol": "KLYPV",
+      "companyName": "KALYON GÜNEŞ TEKNOLOJİLERİ ÜRETİM A.Ş.",
+      "normalizedName": "kalyon gunes teknolojileri uretim a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "KLYPV.IS"
+    },
+    {
+      "symbol": "KMPUR",
+      "companyName": "KİMTEKS POLİÜRETAN SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "kimteks poliuretan sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KMPUR.IS"
+    },
+    {
+      "symbol": "KNFRT",
+      "companyName": "KONFRUT TARIM A.Ş.",
+      "normalizedName": "konfrut tarim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KNFRT.IS"
+    },
+    {
+      "symbol": "KNTFA",
+      "companyName": "KENT FİNANS FAKTORİNG A.Ş.",
+      "normalizedName": "kent finans faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KNTFA.IS"
+    },
+    {
+      "symbol": "KOCFN",
+      "companyName": "KOÇ FİNANSMAN A.Ş.",
+      "normalizedName": "koc finansman a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KOCFN.IS"
+    },
+    {
+      "symbol": "KOCMT",
+      "companyName": "KOÇ METALURJİ A.Ş.",
+      "normalizedName": "koc metalurji a s",
+      "city": "HATAY",
+      "sector": null,
+      "dataSymbol": "KOCMT.IS"
+    },
+    {
+      "symbol": "KONKA",
+      "companyName": "KONYA KAĞIT SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "konya kagit sanayi ve ticaret a s",
+      "city": "KONYA",
+      "sector": null,
+      "dataSymbol": "KONKA.IS"
+    },
+    {
+      "symbol": "KONTR",
+      "companyName": "KONTROLMATİK TEKNOLOJİ ENERJİ VE MÜHENDİSLİK A.Ş.",
+      "normalizedName": "kontrolmatik teknoloji enerji ve muhendislik a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KONTR.IS"
+    },
+    {
+      "symbol": "KONYA",
+      "companyName": "KONYA ÇİMENTO SANAYİİ A.Ş.",
+      "normalizedName": "konya cimento sanayii a s",
+      "city": "KONYA",
+      "sector": null,
+      "dataSymbol": "KONYA.IS"
+    },
+    {
+      "symbol": "KOPOL",
+      "companyName": "KOZA POLYESTER SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "koza polyester sanayi ve ticaret a s",
+      "city": "GAZİANTEP",
+      "sector": null,
+      "dataSymbol": "KOPOL.IS"
+    },
+    {
+      "symbol": "KORDS",
+      "companyName": "KORDSA TEKNİK TEKSTİL A.Ş.",
+      "normalizedName": "kordsa teknik tekstil a s",
+      "city": "KOCAELİ",
+      "sector": null,
+      "dataSymbol": "KORDS.IS"
+    },
+    {
+      "symbol": "KORTS",
+      "companyName": "KORTEKS MENSUCAT SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "korteks mensucat sanayi ve ticaret a s",
+      "city": "BURSA",
+      "sector": null,
+      "dataSymbol": "KORTS.IS"
+    },
+    {
+      "symbol": "KOTON",
+      "companyName": "KOTON MAĞAZACILIK TEKSTİL SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "koton magazacilik tekstil sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KOTON.IS"
+    },
+    {
+      "symbol": "KPEKS",
+      "companyName": "KAPEKS KİMYA SANAYİ A.Ş.",
+      "normalizedName": "kapeks kimya sanayi a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "KPEKS.IS"
+    },
+    {
+      "symbol": "KPTGY",
+      "companyName": "KAPİTAL GAYRİMENKUL YATIRIMI GELİŞTİRME VE İŞLETMECİLİK A.Ş.",
+      "normalizedName": "kapital gayrimenkul yatirimi gelistirme ve isletmecilik a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KPTGY.IS"
+    },
+    {
+      "symbol": "KRDMA",
+      "companyName": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "kardemir karabuk demir celik sanayi ve ticaret a s",
+      "city": "KARABÜK",
+      "sector": null,
+      "dataSymbol": "KRDMA.IS"
+    },
+    {
+      "symbol": "KRDMB",
+      "companyName": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş. (B)",
+      "normalizedName": "kardemir karabuk demir celik sanayi ve ticaret a s b",
+      "city": "KARABÜK",
+      "sector": null,
+      "dataSymbol": "KRDMB.IS"
+    },
+    {
+      "symbol": "KRDMD",
+      "companyName": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş. (D)",
+      "normalizedName": "kardemir karabuk demir celik sanayi ve ticaret a s d",
+      "city": "KARABÜK",
+      "sector": null,
+      "dataSymbol": "KRDMD.IS"
+    },
+    {
+      "symbol": "KRGYO",
+      "companyName": "KÖRFEZ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "korfez gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KRGYO.IS"
+    },
+    {
+      "symbol": "KRONT",
+      "companyName": "KRON TEKNOLOJİ A.Ş.",
+      "normalizedName": "kron teknoloji a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KRONT.IS"
+    },
+    {
+      "symbol": "KRPLS",
+      "companyName": "KOROPLAST TEMİZLİK AMBALAJ ÜRÜNLERİ SANAYİ VE DIŞ TİCARET A.Ş.",
+      "normalizedName": "koroplast temizlik ambalaj urunleri sanayi ve dis ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KRPLS.IS"
+    },
+    {
+      "symbol": "KRSTL",
+      "companyName": "KRİSTAL KOLA VE MEŞRUBAT SANAYİ TİCARET A.Ş.",
+      "normalizedName": "kristal kola ve mesrubat sanayi ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KRSTL.IS"
+    },
+    {
+      "symbol": "KRTEK",
+      "companyName": "KARSU TEKSTİL SANAYİİ VE TİCARET A.Ş.",
+      "normalizedName": "karsu tekstil sanayii ve ticaret a s",
+      "city": "KAYSERİ",
+      "sector": null,
+      "dataSymbol": "KRTEK.IS"
+    },
+    {
+      "symbol": "KRVGD",
+      "companyName": "KERVAN GIDA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "kervan gida sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KRVGD.IS"
+    },
+    {
+      "symbol": "KSFIN",
+      "companyName": "KOÇ STELLANTİS FİNANSMAN A.Ş.",
+      "normalizedName": "koc stellantis finansman a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KSFIN.IS"
+    },
+    {
+      "symbol": "KSTUR",
+      "companyName": "KUŞTUR KUŞADASI TURİZM ENDÜSTRİSİ A.Ş.",
+      "normalizedName": "kustur kusadasi turizm endustrisi a s",
+      "city": "AYDIN",
+      "sector": null,
+      "dataSymbol": "KSTUR.IS"
+    },
+    {
+      "symbol": "KTKVK",
+      "companyName": "KT KİRA SERTİFİKALARI VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "kt kira sertifikalari varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KTKVK.IS"
+    },
+    {
+      "symbol": "KTLEV",
+      "companyName": "KATILIMEVİM TASARRUF FİNANSMAN A.Ş.",
+      "normalizedName": "katilimevim tasarruf finansman a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KTLEV.IS"
+    },
+    {
+      "symbol": "KTSKR",
+      "companyName": "KÜTAHYA ŞEKER FABRİKASI A.Ş.",
+      "normalizedName": "kutahya seker fabrikasi a s",
+      "city": "KÜTAHYA",
+      "sector": null,
+      "dataSymbol": "KTSKR.IS"
+    },
+    {
+      "symbol": "KTSVK",
+      "companyName": "KT SUKUK VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "kt sukuk varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KTSVK.IS"
+    },
+    {
+      "symbol": "KUTPO",
+      "companyName": "KÜTAHYA PORSELEN SANAYİ A.Ş.",
+      "normalizedName": "kutahya porselen sanayi a s",
+      "city": "KÜTAHYA",
+      "sector": null,
+      "dataSymbol": "KUTPO.IS"
+    },
+    {
+      "symbol": "KUVVA",
+      "companyName": "KUVVA GIDA TİCARET VE SANAYİ YATIRIMLARI A.Ş.",
+      "normalizedName": "kuvva gida ticaret ve sanayi yatirimlari a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KUVVA.IS"
+    },
+    {
+      "symbol": "KUYAS",
+      "companyName": "KUYAŞ YATIRIM A.Ş.",
+      "normalizedName": "kuyas yatirim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KUYAS.IS"
+    },
+    {
+      "symbol": "KZBGY",
+      "companyName": "KIZILBÜK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "kizilbuk gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KZBGY.IS"
+    },
+    {
+      "symbol": "KZGYO",
+      "companyName": "KUZUGRUP GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "kuzugrup gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "KZGYO.IS"
+    },
+    {
+      "symbol": "LIDER",
+      "companyName": "LDR TURİZM A.Ş.",
+      "normalizedName": "ldr turizm a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "LIDER.IS"
+    },
+    {
+      "symbol": "LIDFA",
+      "companyName": "LİDER FAKTORİNG A.Ş.",
+      "normalizedName": "lider faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "LIDFA.IS"
+    },
+    {
+      "symbol": "LILAK",
+      "companyName": "LİLA KAĞIT SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "lila kagit sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "LILAK.IS"
+    },
+    {
+      "symbol": "LINK",
+      "companyName": "LİNK BİLGİSAYAR SİSTEMLERİ YAZILIMI VE DONANIMI SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "link bilgisayar sistemleri yazilimi ve donanimi sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "LINK.IS"
+    },
+    {
+      "symbol": "LKMNH",
+      "companyName": "LOKMAN HEKİM ENGÜRÜSAĞ SAĞLIK TURİZM EĞİTİM HİZMETLERİ VE İNŞAAT TAAHHÜT A.Ş.",
+      "normalizedName": "lokman hekim engurusag saglik turizm egitim hizmetleri ve insaat taahhut a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "LKMNH.IS"
+    },
+    {
+      "symbol": "LMKDC",
+      "companyName": "LİMAK DOĞU ANADOLU ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "limak dogu anadolu cimento sanayi ve ticaret a s",
+      "city": "ŞANLIURFA",
+      "sector": null,
+      "dataSymbol": "LMKDC.IS"
+    },
+    {
+      "symbol": "LOGO",
+      "companyName": "LOGO YAZILIM SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "logo yazilim sanayi ve ticaret a s",
+      "city": "KOCAELİ",
+      "sector": null,
+      "dataSymbol": "LOGO.IS"
+    },
+    {
+      "symbol": "LRSHO",
+      "companyName": "LORAS HOLDİNG A.Ş.",
+      "normalizedName": "loras holding a s",
+      "city": "KONYA",
+      "sector": null,
+      "dataSymbol": "LRSHO.IS"
+    },
+    {
+      "symbol": "LUKSK",
+      "companyName": "LÜKS KADİFE TİCARET VE SANAYİİ A.Ş.",
+      "normalizedName": "luks kadife ticaret ve sanayii a s",
+      "city": "KAYSERİ",
+      "sector": null,
+      "dataSymbol": "LUKSK.IS"
+    },
+    {
+      "symbol": "LXGYO",
+      "companyName": "LUXERA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "luxera gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "LXGYO.IS"
+    },
+    {
+      "symbol": "LYDHO",
+      "companyName": "LYDİA HOLDİNG A.Ş.",
+      "normalizedName": "lydia holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "LYDHO.IS"
+    },
+    {
+      "symbol": "LYDYE",
+      "companyName": "LYDİA YEŞİL ENERJİ KAYNAKLARI A.Ş.",
+      "normalizedName": "lydia yesil enerji kaynaklari a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "LYDYE.IS"
+    },
+    {
+      "symbol": "MAALT",
+      "companyName": "MARMARİS ALTINYUNUS TURİSTİK TESİSLER A.Ş.",
+      "normalizedName": "marmaris altinyunus turistik tesisler a s",
+      "city": "ANTALYA",
+      "sector": null,
+      "dataSymbol": "MAALT.IS"
+    },
+    {
+      "symbol": "MACKO",
+      "companyName": "MACKOLİK İNTERNET HİZMETLERİ TİCARET A.Ş.",
+      "normalizedName": "mackolik internet hizmetleri ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MACKO.IS"
+    },
+    {
+      "symbol": "MAGEN",
+      "companyName": "MARGÜN ENERJİ ÜRETİM SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "margun enerji uretim sanayi ve ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "MAGEN.IS"
+    },
+    {
+      "symbol": "MAKIM",
+      "companyName": "MAKİM MAKİNA TEKNOLOJİLERİ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "makim makina teknolojileri sanayi ve ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "MAKIM.IS"
+    },
+    {
+      "symbol": "MAKTK",
+      "companyName": "MAKİNA TAKIM ENDÜSTRİSİ A.Ş.",
+      "normalizedName": "makina takim endustrisi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MAKTK.IS"
+    },
+    {
+      "symbol": "MANAS",
+      "companyName": "MANAS ENERJİ YÖNETİMİ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "manas enerji yonetimi sanayi ve ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "MANAS.IS"
+    },
+    {
+      "symbol": "MARBL",
+      "companyName": "TUREKS TURUNÇ MADENCİLİK İÇ VE DIŞ TİCARET A.Ş.",
+      "normalizedName": "tureks turunc madencilik ic ve dis ticaret a s",
+      "city": "AFYONKARAHİSAR",
+      "sector": null,
+      "dataSymbol": "MARBL.IS"
+    },
+    {
+      "symbol": "MARKA",
+      "companyName": "US YATIRIM HOLDİNG A.Ş.",
+      "normalizedName": "us yatirim holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MARKA.IS"
+    },
+    {
+      "symbol": "MARMR",
+      "companyName": "MARMARA HOLDİNG A.Ş.",
+      "normalizedName": "marmara holding a s",
+      "city": "KOCAELİ",
+      "sector": null,
+      "dataSymbol": "MARMR.IS"
+    },
+    {
+      "symbol": "MARTI",
+      "companyName": "MARTI OTEL İŞLETMELERİ A.Ş.",
+      "normalizedName": "marti otel isletmeleri a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MARTI.IS"
+    },
+    {
+      "symbol": "MASFN",
+      "companyName": "MASFEN ENERJİ A.Ş.",
+      "normalizedName": "masfen enerji a s",
+      "city": "ISPARTA",
+      "sector": null,
+      "dataSymbol": "MASFN.IS"
+    },
+    {
+      "symbol": "MAVI",
+      "companyName": "MAVİ GİYİM SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "mavi giyim sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MAVI.IS"
+    },
+    {
+      "symbol": "MBFTR",
+      "companyName": "MERCEDES-BENZ FİNANSMAN TÜRK A.Ş.",
+      "normalizedName": "mercedes benz finansman turk a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MBFTR.IS"
+    },
+    {
+      "symbol": "MCARD",
+      "companyName": "METROPAL KURUMSAL HİZMETLER A.Ş.",
+      "normalizedName": "metropal kurumsal hizmetler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MCARD.IS"
+    },
+    {
+      "symbol": "MDASM",
+      "companyName": "MİDAS MENKUL DEĞERLER A.Ş.",
+      "normalizedName": "midas menkul degerler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MDASM.IS"
+    },
+    {
+      "symbol": "MDIAZ",
+      "companyName": "MEDİAZZ YENİ MEDYA VE TEKNOLOJİ YATIRIMLARI A.Ş.",
+      "normalizedName": "mediazz yeni medya ve teknoloji yatirimlari a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MDIAZ.IS"
+    },
+    {
+      "symbol": "MEDTR",
+      "companyName": "MEDİTERA TIBBİ MALZEME SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "meditera tibbi malzeme sanayi ve ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "MEDTR.IS"
+    },
+    {
+      "symbol": "MEGAP",
+      "companyName": "MEGA POLİETİLEN KÖPÜK SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "mega polietilen kopuk sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MEGAP.IS"
+    },
+    {
+      "symbol": "MEGMT",
+      "companyName": "MEGA METAL SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "mega metal sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MEGMT.IS"
+    },
+    {
+      "symbol": "MEKAG",
+      "companyName": "MEKA GLOBAL MAKİNE İMALAT SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "meka global makine imalat sanayi ve ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "MEKAG.IS"
+    },
+    {
+      "symbol": "MEKMD",
+      "companyName": "MEKSA YATIRIM MENKUL DEĞERLER A.Ş.",
+      "normalizedName": "meksa yatirim menkul degerler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MEKMD.IS"
+    },
+    {
+      "symbol": "MEPET",
+      "companyName": "MEPET METRO PETROL VE TESİSLERİ SANAYİ TİCARET A.Ş.",
+      "normalizedName": "mepet metro petrol ve tesisleri sanayi ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MEPET.IS"
+    },
+    {
+      "symbol": "MERCN",
+      "companyName": "MERCAN KİMYA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "mercan kimya sanayi ve ticaret a s",
+      "city": "DENİZLİ",
+      "sector": null,
+      "dataSymbol": "MERCN.IS"
+    },
+    {
+      "symbol": "MERIT",
+      "companyName": "MERİT TURİZM YATIRIM VE İŞLETME A.Ş.",
+      "normalizedName": "merit turizm yatirim ve isletme a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MERIT.IS"
+    },
+    {
+      "symbol": "MERKO",
+      "companyName": "MERKO GIDA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "merko gida sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MERKO.IS"
+    },
+    {
+      "symbol": "METEN",
+      "companyName": "METGÜN ENERJİ YATIRIMLARI A.Ş.",
+      "normalizedName": "metgun enerji yatirimlari a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "METEN.IS"
+    },
+    {
+      "symbol": "METRO",
+      "companyName": "METRO TİCARİ VE MALİ YATIRIMLAR HOLDİNG A.Ş.",
+      "normalizedName": "metro ticari ve mali yatirimlar holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "METRO.IS"
+    },
+    {
+      "symbol": "MEYSU",
+      "companyName": "MEYSU GIDA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "meysu gida sanayi ve ticaret a s",
+      "city": "KAYSERİ",
+      "sector": null,
+      "dataSymbol": "MEYSU.IS"
+    },
+    {
+      "symbol": "MGROS",
+      "companyName": "MİGROS TİCARET A.Ş.",
+      "normalizedName": "migros ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MGROS.IS"
+    },
+    {
+      "symbol": "MHRGY",
+      "companyName": "MHR GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "mhr gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MHRGY.IS"
+    },
+    {
+      "symbol": "MIATK",
+      "companyName": "MİA TEKNOLOJİ A.Ş.",
+      "normalizedName": "mia teknoloji a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "MIATK.IS"
+    },
+    {
+      "symbol": "MILKS",
+      "companyName": "MİLK ACADEMY SÜT ÜRÜNLERİ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "milk academy sut urunleri sanayi ve ticaret a s",
+      "city": "BURSA",
+      "sector": null,
+      "dataSymbol": "MILKS.IS"
+    },
+    {
+      "symbol": "MINTF",
+      "companyName": "MİNT FİNANSMAN A.Ş.",
+      "normalizedName": "mint finansman a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MINTF.IS"
+    },
+    {
+      "symbol": "MMCAS",
+      "companyName": "MMC SANAYİ VE TİCARİ YATIRIMLAR A.Ş.",
+      "normalizedName": "mmc sanayi ve ticari yatirimlar a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MMCAS.IS"
+    },
+    {
+      "symbol": "MNDRS",
+      "companyName": "MENDERES TEKSTİL SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "menderes tekstil sanayi ve ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "MNDRS.IS"
+    },
+    {
+      "symbol": "MNDTR",
+      "companyName": "MONDİ TURKEY OLUKLU MUKAVVA KAĞIT VE AMBALAJ SANAYİ A.Ş.",
+      "normalizedName": "mondi turkey oluklu mukavva kagit ve ambalaj sanayi a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "MNDTR.IS"
+    },
+    {
+      "symbol": "MNGFA",
+      "companyName": "MNG FAKTORİNG A.Ş.",
+      "normalizedName": "mng faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MNGFA.IS"
+    },
+    {
+      "symbol": "MOBTL",
+      "companyName": "MOBİLTEL İLETİŞİM HİZMETLERİ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "mobiltel iletisim hizmetleri sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MOBTL.IS"
+    },
+    {
+      "symbol": "MOGAN",
+      "companyName": "MOGAN ENERJİ YATIRIM HOLDİNG A.Ş.",
+      "normalizedName": "mogan enerji yatirim holding a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "MOGAN.IS"
+    },
+    {
+      "symbol": "MOPAS",
+      "companyName": "MOPAŞ MARKETÇİLİK GIDA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "mopas marketcilik gida sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MOPAS.IS"
+    },
+    {
+      "symbol": "MPARK",
+      "companyName": "MLP SAĞLIK HİZMETLERİ A.Ş.",
+      "normalizedName": "mlp saglik hizmetleri a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MPARK.IS"
+    },
+    {
+      "symbol": "MRBAS",
+      "companyName": "MARBAŞ MENKUL DEĞERLER A.Ş.",
+      "normalizedName": "marbas menkul degerler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MRBAS.IS"
+    },
+    {
+      "symbol": "MRBKF",
+      "companyName": "MERCEDES BENZ KAMYON FİNANSMAN A.Ş.",
+      "normalizedName": "mercedes benz kamyon finansman a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MRBKF.IS"
+    },
+    {
+      "symbol": "MRGYO",
+      "companyName": "MARTI GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "marti gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MRGYO.IS"
+    },
+    {
+      "symbol": "MRMAG",
+      "companyName": "MARKA MAĞAZACILIK A.Ş.",
+      "normalizedName": "marka magazacilik a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MRMAG.IS"
+    },
+    {
+      "symbol": "MRSHL",
+      "companyName": "MARSHALL BOYA VE VERNİK SANAYİİ A.Ş.",
+      "normalizedName": "marshall boya ve vernik sanayii a s",
+      "city": "KOCAELİ",
+      "sector": null,
+      "dataSymbol": "MRSHL.IS"
+    },
+    {
+      "symbol": "MSGYO",
+      "companyName": "MİSTRAL GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "mistral gayrimenkul yatirim ortakligi a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "MSGYO.IS"
+    },
+    {
+      "symbol": "MSY",
+      "companyName": "MİSYON YATIRIM BANKASI A.Ş.",
+      "normalizedName": "misyon yatirim bankasi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MSY.IS"
+    },
+    {
+      "symbol": "MTRKS",
+      "companyName": "MATRİKS FİNANSAL TEKNOLOJİLER A.Ş.",
+      "normalizedName": "matriks finansal teknolojiler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MTRKS.IS"
+    },
+    {
+      "symbol": "MTRYO",
+      "companyName": "METRO YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "metro yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "MTRYO.IS"
+    },
+    {
+      "symbol": "MZHLD",
+      "companyName": "MAZHAR ZORLU HOLDİNG A.Ş.",
+      "normalizedName": "mazhar zorlu holding a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "MZHLD.IS"
+    },
+    {
+      "symbol": "NATEN",
+      "companyName": "NATUREL YENİLENEBİLİR ENERJİ TİCARET A.Ş.",
+      "normalizedName": "naturel yenilenebilir enerji ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "NATEN.IS"
+    },
+    {
+      "symbol": "NETAS",
+      "companyName": "NETAŞ TELEKOMÜNİKASYON A.Ş.",
+      "normalizedName": "netas telekomunikasyon a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "NETAS.IS"
+    },
+    {
+      "symbol": "NETCD",
+      "companyName": "NETCAD YAZILIM A.Ş.",
+      "normalizedName": "netcad yazilim a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "NETCD.IS"
+    },
+    {
+      "symbol": "NIBAS",
+      "companyName": "NİĞBAŞ NİĞDE BETON SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "nigbas nigde beton sanayi ve ticaret a s",
+      "city": "NİĞDE",
+      "sector": null,
+      "dataSymbol": "NIBAS.IS"
+    },
+    {
+      "symbol": "NRBNK",
+      "companyName": "NUROL YATIRIM BANKASI A.Ş.",
+      "normalizedName": "nurol yatirim bankasi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "NRBNK.IS"
+    },
+    {
+      "symbol": "NTGAZ",
+      "companyName": "NATURELGAZ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "naturelgaz sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "NTGAZ.IS"
+    },
+    {
+      "symbol": "NTHOL",
+      "companyName": "NET HOLDİNG A.Ş.",
+      "normalizedName": "net holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "NTHOL.IS"
+    },
+    {
+      "symbol": "NUGYO",
+      "companyName": "NUROL GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "nurol gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "NUGYO.IS"
+    },
+    {
+      "symbol": "NUHCM",
+      "companyName": "NUH ÇİMENTO SANAYİ A.Ş.",
+      "normalizedName": "nuh cimento sanayi a s",
+      "city": "KOCAELİ",
+      "sector": null,
+      "dataSymbol": "NUHCM.IS"
+    },
+    {
+      "symbol": "NURVK",
+      "companyName": "NUROL VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "nurol varlik kiralama a s",
+      "city": null,
+      "sector": null,
+      "dataSymbol": "NURVK.IS"
+    },
+    {
+      "symbol": "OBAMS",
+      "companyName": "OBA MAKARNACILIK SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "oba makarnacilik sanayi ve ticaret a s",
+      "city": "GAZİANTEP",
+      "sector": null,
+      "dataSymbol": "OBAMS.IS"
+    },
+    {
+      "symbol": "OBASE",
+      "companyName": "OBASE BİLGİSAYAR VE DANIŞMANLIK HİZMETLERİ TİCARET A.Ş.",
+      "normalizedName": "obase bilgisayar ve danismanlik hizmetleri ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "OBASE.IS"
+    },
+    {
+      "symbol": "ODAS",
+      "companyName": "ODAŞ ELEKTRİK ÜRETİM SANAYİ TİCARET A.Ş.",
+      "normalizedName": "odas elektrik uretim sanayi ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ODAS.IS"
+    },
+    {
+      "symbol": "ODINE",
+      "companyName": "ODİNE SOLUTİONS TEKNOLOJİ TİCARET VE SANAYİ A.Ş.",
+      "normalizedName": "odine solutions teknoloji ticaret ve sanayi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ODINE.IS"
+    },
+    {
+      "symbol": "OFSYM",
+      "companyName": "OFİS YEM GIDA SANAYİ TİCARET A.Ş.",
+      "normalizedName": "ofis yem gida sanayi ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "OFSYM.IS"
+    },
+    {
+      "symbol": "OMD",
+      "companyName": "OSMANLI YATIRIM MENKUL DEĞERLER A.Ş.",
+      "normalizedName": "osmanli yatirim menkul degerler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "OMD.IS"
+    },
+    {
+      "symbol": "ONCSM",
+      "companyName": "ONCOSEM ONKOLOJİK SİSTEMLER SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "oncosem onkolojik sistemler sanayi ve ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "ONCSM.IS"
+    },
+    {
+      "symbol": "ONRYT",
+      "companyName": "ONUR YÜKSEK TEKNOLOJİ A.Ş.",
+      "normalizedName": "onur yuksek teknoloji a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "ONRYT.IS"
+    },
+    {
+      "symbol": "OPET",
+      "companyName": "OPET PETROLCÜLÜK A.Ş.",
+      "normalizedName": "opet petrolculuk a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "OPET.IS"
+    },
+    {
+      "symbol": "ORCAY",
+      "companyName": "ORÇAY ORTAKÖY ÇAY SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "orcay ortakoy cay sanayi ve ticaret a s",
+      "city": "RİZE",
+      "sector": null,
+      "dataSymbol": "ORCAY.IS"
+    },
+    {
+      "symbol": "ORFIN",
+      "companyName": "ORFİN FİNANSMAN A.Ş.",
+      "normalizedName": "orfin finansman a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ORFIN.IS"
+    },
+    {
+      "symbol": "ORGE",
+      "companyName": "ORGE ENERJİ ELEKTRİK TAAHHÜT A.Ş.",
+      "normalizedName": "orge enerji elektrik taahhut a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ORGE.IS"
+    },
+    {
+      "symbol": "ORMA",
+      "companyName": "ORMA ORMAN MAHSÜLLERİ İNTEGRE SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "orma orman mahsulleri integre sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ORMA.IS"
+    },
+    {
+      "symbol": "ORZAX",
+      "companyName": "ORZAKS İLAÇ VE KİMYA SANAYİ TİCARET A.Ş.",
+      "normalizedName": "orzaks ilac ve kimya sanayi ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ORZAX.IS"
+    },
+    {
+      "symbol": "OSTIM",
+      "companyName": "OSTİM ENDÜSTRİYEL YATIRIMLAR VE İŞLETME A.Ş.",
+      "normalizedName": "ostim endustriyel yatirimlar ve isletme a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "OSTIM.IS"
+    },
+    {
+      "symbol": "OSVKS",
+      "companyName": "OSMANLI VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "osmanli varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "OSVKS.IS"
+    },
+    {
+      "symbol": "OTKAR",
+      "companyName": "OTOKAR OTOMOTİV VE SAVUNMA SANAYİ A.Ş.",
+      "normalizedName": "otokar otomotiv ve savunma sanayi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "OTKAR.IS"
+    },
+    {
+      "symbol": "OTOSR",
+      "companyName": "OTOSOR OTOMOTİV A.Ş.",
+      "normalizedName": "otosor otomotiv a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "OTOSR.IS"
+    },
+    {
+      "symbol": "OTTO",
+      "companyName": "OTTO HOLDİNG A.Ş.",
+      "normalizedName": "otto holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "OTTO.IS"
+    },
+    {
+      "symbol": "OYA",
+      "companyName": "OYAK YATIRIM MENKUL DEĞERLER A.Ş.",
+      "normalizedName": "oyak yatirim menkul degerler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "OYA.IS"
+    },
+    {
+      "symbol": "OYAKC",
+      "companyName": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+      "normalizedName": "oyak cimento fabrikalari a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "OYAKC.IS"
+    },
+    {
+      "symbol": "OYAYO",
+      "companyName": "OYAK YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "oyak yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "OYAYO.IS"
+    },
+    {
+      "symbol": "OYLUM",
+      "companyName": "OYLUM SINAİ YATIRIMLAR A.Ş.",
+      "normalizedName": "oylum sinai yatirimlar a s",
+      "city": "KAYSERİ",
+      "sector": null,
+      "dataSymbol": "OYLUM.IS"
+    },
+    {
+      "symbol": "OZATD",
+      "companyName": "ÖZATA DENİZCİLİK SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "ozata denizcilik sanayi ve ticaret a s",
+      "city": "YALOVA",
+      "sector": null,
+      "dataSymbol": "OZATD.IS"
+    },
+    {
+      "symbol": "OZGYO",
+      "companyName": "ÖZDERİCİ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "ozderici gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "OZGYO.IS"
+    },
+    {
+      "symbol": "OZKGY",
+      "companyName": "ÖZAK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "ozak gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "OZKGY.IS"
+    },
+    {
+      "symbol": "OZRDN",
+      "companyName": "ÖZERDEN AMBALAJ SANAYİ A.Ş.",
+      "normalizedName": "ozerden ambalaj sanayi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "OZRDN.IS"
+    },
+    {
+      "symbol": "OZSUB",
+      "companyName": "ÖZSU BALIK ÜRETİM A.Ş.",
+      "normalizedName": "ozsu balik uretim a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "OZSUB.IS"
+    },
+    {
+      "symbol": "OZYSR",
+      "companyName": "ÖZYAŞAR TEL VE GALVANİZLEME SANAYİ A.Ş.",
+      "normalizedName": "ozyasar tel ve galvanizleme sanayi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "OZYSR.IS"
+    },
+    {
+      "symbol": "PAGYO",
+      "companyName": "PANORA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "panora gayrimenkul yatirim ortakligi a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "PAGYO.IS"
+    },
+    {
+      "symbol": "PAHOL",
+      "companyName": "PASİFİK HOLDİNG A.Ş.",
+      "normalizedName": "pasifik holding a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "PAHOL.IS"
+    },
+    {
+      "symbol": "PAMEL",
+      "companyName": "PAMEL YENİLENEBİLİR ELEKTRİK ÜRETİM A.Ş.",
+      "normalizedName": "pamel yenilenebilir elektrik uretim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "PAMEL.IS"
+    },
+    {
+      "symbol": "PAPIL",
+      "companyName": "PAPİLON SAVUNMA TEKNOLOJİ VE TİCARET A.Ş.",
+      "normalizedName": "papilon savunma teknoloji ve ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "PAPIL.IS"
+    },
+    {
+      "symbol": "PARSN",
+      "companyName": "PARSAN MAKİNA PARÇALARI SANAYİİ A.Ş.",
+      "normalizedName": "parsan makina parcalari sanayii a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "PARSN.IS"
+    },
+    {
+      "symbol": "PASEU",
+      "companyName": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
+      "normalizedName": "pasifik eurasia lojistik dis ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "PASEU.IS"
+    },
+    {
+      "symbol": "PATEK",
+      "companyName": "PASİFİK TEKNOLOJİ A.Ş.",
+      "normalizedName": "pasifik teknoloji a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "PATEK.IS"
+    },
+    {
+      "symbol": "PBT",
+      "companyName": "PASHA YATIRIM BANKASI A.Ş.",
+      "normalizedName": "pasha yatirim bankasi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "PBT.IS"
+    },
+    {
+      "symbol": "PCILT",
+      "companyName": "PC İLETİŞİM VE MEDYA HİZMETLERİ SANAYİ TİCARET A.Ş.",
+      "normalizedName": "pc iletisim ve medya hizmetleri sanayi ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "PCILT.IS"
+    },
+    {
+      "symbol": "PEKGY",
+      "companyName": "PEKER GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "peker gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "PEKGY.IS"
+    },
+    {
+      "symbol": "PENGD",
+      "companyName": "PENGUEN GIDA SANAYİ A.Ş.",
+      "normalizedName": "penguen gida sanayi a s",
+      "city": "BURSA",
+      "sector": null,
+      "dataSymbol": "PENGD.IS"
+    },
+    {
+      "symbol": "PENTA",
+      "companyName": "PENTA TEKNOLOJİ ÜRÜNLERİ DAĞITIM TİCARET A.Ş.",
+      "normalizedName": "penta teknoloji urunleri dagitim ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "PENTA.IS"
+    },
+    {
+      "symbol": "PETKM",
+      "companyName": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+      "normalizedName": "petkim petrokimya holding a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "PETKM.IS"
+    },
+    {
+      "symbol": "PETUN",
+      "companyName": "PINAR ENTEGRE ET VE UN SANAYİİ A.Ş.",
+      "normalizedName": "pinar entegre et ve un sanayii a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "PETUN.IS"
+    },
+    {
+      "symbol": "PGSUS",
+      "companyName": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+      "normalizedName": "pegasus hava tasimaciligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "PGSUS.IS"
+    },
+    {
+      "symbol": "PINSU",
+      "companyName": "PINAR SU VE İÇECEK SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "pinar su ve icecek sanayi ve ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "PINSU.IS"
+    },
+    {
+      "symbol": "PKART",
+      "companyName": "PLASTİKKART AKILLI KART İLETİŞİM SİSTEMLERİ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "plastikkart akilli kart iletisim sistemleri sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "PKART.IS"
+    },
+    {
+      "symbol": "PKENT",
+      "companyName": "PETROKENT TURİZM A.Ş.",
+      "normalizedName": "petrokent turizm a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "PKENT.IS"
+    },
+    {
+      "symbol": "PLTUR",
+      "companyName": "PLATFORM TURİZM TAŞIMACILIK GIDA İNŞAAT TEMİZLİK HİZMETLERİ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "platform turizm tasimacilik gida insaat temizlik hizmetleri sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "PLTUR.IS"
+    },
+    {
+      "symbol": "PNLSN",
+      "companyName": "PANELSAN ÇATI CEPHE SİSTEMLERİ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "panelsan cati cephe sistemleri sanayi ve ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "PNLSN.IS"
+    },
+    {
+      "symbol": "PNSUT",
+      "companyName": "PINAR SÜT MAMÜLLERİ SANAYİİ A.Ş.",
+      "normalizedName": "pinar sut mamulleri sanayii a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "PNSUT.IS"
+    },
+    {
+      "symbol": "POLHO",
+      "companyName": "POLİSAN HOLDİNG A.Ş.",
+      "normalizedName": "polisan holding a s",
+      "city": "KOCAELİ",
+      "sector": null,
+      "dataSymbol": "POLHO.IS"
+    },
+    {
+      "symbol": "POLTK",
+      "companyName": "POLİTEKNİK METAL SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "politeknik metal sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "POLTK.IS"
+    },
+    {
+      "symbol": "PRDGS",
+      "companyName": "PARDUS GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "pardus girisim sermayesi yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "PRDGS.IS"
+    },
+    {
+      "symbol": "PRFFK",
+      "companyName": "PARAFİNANS FAKTORİNG A.Ş.",
+      "normalizedName": "parafinans faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "PRFFK.IS"
+    },
+    {
+      "symbol": "PRKAB",
+      "companyName": "TÜRK PRYSMİAN KABLO VE SİSTEMLERİ A.Ş.",
+      "normalizedName": "turk prysmian kablo ve sistemleri a s",
+      "city": "BURSA",
+      "sector": null,
+      "dataSymbol": "PRKAB.IS"
+    },
+    {
+      "symbol": "PRKME",
+      "companyName": "PARK ELEKTRİK ÜRETİM MADENCİLİK SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "park elektrik uretim madencilik sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "PRKME.IS"
+    },
+    {
+      "symbol": "PRZMA",
+      "companyName": "PRİZMA PRES MATBAACILIK YAYINCILIK SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "prizma pres matbaacilik yayincilik sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "PRZMA.IS"
+    },
+    {
+      "symbol": "PSDTC",
+      "companyName": "PERGAMON STATUS DIŞ TİCARET A.Ş.",
+      "normalizedName": "pergamon status dis ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "PSDTC.IS"
+    },
+    {
+      "symbol": "PSGYO",
+      "companyName": "PASİFİK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "pasifik gayrimenkul yatirim ortakligi a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "PSGYO.IS"
+    },
+    {
+      "symbol": "QNBFF",
+      "companyName": "QNB FAKTORİNG A.Ş.",
+      "normalizedName": "qnb faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "QNBFF.IS"
+    },
+    {
+      "symbol": "QNBFK",
+      "companyName": "QNB FİNANSAL KİRALAMA A.Ş.",
+      "normalizedName": "qnb finansal kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "QNBFK.IS"
+    },
+    {
+      "symbol": "QNBTR",
+      "companyName": "QNB BANK A.Ş.",
+      "normalizedName": "qnb bank a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "QNBTR.IS"
+    },
+    {
+      "symbol": "QNBVK",
+      "companyName": "QNB VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "qnb varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "QNBVK.IS"
+    },
+    {
+      "symbol": "QUAGR",
+      "companyName": "QUA GRANITE HAYAL YAPI VE ÜRÜNLERİ SANAYİ TİCARET A.Ş.",
+      "normalizedName": "qua granite hayal yapi ve urunleri sanayi ticaret a s",
+      "city": "AYDIN",
+      "sector": null,
+      "dataSymbol": "QUAGR.IS"
+    },
+    {
+      "symbol": "QUFIN",
+      "companyName": "QUICK FİNANSMAN A.Ş.",
+      "normalizedName": "quick finansman a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "QUFIN.IS"
+    },
+    {
+      "symbol": "QUICK",
+      "companyName": "QUİCK SİGORTA A.Ş.",
+      "normalizedName": "quick sigorta a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "QUICK.IS"
+    },
+    {
+      "symbol": "QYATB",
+      "companyName": "Q YATIRIM BANKASI A.Ş.",
+      "normalizedName": "q yatirim bankasi a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "QYATB.IS"
+    },
+    {
+      "symbol": "QYHOL",
+      "companyName": "Q YATIRIM HOLDİNG A.Ş.",
+      "normalizedName": "q yatirim holding a s",
+      "city": "AYDIN",
+      "sector": null,
+      "dataSymbol": "QYHOL.IS"
+    },
+    {
+      "symbol": "RALYH",
+      "companyName": "RAL YATIRIM HOLDİNG A.Ş.",
+      "normalizedName": "ral yatirim holding a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "RALYH.IS"
+    },
+    {
+      "symbol": "RAYSG",
+      "companyName": "RAY SİGORTA A.Ş.",
+      "normalizedName": "ray sigorta a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "RAYSG.IS"
+    },
+    {
+      "symbol": "REEDR",
+      "companyName": "REEDER TEKNOLOJİ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "reeder teknoloji sanayi ve ticaret a s",
+      "city": "SAMSUN",
+      "sector": null,
+      "dataSymbol": "REEDR.IS"
+    },
+    {
+      "symbol": "RGYAS",
+      "companyName": "RÖNESANS GAYRİMENKUL YATIRIM A.Ş.",
+      "normalizedName": "ronesans gayrimenkul yatirim a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "RGYAS.IS"
+    },
+    {
+      "symbol": "RNPOL",
+      "companyName": "RAİNBOW POLİKARBONAT SANAYİ TİCARET A.Ş.",
+      "normalizedName": "rainbow polikarbonat sanayi ticaret a s",
+      "city": "KAYSERİ",
+      "sector": null,
+      "dataSymbol": "RNPOL.IS"
+    },
+    {
+      "symbol": "RODRG",
+      "companyName": "RODRİGO TEKSTİL SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "rodrigo tekstil sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "RODRG.IS"
+    },
+    {
+      "symbol": "RTALB",
+      "companyName": "RTA LABORATUVARLARI BİYOLOJİK ÜRÜNLER İLAÇ VE MAKİNE SANAYİ TİCARET A.Ş.",
+      "normalizedName": "rta laboratuvarlari biyolojik urunler ilac ve makine sanayi ticaret a s",
+      "city": "KOCAELİ",
+      "sector": null,
+      "dataSymbol": "RTALB.IS"
+    },
+    {
+      "symbol": "RUBNS",
+      "companyName": "RUBENİS TEKSTİL SANAYİ TİCARET A.Ş.",
+      "normalizedName": "rubenis tekstil sanayi ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "RUBNS.IS"
+    },
+    {
+      "symbol": "RUZYE",
+      "companyName": "RUZY MADENCİLİK VE ENERJİ YATIRIMLARI SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "ruzy madencilik ve enerji yatirimlari sanayi ve ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "RUZYE.IS"
+    },
+    {
+      "symbol": "RYGYO",
+      "companyName": "REYSAŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "reysas gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "RYGYO.IS"
+    },
+    {
+      "symbol": "RYSAS",
+      "companyName": "REYSAŞ TAŞIMACILIK VE LOJİSTİK TİCARET A.Ş.",
+      "normalizedName": "reysas tasimacilik ve lojistik ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "RYSAS.IS"
+    },
+    {
+      "symbol": "SAFKR",
+      "companyName": "SAFKAR EGE SOĞUTMACILIK KLİMA SOĞUK HAVA TESİSLERİ İHRACAT İTHALAT SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "safkar ege sogutmacilik klima soguk hava tesisleri ihracat ithalat sanayi ve ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "SAFKR.IS"
+    },
+    {
+      "symbol": "SAHOL",
+      "companyName": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+      "normalizedName": "haci omer sabanci holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "SAHOL.IS"
+    },
+    {
+      "symbol": "SAMAT",
+      "companyName": "SARAY MATBAACILIK KAĞITÇILIK KIRTASİYECİLİK TİCARET VE SANAYİ A.Ş.",
+      "normalizedName": "saray matbaacilik kagitcilik kirtasiyecilik ticaret ve sanayi a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "SAMAT.IS"
+    },
+    {
+      "symbol": "SANEL",
+      "companyName": "SAN-EL MÜHENDİSLİK ELEKTRİK TAAHHÜT SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "san el muhendislik elektrik taahhut sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "SANEL.IS"
+    },
+    {
+      "symbol": "SANFM",
+      "companyName": "SANİFOAM ENDÜSTRİ VE TÜKETİM ÜRÜNLERİ SANAYİ TİCARET A.Ş.",
+      "normalizedName": "sanifoam endustri ve tuketim urunleri sanayi ticaret a s",
+      "city": "TEKİRDAĞ",
+      "sector": null,
+      "dataSymbol": "SANFM.IS"
+    },
+    {
+      "symbol": "SANKO",
+      "companyName": "SANKO PAZARLAMA İTHALAT İHRACAT A.Ş.",
+      "normalizedName": "sanko pazarlama ithalat ihracat a s",
+      "city": "GAZİANTEP",
+      "sector": null,
+      "dataSymbol": "SANKO.IS"
+    },
+    {
+      "symbol": "SARAE",
+      "companyName": "ŞA-RA ENERJİ İNŞAAT TİCARET VE SANAYİ A.Ş.",
+      "normalizedName": "sa ra enerji insaat ticaret ve sanayi a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "SARAE.IS"
+    },
+    {
+      "symbol": "SARKY",
+      "companyName": "SARKUYSAN ELEKTROLİTİK BAKIR SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "sarkuysan elektrolitik bakir sanayi ve ticaret a s",
+      "city": "KOCAELİ",
+      "sector": null,
+      "dataSymbol": "SARKY.IS"
+    },
+    {
+      "symbol": "SARTN",
+      "companyName": "SARTEN AMBALAJ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "sarten ambalaj sanayi ve ticaret a s",
+      "city": null,
+      "sector": null,
+      "dataSymbol": "SARTN.IS"
+    },
+    {
+      "symbol": "SASA",
+      "companyName": "SASA POLYESTER SANAYİ A.Ş.",
+      "normalizedName": "sasa polyester sanayi a s",
+      "city": "ADANA",
+      "sector": null,
+      "dataSymbol": "SASA.IS"
+    },
+    {
+      "symbol": "SAYAS",
+      "companyName": "SAY YENİLENEBİLİR ENERJİ EKİPMANLARI SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "say yenilenebilir enerji ekipmanlari sanayi ve ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "SAYAS.IS"
+    },
+    {
+      "symbol": "SDTTR",
+      "companyName": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş.",
+      "normalizedName": "sdt uzay ve savunma teknolojileri a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "SDTTR.IS"
+    },
+    {
+      "symbol": "SEGMN",
+      "companyName": "SEĞMEN KARDEŞLER GIDA ÜRETİM VE AMBALAJ SANAYİ A.Ş.",
+      "normalizedName": "segmen kardesler gida uretim ve ambalaj sanayi a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "SEGMN.IS"
+    },
+    {
+      "symbol": "SEGYO",
+      "companyName": "ŞEKER GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "seker gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "SEGYO.IS"
+    },
+    {
+      "symbol": "SEK",
+      "companyName": "ŞEKERBANK T.A.Ş.",
+      "normalizedName": "sekerbank t a s",
+      "city": null,
+      "sector": null,
+      "dataSymbol": "SEK.IS"
+    },
+    {
+      "symbol": "SEKFK",
+      "companyName": "ŞEKER FİNANSAL KİRALAMA A.Ş.",
+      "normalizedName": "seker finansal kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "SEKFK.IS"
+    },
+    {
+      "symbol": "SEKUR",
+      "companyName": "SEKURO PLASTİK AMBALAJ SANAYİ A.Ş.",
+      "normalizedName": "sekuro plastik ambalaj sanayi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "SEKUR.IS"
+    },
+    {
+      "symbol": "SELEC",
+      "companyName": "SELÇUK ECZA DEPOSU TİCARET VE SANAYİ A.Ş.",
+      "normalizedName": "selcuk ecza deposu ticaret ve sanayi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "SELEC.IS"
+    },
+    {
+      "symbol": "SELVA",
+      "companyName": "SELVA GIDA SANAYİ A.Ş.",
+      "normalizedName": "selva gida sanayi a s",
+      "city": "KONYA",
+      "sector": null,
+      "dataSymbol": "SELVA.IS"
+    },
+    {
+      "symbol": "SERNT",
+      "companyName": "SERANİT GRANİT SERAMİK SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "seranit granit seramik sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "SERNT.IS"
+    },
+    {
+      "symbol": "SEYKM",
+      "companyName": "SEYİTLER KİMYA SANAYİ A.Ş.",
+      "normalizedName": "seyitler kimya sanayi a s",
+      "city": "MANİSA",
+      "sector": null,
+      "dataSymbol": "SEYKM.IS"
+    },
+    {
+      "symbol": "SILVR",
+      "companyName": "SİLVERLİNE ENDÜSTRİ VE TİCARET A.Ş.",
+      "normalizedName": "silverline endustri ve ticaret a s",
+      "city": "AMASYA",
+      "sector": null,
+      "dataSymbol": "SILVR.IS"
+    },
+    {
+      "symbol": "SISE",
+      "companyName": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+      "normalizedName": "turkiye sise ve cam fabrikalari a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "SISE.IS"
+    },
+    {
+      "symbol": "SKBNK",
+      "companyName": "ŞEKERBANK T.A.Ş.",
+      "normalizedName": "sekerbank t a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "SKBNK.IS"
+    },
+    {
+      "symbol": "SKTAS",
+      "companyName": "SÖKTAŞ TEKSTİL SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "soktas tekstil sanayi ve ticaret a s",
+      "city": "AYDIN",
+      "sector": null,
+      "dataSymbol": "SKTAS.IS"
+    },
+    {
+      "symbol": "SKY",
+      "companyName": "ŞEKER YATIRIM MENKUL DEĞERLER A.Ş.",
+      "normalizedName": "seker yatirim menkul degerler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "SKY.IS"
+    },
+    {
+      "symbol": "SKYLP",
+      "companyName": "SKYALP FİNANSAL TEKNOLOJİLER VE DANIŞMANLIK A.Ş.",
+      "normalizedName": "skyalp finansal teknolojiler ve danismanlik a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "SKYLP.IS"
+    },
+    {
+      "symbol": "SMART",
+      "companyName": "SMARTİKS YAZILIM A.Ş.",
+      "normalizedName": "smartiks yazilim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "SMART.IS"
+    },
+    {
+      "symbol": "SMRFA",
+      "companyName": "SÜMER FAKTORİNG A.Ş.",
+      "normalizedName": "sumer faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "SMRFA.IS"
+    },
+    {
+      "symbol": "SMRTG",
+      "companyName": "SMART GÜNEŞ ENERJİSİ TEKNOLOJİLERİ ARAŞTIRMA GELİŞTİRME ÜRETİM SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "smart gunes enerjisi teknolojileri arastirma gelistirme uretim sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "SMRTG.IS"
+    },
+    {
+      "symbol": "SMRVA",
+      "companyName": "SÜMER VARLIK YÖNETİM A.Ş.",
+      "normalizedName": "sumer varlik yonetim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "SMRVA.IS"
+    },
+    {
+      "symbol": "SNGYO",
+      "companyName": "SİNPAŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "sinpas gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "SNGYO.IS"
+    },
+    {
+      "symbol": "SNICA",
+      "companyName": "SANİCA ISI SANAYİ A.Ş.",
+      "normalizedName": "sanica isi sanayi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "SNICA.IS"
+    },
+    {
+      "symbol": "SNPAM",
+      "companyName": "SÖNMEZ PAMUKLU SANAYİİ A.Ş.",
+      "normalizedName": "sonmez pamuklu sanayii a s",
+      "city": "BURSA",
+      "sector": null,
+      "dataSymbol": "SNPAM.IS"
+    },
+    {
+      "symbol": "SODSN",
+      "companyName": "SODAŞ SODYUM SANAYİİ A.Ş.",
+      "normalizedName": "sodas sodyum sanayii a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "SODSN.IS"
+    },
+    {
+      "symbol": "SOHOE",
+      "companyName": "SOHO GİYİM VE ENERJİ A.Ş.",
+      "normalizedName": "soho giyim ve enerji a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "SOHOE.IS"
+    },
+    {
+      "symbol": "SOKE",
+      "companyName": "SÖKE DEĞİRMENCİLİK SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "soke degirmencilik sanayi ve ticaret a s",
+      "city": "AYDIN",
+      "sector": null,
+      "dataSymbol": "SOKE.IS"
+    },
+    {
+      "symbol": "SOKM",
+      "companyName": "ŞOK MARKETLER TİCARET A.Ş.",
+      "normalizedName": "sok marketler ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "SOKM.IS"
+    },
+    {
+      "symbol": "SONME",
+      "companyName": "SÖNMEZ FİLAMENT SENTETİK İPLİK VE ELYAF SANAYİ A.Ş.",
+      "normalizedName": "sonmez filament sentetik iplik ve elyaf sanayi a s",
+      "city": "BURSA",
+      "sector": null,
+      "dataSymbol": "SONME.IS"
+    },
+    {
+      "symbol": "SRVGY",
+      "companyName": "SERVET GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "servet gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "SRVGY.IS"
+    },
+    {
+      "symbol": "SSAAT",
+      "companyName": "SAAT VE SAAT SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "saat ve saat sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "SSAAT.IS"
+    },
+    {
+      "symbol": "SUMAS",
+      "companyName": "SUMAŞ SUNİ TAHTA VE MOBİLYA SANAYİİ A.Ş.",
+      "normalizedName": "sumas suni tahta ve mobilya sanayii a s",
+      "city": "BALIKESİR",
+      "sector": null,
+      "dataSymbol": "SUMAS.IS"
+    },
+    {
+      "symbol": "SUNTK",
+      "companyName": "SUN TEKSTİL SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "sun tekstil sanayi ve ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "SUNTK.IS"
+    },
+    {
+      "symbol": "SURGY",
+      "companyName": "SUR TATİL EVLERİ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "sur tatil evleri gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "SURGY.IS"
+    },
+    {
+      "symbol": "SUWEN",
+      "companyName": "SUWEN TEKSTİL SANAYİ PAZARLAMA A.Ş.",
+      "normalizedName": "suwen tekstil sanayi pazarlama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "SUWEN.IS"
+    },
+    {
+      "symbol": "SVGYO",
+      "companyName": "SAVUR GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "savur gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "SVGYO.IS"
+    },
+    {
+      "symbol": "TABGD",
+      "companyName": "TAB GIDA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "tab gida sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TABGD.IS"
+    },
+    {
+      "symbol": "TAC",
+      "companyName": "TACİRLER YATIRIM MENKUL DEĞERLER A.Ş.",
+      "normalizedName": "tacirler yatirim menkul degerler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TAC.IS"
+    },
+    {
+      "symbol": "TAE",
+      "companyName": "TERA YATIRIM BANKASI A.Ş.",
+      "normalizedName": "tera yatirim bankasi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TAE.IS"
+    },
+    {
+      "symbol": "TAMFA",
+      "companyName": "TAM FİNANS FAKTORİNG A.Ş.",
+      "normalizedName": "tam finans faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TAMFA.IS"
+    },
+    {
+      "symbol": "TARFN",
+      "companyName": "TARFİN TARIM A.Ş.",
+      "normalizedName": "tarfin tarim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TARFN.IS"
+    },
+    {
+      "symbol": "TARKM",
+      "companyName": "TARKİM BİTKİ KORUMA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "tarkim bitki koruma sanayi ve ticaret a s",
+      "city": "MANİSA",
+      "sector": null,
+      "dataSymbol": "TARKM.IS"
+    },
+    {
+      "symbol": "TATEN",
+      "companyName": "TATLIPINAR ENERJİ ÜRETİM A.Ş.",
+      "normalizedName": "tatlipinar enerji uretim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TATEN.IS"
+    },
+    {
+      "symbol": "TATGD",
+      "companyName": "TAT GIDA SANAYİ A.Ş.",
+      "normalizedName": "tat gida sanayi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TATGD.IS"
+    },
+    {
+      "symbol": "TAVHL",
+      "companyName": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+      "normalizedName": "tav havalimanlari holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TAVHL.IS"
+    },
+    {
+      "symbol": "TBORG",
+      "companyName": "TÜRK TUBORG BİRA VE MALT SANAYİİ A.Ş.",
+      "normalizedName": "turk tuborg bira ve malt sanayii a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "TBORG.IS"
+    },
+    {
+      "symbol": "TCELL",
+      "companyName": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+      "normalizedName": "turkcell iletisim hizmetleri a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TCELL.IS"
+    },
+    {
+      "symbol": "TCKRC",
+      "companyName": "KIRAÇ GALVANİZ TELEKOMİNİKASYON METAL MAKİNE İNŞAAT ELEKTRİK SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "kirac galvaniz telekominikasyon metal makine insaat elektrik sanayi ve ticaret a s",
+      "city": "BURSA",
+      "sector": null,
+      "dataSymbol": "TCKRC.IS"
+    },
+    {
+      "symbol": "TDGYO",
+      "companyName": "TREND GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "trend gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TDGYO.IS"
+    },
+    {
+      "symbol": "TEBFA",
+      "companyName": "TEB FAKTORİNG A.Ş.",
+      "normalizedName": "teb faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TEBFA.IS"
+    },
+    {
+      "symbol": "TEHOL",
+      "companyName": "TERA YATIRIM TEKNOLOJİ HOLDİNG A.Ş.",
+      "normalizedName": "tera yatirim teknoloji holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TEHOL.IS"
+    },
+    {
+      "symbol": "TEKTU",
+      "companyName": "TEK-ART İNŞAAT TİCARET TURİZM SANAYİ VE YATIRIMLAR A.Ş.",
+      "normalizedName": "tek art insaat ticaret turizm sanayi ve yatirimlar a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TEKTU.IS"
+    },
+    {
+      "symbol": "TERA",
+      "companyName": "TERA YATIRIM MENKUL DEĞERLER A.Ş.",
+      "normalizedName": "tera yatirim menkul degerler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TERA.IS"
+    },
+    {
+      "symbol": "TEVKS",
+      "companyName": "TERA VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "tera varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TEVKS.IS"
+    },
+    {
+      "symbol": "TEZOL",
+      "companyName": "EUROPAP TEZOL KAĞIT SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "europap tezol kagit sanayi ve ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "TEZOL.IS"
+    },
+    {
+      "symbol": "TFNVK",
+      "companyName": "TF VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "tf varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TFNVK.IS"
+    },
+    {
+      "symbol": "TGSAS",
+      "companyName": "TGS DIŞ TİCARET A.Ş.",
+      "normalizedName": "tgs dis ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TGSAS.IS"
+    },
+    {
+      "symbol": "THYAO",
+      "companyName": "TÜRK HAVA YOLLARI A.O.",
+      "normalizedName": "turk hava yollari a o",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "THYAO.IS"
+    },
+    {
+      "symbol": "TIMUR",
+      "companyName": "TİMUR GAYRİMENKUL GELİŞTİRME YAPI VE YATIRIM A.Ş.",
+      "normalizedName": "timur gayrimenkul gelistirme yapi ve yatirim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TIMUR.IS"
+    },
+    {
+      "symbol": "TKFEN",
+      "companyName": "TEKFEN HOLDİNG A.Ş.",
+      "normalizedName": "tekfen holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TKFEN.IS"
+    },
+    {
+      "symbol": "TKNKA",
+      "companyName": "TEKNİKA PLAST TEKNİK KALIP PLASTİK SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "teknika plast teknik kalip plastik sanayi ve ticaret a s",
+      "city": "MANİSA",
+      "sector": null,
+      "dataSymbol": "TKNKA.IS"
+    },
+    {
+      "symbol": "TKNSA",
+      "companyName": "TEKNOSA İÇ VE DIŞ TİCARET A.Ş.",
+      "normalizedName": "teknosa ic ve dis ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TKNSA.IS"
+    },
+    {
+      "symbol": "TLMAN",
+      "companyName": "TRABZON LİMAN İŞLETMECİLİĞİ A.Ş.",
+      "normalizedName": "trabzon liman isletmeciligi a s",
+      "city": "TRABZON",
+      "sector": null,
+      "dataSymbol": "TLMAN.IS"
+    },
+    {
+      "symbol": "TMPOL",
+      "companyName": "TEMAPOL POLİMER PLASTİK VE İNŞAAT SANAYİ TİCARET A.Ş.",
+      "normalizedName": "temapol polimer plastik ve insaat sanayi ticaret a s",
+      "city": "KAYSERİ",
+      "sector": null,
+      "dataSymbol": "TMPOL.IS"
+    },
+    {
+      "symbol": "TMSN",
+      "companyName": "TÜMOSAN MOTOR VE TRAKTÖR SANAYİ A.Ş.",
+      "normalizedName": "tumosan motor ve traktor sanayi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TMSN.IS"
+    },
+    {
+      "symbol": "TNZTP",
+      "companyName": "TAPDİ OKSİJEN ÖZEL SAĞLIK VE EĞİTİM HİZMETLERİ SANAYİ TİCARET A.Ş.",
+      "normalizedName": "tapdi oksijen ozel saglik ve egitim hizmetleri sanayi ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "TNZTP.IS"
+    },
+    {
+      "symbol": "TOASO",
+      "companyName": "TOFAŞ TÜRK OTOMOBİL FABRİKASI A.Ş.",
+      "normalizedName": "tofas turk otomobil fabrikasi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TOASO.IS"
+    },
+    {
+      "symbol": "TRALT",
+      "companyName": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+      "normalizedName": "turk altin isletmeleri a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "TRALT.IS"
+    },
+    {
+      "symbol": "TRCAS",
+      "companyName": "TURCAS HOLDİNG A.Ş.",
+      "normalizedName": "turcas holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TRCAS.IS"
+    },
+    {
+      "symbol": "TRENJ",
+      "companyName": "TR DOĞAL ENERJİ KAYNAKLARI ARAŞTIRMA VE ÜRETİM A.Ş.",
+      "normalizedName": "tr dogal enerji kaynaklari arastirma ve uretim a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "TRENJ.IS"
+    },
+    {
+      "symbol": "TRFFA",
+      "companyName": "TERA FİNANS FAKTORİNG A.Ş.",
+      "normalizedName": "tera finans faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TRFFA.IS"
+    },
+    {
+      "symbol": "TRGYO",
+      "companyName": "TORUNLAR GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "torunlar gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TRGYO.IS"
+    },
+    {
+      "symbol": "TRHOL",
+      "companyName": "TERA FİNANSAL YATIRIMLAR HOLDİNG A.Ş.",
+      "normalizedName": "tera finansal yatirimlar holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TRHOL.IS"
+    },
+    {
+      "symbol": "TRILC",
+      "companyName": "TURK İLAÇ VE SERUM SANAYİ A.Ş.",
+      "normalizedName": "turk ilac ve serum sanayi a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "TRILC.IS"
+    },
+    {
+      "symbol": "TRKFN",
+      "companyName": "TURK FİNANSMAN A.Ş.",
+      "normalizedName": "turk finansman a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TRKFN.IS"
+    },
+    {
+      "symbol": "TRKNT",
+      "companyName": "TURKNET İLETİŞİM HİZMETLERİ A.Ş.",
+      "normalizedName": "turknet iletisim hizmetleri a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TRKNT.IS"
+    },
+    {
+      "symbol": "TRMEN",
+      "companyName": "TRIVE YATIRIM MENKUL DEĞERLER A.Ş.",
+      "normalizedName": "trive yatirim menkul degerler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TRMEN.IS"
+    },
+    {
+      "symbol": "TRMET",
+      "companyName": "TR ANADOLU METAL MADENCİLİK İŞLETMELERİ A.Ş.",
+      "normalizedName": "tr anadolu metal madencilik isletmeleri a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "TRMET.IS"
+    },
+    {
+      "symbol": "TRYKI",
+      "companyName": "TİRYAKİ AGRO GIDA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "tiryaki agro gida sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TRYKI.IS"
+    },
+    {
+      "symbol": "TSGYO",
+      "companyName": "TSKB GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "tskb gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TSGYO.IS"
+    },
+    {
+      "symbol": "TSK",
+      "companyName": "TÜRKİYE SINAİ KALKINMA BANKASI A.Ş.",
+      "normalizedName": "turkiye sinai kalkinma bankasi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TSK.IS"
+    },
+    {
+      "symbol": "TSKB",
+      "companyName": "TÜRKİYE SINAİ KALKINMA BANKASI A.Ş.",
+      "normalizedName": "turkiye sinai kalkinma bankasi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TSKB.IS"
+    },
+    {
+      "symbol": "TSPOR",
+      "companyName": "TRABZONSPOR SPORTİF YATIRIM VE FUTBOL İŞLETMECİLİĞİ TİCARET A.Ş.",
+      "normalizedName": "trabzonspor sportif yatirim ve futbol isletmeciligi ticaret a s",
+      "city": "TRABZON",
+      "sector": null,
+      "dataSymbol": "TSPOR.IS"
+    },
+    {
+      "symbol": "TTKOM",
+      "companyName": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+      "normalizedName": "turk telekomunikasyon a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "TTKOM.IS"
+    },
+    {
+      "symbol": "TTRAK",
+      "companyName": "TÜRK TRAKTÖR VE ZİRAAT MAKİNELERİ A.Ş.",
+      "normalizedName": "turk traktor ve ziraat makineleri a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "TTRAK.IS"
+    },
+    {
+      "symbol": "TUCLK",
+      "companyName": "TUĞÇELİK ALÜMİNYUM VE METAL MAMÜLLERİ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "tugcelik aluminyum ve metal mamulleri sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TUCLK.IS"
+    },
+    {
+      "symbol": "TUKAS",
+      "companyName": "TUKAŞ GIDA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "tukas gida sanayi ve ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "TUKAS.IS"
+    },
+    {
+      "symbol": "TUPRS",
+      "companyName": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+      "normalizedName": "tupras turkiye petrol rafinerileri a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TUPRS.IS"
+    },
+    {
+      "symbol": "TUREX",
+      "companyName": "TUREKS TURİZM TAŞIMACILIK A.Ş.",
+      "normalizedName": "tureks turizm tasimacilik a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TUREX.IS"
+    },
+    {
+      "symbol": "TURGG",
+      "companyName": "TÜRKER PROJE GAYRİMENKUL VE YATIRIM GELİŞTİRME A.Ş.",
+      "normalizedName": "turker proje gayrimenkul ve yatirim gelistirme a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TURGG.IS"
+    },
+    {
+      "symbol": "TURSG",
+      "companyName": "TÜRKİYE SİGORTA A.Ş.",
+      "normalizedName": "turkiye sigorta a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TURSG.IS"
+    },
+    {
+      "symbol": "TV8TV",
+      "companyName": "TV8 TV YAYINCILIK A.Ş.",
+      "normalizedName": "tv8 tv yayincilik a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TV8TV.IS"
+    },
+    {
+      "symbol": "TVB",
+      "companyName": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+      "normalizedName": "turkiye vakiflar bankasi t a o",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "TVB.IS"
+    },
+    {
+      "symbol": "UCAYM",
+      "companyName": "ÜÇAY MÜHENDİSLİK ENERJİ VE İKLİMLENDİRME TEKNOLOJİLERİ A.Ş.",
+      "normalizedName": "ucay muhendislik enerji ve iklimlendirme teknolojileri a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "UCAYM.IS"
+    },
+    {
+      "symbol": "UFUK",
+      "companyName": "UFUK YATIRIM YÖNETİM VE GAYRİMENKUL A.Ş.",
+      "normalizedName": "ufuk yatirim yonetim ve gayrimenkul a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "UFUK.IS"
+    },
+    {
+      "symbol": "ULAS",
+      "companyName": "ULAŞLAR TURİZM ENERJİ TARIM GIDA VE İNŞAAT YATIRIMLARI A.Ş.",
+      "normalizedName": "ulaslar turizm enerji tarim gida ve insaat yatirimlari a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "ULAS.IS"
+    },
+    {
+      "symbol": "ULKER",
+      "companyName": "ÜLKER BİSKÜVİ SANAYİ A.Ş.",
+      "normalizedName": "ulker biskuvi sanayi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ULKER.IS"
+    },
+    {
+      "symbol": "ULUFA",
+      "companyName": "ULUSAL FAKTORİNG A.Ş.",
+      "normalizedName": "ulusal faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ULUFA.IS"
+    },
+    {
+      "symbol": "ULUSE",
+      "companyName": "ULUSOY ELEKTRİK İMALAT TAAHHÜT VE TİCARET A.Ş.",
+      "normalizedName": "ulusoy elektrik imalat taahhut ve ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "ULUSE.IS"
+    },
+    {
+      "symbol": "ULUUN",
+      "companyName": "ULUSOY UN SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "ulusoy un sanayi ve ticaret a s",
+      "city": "SAMSUN",
+      "sector": null,
+      "dataSymbol": "ULUUN.IS"
+    },
+    {
+      "symbol": "UMPAS",
+      "companyName": "UMPAŞ HOLDİNG A.Ş.",
+      "normalizedName": "umpas holding a s",
+      "city": "UŞAK",
+      "sector": null,
+      "dataSymbol": "UMPAS.IS"
+    },
+    {
+      "symbol": "UNLU",
+      "companyName": "ÜNLÜ YATIRIM HOLDİNG A.Ş.",
+      "normalizedName": "unlu yatirim holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "UNLU.IS"
+    },
+    {
+      "symbol": "USAK",
+      "companyName": "UŞAK SERAMİK SANAYİ A.Ş.",
+      "normalizedName": "usak seramik sanayi a s",
+      "city": "UŞAK",
+      "sector": null,
+      "dataSymbol": "USAK.IS"
+    },
+    {
+      "symbol": "VAKBN",
+      "companyName": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+      "normalizedName": "turkiye vakiflar bankasi t a o",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "VAKBN.IS"
+    },
+    {
+      "symbol": "VAKFA",
+      "companyName": "VAKIF FAKTORİNG A.Ş.",
+      "normalizedName": "vakif faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "VAKFA.IS"
+    },
+    {
+      "symbol": "VAKFN",
+      "companyName": "VAKIF FİNANSAL KİRALAMA A.Ş.",
+      "normalizedName": "vakif finansal kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "VAKFN.IS"
+    },
+    {
+      "symbol": "VAKKO",
+      "companyName": "VAKKO TEKSTİL VE HAZIR GİYİM SANAYİ İŞLETMELERİ A.Ş.",
+      "normalizedName": "vakko tekstil ve hazir giyim sanayi isletmeleri a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "VAKKO.IS"
+    },
+    {
+      "symbol": "VAKVK",
+      "companyName": "VAKIF VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "vakif varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "VAKVK.IS"
+    },
+    {
+      "symbol": "VANGD",
+      "companyName": "VANET GIDA SANAYİ İÇ VE DIŞ TİCARET A.Ş.",
+      "normalizedName": "vanet gida sanayi ic ve dis ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "VANGD.IS"
+    },
+    {
+      "symbol": "VBTYZ",
+      "companyName": "VBT YAZILIM A.Ş.",
+      "normalizedName": "vbt yazilim a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "VBTYZ.IS"
+    },
+    {
+      "symbol": "VDFAS",
+      "companyName": "VOLKSWAGEN DOĞUŞ FİNANSMAN A.Ş.",
+      "normalizedName": "volkswagen dogus finansman a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "VDFAS.IS"
+    },
+    {
+      "symbol": "VDFLO",
+      "companyName": "VDF FİLO KİRALAMA A.Ş.",
+      "normalizedName": "vdf filo kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "VDFLO.IS"
+    },
+    {
+      "symbol": "VERTU",
+      "companyName": "VERUSATURK GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "verusaturk girisim sermayesi yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "VERTU.IS"
+    },
+    {
+      "symbol": "VERUS",
+      "companyName": "VERUSA HOLDİNG A.Ş.",
+      "normalizedName": "verusa holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "VERUS.IS"
+    },
+    {
+      "symbol": "VESBE",
+      "companyName": "VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "vestel beyaz esya sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "VESBE.IS"
+    },
+    {
+      "symbol": "VESTL",
+      "companyName": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "vestel elektronik sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "VESTL.IS"
+    },
+    {
+      "symbol": "VEYAS",
+      "companyName": "TÜRKER VANGÖLÜ ENERJİ YATIRIM A.Ş.",
+      "normalizedName": "turker vangolu enerji yatirim a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "VEYAS.IS"
+    },
+    {
+      "symbol": "VKFYO",
+      "companyName": "VAKIF MENKUL KIYMET YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "vakif menkul kiymet yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "VKFYO.IS"
+    },
+    {
+      "symbol": "VKGYO",
+      "companyName": "VAKIF GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "vakif gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "VKGYO.IS"
+    },
+    {
+      "symbol": "VKING",
+      "companyName": "VİKİNG KAĞIT VE SELÜLOZ A.Ş.",
+      "normalizedName": "viking kagit ve seluloz a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "VKING.IS"
+    },
+    {
+      "symbol": "VRGYO",
+      "companyName": "VERA KONSEPT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "vera konsept gayrimenkul yatirim ortakligi a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "VRGYO.IS"
+    },
+    {
+      "symbol": "VSNMD",
+      "companyName": "VİŞNE MADENCİLİK ÜRETİM SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "visne madencilik uretim sanayi ve ticaret a s",
+      "city": "İZMİR",
+      "sector": null,
+      "dataSymbol": "VSNMD.IS"
+    },
+    {
+      "symbol": "YAPRK",
+      "companyName": "YAPRAK SÜT VE BESİ ÇİFTLİKLERİ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "yaprak sut ve besi ciftlikleri sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "YAPRK.IS"
+    },
+    {
+      "symbol": "YATAS",
+      "companyName": "YATAŞ YATAK VE YORGAN SANAYİ TİCARET A.Ş.",
+      "normalizedName": "yatas yatak ve yorgan sanayi ticaret a s",
+      "city": "KAYSERİ",
+      "sector": null,
+      "dataSymbol": "YATAS.IS"
+    },
+    {
+      "symbol": "YATVK",
+      "companyName": "YATIRIM VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "yatirim varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "YATVK.IS"
+    },
+    {
+      "symbol": "YAYLA",
+      "companyName": "YAYLA ENERJİ ÜRETİM TURİZM VE İNŞAAT TİCARET A.Ş.",
+      "normalizedName": "yayla enerji uretim turizm ve insaat ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "YAYLA.IS"
+    },
+    {
+      "symbol": "YBTAS",
+      "companyName": "YİBİTAŞ YOZGAT İŞÇİ BİRLİĞİ İNŞAAT MALZEMELERİ TİCARET VE SANAYİ A.Ş.",
+      "normalizedName": "yibitas yozgat isci birligi insaat malzemeleri ticaret ve sanayi a s",
+      "city": "YOZGAT",
+      "sector": null,
+      "dataSymbol": "YBTAS.IS"
+    },
+    {
+      "symbol": "YEOTK",
+      "companyName": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş.",
+      "normalizedName": "yeo teknoloji enerji ve endustri a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "YEOTK.IS"
+    },
+    {
+      "symbol": "YESIL",
+      "companyName": "YEŞİL YATIRIM HOLDİNG A.Ş.",
+      "normalizedName": "yesil yatirim holding a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "YESIL.IS"
+    },
+    {
+      "symbol": "YGGYO",
+      "companyName": "YENİ GİMAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "yeni gimat gayrimenkul yatirim ortakligi a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "YGGYO.IS"
+    },
+    {
+      "symbol": "YIGIT",
+      "companyName": "YİĞİT AKÜ MALZEMELERİ NAKLİYAT TURİZM İNŞAAT SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "yigit aku malzemeleri nakliyat turizm insaat sanayi ve ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "YIGIT.IS"
+    },
+    {
+      "symbol": "YKB",
+      "companyName": "YAPI VE KREDİ BANKASI A.Ş.",
+      "normalizedName": "yapi ve kredi bankasi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "YKB.IS"
+    },
+    {
+      "symbol": "YKBNK",
+      "companyName": "YAPI VE KREDİ BANKASI A.Ş.",
+      "normalizedName": "yapi ve kredi bankasi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "YKBNK.IS"
+    },
+    {
+      "symbol": "YKFIN",
+      "companyName": "YAPI KREDİ FİNANSAL KİRALAMA A.O.",
+      "normalizedName": "yapi kredi finansal kiralama a o",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "YKFIN.IS"
+    },
+    {
+      "symbol": "YKFKT",
+      "companyName": "YAPI KREDİ FAKTORİNG A.Ş.",
+      "normalizedName": "yapi kredi faktoring a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "YKFKT.IS"
+    },
+    {
+      "symbol": "YKR",
+      "companyName": "YAPI KREDİ YATIRIM MENKUL DEĞERLER A.Ş.",
+      "normalizedName": "yapi kredi yatirim menkul degerler a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "YKR.IS"
+    },
+    {
+      "symbol": "YKSLN",
+      "companyName": "YÜKSELEN ÇELİK A.Ş.",
+      "normalizedName": "yukselen celik a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "YKSLN.IS"
+    },
+    {
+      "symbol": "YONGA",
+      "companyName": "YONGA MOBİLYA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "yonga mobilya sanayi ve ticaret a s",
+      "city": "DENİZLİ",
+      "sector": null,
+      "dataSymbol": "YONGA.IS"
+    },
+    {
+      "symbol": "YUNSA",
+      "companyName": "YÜNSA YÜNLÜ SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "yunsa yunlu sanayi ve ticaret a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "YUNSA.IS"
+    },
+    {
+      "symbol": "YYAPI",
+      "companyName": "YEŞİL YAPI ENDÜSTRİSİ A.Ş.",
+      "normalizedName": "yesil yapi endustrisi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "YYAPI.IS"
+    },
+    {
+      "symbol": "YYLGD",
+      "companyName": "YAYLA AGRO GIDA SANAYİ VE TİCARET A.Ş.",
+      "normalizedName": "yayla agro gida sanayi ve ticaret a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "YYLGD.IS"
+    },
+    {
+      "symbol": "ZEDUR",
+      "companyName": "ZEDUR ENERJİ ELEKTRİK ÜRETİM A.Ş.",
+      "normalizedName": "zedur enerji elektrik uretim a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "ZEDUR.IS"
+    },
+    {
+      "symbol": "ZERGY",
+      "companyName": "ZERAY GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "zeray gayrimenkul yatirim ortakligi a s",
+      "city": "KOCAELİ",
+      "sector": null,
+      "dataSymbol": "ZERGY.IS"
+    },
+    {
+      "symbol": "ZGYO",
+      "companyName": "Z GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "z gayrimenkul yatirim ortakligi a s",
+      "city": "ANKARA",
+      "sector": null,
+      "dataSymbol": "ZGYO.IS"
+    },
+    {
+      "symbol": "ZKBVK",
+      "companyName": "ZİRAAT KATILIM VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "ziraat katilim varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ZKBVK.IS"
+    },
+    {
+      "symbol": "ZKBVR",
+      "companyName": "ZKB VARLIK KİRALAMA A.Ş.",
+      "normalizedName": "zkb varlik kiralama a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ZKBVR.IS"
+    },
+    {
+      "symbol": "ZOREN",
+      "companyName": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
+      "normalizedName": "zorlu enerji elektrik uretim a s",
+      "city": "BURSA",
+      "sector": null,
+      "dataSymbol": "ZOREN.IS"
+    },
+    {
+      "symbol": "ZRGYO",
+      "companyName": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+      "normalizedName": "ziraat gayrimenkul yatirim ortakligi a s",
+      "city": "İSTANBUL",
+      "sector": null,
+      "dataSymbol": "ZRGYO.IS"
+    }
+  ]
+}

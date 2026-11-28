@@ -1,23 +1,22 @@
 """
-Piyasa Sade — SPK & Mevzuat Sıfır Toleranslı Guardrail Katmanı
-- Gemini AI çıktılarında veya kural tabanlı metinlerde yatırım tavsiyesi / yönlendirme
-  sayılabilecek ifadeleri Türkçe tam kelime sınırlarıyla tespit eder.
-- "altın", "satış hacmi", "tutarı" gibi masum finansal terimlerde yanlış pozitif üretmez.
-- Sıfır tolerans: İhlal yakalanırsa ilgili AI çıktısı tamamen reddedilir ve güvenli
-  deterministik / yalnızca başlık görünümüne düşülür.
+Piyasa Sade — SPK & Mevzuat Sıfır Toleranslı Guardrail Katmanı (v2)
+- Gemini AI çıktılarında, küme özetlerinde ve ham haber başlıklarında doğrudan VEYA
+  dolaylı yatırım tavsiyesi / yönlendirme sayılabilecek ifadeleri Türkçe tam kelime
+  sınırlarıyla tespit eder.
+- "altın", "satış hacmi", "pay geri alımı", "tutarı" gibi masum finansal terimlerde
+  yanlış pozitif üretmez.
+- Sıfır tolerans: İhlal yakalanırsa ilgili AI çıktısı tamamen reddedilir.
 """
 from __future__ import annotations
 
 import re
 from typing import List
 
-# Yasal uyarı metninin kendisi ("Yatırım tavsiyesi değildir (YTD)") sahte pozitif üretmemeli
 _DISCLAIMER_STRIP = re.compile(
     r"yatırım\s+tavsiyesi\s+değildir|\(ytd\)",
     re.IGNORECASE,
 )
 
-# Türkçe harf ve rakam duyarlı tam kelime sınırı
 _WB_START = r"(?<![a-zçğıöşü0-9])"
 _WB_END = r"(?![a-zçğıöşü0-9])"
 
@@ -38,8 +37,30 @@ FORBIDDEN_SPK_PATTERNS = [
     r"satılmalı",
     r"alım\s+yapın",
     r"satım\s+yapın",
+    r"alım\s+zamanı",
+    r"satım\s+zamanı",
     r"portföye\s+ekle(?:yin|mek\s+gerekir)?",
     r"portföyden\s+çıkar(?:ın)?",
+    r"portföyünüzü\s+çeşitlendir\w*",
+    r"çeşitlendirmeniz\s+faydalı",
+    r"biriktirmeye\s+başla\w*",
+    r"kademeli\s+topla\w*",
+    r"kademeli\s+alım",
+    r"biriktirin",
+    # Dolaylı yönlendirme & teknik hedef / kâr realizasyonu dili
+    r"alım\s+için\s+uygun",
+    r"satım\s+için\s+uygun",
+    r"satış\s+için\s+uygun",
+    r"uygun\s+alım\s+seviye\w*",
+    r"kâr\s+realizasyonu\s+yapmak\s+isteyen\w*",
+    r"kar\s+realizasyonu\s+yapmak\s+isteyen\w*",
+    r"kâr\s+realizasyonu\s+fırsatı",
+    r"hedef\s+fiyat",
+    r"fiyat\s+hedefi",
+    r"\d+(?:[.,]\d+)?\s*(?:tl|₺|usd|\$)\s+hedef\w*",
+    r"yukarı\s+yönlü\s+hareket\s+bekleniyor",
+    r"aşağı\s+yönlü\s+hareket\s+bekleniyor",
+    r"yükseliş\s+bekleniyor",
     # Yönlendirici değerleme ve fırsat ifadeleri
     r"ucuz",
     r"pahalı",
@@ -48,8 +69,6 @@ FORBIDDEN_SPK_PATTERNS = [
     r"satış\s+fırsatı",
     r"kaçırmayın",
     r"kaçırılmayacak",
-    r"hedef\s+fiyat",
-    r"fiyat\s+hedefi",
     r"güçlü\s+al",
     r"güçlü\s+sat",
     r"al\s+sinyali",
@@ -88,7 +107,6 @@ def find_spk_violations(text: str) -> List[str]:
         return []
     cleaned = _DISCLAIMER_STRIP.sub("", text)
     matches = [m.group(0) for m in SPK_FORBIDDEN_REGEX.finditer(cleaned)]
-    # Tekilleştir, sırayı koru
     seen: set[str] = set()
     unique: List[str] = []
     for m in matches:

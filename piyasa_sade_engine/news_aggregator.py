@@ -62,15 +62,59 @@ BREAKING_REGEX = re.compile(
 )
 
 SEO_CLICKBAIT_REGEX = re.compile(
-    r"(ne zaman|saat kaçta|beklentisi|planı değişebilir)",
+    r"(ne zaman|saat kaçta|beklentisi|planı değişebilir|"
+    r"canlı altın fiyatları|altın fiyatları canlı|güncel tablo|anlık takip|"
+    r"işte çeyrek|çeyrek,\s*yarım|yarım,\s*tam|tam,\s*çeyrek|"
+    r"kaç tl oldu|kaç tl\?|ne kadar,|ne kadar oldu|"
+    r"en çok kaybettiren hisseler|en çok kazandıran hisseler|"
+    r"bugün altın fiyatları|yükseliş sürecek mi)",
     re.IGNORECASE,
 )
 
 
+def is_seo_clickbait_article(title: str) -> bool:
+    """Saf SEO / tık tuzağı tablo başlıklarını tamamen eler."""
+    if len(title) > 135 or title.count("?") >= 2:
+        return True
+    return bool(SEO_CLICKBAIT_REGEX.search(title))
+
+
 def is_breaking_headline(title: str) -> bool:
-    if SEO_CLICKBAIT_REGEX.search(title) and "son dakika" not in title.lower():
+    if is_seo_clickbait_article(title):
         return False
     return bool(BREAKING_REGEX.search(title))
+
+
+def _truncate_clean(text: str, limit: int = 95) -> str:
+    clean = " ".join(text.split()).strip()
+    if len(clean) <= limit:
+        return clean
+    cut = clean[: limit - 1].rsplit(" ", 1)[0].rstrip(" ,;:-")
+    return f"{cut}…"
+
+
+def _dedupe_stories(
+    articles: List[Dict[str, Any]],
+    min_shared: int = 3,
+) -> List[Dict[str, Any]]:
+    """Olay bazlı tekilleştirme: aynı olayın 2-3 farklı kaynaktan tekrara düşmesini engeller."""
+    kept: List[Dict[str, Any]] = []
+    kept_tokens: List[set[str]] = []
+    for art in articles:
+        toks = _title_tokens(art.get("title", ""))
+        duplicate = False
+        for prev_toks in kept_tokens:
+            if not toks or not prev_toks:
+                continue
+            shared = len(toks & prev_toks)
+            min_len = min(len(toks), len(prev_toks))
+            if shared >= min_shared or (min_len >= 2 and (shared / min_len) >= 0.6):
+                duplicate = True
+                break
+        if not duplicate:
+            kept.append(art)
+            kept_tokens.append(toks)
+    return kept
 
 
 STOPWORDS = {
@@ -122,7 +166,7 @@ def fetch_google_news_rss(category: str, query: str, timeout: int = 12) -> List[
         source_el = item.find("source")
         explicit_source = (source_el.text or "").strip() if source_el is not None else ""
         title, source = clean_title_and_source(raw_title, explicit_source)
-        if not title or not link.startswith("http") or is_noise(title, source):
+        if not title or not link.startswith("http") or is_noise(title, source) or is_seo_clickbait_article(title):
             continue
         item_id = hashlib.sha1(link.encode("utf-8")).hexdigest()[:12]
         items.append({
@@ -276,62 +320,67 @@ def batch_summarize_articles_with_gemini(
     if not key or not to_summarize:
         return articles
 
-    batch = to_summarize[:25]
-    lines = "\n".join(
-        f"{idx}. [{a['id']}] ({a['source']}) {a['title']}"
-        for idx, a in enumerate(batch, start=1)
-    )
-    prompt = (
-        "Aşağıdaki ekonomi haber başlıklarının her biri için telif hakkına saygılı, "
-        "tamamen özgün, tarafsız ve SPK mevzuatına uygun (kesinlikle al/sat tavsiyesi "
-        "vermeden) 2 kısa cümlelik Türkçe özet ve olası piyasa etkisi yaz.\n"
-        "Sadece geçerli JSON nesnesi döndür: {\"<id>\": \"2 cümlelik sade özet ve olası etki\"}\n\n"
-        f"Haberler:\n{lines}"
-    )
-    for model in ("gemini-2.5-flash", "gemini-2.0-flash"):
-        endpoint = (
-            "https://generativelanguage.googleapis.com/v1beta/models/"
-            f"{model}:generateContent"
+    # 40 haberin tamamını özetle (2x20 batch), kalıp cümleleri yasakla
+    for offset in range(0, min(len(to_summarize), 40), 20):
+        batch = to_summarize[offset : offset + 20]
+        lines = "\n".join(
+            f"{idx}. [{a['id']}] ({a['source']}) {a['title']}"
+            for idx, a in enumerate(batch, start=1)
         )
-        try:
-            resp = requests.post(
-                endpoint,
-                headers={
-                    "Content-Type": "application/json",
-                    "x-goog-api-key": key,
-                },
-                json={
-                    "contents": [{"parts": [{"text": prompt}]}],
-                    "generationConfig": {
-                        "temperature": 0.2,
-                        "responseMimeType": "application/json",
+        prompt = (
+            "Aşağıdaki ekonomi haber başlıklarının her biri için telif hakkına saygılı, "
+            "somut, tarafsız ve SPK mevzuatına tam uyumlu (kesinlikle al/sat/tut, ucuz/pahalı, "
+            "hedef fiyat veya yönlendirme içermeyen) 2 kısa cümlelik Türkçe özet yaz.\n"
+            "KURALLAR: Başlıkta olmayan hiçbir sayı/oran uydurma. 'Bu durum', 'göstermektedir', "
+            "'yansıtabilir', 'izlemesinin önemi' gibi boş kalıp cümleler KULLANMA; doğrudan "
+            "başlıktaki somut gelişmeyi ve hangi sektör/varlıkla ilişkili olduğunu yaz.\n"
+            "Sadece geçerli JSON nesnesi döndür: {\"<id>\": \"2 cümlelik somut özet\"}\n\n"
+            f"Haberler:\n{lines}"
+        )
+        for model in ("gemini-2.5-flash", "gemini-2.0-flash"):
+            endpoint = (
+                "https://generativelanguage.googleapis.com/v1beta/models/"
+                f"{model}:generateContent"
+            )
+            try:
+                resp = requests.post(
+                    endpoint,
+                    headers={
+                        "Content-Type": "application/json",
+                        "x-goog-api-key": key,
                     },
-                },
-                timeout=35,
-            )
-            if resp.status_code != 200:
+                    json={
+                        "contents": [{"parts": [{"text": prompt}]}],
+                        "generationConfig": {
+                            "temperature": 0.2,
+                            "responseMimeType": "application/json",
+                        },
+                    },
+                    timeout=35,
+                )
+                if resp.status_code != 200:
+                    continue
+                data = resp.json()
+                text = (
+                    data.get("candidates", [{}])[0]
+                    .get("content", {})
+                    .get("parts", [{}])[0]
+                    .get("text", "")
+                )
+                parsed = json.loads(text)
+                if isinstance(parsed, dict):
+                    for a in batch:
+                        summary = parsed.get(a["id"])
+                        if isinstance(summary, str) and summary.strip():
+                            clean_summary = summary.strip()
+                            if is_spk_compliant(clean_summary):
+                                a["ai_summary"] = clean_summary
+                            else:
+                                violations = find_spk_violations(clean_summary)
+                                print(f"[WARN][SPK] Haber AI ozeti reddedildi ({a['id']}): {violations}")
+                    break
+            except Exception:
                 continue
-            data = resp.json()
-            text = (
-                data.get("candidates", [{}])[0]
-                .get("content", {})
-                .get("parts", [{}])[0]
-                .get("text", "")
-            )
-            parsed = json.loads(text)
-            if isinstance(parsed, dict):
-                for a in batch:
-                    summary = parsed.get(a["id"])
-                    if isinstance(summary, str) and summary.strip():
-                        clean_summary = summary.strip()
-                        if is_spk_compliant(clean_summary):
-                            a["ai_summary"] = clean_summary
-                        else:
-                            violations = find_spk_violations(clean_summary)
-                            print(f"[WARN][SPK] Haber AI özeti reddedildi ({a['id']}): {violations}")
-                break
-        except Exception:
-            continue
     return articles
 
 
@@ -362,30 +411,37 @@ def generate_economy_feed(output_dir: Optional[Path] = None) -> Dict[str, Any]:
             continue
 
     all_articles.sort(key=lambda x: x["published_at"], reverse=True)
-    all_articles = all_articles[:40]
+    all_articles = _dedupe_stories(all_articles, min_shared=3)[:40]
     all_articles = batch_summarize_articles_with_gemini(all_articles, cached_summaries)
     trending = cluster_trending_topics(all_articles)
     trending = synthesize_clusters_with_gemini(trending)
     for c in trending:
         c.pop("raw_headlines", None)
 
-    notification_candidates = [
-        {
+    breaking_unique = _dedupe_stories(
+        [a for a in all_articles if a["is_breaking"]],
+        min_shared=2,
+    )[:5]
+    notification_candidates = []
+    for a in breaking_unique:
+        short_head = _truncate_clean(a["title"], 95)
+        sig_tokens = sorted(_title_tokens(a["title"]))[:4]
+        notif_key = hashlib.sha1(" ".join(sig_tokens).encode("utf-8")).hexdigest()[:12] if sig_tokens else a["id"]
+        notification_candidates.append({
             "id": a["id"],
-            "title": f"[{a['category']}] {a['source']}",
-            "headline": a["title"],
-            "body": a["title"],
+            "notification_key": notif_key,
+            "title": f"{a['category']} • {a['source']}",
+            "headline": short_head,
+            "body": short_head,
             "source": a["source"],
             "category": a["category"],
             "ai_summary": a.get("ai_summary", ""),
             "url": a["url"],
             "published_at": a["published_at"],
-        }
-        for a in all_articles
-        if a["is_breaking"]
-    ][:5]
+        })
 
     feed = {
+        "schema_version": 2,
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "disclaimer": "Haber başlıkları orijinal kaynaklara aittir; yatırım tavsiyesi değildir (YTD).",
         "trending_clusters": trending,
