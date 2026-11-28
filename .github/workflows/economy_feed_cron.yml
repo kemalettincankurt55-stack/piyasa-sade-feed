@@ -104,12 +104,14 @@ jobs:
       - name: GitHub Pages statik CDN paketi hazırla (sadece 3 JSON)
         uses: actions/configure-pages@v5
 
-      - name: Doğrulanmış JSON dosyalarını Pages artifact olarak yükle
+      - name: Doğrulanmış JSON dosyalarını ve yasal sayfaları Pages artifact olarak hazırla
         run: |
           mkdir -p _pages_dist
           cp piyasa_sade_engine/output/economy_feed.json _pages_dist/
           cp piyasa_sade_engine/output/movers_feed.json _pages_dist/
           cp piyasa_sade_engine/output/daily_briefing.json _pages_dist/
+          cp docs/privacy.html _pages_dist/
+          cp docs/terms.html _pages_dist/
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

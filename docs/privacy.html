@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Piyasa Sade — Gizlilik Politikası</title>
+  <style>
+    :root {
+      --bg: #07090f;
+      --card: #111622;
+      --border: #1f273a;
+      --text: #f1f5f9;
+      --muted: #94a3b8;
+      --accent: #6366f1;
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #f8fafc;
+        --card: #ffffff;
+        --border: #e2e8f0;
+        --text: #0f172a;
+        --muted: #475569;
+        --accent: #4f46e5;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.65;
+      padding: 20px 16px 48px;
+    }
+    .wrap { max-width: 760px; margin: 0 auto; }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 24px 22px;
+      margin-bottom: 16px;
+    }
+    h1 { font-size: 1.6rem; margin: 0 0 6px; }
+    h2 { font-size: 1.12rem; margin: 0 0 10px; color: var(--accent); }
+    p, li { color: var(--text); font-size: 0.96rem; }
+    .muted { color: var(--muted); font-size: 0.88rem; }
+    ul { padding-left: 20px; margin: 8px 0 0; }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .nav { display: flex; gap: 14px; margin-bottom: 16px; font-size: 0.9rem; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="nav">
+      <a href="privacy.html"><strong>Gizlilik Politikası</strong></a>
+      <span>·</span>
+      <a href="terms.html">Kullanım Koşulları &amp; SPK Uyarısı</a>
+    </div>
+
+    <div class="card">
+      <h1>Piyasa Sade — Gizlilik Politikası</h1>
+      <p class="muted">Son güncelleme: 28 Kasım 2026 · Uygulama paketi: <code>com.piyasasade.app</code></p>
+      <p>
+        Piyasa Sade, bireysel yatırımcıların finansal verilerini ve portföy gizliliğini en üst düzeyde
+        korumak üzere <strong>gizlilik odaklı (privacy-first)</strong> mimariyle geliştirilmiştir.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>1. Misafir Modu ve Yerel SQLite Gizliliği</h2>
+      <ul>
+        <li>Uygulamayı <strong>Misafir Olarak Devam Et</strong> seçeneğiyle kullandığınızda ad, e-posta, telefon numarası veya cihaz tanımlayıcısı toplanmaz.</li>
+        <li>Portföy pozisyonlarınız, aracı kurum adları, alım-satım işlem defteriniz (ledger) ve takip listeniz yalnızca cihazınızdaki yerel <strong>SQLite (Drift)</strong> veritabanında saklanır ve hiçbir sunucuya gönderilmez.</li>
+        <li>İsteğe bağlı cihaz dışı yedekleme yalnızca sizin belirlediğiniz parolayla <strong>AES-256-GCM + PBKDF2-HMAC-SHA256</strong> şifreli <code>.psbackup</code> dosyası olarak üretilir; düz metin dışa aktarım yapılmaz.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>2. Google ile Devam Et ve Firestore Bulut Senkronizasyonu</h2>
+      <ul>
+        <li>Kullanıcı kendi tercihiyle <strong>Google ile Devam Et</strong> seçeneğini kullanırsa, kimlik doğrulama için yalnızca Google hesap tanımlayıcısı (<code>uid</code>), görünen ad ve e-posta adresi <strong>Firebase Authentication</strong> üzerinden işlenir.</li>
+        <li>Portföy ve takip listesi senkronizasyonu Avrupa bölgesindeki (<code>eur3</code>) <strong>Cloud Firestore</strong> veritabanında yalnızca ilgili kullanıcıya ait <code>users/{uid}/private/portfolio_v2</code> yolunda saklanır.</li>
+        <li>Firestore güvenlik kuralları gereği başka hiçbir kullanıcı veya üçüncü taraf bu verilere erişemez.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>3. Reklam, Takip ve Veri Paylaşımı</h2>
+      <ul>
+        <li>Piyasa Sade içerisinde üçüncü taraf reklam ağı (AdMob vb.) veya davranışsal takip (tracking) SDK'sı bulunmaz.</li>
+        <li>Kişisel portföy kayıtlarınız satılmaz, kiralanmaz ve pazarlama amacıyla üçüncü taraflarla paylaşılmaz.</li>
+        <li>Uygulama içi yapay zekâ özetleri önceden kamuya açık piyasa verilerinden ve haber başlıklarından üretilir; kişisel portföy tutarlarınız yapay zekâ servislerine gönderilmez.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>4. Veri Silme Hakkı (KVKK &amp; Google Play Politikası)</h2>
+      <p>
+        Google hesabıyla giriş yapan kullanıcılar, uygulama içinde <strong>Listem → Hesap Kartı → Hesabımı Sil</strong>
+        düğmesine dokunarak Firestore bulut verilerini ve Firebase kimlik kayıtlarını anında ve kalıcı olarak silebilir.
+        Misafir modundaki yerel veriler, uygulamanın cihazdan kaldırılması veya cihaz depolamasının temizlenmesiyle tamamen silinir.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>5. İletişim</h2>
+      <p>
+        Gizlilik politikası veya KVKK kapsamındaki talepleriniz için bizimle iletişime geçebilirsiniz:<br />
+        E-posta: <a href="mailto:kemalettin.cankurt55@gmail.com">kemalettin.cankurt55@gmail.com</a>
+      </p>
+    </div>
+  </div>
+</body>
+</html>
